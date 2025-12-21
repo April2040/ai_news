@@ -17,7 +17,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033124"
+    "created_at": "2025-12-21T04:02:58.637212"
   },
   {
     "id": "TechCrunch AI_4bd2df1745ae3e94",
@@ -37,7 +37,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033293"
+    "created_at": "2025-12-21T04:02:58.637442"
   },
   {
     "id": "TechCrunch AI_217c447ccefea38d",
@@ -57,95 +57,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033339"
+    "created_at": "2025-12-21T04:02:58.637529"
   },
   {
-    "id": "The Verge AI_edddd6365f2bb550",
-    "title": "ChatGPT will now let you pick how nice it is",
-    "summary": "OpenAI will now give you the ability to dial up - or down - ChatGPT's warmth and enthusiasm. An update rolling out on Friday gives you the option to choose whether you want \"more\" or \"less\" of these personality traits, or stick with the default. There are also options to tweak how often ChatGPT uses [&#8230;]",
-    "content": "OpenAI will now give you the ability to dial up - or down - ChatGPT's warmth and enthusiasm. An update rolling out on Friday gives you the option to choose whether you want \"more\" or \"less\" of these personality traits, or stick with the default. There are also options to tweak how often ChatGPT uses [&#8230;]",
-    "url": "https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2025-12-19T16:28:08-05:00",
-    "importance_score": 10.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218585"
-  },
-  {
-    "id": "The Verge AI_22e4d841c64768ad",
-    "title": "OpenAI and Anthropic will start predicting when users are underage",
-    "summary": "OpenAI and Anthropic are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how ChatGPT should interact with users between the ages of 13 and 17, Anthropic is working on a new way to identify and boot users who are under 18. On Thursday, OpenAI announced that ChatGPT's Model [&#8230;]",
-    "content": "OpenAI and Anthropic are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how ChatGPT should interact with users between the ages of 13 and 17, Anthropic is working on a new way to identify and boot users who are under 18. On Thursday, OpenAI announced that ChatGPT's Model [&#8230;]",
-    "url": "https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2025-12-18T16:55:59-05:00",
-    "importance_score": 10.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218803"
-  },
-  {
-    "id": "Ars Technica_8be4d336c2cacc66",
-    "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-    "summary": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse.",
-    "content": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse.",
-    "url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Wed, 17 Dec 2025 22:22:33 +0000",
-    "importance_score": 10.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071359"
-  },
-  {
-    "id": "Ars Technica_4f6840edd7bd7fce",
-    "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-    "summary": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
-    "content": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
-    "url": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Thu, 11 Dec 2025 21:27:18 +0000",
-    "importance_score": 10.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071530"
-  },
-  {
-    "id": "MIT Technology Review_c03203b5e87568eb",
+    "id": "MIT Technology Review AI_c03203b5e87568eb",
     "title": "The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The great AI hype correction of 2025 Some disillusionment was inevitable. When OpenAI released a free web app called ChatGPT in late 2022, it changed the course of an entire industry—and several world&#8230;",
     "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The great AI hype correction of 2025 Some disillusionment was inevitable. When OpenAI released a free web app called ChatGPT in late 2022, it changed the course of an entire industry—and several world&#8230;",
     "url": "https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Rhiannon Williams",
     "published_date": "Tue, 16 Dec 2025 13:10:00 +0000",
     "importance_score": 10.0,
@@ -157,34 +77,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077364"
+    "created_at": "2025-12-21T04:03:00.638494"
   },
   {
-    "id": "Wired AI_c703ec8b9cfc2d58",
-    "title": "People Are Paying to Get Their Chatbots High on ‘Drugs’",
-    "summary": "An online marketplace is selling code modules that simulate the effects of cannabis, ketamine, cocaine, ayahuasca, and alcohol when they are uploaded to ChatGPT.",
-    "content": "An online marketplace is selling code modules that simulate the effects of cannabis, ketamine, cocaine, ayahuasca, and alcohol when they are uploaded to ChatGPT.",
-    "url": "https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/",
-    "source": "Wired AI",
-    "author": "Mattha Busby",
-    "published_date": "Wed, 17 Dec 2025 12:00:00 +0000",
-    "importance_score": 8.9,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248438"
-  },
-  {
-    "id": "MIT Technology Review_2cae7d649686463f",
+    "id": "MIT Technology Review AI_2cae7d649686463f",
     "title": "Why it’s time to reset our expectations for AI",
     "summary": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you can be honest with&#8230;",
     "content": "Can I ask you a question: How do you feel about AI right now? Are you still excited? When you hear that OpenAI or Google just dropped a new model, do you still get that buzz? Or has the shine come off it, maybe just a teeny bit? Come on, you can be honest with&#8230;",
     "url": "https://www.technologyreview.com/2025/12/16/1129946/why-its-time-to-reset-our-expectations-for-ai/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Niall Firth",
     "published_date": "Tue, 16 Dec 2025 12:29:04 +0000",
     "importance_score": 7.8999999999999995,
@@ -194,7 +95,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077404"
+    "created_at": "2025-12-21T04:03:00.638534"
   },
   {
     "id": "TechCrunch AI_38d63b28e8b2f34b",
@@ -212,79 +113,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033324"
-  },
-  {
-    "id": "Wired AI_cfd60b69021faa99",
-    "title": "A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached",
-    "summary": "The director of Deepfaking Sam Altman created a “Sam Bot” when he couldn’t get an interview with the OpenAI CEO. Watch an exclusive trailer for the documentary, which comes out in January.",
-    "content": "The director of Deepfaking Sam Altman created a “Sam Bot” when he couldn’t get an interview with the OpenAI CEO. Watch an exclusive trailer for the documentary, which comes out in January.",
-    "url": "https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Thu, 18 Dec 2025 12:00:00 +0000",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248300"
-  },
-  {
-    "id": "Ars Technica_9f5238064617baa9",
-    "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-    "summary": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent writing code.",
-    "content": "\"The vast majority of Codex is built by Codex,\" OpenAI told us about its new AI coding agent writing code.",
-    "url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Fri, 12 Dec 2025 22:16:42 +0000",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071495"
-  },
-  {
-    "id": "Ars Technica_8186942efacf0a0b",
-    "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
-    "summary": "Three-year deal lets users create AI videos of Mickey Mouse, Darth Vader, and more.",
-    "content": "Three-year deal lets users create AI videos of Mickey Mouse, Darth Vader, and more.",
-    "url": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Thu, 11 Dec 2025 16:43:30 +0000",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071551"
-  },
-  {
-    "id": "The Verge AI_51c6cfe2b9f557ad",
-    "title": "Google&#8217;s Gemini app can check videos to see if they were made with Google AI",
-    "summary": "Google expanded Gemini's AI verification feature to videos made or edited with the company's own AI models. Users can now ask Gemini to determine if an uploaded video is AI-generated by asking, \"Was this generated using Google AI?\" Gemini will scan the video's visuals and audio for Google's proprietary watermark called SynthID. The response will [&#8230;]",
-    "content": "Google expanded Gemini's AI verification feature to videos made or edited with the company's own AI models. Users can now ask Gemini to determine if an uploaded video is AI-generated by asking, \"Was this generated using Google AI?\" Gemini will scan the video's visuals and audio for Google's proprietary watermark called SynthID. The response will [&#8230;]",
-    "url": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos",
-    "source": "The Verge AI",
-    "author": "Elissa Welle",
-    "published_date": "2025-12-18T15:31:22-05:00",
-    "importance_score": 6.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "Google AI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218853"
+    "created_at": "2025-12-21T04:02:58.637504"
   },
   {
     "id": "DeepMind Blog_7358033d5a2c88be",
@@ -302,7 +131,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:32.700021"
+    "created_at": "2025-12-21T04:03:03.096129"
   },
   {
     "id": "DeepMind Blog_f95eb5dfb9396f31",
@@ -320,75 +149,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2025-12-21T12:18:32.700094"
-  },
-  {
-    "id": "The Verge AI_a2d40b4f2b5bfc03",
-    "title": "Gemini isn’t replacing Google Assistant on Android just yet",
-    "summary": "Google isn't quite ready to replace Assistant with Gemini on Android devices. The company said on Friday that it will \"continue our work to upgrade Assistant users to Gemini on mobile devices into 2026,\" instead of its original plans to make the switch by the end of 2025. \"We're adjusting our previously announced timeline to [&#8230;]",
-    "content": "Google isn't quite ready to replace Assistant with Gemini on Android devices. The company said on Friday that it will \"continue our work to upgrade Assistant users to Gemini on mobile devices into 2026,\" instead of its original plans to make the switch by the end of 2025. \"We're adjusting our previously announced timeline to [&#8230;]",
-    "url": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2025-12-19T17:39:14-05:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218536"
-  },
-  {
-    "id": "The Verge AI_da0754c612db8099",
-    "title": "Google sues web scraper for sucking up search results ‘at an astonishing scale’",
-    "summary": "Google has filed a lawsuit against SerpApi, a company that offers tools to scrape content on the web, including Google's search results. SerpApi is accused of violating the Copyright Act by using \"deceptive means\" to automatically access and take Google's search results \"at an astonishing scale\" before selling the data to customers. Reddit also sued [&#8230;]",
-    "content": "Google has filed a lawsuit against SerpApi, a company that offers tools to scrape content on the web, including Google's search results. SerpApi is accused of violating the Copyright Act by using \"deceptive means\" to automatically access and take Google's search results \"at an astonishing scale\" before selling the data to customers. Reddit also sued [&#8230;]",
-    "url": "https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2025-12-19T15:48:37-05:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218664"
-  },
-  {
-    "id": "The Verge AI_97ae8edea5d41936",
-    "title": "Microsoft made another Copilot ad where nothing actually works",
-    "summary": "Microsoft is at it again with another round of ads showing people talking to Copilot AI on their computers. This time it's holiday-themed, including a cameo from the big man in red. The 30-second TV spot asks if you're \"ready for the holidays\" and features actors in various festive home settings asking Copilot for some [&#8230;]",
-    "content": "Microsoft is at it again with another round of ads showing people talking to Copilot AI on their computers. This time it's holiday-themed, including a cameo from the big man in red. The 30-second TV spot asks if you're \"ready for the holidays\" and features actors in various festive home settings asking Copilot for some [&#8230;]",
-    "url": "https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad",
-    "source": "The Verge AI",
-    "author": "Antonio G. Di Benedetto",
-    "published_date": "2025-12-18T10:30:00-05:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218886"
-  },
-  {
-    "id": "Ars Technica_f3eccd3a00347449",
-    "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
-    "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
-    "content": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
-    "url": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Mon, 15 Dec 2025 21:15:55 +0000",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071468"
+    "created_at": "2025-12-21T04:03:03.096203"
   },
   {
     "id": "AI News_00a1ae5342ddf641",
@@ -405,25 +166,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254021"
-  },
-  {
-    "id": "Hugging Face Blog_518a672857fc70aa",
-    "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/transformers-v5",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 01 Dec 2025 00:00:00 GMT",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:35.574495"
+    "created_at": "2025-12-21T04:03:10.799333"
   },
   {
     "id": "AI News_572bb202154617c9",
@@ -441,25 +184,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254290"
-  },
-  {
-    "id": "Lobsters AI_12df7a5ac3c5615c",
-    "title": "Nemotron 3 Nano Technical Report",
-    "summary": "<p>This particular model release is interesting because not only is it open weights[0], but they also released most of the pretraining and posttraining data along with the code and libraries for the RL environments (much like Olmo3, which came out recently). It is also trained from scratch and architecturally different from the existing Qwen and DeepSeek templates. It is frontier performance for its weight class. Two larger model releases are to follow soon.</p>\n<p>[0] Not exactly open source, though—it's Nvidia Open Model License.</p>\n<p><a href=\"https://lobste.rs/s/k3k9xn/nemotron_3_nano_technical_report\">Comments</a></p>",
-    "content": "<p>This particular model release is interesting because not only is it open weights[0], but they also released most of the pretraining and posttraining data along with the code and libraries for the RL environments (much like Olmo3, which came out recently). It is also trained from scratch and architecturally different from the existing Qwen and DeepSeek templates. It is frontier performance for its weight class. Two larger model releases are to follow soon.</p>\n<p>[0] Not exactly open source, though—it's Nvidia Open Model License.</p>\n<p><a href=\"https://lobste.rs/s/k3k9xn/nemotron_3_nano_technical_report\">Comments</a></p>",
-    "url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Nano-Technical-Report.pdf",
-    "source": "Lobsters AI",
-    "author": "research.nvidia.com via atharva",
-    "published_date": "Tue, 16 Dec 2025 05:00:15 -0600",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.253050"
+    "created_at": "2025-12-21T04:03:10.799562"
   },
   {
     "id": "TechCrunch AI_db280d7236a4c950",
@@ -476,7 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033156"
+    "created_at": "2025-12-21T04:02:58.637250"
   },
   {
     "id": "TechCrunch AI_25df840c03650a22",
@@ -493,7 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033187"
+    "created_at": "2025-12-21T04:02:58.637293"
   },
   {
     "id": "TechCrunch AI_5ce84f11a931d90c",
@@ -510,7 +235,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033203"
+    "created_at": "2025-12-21T04:02:58.637320"
   },
   {
     "id": "TechCrunch AI_dcf2b51170a6b85d",
@@ -527,7 +252,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033236"
+    "created_at": "2025-12-21T04:02:58.637363"
   },
   {
     "id": "TechCrunch AI_bc4da98a4f4e3d98",
@@ -544,7 +269,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033275"
+    "created_at": "2025-12-21T04:02:58.637412"
   },
   {
     "id": "TechCrunch AI_05b6980c38cb213b",
@@ -561,236 +286,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:27.033308"
+    "created_at": "2025-12-21T04:02:58.637475"
   },
   {
-    "id": "The Verge AI_78fa71f1a18e9cf5",
-    "title": "Europol imagines robot crime waves in 2035",
-    "summary": "Rapid advances in AI and robotics are set to become both powerful tools for police and potent weapons for criminals, a 48-page report from pan-European police agency Europol argues. Earlier this month, Europol's Innovation Lab published \"The Unmanned Future(s): The impact of robotics and unmanned systems on law enforcement.\" The document is framed as more [&#8230;]",
-    "content": "Rapid advances in AI and robotics are set to become both powerful tools for police and potent weapons for criminals, a 48-page report from pan-European police agency Europol argues. Earlier this month, Europol's Innovation Lab published \"The Unmanned Future(s): The impact of robotics and unmanned systems on law enforcement.\" The document is framed as more [&#8230;]",
-    "url": "https://www.theverge.com/report/847956/robot-crime-wave-europe-police-prediction",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2025-12-19T10:16:27-05:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2025-12-21T12:18:28.218703"
-  },
-  {
-    "id": "The Verge AI_091fd0ec52b5b0f9",
-    "title": "Communities are rising up against data centers — and winning",
-    "summary": "If there's one thing Republicans and Democrats came together on in 2025 - at least at the local level - it was to stop big, energy-hungry data center projects. For communities sick of rising electricity bills and pollution from power plants, data centers have become an obvious target. Fights against new data centers surged this [&#8230;]",
-    "content": "If there's one thing Republicans and Democrats came together on in 2025 - at least at the local level - it was to stop big, energy-hungry data center projects. For communities sick of rising electricity bills and pollution from power plants, data centers have become an obvious target. Fights against new data centers surged this [&#8230;]",
-    "url": "https://www.theverge.com/science/841169/ai-data-center-opposition",
-    "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2025-12-19T08:00:00-05:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218769"
-  },
-  {
-    "id": "The Verge AI_0bbd224ad94d7f36",
-    "title": "It’s the great AGI rebrand",
-    "summary": "The cringe comes for us all, and for all our hot new turns of phrase. \"Rizz\" lost its luster when grandparents started asking about its meaning. Teachers who dressed up as \"6-7\" on Halloween drove a nail into the coffin of Gen Alpha's rallying cry. And tech CEOs who once trumpeted the quest for \"artificial [&#8230;]",
-    "content": "The cringe comes for us all, and for all our hot new turns of phrase. \"Rizz\" lost its luster when grandparents started asking about its meaning. Teachers who dressed up as \"6-7\" on Halloween drove a nail into the coffin of Gen Alpha's rallying cry. And tech CEOs who once trumpeted the quest for \"artificial [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence",
-    "source": "The Verge AI",
-    "author": "Hayden Field",
-    "published_date": "2025-12-18T08:00:00-05:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:28.218946"
-  },
-  {
-    "id": "Wired AI_9467ad3b8f5edab0",
-    "title": "WIRED Roundup: The 5 Tech and Politics Trends That Shaped 2025",
-    "summary": "In today’s episode of Uncanny Valley, we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
-    "content": "In today’s episode of Uncanny Valley, we dive into five stories—from AI to DOGE—that encapsulate the year and give us clues as to what might unfold in 2026.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-tech-politics-trends-2025/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer, Brian Barrett",
-    "published_date": "Fri, 19 Dec 2025 22:58:41 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.247957"
-  },
-  {
-    "id": "Wired AI_27cc70ec79243e11",
-    "title": "Scammers in China Are Using AI-Generated Images to Get Refunds",
-    "summary": "From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.",
-    "content": "From dead crabs to shredded bed sheets, fraudsters are using fake photos and videos to get their money back from ecommerce sites.",
-    "url": "https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/",
-    "source": "Wired AI",
-    "author": "Zeyi Yang",
-    "published_date": "Fri, 19 Dec 2025 19:31:43 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248028"
-  },
-  {
-    "id": "Wired AI_0962cecbdaff4889",
-    "title": "6 Scary Predictions for AI in 2026",
-    "summary": "Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?",
-    "content": "Could the AI industry be on the verge of its first major layoffs? Will China spread propaganda to slow the US data-center building boom? Where are AI agents headed?",
-    "url": "https://www.wired.com/story/backchannel-2026-predictions-tech-robots-ai/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Fri, 19 Dec 2025 16:00:00 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248067"
-  },
-  {
-    "id": "Wired AI_00648e5c5060e1f8",
-    "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson",
-    "summary": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want to help “take back control of your experience of the internet.”",
-    "content": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want to help “take back control of your experience of the internet.”",
-    "url": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Fri, 19 Dec 2025 10:00:00 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248139"
-  },
-  {
-    "id": "Wired AI_425197dda4e3a1ba",
-    "title": "The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams",
-    "summary": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-    "content": "Capable of creating “nearly perfect” face swaps during live video chats, Haotian has made millions, mainly via Telegram. But its main channel vanished after WIRED's inquiry into scammers using the app.",
-    "url": "https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/",
-    "source": "Wired AI",
-    "author": "Matt Burgess, Lily Hay Newman, Zeyi Yang",
-    "published_date": "Thu, 18 Dec 2025 17:45:46 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248210"
-  },
-  {
-    "id": "Wired AI_66798735b248a1b4",
-    "title": "‘Wicked’ Director Jon M. Chu on ‘What Makes Art Beautiful’ in the AI Era",
-    "summary": "In this episode of Uncanny Valley, we bring you our conversation with Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of directing Wicked: For Good.",
-    "content": "In this episode of Uncanny Valley, we bring you our conversation with Jon M. Chu from WIRED’s Big Interview event, fresh on the heels of directing Wicked: For Good.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-wicked-director-jon-m-chu/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer, Manisha Krishnan",
-    "published_date": "Wed, 17 Dec 2025 22:07:59 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:29.248370"
-  },
-  {
-    "id": "Ars Technica_cf19cbbe1861f20b",
-    "title": "Browser extensions with 8 million users collect extended AI conversations",
-    "summary": "The extensions, available for Chromium browsers, harvest full AI conversations over months.",
-    "content": "The extensions, available for Chromium browsers, harvest full AI conversations over months.",
-    "url": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Wed, 17 Dec 2025 15:25:25 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071408"
-  },
-  {
-    "id": "Ars Technica_38204f24d4925bac",
-    "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
-    "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
-    "content": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
-    "url": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Mon, 15 Dec 2025 22:41:43 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071446"
-  },
-  {
-    "id": "Ars Technica_d9c75cf9153152ff",
-    "title": "Oracle shares slide on $15B increase in data center spending",
-    "summary": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
-    "content": "Company raises its capital expenditure forecast as it doubles down on AI infrastructure bet.",
-    "url": "https://arstechnica.com/information-technology/2025/12/oracle-shares-slide-on-15b-increase-in-data-center-spending/",
-    "source": "Ars Technica",
-    "author": "Rafe Rosner-Uddin",
-    "published_date": "Thu, 11 Dec 2025 14:39:21 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071573"
-  },
-  {
-    "id": "Ars Technica_fdb08345441cd510",
-    "title": "A new open-weights AI coding model is closing in on proprietary options",
-    "summary": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
-    "content": "Devstral 2 model scores 72% on industry benchmark, nearing proprietary rivals.",
-    "url": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
-    "source": "Ars Technica",
-    "author": "Benj Edwards",
-    "published_date": "Wed, 10 Dec 2025 20:38:58 +0000",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:30.071592"
-  },
-  {
-    "id": "MIT Technology Review_33eeb14456984179",
+    "id": "MIT Technology Review AI_33eeb14456984179",
     "title": "The Download: China’s dying EV batteries, and why AI doomers are doubling down",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China figured out how to sell EVs. Now it has to bury their batteries. In the past decade, China has seen an EV boom, thanks in part to government support. Buying an electric&#8230;",
     "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China figured out how to sell EVs. Now it has to bury their batteries. In the past decade, China has seen an EV boom, thanks in part to government support. Buying an electric&#8230;",
     "url": "https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Rhiannon Williams",
     "published_date": "Fri, 19 Dec 2025 13:10:00 +0000",
     "importance_score": 5.3,
@@ -799,15 +303,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077056"
+    "created_at": "2025-12-21T04:03:00.638190"
   },
   {
-    "id": "MIT Technology Review_69f133e36bafed91",
+    "id": "MIT Technology Review AI_69f133e36bafed91",
     "title": "Take our quiz on the year in health and biotechnology",
     "summary": "In just a couple of weeks, we’ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more aspects of our lives, weight-loss drugs have expanded in scope, and there have been some real “omg” biotech stories from the fields of gene therapy, IVF, neurotech, and more.&#160;&#160;&#160;&#8230;",
     "content": "In just a couple of weeks, we’ll be bidding farewell to 2025. And what a year it has been! Artificial intelligence is being incorporated into more aspects of our lives, weight-loss drugs have expanded in scope, and there have been some real “omg” biotech stories from the fields of gene therapy, IVF, neurotech, and more.&#160;&#160;&#160;&#8230;",
     "url": "https://www.technologyreview.com/2025/12/18/1130140/take-our-quiz-on-the-year-in-health-and-biotechnology/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Jessica Hamzelou",
     "published_date": "Thu, 18 Dec 2025 16:59:02 +0000",
     "importance_score": 5.3,
@@ -816,15 +320,15 @@
       "artificial intelligence"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077120"
+    "created_at": "2025-12-21T04:03:00.638257"
   },
   {
-    "id": "MIT Technology Review_1fcc9d8470f8b228",
+    "id": "MIT Technology Review AI_1fcc9d8470f8b228",
     "title": "The Download: the worst technology of 2025, and Sam Altman’s AI hype",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The 8 worst technology flops of 2025 Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. We like to think there’s a lesson in every&#8230;",
     "content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The 8 worst technology flops of 2025 Welcome to our annual list of the worst, least successful, and simply dumbest technologies of the year. We like to think there’s a lesson in every&#8230;",
     "url": "https://www.technologyreview.com/2025/12/18/1130128/the-download-the-worst-technology-of-2025-and-sam-altmans-ai-hype/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Rhiannon Williams",
     "published_date": "Thu, 18 Dec 2025 13:10:00 +0000",
     "importance_score": 5.3,
@@ -833,15 +337,15 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2025-12-21T12:18:31.077169"
+    "created_at": "2025-12-21T04:03:00.638307"
   },
   {
-    "id": "MIT Technology Review_c51492efe53151b1",
+    "id": "MIT Technology Review AI_c51492efe53151b1",
     "title": "Can AI really help us discover new materials?",
     "summary": "Judging from headlines and social media posts in recent years, one might reasonably assume that AI is going to fix the power grid, cure the world’s diseases, and finish my holiday shopping for me. But maybe there’s just a whole lot of hype floating around out there. This week, we published a new package called&#8230;",
     "content": "Judging from headlines and social media posts in recent years, one might reasonably assume that AI is going to fix the power grid, cure the world’s diseases, and finish my holiday shopping for me. But maybe there’s just a whole lot of hype floating around out there. This week, we published a new package called&#8230;",
     "url": "https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Casey Crownhart",
     "published_date": "Thu, 18 Dec 2025 11:00:00 +0000",
     "importance_score": 5.3,
@@ -850,15 +354,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077217"
+    "created_at": "2025-12-21T04:03:00.638356"
   },
   {
-    "id": "MIT Technology Review_1a026ea6c9332f2b",
+    "id": "MIT Technology Review AI_1a026ea6c9332f2b",
     "title": "This Nobel Prize–winning chemist dreams of making water from thin air",
     "summary": "Omar Yaghi was a quiet child, diligent, unlikely to roughhouse with his nine siblings. So when he was old enough, his parents tasked him with one of the family’s most vital chores: fetching water. Like most homes in his Palestinian neighborhood in Amman, Jordan, the Yaghis’ had no electricity or running water. At least once&#8230;",
     "content": "Omar Yaghi was a quiet child, diligent, unlikely to roughhouse with his nine siblings. So when he was old enough, his parents tasked him with one of the family’s most vital chores: fetching water. Like most homes in his Palestinian neighborhood in Amman, Jordan, the Yaghis’ had no electricity or running water. At least once&#8230;",
     "url": "https://www.technologyreview.com/2025/12/17/1129259/omar-yaghi-chemist-nobel-prize-crystals-water-air/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "Alexander C. Kaufman",
     "published_date": "Wed, 17 Dec 2025 11:00:00 +0000",
     "importance_score": 5.3,
@@ -867,15 +371,15 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077264"
+    "created_at": "2025-12-21T04:03:00.638402"
   },
   {
-    "id": "MIT Technology Review_5a555f61f2e2bf0c",
+    "id": "MIT Technology Review AI_5a555f61f2e2bf0c",
     "title": "Creating psychological safety in the AI era",
     "summary": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximize its value. While the technical hurdles are signiﬁcant, the human element can be even more consequential; fear and ambiguity can stall momentum of even the most promising&#8230;",
     "content": "Rolling out enterprise-grade AI means climbing two steep cliffs at once. First, understanding and implementing the tech itself. And second, creating the cultural conditions where employees can maximize its value. While the technical hurdles are signiﬁcant, the human element can be even more consequential; fear and ambiguity can stall momentum of even the most promising&#8230;",
     "url": "https://www.technologyreview.com/2025/12/16/1125899/creating-psychological-safety-in-the-ai-era/",
-    "source": "MIT Technology Review",
+    "source": "MIT Technology Review AI",
     "author": "MIT Technology Review Insights",
     "published_date": "Tue, 16 Dec 2025 15:00:00 +0000",
     "importance_score": 5.3,
@@ -884,7 +388,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:31.077317"
+    "created_at": "2025-12-21T04:03:00.638448"
   },
   {
     "id": "DeepMind Blog_7006eb29366f09ad",
@@ -901,7 +405,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:32.699983"
+    "created_at": "2025-12-21T04:03:03.096089"
   },
   {
     "id": "DeepMind Blog_2645e1f8ab921605",
@@ -918,41 +422,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:32.700045"
-  },
-  {
-    "id": "Hugging Face Blog_9dab25e9fdf3971e",
-    "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 15 Dec 2025 16:01:04 GMT",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:35.574447"
-  },
-  {
-    "id": "Hugging Face Blog_4c5bed581973ab94",
-    "title": "Codex is Open Sourcing AI models",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/hf-skills-training-codex",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Thu, 11 Dec 2025 00:00:00 GMT",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:35.574469"
+    "created_at": "2025-12-21T04:03:03.096156"
   },
   {
     "id": "AI News_7413febf34dcc689",
@@ -969,7 +439,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2025-12-21T12:18:39.253935"
+    "created_at": "2025-12-21T04:03:10.799259"
   },
   {
     "id": "AI News_6154469521afbe9c",
@@ -986,7 +456,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254104"
+    "created_at": "2025-12-21T04:03:10.799399"
   },
   {
     "id": "AI News_053f7520fc8bfcd1",
@@ -1003,7 +473,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2025-12-21T12:18:39.254152"
+    "created_at": "2025-12-21T04:03:10.799437"
   },
   {
     "id": "AI News_a63a776219d5720a",
@@ -1020,7 +490,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254225"
+    "created_at": "2025-12-21T04:03:10.799504"
   },
   {
     "id": "AI News_c54ade97f3969d14",
@@ -1037,7 +507,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254384"
+    "created_at": "2025-12-21T04:03:10.799676"
   },
   {
     "id": "AI News_729384134b625395",
@@ -1054,7 +524,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2025-12-21T12:18:39.254453"
+    "created_at": "2025-12-21T04:03:10.799740"
   },
   {
     "id": "AI News_121e02dcf5ed11a5",
@@ -1071,7 +541,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254490"
+    "created_at": "2025-12-21T04:03:10.799777"
   },
   {
     "id": "AI News_35dc4ba7c4da9c20",
@@ -1088,91 +558,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:39.254566"
-  },
-  {
-    "id": "Lobsters AI_9dec8b9ef76f3c74",
-    "title": "lightning-extra: PyTorch Lightning plugins and utilities for cloud-native machine learning",
-    "summary": "<p><a href=\"https://lobste.rs/s/lbvixt/lightning_extra_pytorch_lightning\">Comments</a></p>",
-    "content": "<p><a href=\"https://lobste.rs/s/lbvixt/lightning_extra_pytorch_lightning\">Comments</a></p>",
-    "url": "https://github.com/ocramz/lightning-extra",
-    "source": "Lobsters AI",
-    "author": "github.com by ocramz",
-    "published_date": "Thu, 18 Dec 2025 01:56:26 -0600",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "machine learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.252923"
-  },
-  {
-    "id": "Lobsters AI_ef24549158023700",
-    "title": "Testing and Benchmarking of AI Compilers",
-    "summary": "<p><a href=\"https://lobste.rs/s/02ok6n/testing_benchmarking_ai_compilers\">Comments</a></p>",
-    "content": "<p><a href=\"https://lobste.rs/s/02ok6n/testing_benchmarking_ai_compilers\">Comments</a></p>",
-    "url": "https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers",
-    "source": "Lobsters AI",
-    "author": "broune.com via andyc",
-    "published_date": "Wed, 10 Dec 2025 11:29:29 -0600",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.253083"
-  },
-  {
-    "id": "Lobsters AI_0c7efa8fd2e40b7f",
-    "title": "Prediction: AI will make formal verification go mainstream",
-    "summary": "<p><a href=\"https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal\">Comments</a></p>",
-    "content": "<p><a href=\"https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal\">Comments</a></p>",
-    "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
-    "source": "Lobsters AI",
-    "author": "martin.kleppmann.com via ajessejiryudavis",
-    "published_date": "Mon, 08 Dec 2025 17:17:16 -0600",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.253121"
-  },
-  {
-    "id": "Lobsters AI_a54d475141e0444c",
-    "title": "Noise, Stability, and ML model Calibration",
-    "summary": "<p><a href=\"https://lobste.rs/s/2toe3f/noise_stability_ml_model_calibration\">Comments</a></p>",
-    "content": "<p><a href=\"https://lobste.rs/s/2toe3f/noise_stability_ml_model_calibration\">Comments</a></p>",
-    "url": "https://www.testingbranch.com/noise_study/",
-    "source": "Lobsters AI",
-    "author": "testingbranch.com by Mbat",
-    "published_date": "Tue, 02 Dec 2025 12:38:51 -0600",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.253146"
-  },
-  {
-    "id": "Lobsters AI_5bf06eefe35efb54",
-    "title": "Generating meaning: active inference and the scope and limits of passive AI (2024)",
-    "summary": "<p><a href=\"https://lobste.rs/s/8pgim9/generating_meaning_active_inference\">Comments</a></p>",
-    "content": "<p><a href=\"https://lobste.rs/s/8pgim9/generating_meaning_active_inference\">Comments</a></p>",
-    "url": "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00260-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661323002607%3Fshowall%3Dtrue",
-    "source": "Lobsters AI",
-    "author": "cell.com via LolPython",
-    "published_date": "Tue, 02 Dec 2025 00:30:16 -0600",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2025-12-21T12:18:43.253171"
+    "created_at": "2025-12-21T04:03:10.799835"
   }
 ]
