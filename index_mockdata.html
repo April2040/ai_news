@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI信息聚合平台 - 实时资讯</title>
-    <meta name="description" content="汇聚全球AI领域最新资讯，掌握技术发展趋势。基于真实数据源的智能信息聚合平台。">
+    <title>AI信息聚合平台 - 探索AI未来</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/components.css">
     <link rel="stylesheet" href="styles/responsive.css">
-    <link rel="stylesheet" href="styles/realdata.css">
 </head>
 <body>
     <!-- 主题切换按钮 -->
@@ -38,7 +36,7 @@
         <section class="hero">
             <div class="hero-content">
                 <h1 class="hero-title">探索AI未来</h1>
-                <p class="hero-subtitle">汇聚全球AI领域最新资讯，掌握技术发展趋势 · 实时数据源</p>
+                <p class="hero-subtitle">汇聚全球AI领域最新资讯，掌握技术发展趋势</p>
                 
                 <!-- 搜索框 -->
                 <div class="search-container">
@@ -61,16 +59,6 @@
                         </button>
                     </div>
                 </div>
-                
-                <!-- 快速筛选标签 -->
-                <div class="quick-filters">
-                    <span class="quick-filter-label">热门搜索:</span>
-                    <button class="quick-filter-tag" data-query="OpenAI">OpenAI</button>
-                    <button class="quick-filter-tag" data-query="ChatGPT">ChatGPT</button>
-                    <button class="quick-filter-tag" data-query="GPT">GPT</button>
-                    <button class="quick-filter-tag" data-query="机器学习">机器学习</button>
-                    <button class="quick-filter-tag" data-query="深度学习">深度学习</button>
-                </div>
             </div>
         </section>
 
@@ -79,23 +67,23 @@
             <div class="filter-container">
                 <button class="filter-pill active" data-category="all">
                     全部资讯
-                    <span class="count">-</span>
+                    <span class="count">156</span>
                 </button>
                 <button class="filter-pill" data-category="tech">
                     技术突破
-                    <span class="count">-</span>
+                    <span class="count">43</span>
                 </button>
                 <button class="filter-pill" data-category="industry">
                     产业动态
-                    <span class="count">-</span>
+                    <span class="count">67</span>
                 </button>
                 <button class="filter-pill" data-category="application">
                     应用场景
-                    <span class="count">-</span>
+                    <span class="count">31</span>
                 </button>
                 <button class="filter-pill" data-category="policy">
                     政策法规
-                    <span class="count">-</span>
+                    <span class="count">15</span>
                 </button>
             </div>
         </section>
@@ -105,24 +93,11 @@
             <!-- 左侧信息流 -->
             <section class="content-stream">
                 <div class="stream-header">
-                    <div class="header-left">
-                        <h2 class="section-title">最新资讯</h2>
-                        <div class="data-status">
-                            <span class="status-indicator real-time">📡 实时数据</span>
-                            <span class="last-update" id="lastUpdate">加载中...</span>
-                        </div>
-                    </div>
-                    <div class="header-controls">
-                        <button id="refreshBtn" class="refresh-btn" title="刷新数据 (Ctrl+R)">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M1 4v6h6"/>
-                                <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/>
-                            </svg>
-                            刷新
-                        </button>
+                    <h2 class="section-title">最新资讯</h2>
+                    <div class="sort-options">
                         <select id="sortSelect" class="sort-select">
-                            <option value="importance">按重要性排序</option>
                             <option value="time">按时间排序</option>
+                            <option value="importance">按重要性排序</option>
                             <option value="relevance">按相关性排序</option>
                         </select>
                     </div>
@@ -136,14 +111,14 @@
                 <!-- 加载更多按钮 -->
                 <div class="load-more-container">
                     <button id="loadMore" class="load-more-btn">
-                        加载更多AI资讯
+                        加载更多资讯
                     </button>
                 </div>
             </section>
 
             <!-- 右侧边栏 -->
             <aside class="sidebar">
-                <!-- 今日热点 -->
+                <!-- 每日热点 -->
                 <div class="hot-section">
                     <h3 class="sidebar-title">
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -167,49 +142,20 @@
                     </h3>
                     <div class="stats-grid">
                         <div class="stat-item">
-                            <div class="stat-number" id="totalNews">-</div>
+                            <div class="stat-number" id="totalNews">156</div>
                             <div class="stat-label">今日资讯</div>
                         </div>
                         <div class="stat-item">
-                            <div class="stat-number" id="highImpact">-</div>
+                            <div class="stat-number" id="highImpact">23</div>
                             <div class="stat-label">高影响力</div>
                         </div>
                         <div class="stat-item">
-                            <div class="stat-number" id="dataSources">-</div>
+                            <div class="stat-number" id="dataSources">45</div>
                             <div class="stat-label">数据源</div>
                         </div>
                         <div class="stat-item">
-                            <div class="stat-number" id="updateFreq">实时</div>
+                            <div class="stat-number" id="updateFreq">5分钟</div>
                             <div class="stat-label">更新频率</div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- 数据源信息 -->
-                <div class="sources-section">
-                    <h3 class="sidebar-title">
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <circle cx="12" cy="12" r="3"/>
-                            <path d="M12 1v6m0 6v6m11-7h-6m-6 0H1"/>
-                        </svg>
-                        数据源
-                    </h3>
-                    <div class="sources-list">
-                        <div class="source-item">
-                            <span class="source-name">TechCrunch AI</span>
-                            <span class="source-status active">✓</span>
-                        </div>
-                        <div class="source-item">
-                            <span class="source-name">MIT Technology Review</span>
-                            <span class="source-status active">✓</span>
-                        </div>
-                        <div class="source-item">
-                            <span class="source-name">DeepMind Blog</span>
-                            <span class="source-status active">✓</span>
-                        </div>
-                        <div class="source-item">
-                            <span class="source-name">AI News</span>
-                            <span class="source-status active">✓</span>
                         </div>
                     </div>
                 </div>
@@ -217,21 +163,10 @@
         </main>
     </div>
 
-    <!-- 加载数据收集器 -->
-    <script>
-        // 数据收集器脚本将在服务器端运行
-        // 这里提供客户端接口
-        console.log('🤖 AI信息聚合平台 - 真实数据版本');
-        console.log('📊 数据来源: TechCrunch AI, MIT Technology Review, DeepMind, AI News等权威源');
-        console.log('🔄 更新频率: 实时监控，30分钟自动更新');
-        console.log('⚡ 功能: 智能分类、重要性评分、情感分析、关键词提取');
-    </script>
-
     <!-- JavaScript -->
     <script src="data/mockData.js"></script>
     <script src="js/utils.js"></script>
     <script src="js/components.js"></script>
-    <script src="js/realDataLoader.js"></script>
-    <script src="js/main_realdata.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
