@@ -319,14 +319,17 @@ class DataCollector:
             RSSDataSource("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "high", "tech"),
             RSSDataSource("Wired AI", "https://www.wired.com/feed/tag/ai/latest/rss", "high", "tech"),
             RSSDataSource("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab", "high", "tech"),
+            RSSDataSource("Google AI Blog", "https://blog.google/technology/ai/rss/", "high", "tech"),
         ]
         
         # 第二层：专业技术源（中高优先级）
         tier2_sources = [
             RSSDataSource("MIT Technology Review", "https://www.technologyreview.com/feed/", "high", "tech"),
             RSSDataSource("DeepMind Blog", "https://deepmind.google/blog/rss.xml", "high", "tech"),
+            RSSDataSource("OpenAI News", "https://openai.com/news/rss.xml", "high", "tech"),
             RSSDataSource("Hugging Face Blog", "https://huggingface.co/blog/feed.xml", "medium", "tech"),
             RSSDataSource("AI News", "https://artificialintelligence-news.com/feed/", "medium", "tech"),
+            RSSDataSource("VentureBeat AI", "https://venturebeat.com/category/ai/feed/", "medium", "tech"),
         ]
         
         # 第三层：学术与研究源
@@ -341,7 +344,12 @@ class DataCollector:
             RSSDataSource("Lobsters AI", "https://lobste.rs/t/ai.rss", "low", "tech"),
         ]
         
-        self.data_sources = tier1_sources + tier2_sources + tier3_sources + tier4_sources
+        # 第五层：中文源
+        tier5_sources = [
+            RSSDataSource("机器之心", "https://www.jiqizhixin.com/rss", "medium", "tech"),
+        ]
+        
+        self.data_sources = tier1_sources + tier2_sources + tier3_sources + tier4_sources + tier5_sources
     
     async def __aenter__(self):
         self.session = aiohttp.ClientSession()
