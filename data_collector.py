@@ -146,8 +146,11 @@ class RSSDataSource(DataSource):
             # 提取关键词
             keywords = self._extract_keywords(title + ' ' + summary)
             
-            # 计算重要性评分
-            importance_score = self._calculate_importance(title, summary, keywords)
+            # 计算重要性评分（传入发布时间用于时效性加分）
+            importance_score = self._calculate_importance(title, summary, keywords, published)
+            
+            # 信源权威性加分
+            importance_score = self._apply_source_bonus(importance_score)
             
             # 情感分析
             sentiment = self._analyze_sentiment(title + ' ' + summary)
@@ -171,6 +174,42 @@ class RSSDataSource(DataSource):
             logger.error(f"解析RSS条目失败: {str(e)}")
             return None
     
+    def _apply_source_bonus(self, base_score: float) -> float:
+        """
+        根据信源权威性调整分数
+        
+        T1 权威媒体：+0.5
+        T2 专业博客：+0.3
+        T3 学术源：+0.2
+        T4 社区源：+0.0
+        """
+        source_bonus = {
+            # T1: 头部科技媒体
+            'TechCrunch AI': 0.5,
+            'The Verge AI': 0.5,
+            'Wired AI': 0.5,
+            'Ars Technica': 0.4,
+            'MIT Technology Review': 0.5,
+            # T2: 官方博客/专业媒体
+            'OpenAI News': 0.6,  # 官方源额外加分
+            'DeepMind Blog': 0.5,
+            'Google AI Blog': 0.5,
+            'Anthropic Blog': 0.5,
+            'Hugging Face Blog': 0.4,
+            'VentureBeat AI': 0.3,
+            'AI News': 0.3,
+            # T3: 学术源
+            'arXiv AI': 0.3,
+            'arXiv ML': 0.3,
+            # T4: 社区源
+            '机器之心': 0.3,
+            'Reddit ML': 0.1,
+            'Lobsters AI': 0.1,
+        }
+        
+        bonus = source_bonus.get(self.name, 0.0)
+        return min(base_score + bonus, 10.0)
+    
     def _extract_keywords(self, text: str) -> List[str]:
         """提取关键词"""
         # 简单的关键词提取逻辑
@@ -191,33 +230,105 @@ class RSSDataSource(DataSource):
         
         return found_keywords[:5]  # 限制5个关键词
     
-    def _calculate_importance(self, title: str, summary: str, keywords: List[str]) -> float:
-        """计算重要性评分"""
-        score = 5.0  # 基础分
+    def _calculate_importance(self, title: str, summary: str, keywords: List[str], published_date: str = None) -> float:
+        """
+        计算重要性评分 (优化版)
         
-        # 高权重词汇
-        high_weight_words = ['GPT', 'ChatGPT', 'OpenAI', 'AI法案', '融资', '发布', '突破']
-        medium_weight_words = ['Meta', 'Google', 'Microsoft', '模型', '训练', '算法']
+        评分维度：
+        1. 基础分：4.0
+        2. 核心关键词加分：头部公司/产品 +1.5，重要公司 +0.8
+        3. 事件类型加分：发布/突破 +1.0
+        4. 关键词丰富度：每个关键词 +0.3
+        5. 时效性加分：24小时内 +1.0，48小时内 +0.5
+        6. 信源权威性：由外部传入（在调用时处理）
+        """
+        score = 4.0  # 基础分（降低以给其他维度留空间）
         
         text = (title + ' ' + summary).lower()
+        title_lower = title.lower()
         
-        # 根据高权重词汇加分
-        for word in high_weight_words:
-            if word.lower() in text:
-                score += 1.5
+        # ===== 1. 核心关键词加分 =====
+        # 头部AI公司/产品（最高权重）
+        tier1_keywords = {
+            'openai': 1.5, 'chatgpt': 1.5, 'gpt-4': 1.5, 'gpt-5': 2.0,
+            'anthropic': 1.3, 'claude': 1.3,
+            'gemini': 1.2, 'deepmind': 1.2,
+            'sora': 1.5, 'dall-e': 1.2
+        }
         
-        for word in medium_weight_words:
-            if word.lower() in text:
-                score += 0.8
+        # 重要AI公司（中等权重）
+        tier2_keywords = {
+            'google': 0.8, 'meta': 0.8, 'microsoft': 0.8, 'nvidia': 0.8,
+            'apple': 0.8, 'amazon': 0.6, 'tesla': 0.6, 'hugging face': 0.7,
+            'mistral': 0.8, 'llama': 0.8, 'copilot': 0.7
+        }
         
-        # 根据关键词数量加分
-        score += len(keywords) * 0.3
+        # 重要事件/概念（中等权重）
+        tier3_keywords = {
+            '融资': 1.0, 'funding': 1.0, 'valuation': 1.0, '估值': 1.0,
+            'agi': 1.2, '通用人工智能': 1.2,
+            '法规': 0.8, 'regulation': 0.8, 'safety': 0.7, '安全': 0.7,
+            'open source': 0.8, '开源': 0.8
+        }
         
-        # 标题包含"发布"、"突破"等词加分
-        if any(word in title.lower() for word in ['发布', '推出', '突破', 'release', 'launch', 'breakthrough']):
-            score += 1.0
+        # 计算关键词加分（每类最多计1次最高分，避免重复叠加）
+        tier1_score = max([v for k, v in tier1_keywords.items() if k in text], default=0)
+        tier2_score = max([v for k, v in tier2_keywords.items() if k in text], default=0)
+        tier3_score = max([v for k, v in tier3_keywords.items() if k in text], default=0)
         
-        return min(score, 10.0)  # 最高10分
+        score += tier1_score + tier2_score + tier3_score
+        
+        # ===== 2. 事件类型加分 =====
+        event_words = {
+            # 重大发布
+            '发布': 1.0, '推出': 1.0, 'release': 1.0, 'launch': 1.0, 'announce': 0.8,
+            # 技术突破
+            '突破': 1.2, 'breakthrough': 1.2, '首次': 1.0, 'first': 0.8,
+            # 重大变动
+            '收购': 1.0, 'acquisition': 1.0, '合并': 0.8, 'merger': 0.8
+        }
+        
+        event_score = max([v for k, v in event_words.items() if k in title_lower], default=0)
+        score += event_score
+        
+        # ===== 3. 关键词丰富度加分 =====
+        score += min(len(keywords) * 0.2, 1.0)  # 最多加1分
+        
+        # ===== 4. 时效性加分 =====
+        if published_date:
+            try:
+                from datetime import datetime
+                from email.utils import parsedate_to_datetime
+                
+                # 尝试解析日期
+                try:
+                    pub_time = parsedate_to_datetime(published_date)
+                except:
+                    pub_time = datetime.fromisoformat(published_date.replace('Z', '+00:00'))
+                
+                now = datetime.now(pub_time.tzinfo) if pub_time.tzinfo else datetime.now()
+                hours_ago = (now - pub_time).total_seconds() / 3600
+                
+                if hours_ago < 6:
+                    score += 1.5  # 6小时内
+                elif hours_ago < 24:
+                    score += 1.0  # 24小时内
+                elif hours_ago < 48:
+                    score += 0.5  # 48小时内
+            except Exception:
+                pass  # 解析失败则不加分
+        
+        # ===== 5. 标题质量加分 =====
+        # 标题长度适中（15-80字符）
+        if 15 <= len(title) <= 80:
+            score += 0.2
+        
+        # 标题包含具体数字（如融资金额、性能提升）
+        import re
+        if re.search(r'\$[\d.]+[BMK]|\d+%|\d+x', title):
+            score += 0.5
+        
+        return min(max(score, 1.0), 10.0)  # 限制在1-10分
     
     def _analyze_sentiment(self, text: str) -> str:
         """简单的情感分析"""
