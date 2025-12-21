@@ -313,27 +313,35 @@ class DataCollector:
     
     def _init_data_sources(self):
         """初始化数据源"""
-        # RSS数据源
-        rss_sources = [
+        # 第一层：头部权威源（高优先级）
+        tier1_sources = [
             RSSDataSource("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/", "high", "tech"),
-            RSSDataSource("VentureBeat AI", "https://venturebeat.com/ai/feed/", "high", "tech"),
-            RSSDataSource("MIT Technology Review AI", "https://www.technologyreview.com/feed/", "high", "tech"),
-            RSSDataSource("OpenAI Blog", "https://openai.com/blog/rss/", "high", "tech"),
-            RSSDataSource("DeepMind Blog", "https://deepmind.com/blog/rss.xml", "high", "tech"),
-            RSSDataSource("Google AI Blog", "https://ai.googleblog.com/feeds/posts/default", "high", "tech"),
-            RSSDataSource("Meta AI", "https://ai.meta.com/blog/rss/", "high", "tech"),
-            RSSDataSource("NVIDIA AI", "https://blogs.nvidia.com/blog/category/ai/feed/", "medium", "tech"),
-            RSSDataSource("Towards Data Science", "https://towardsdatascience.com/feed", "medium", "tech"),
+            RSSDataSource("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "high", "tech"),
+            RSSDataSource("Wired AI", "https://www.wired.com/feed/tag/ai/latest/rss", "high", "tech"),
+            RSSDataSource("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab", "high", "tech"),
+        ]
+        
+        # 第二层：专业技术源（中高优先级）
+        tier2_sources = [
+            RSSDataSource("MIT Technology Review", "https://www.technologyreview.com/feed/", "high", "tech"),
+            RSSDataSource("DeepMind Blog", "https://deepmind.google/blog/rss.xml", "high", "tech"),
+            RSSDataSource("Hugging Face Blog", "https://huggingface.co/blog/feed.xml", "medium", "tech"),
             RSSDataSource("AI News", "https://artificialintelligence-news.com/feed/", "medium", "tech"),
         ]
         
-        # 网页数据源
-        web_sources = [
-            WebDataSource("Hacker News AI", "https://news.ycombinator.com", "medium", "tech"),
-            WebDataSource("Reddit MachineLearning", "https://www.reddit.com/r/MachineLearning/", "low", "tech"),
+        # 第三层：学术与研究源
+        tier3_sources = [
+            RSSDataSource("arXiv AI", "https://rss.arxiv.org/rss/cs.AI", "medium", "research"),
+            RSSDataSource("arXiv ML", "https://rss.arxiv.org/rss/cs.LG", "medium", "research"),
         ]
         
-        self.data_sources = rss_sources + web_sources
+        # 第四层：社区源（低优先级）
+        tier4_sources = [
+            RSSDataSource("Reddit ML", "https://www.reddit.com/r/MachineLearning/.rss", "low", "tech"),
+            RSSDataSource("Lobsters AI", "https://lobste.rs/t/ai.rss", "low", "tech"),
+        ]
+        
+        self.data_sources = tier1_sources + tier2_sources + tier3_sources + tier4_sources
     
     async def __aenter__(self):
         self.session = aiohttp.ClientSession()
@@ -402,19 +410,36 @@ class DataCollector:
         return news_items
     
     def _deduplicate(self, news_list: List[NewsItem]) -> List[NewsItem]:
-        """去除重复新闻"""
+        """去除重复新闻（基于URL和标题相似度）"""
+        from difflib import SequenceMatcher
+        
         seen_urls = set()
-        seen_titles = set()
         unique_news = []
+        
+        def is_similar_title(title1: str, title2: str, threshold: float = 0.75) -> bool:
+            """检查两个标题是否相似"""
+            ratio = SequenceMatcher(None, title1.lower(), title2.lower()).ratio()
+            return ratio > threshold
         
         for news in news_list:
             # 基于URL去重
-            if news.url and news.url not in seen_urls:
-                seen_urls.add(news.url)
-                unique_news.append(news)
-            # 如果没有URL，基于标题去重
-            elif not news.url and news.title not in seen_titles:
-                seen_titles.add(news.title)
+            if news.url and news.url in seen_urls:
+                continue
+                
+            # 基于标题相似度去重
+            is_duplicate = False
+            for existing in unique_news:
+                if is_similar_title(news.title, existing.title):
+                    is_duplicate = True
+                    # 保留重要性更高的版本
+                    if news.importance_score > existing.importance_score:
+                        unique_news.remove(existing)
+                        is_duplicate = False
+                    break
+            
+            if not is_duplicate:
+                if news.url:
+                    seen_urls.add(news.url)
                 unique_news.append(news)
         
         return unique_news
