@@ -1,0 +1,489 @@
+/* ===============================================
+   响应式样式 - 移动端适配
+   =============================================== */
+
+/* 平板设备 (768px - 1024px) */
+@media (max-width: 1024px) {
+  .container {
+    padding: 0 var(--space-md);
+  }
+  
+  .main-content {
+    grid-template-columns: 1fr 280px;
+    gap: var(--space-lg);
+  }
+  
+  .hero-title {
+    font-size: 40px;
+  }
+  
+  .hero-subtitle {
+    font-size: 18px;
+  }
+  
+  .section-title {
+    font-size: 28px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+  }
+  
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-sm);
+  }
+}
+
+/* 移动设备 (< 768px) */
+@media (max-width: 768px) {
+  /* 主题切换按钮 */
+  .theme-toggle {
+    top: var(--space-md);
+    right: var(--space-md);
+    width: 40px;
+    height: 40px;
+  }
+  
+  /* 容器调整 */
+  .container {
+    padding: 0 var(--space-sm);
+  }
+  
+  /* Hero区域 */
+  .hero {
+    min-height: 300px;
+    padding: var(--space-xl) 0;
+  }
+  
+  .hero-title {
+    font-size: 32px;
+    margin-bottom: var(--space-md);
+  }
+  
+  .hero-subtitle {
+    font-size: 16px;
+    margin-bottom: var(--space-lg);
+  }
+  
+  .search-box {
+    height: 56px;
+    padding: 0 var(--space-md);
+  }
+  
+  .search-input {
+    font-size: 16px; /* 防止iOS缩放 */
+  }
+  
+  /* 筛选区域 */
+  .filter-section {
+    margin-bottom: var(--space-lg);
+  }
+  
+  .filter-container {
+    gap: var(--space-xs);
+    padding: var(--space-xs) 0;
+  }
+  
+  .filter-pill {
+    height: 36px;
+    padding: 0 var(--space-md);
+    font-size: 13px;
+  }
+  
+  /* 主要内容区域 - 改为单栏布局 */
+  .main-content {
+    display: block;
+  }
+  
+  .sidebar {
+    margin-top: var(--space-xl);
+  }
+  
+  .hot-section {
+    position: static;
+    margin-bottom: var(--space-lg);
+  }
+  
+  /* 标题调整 */
+  .section-title {
+    font-size: 24px;
+    margin-bottom: var(--space-md);
+  }
+  
+  .stream-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-md);
+  }
+  
+  /* 新闻卡片 */
+  .news-card {
+    padding: var(--space-md);
+  }
+  
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-xs);
+  }
+  
+  .card-title {
+    font-size: 18px;
+    margin-bottom: var(--space-sm);
+  }
+  
+  .card-summary {
+    font-size: 15px;
+    margin-bottom: var(--space-sm);
+  }
+  
+  .card-footer {
+    gap: var(--space-xs);
+  }
+  
+  .keyword-tag {
+    font-size: 12px;
+    padding: 3px var(--space-xs);
+  }
+  
+  .sentiment-tag {
+    margin-left: 0;
+    margin-top: var(--space-xs);
+  }
+  
+  /* 热点列表 */
+  .hot-list {
+    border-radius: var(--radius-button);
+  }
+  
+  .hot-item {
+    padding: var(--space-sm) 0;
+  }
+  
+  .hot-rank {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    margin-right: var(--space-sm);
+  }
+  
+  .hot-title {
+    font-size: 14px;
+  }
+  
+  .hot-trend {
+    font-size: 11px;
+  }
+  
+  .trend-icon {
+    width: 12px;
+    height: 12px;
+  }
+  
+  /* 统计区域 */
+  .stats-section {
+    padding: var(--space-md);
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-sm);
+  }
+  
+  .stat-item {
+    padding: var(--space-md);
+  }
+  
+  .stat-number {
+    font-size: 20px;
+  }
+  
+  .stat-label {
+    font-size: 12px;
+  }
+  
+  /* 加载更多按钮 */
+  .load-more-btn {
+    padding: var(--space-sm) var(--space-lg);
+    font-size: 14px;
+  }
+}
+
+/* 小屏移动设备 (< 480px) */
+@media (max-width: 480px) {
+  .container {
+    padding: 0 var(--space-xs);
+  }
+  
+  .hero {
+    min-height: 280px;
+    padding: var(--space-lg) 0;
+  }
+  
+  .hero-title {
+    font-size: 28px;
+  }
+  
+  .hero-subtitle {
+    font-size: 15px;
+  }
+  
+  .search-box {
+    height: 52px;
+    padding: 0 var(--space-sm);
+  }
+  
+  /* 筛选按钮 */
+  .filter-pill {
+    height: 32px;
+    padding: 0 var(--space-sm);
+    font-size: 12px;
+  }
+  
+  .filter-pill .count {
+    display: none; /* 小屏隐藏计数 */
+  }
+  
+  /* 新闻卡片 */
+  .news-card {
+    padding: var(--space-sm);
+  }
+  
+  .card-title {
+    font-size: 16px;
+  }
+  
+  .card-summary {
+    font-size: 14px;
+  }
+  
+  /* 统计网格 */
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stat-number {
+    font-size: 18px;
+  }
+}
+
+/* 超小屏设备 (< 360px) */
+@media (max-width: 360px) {
+  .hero-title {
+    font-size: 24px;
+  }
+  
+  .hero-subtitle {
+    font-size: 14px;
+  }
+  
+  .section-title {
+    font-size: 20px;
+  }
+  
+  .card-title {
+    font-size: 15px;
+  }
+}
+
+/* 横屏移动设备适配 */
+@media (max-height: 500px) and (orientation: landscape) {
+  .hero {
+    min-height: 200px;
+    padding: var(--space-lg) 0;
+  }
+  
+  .hero-title {
+    font-size: 28px;
+    margin-bottom: var(--space-sm);
+  }
+  
+  .hero-subtitle {
+    font-size: 14px;
+    margin-bottom: var(--space-md);
+  }
+}
+
+/* 高分辨率屏幕优化 */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  /* 确保图标在高分辨率屏幕上清晰 */
+  .source-icon,
+  .search-icon,
+  .clear-search svg,
+  .theme-toggle svg {
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+}
+
+/* 减少动画偏好 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .news-card:hover {
+    transform: none;
+  }
+  
+  .theme-toggle:hover {
+    transform: none;
+  }
+  
+  .stat-item:hover {
+    transform: none;
+  }
+  
+  .hot-item:hover {
+    padding-left: 0;
+  }
+}
+
+/* 触摸设备优化 */
+@media (hover: none) and (pointer: coarse) {
+  /* 移除hover效果，添加触摸反馈 */
+  .news-card:hover {
+    transform: none;
+    box-shadow: var(--shadow-card);
+  }
+  
+  .news-card:active {
+    transform: scale(0.98);
+    transition: transform 0.1s ease;
+  }
+  
+  .filter-pill:hover {
+    border-color: var(--border-light);
+    color: var(--text-secondary-light);
+  }
+  
+  .filter-pill:active {
+    background: var(--primary-500);
+    color: white;
+    transform: scale(0.95);
+  }
+  
+  .load-more-btn:hover {
+    background: transparent;
+    color: var(--primary-500);
+    transform: none;
+  }
+  
+  .load-more-btn:active {
+    background: var(--primary-500);
+    color: white;
+    transform: scale(0.95);
+  }
+}
+
+/* 深色模式下的移动端优化 */
+@media (prefers-color-scheme: dark) {
+  [data-theme="auto"] {
+    /* 自动跟随系统主题 */
+    --bg-page-light: #0F172A;
+    --bg-surface-light: #1E293B;
+    --border-light: #334155;
+    --text-primary-light: #F8FAFC;
+    --text-secondary-light: #94A3B8;
+    --color-tag-bg-light: #334155;
+  }
+}
+
+/* 打印样式 */
+@media print {
+  .theme-toggle,
+  .filter-section,
+  .sidebar,
+  .load-more-container {
+    display: none !important;
+  }
+  
+  .main-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .hero {
+    min-height: auto;
+    padding: var(--space-lg) 0;
+  }
+  
+  .hero-title {
+    font-size: 24px;
+  }
+  
+  .news-card {
+    break-inside: avoid;
+    margin-bottom: var(--space-md);
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+  
+  .news-card:hover {
+    transform: none;
+  }
+}
+
+/* 无障碍优化 */
+@media (prefers-contrast: high) {
+  :root {
+    --border-light: #000000;
+    --text-secondary-light: #000000;
+  }
+  
+  [data-theme="dark"] {
+    --border-light: #ffffff;
+    --text-secondary-light: #ffffff;
+  }
+  
+  .news-card {
+    border-width: 2px;
+  }
+  
+  .filter-pill {
+    border-width: 2px;
+  }
+}
+
+/* 特殊屏幕尺寸适配 */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1400px;
+  }
+  
+  .main-content {
+    grid-template-columns: 1fr 360px;
+    gap: var(--space-xxl);
+  }
+  
+  .hero-title {
+    font-size: 56px;
+  }
+  
+  .section-title {
+    font-size: 36px;
+  }
+}
+
+/* 触控友好的最小点击区域 */
+@media (pointer: coarse) {
+  .filter-pill,
+  .load-more-btn,
+  .retry-button,
+  .hot-item,
+  .keyword-tag {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .clear-search {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}

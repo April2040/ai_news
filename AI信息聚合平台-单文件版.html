@@ -1,0 +1,1157 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI信息聚合平台 - 探索AI未来</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* ===============================================
+           AI信息聚合平台 - 自包含版本
+           单文件包含所有样式和功能
+           =============================================== */
+        
+        /* CSS变量定义 - 支持主题切换 */
+        :root {
+          /* 主色调 */
+          --primary-500: #4F46E5;
+          --primary-600: #4338CA;
+          --primary-100: #E0E7FF;
+          
+          /* 中性色 - 浅色主题 */
+          --bg-page-light: #F8FAFC;
+          --bg-surface-light: #FFFFFF;
+          --border-light: #E2E8F0;
+          --text-primary-light: #0F172A;
+          --text-secondary-light: #64748B;
+          
+          /* 语义色 */
+          --color-high-impact: #10B981;
+          --color-medium-impact: #F59E0B;
+          --color-tag-bg-light: #F1F5F9;
+          
+          /* 间距系统 (4px Grid) */
+          --space-xs: 8px;
+          --space-sm: 12px;
+          --space-md: 16px;
+          --space-lg: 24px;
+          --space-xl: 32px;
+          --space-xxl: 64px;
+          
+          /* 圆角 */
+          --radius-card: 12px;
+          --radius-pill: 999px;
+          --radius-button: 8px;
+          
+          /* 阴影 */
+          --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.05);
+          --shadow-card-hover: 0 12px 24px -8px rgba(0, 0, 0, 0.12);
+          
+          /* 字体 */
+          --font-family: 'Inter', 'San Francisco', system-ui, -apple-system, sans-serif;
+          
+          /* 过渡动画 */
+          --transition-fast: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+          --transition-normal: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* 深色主题 */
+        [data-theme="dark"] {
+          --bg-page-light: #0F172A;
+          --bg-surface-light: #1E293B;
+          --border-light: #334155;
+          --text-primary-light: #F8FAFC;
+          --text-secondary-light: #94A3B8;
+          --color-tag-bg-light: #334155;
+        }
+
+        /* 基础重置 */
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        html {
+          scroll-behavior: smooth;
+        }
+
+        body {
+          font-family: var(--font-family);
+          font-size: 16px;
+          line-height: 1.6;
+          color: var(--text-primary-light);
+          background-color: var(--bg-page-light);
+          transition: var(--transition-normal);
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* 主题切换按钮 */
+        .theme-toggle {
+          position: fixed;
+          top: var(--space-lg);
+          right: var(--space-lg);
+          z-index: 1000;
+          width: 48px;
+          height: 48px;
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-pill);
+          background: var(--bg-surface-light);
+          color: var(--text-secondary-light);
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: var(--transition-fast);
+          box-shadow: var(--shadow-card);
+        }
+
+        .theme-toggle:hover {
+          color: var(--primary-500);
+          transform: translateY(-2px);
+          box-shadow: var(--shadow-card-hover);
+        }
+
+        [data-theme="dark"] .sun-icon {
+          display: none;
+        }
+
+        [data-theme="light"] .moon-icon {
+          display: none;
+        }
+
+        /* 主容器 */
+        .container {
+          max-width: 1280px;
+          margin: 0 auto;
+          padding: 0 var(--space-lg);
+        }
+
+        /* Hero区域 */
+        .hero {
+          min-height: 400px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          padding: var(--space-xxl) 0;
+        }
+
+        .hero-content {
+          max-width: 800px;
+        }
+
+        .hero-title {
+          font-size: 48px;
+          font-weight: 700;
+          line-height: 1.2;
+          margin-bottom: var(--space-lg);
+          color: var(--text-primary-light);
+        }
+
+        .hero-subtitle {
+          font-size: 20px;
+          color: var(--text-secondary-light);
+          margin-bottom: var(--space-xl);
+          line-height: 1.5;
+        }
+
+        /* 搜索容器 */
+        .search-container {
+          max-width: 600px;
+          margin: 0 auto;
+        }
+
+        .search-box {
+          position: relative;
+          display: flex;
+          align-items: center;
+          height: 64px;
+          background: var(--bg-surface-light);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-card);
+          padding: 0 var(--space-lg);
+          box-shadow: var(--shadow-card);
+          transition: var(--transition-fast);
+        }
+
+        .search-box:focus-within {
+          border-color: var(--primary-500);
+          box-shadow: 0 0 0 4px var(--primary-100), var(--shadow-card);
+        }
+
+        .search-icon {
+          color: var(--text-secondary-light);
+          margin-right: var(--space-sm);
+          flex-shrink: 0;
+        }
+
+        .search-input {
+          flex: 1;
+          border: none;
+          outline: none;
+          font-size: 16px;
+          background: transparent;
+          color: var(--text-primary-light);
+        }
+
+        .search-input::placeholder {
+          color: var(--text-secondary-light);
+        }
+
+        /* 筛选区域 */
+        .filter-section {
+          margin-bottom: var(--space-xl);
+        }
+
+        .filter-container {
+          display: flex;
+          gap: var(--space-sm);
+          overflow-x: auto;
+          padding: var(--space-sm) 0;
+          -webkit-overflow-scrolling: touch;
+        }
+
+        .filter-container::-webkit-scrollbar {
+          display: none;
+        }
+
+        .filter-pill {
+          display: flex;
+          align-items: center;
+          gap: var(--space-xs);
+          height: 40px;
+          padding: 0 var(--space-lg);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-pill);
+          background: transparent;
+          color: var(--text-secondary-light);
+          font-size: 14px;
+          font-weight: 500;
+          cursor: pointer;
+          transition: var(--transition-fast);
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+
+        .filter-pill:hover {
+          border-color: var(--primary-500);
+          color: var(--text-primary-light);
+        }
+
+        .filter-pill.active {
+          background: var(--primary-500);
+          border-color: var(--primary-500);
+          color: white;
+        }
+
+        .filter-pill .count {
+          font-size: 12px;
+          opacity: 0.7;
+        }
+
+        /* 主要内容区域 */
+        .main-content {
+          display: grid;
+          grid-template-columns: 1fr 320px;
+          gap: var(--space-xl);
+          margin-bottom: var(--space-xxl);
+        }
+
+        /* 信息流区域 */
+        .content-stream {
+          min-height: 600px;
+        }
+
+        .stream-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: var(--space-lg);
+        }
+
+        .section-title {
+          font-size: 32px;
+          font-weight: 600;
+          line-height: 1.25;
+          color: var(--text-primary-light);
+        }
+
+        .sort-select {
+          padding: var(--space-sm) var(--space-md);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-button);
+          background: var(--bg-surface-light);
+          color: var(--text-primary-light);
+          font-size: 14px;
+          cursor: pointer;
+          transition: var(--transition-fast);
+        }
+
+        .sort-select:hover {
+          border-color: var(--primary-500);
+        }
+
+        /* 新闻容器 */
+        .news-container {
+          display: flex;
+          flex-direction: column;
+          gap: var(--space-lg);
+        }
+
+        /* 新闻卡片 */
+        .news-card {
+          background: var(--bg-surface-light);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-card);
+          padding: var(--space-lg);
+          transition: var(--transition-fast);
+          cursor: pointer;
+          position: relative;
+          overflow: hidden;
+        }
+
+        .news-card:hover {
+          transform: translateY(-4px);
+          box-shadow: var(--shadow-card-hover);
+          border-color: var(--primary-500);
+        }
+
+        .news-card::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          height: 3px;
+          background: linear-gradient(90deg, var(--primary-500), var(--primary-600));
+          transform: scaleX(0);
+          transition: transform 0.3s ease;
+        }
+
+        .news-card:hover::before {
+          transform: scaleX(1);
+        }
+
+        /* 卡片头部 */
+        .card-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: flex-start;
+          margin-bottom: var(--space-md);
+        }
+
+        .source-info {
+          display: flex;
+          align-items: center;
+          gap: var(--space-xs);
+        }
+
+        .source-icon {
+          width: 16px;
+          height: 16px;
+          border-radius: 50%;
+          flex-shrink: 0;
+        }
+
+        .source-name {
+          font-size: 13px;
+          color: var(--text-secondary-light);
+          font-weight: 500;
+        }
+
+        .publish-time {
+          font-size: 13px;
+          color: var(--text-secondary-light);
+        }
+
+        /* 重要性评分 */
+        .importance-badge {
+          display: flex;
+          align-items: center;
+          gap: var(--space-xs);
+          padding: 4px var(--space-sm);
+          border-radius: var(--radius-pill);
+          font-size: 12px;
+          font-weight: 600;
+          flex-shrink: 0;
+        }
+
+        .importance-badge.high {
+          background: var(--color-high-impact);
+          color: white;
+        }
+
+        .importance-badge.medium {
+          background: var(--color-medium-impact);
+          color: white;
+        }
+
+        .importance-badge.low {
+          background: var(--color-tag-bg-light);
+          color: var(--text-secondary-light);
+        }
+
+        /* 卡片标题 */
+        .card-title {
+          font-size: 20px;
+          font-weight: 600;
+          line-height: 1.4;
+          color: var(--text-primary-light);
+          margin-bottom: var(--space-md);
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        .card-title:hover {
+          color: var(--primary-500);
+        }
+
+        /* 卡片摘要 */
+        .card-summary {
+          font-size: 16px;
+          line-height: 1.6;
+          color: var(--text-secondary-light);
+          margin-bottom: var(--space-md);
+          display: -webkit-box;
+          -webkit-line-clamp: 3;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        /* 卡片底部 */
+        .card-footer {
+          display: flex;
+          flex-wrap: wrap;
+          gap: var(--space-xs);
+        }
+
+        .keyword-tag {
+          padding: 4px var(--space-sm);
+          background: var(--color-tag-bg-light);
+          color: var(--text-secondary-light);
+          font-size: 13px;
+          border-radius: var(--radius-pill);
+          font-weight: 500;
+          transition: var(--transition-fast);
+        }
+
+        .keyword-tag:hover {
+          background: var(--primary-100);
+          color: var(--primary-600);
+          cursor: pointer;
+        }
+
+        /* 边栏 */
+        .sidebar {
+          display: flex;
+          flex-direction: column;
+          gap: var(--space-xl);
+        }
+
+        .sidebar-title {
+          display: flex;
+          align-items: center;
+          gap: var(--space-sm);
+          font-size: 18px;
+          font-weight: 600;
+          color: var(--text-primary-light);
+          margin-bottom: var(--space-lg);
+        }
+
+        /* 热点列表 */
+        .hot-section {
+          position: sticky;
+          top: var(--space-lg);
+        }
+
+        .hot-list {
+          background: var(--bg-surface-light);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-card);
+          overflow: hidden;
+        }
+
+        .hot-item {
+          display: flex;
+          align-items: center;
+          padding: var(--space-md) 0;
+          border-bottom: 1px solid var(--border-light);
+          transition: var(--transition-fast);
+          cursor: pointer;
+        }
+
+        .hot-item:last-child {
+          border-bottom: none;
+        }
+
+        .hot-item:hover {
+          background: var(--color-tag-bg-light);
+          padding-left: var(--space-sm);
+        }
+
+        .hot-rank {
+          width: 24px;
+          height: 24px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+          font-size: 14px;
+          font-weight: 600;
+          color: var(--primary-500);
+          margin-right: var(--space-md);
+          flex-shrink: 0;
+        }
+
+        .hot-rank.top-3 {
+          color: var(--color-high-impact);
+        }
+
+        .hot-title {
+          flex: 1;
+          font-size: 15px;
+          font-weight: 500;
+          line-height: 1.4;
+          color: var(--text-primary-light);
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+
+        .hot-trend {
+          display: flex;
+          align-items: center;
+          gap: 4px;
+          margin-left: var(--space-sm);
+          color: var(--color-high-impact);
+          font-size: 12px;
+          flex-shrink: 0;
+        }
+
+        /* 统计网格 */
+        .stats-grid {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          gap: var(--space-lg);
+        }
+
+        .stat-item {
+          text-align: center;
+          padding: var(--space-lg);
+          background: var(--bg-surface-light);
+          border: 1px solid var(--border-light);
+          border-radius: var(--radius-card);
+          transition: var(--transition-fast);
+        }
+
+        .stat-item:hover {
+          transform: translateY(-2px);
+          box-shadow: var(--shadow-card-hover);
+        }
+
+        .stat-number {
+          font-size: 24px;
+          font-weight: 700;
+          color: var(--primary-500);
+          margin-bottom: var(--space-xs);
+        }
+
+        .stat-label {
+          font-size: 13px;
+          color: var(--text-secondary-light);
+          font-weight: 500;
+        }
+
+        /* 加载更多按钮 */
+        .load-more-container {
+          display: flex;
+          justify-content: center;
+          margin-top: var(--space-xl);
+        }
+
+        .load-more-btn {
+          padding: var(--space-md) var(--space-xl);
+          border: 1px solid var(--primary-500);
+          border-radius: var(--radius-button);
+          background: transparent;
+          color: var(--primary-500);
+          font-size: 16px;
+          font-weight: 500;
+          cursor: pointer;
+          transition: var(--transition-fast);
+        }
+
+        .load-more-btn:hover {
+          background: var(--primary-500);
+          color: white;
+          transform: translateY(-2px);
+        }
+
+        /* 动画 */
+        @keyframes fadeInUp {
+          from {
+            opacity: 0;
+            transform: translateY(20px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+
+        .fade-in-up {
+          animation: fadeInUp 0.5s ease-out;
+        }
+
+        /* 滚动条样式 */
+        ::-webkit-scrollbar {
+          width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+          background: var(--color-tag-bg-light);
+        }
+
+        ::-webkit-scrollbar-thumb {
+          background: var(--text-secondary-light);
+          border-radius: 3px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+          background: var(--primary-500);
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 768px) {
+          .container {
+            padding: 0 var(--space-sm);
+          }
+          
+          .hero {
+            min-height: 300px;
+            padding: var(--space-xl) 0;
+          }
+          
+          .hero-title {
+            font-size: 32px;
+          }
+          
+          .hero-subtitle {
+            font-size: 16px;
+          }
+          
+          .main-content {
+            display: block;
+          }
+          
+          .sidebar {
+            margin-top: var(--space-xl);
+          }
+          
+          .section-title {
+            font-size: 24px;
+          }
+          
+          .card-title {
+            font-size: 18px;
+          }
+          
+          .stats-grid {
+            grid-template-columns: 1fr;
+          }
+        }
+
+        /* 高亮搜索结果 */
+        .search-highlight {
+          background: var(--primary-100);
+          color: var(--primary-600);
+          padding: 2px 4px;
+          border-radius: 4px;
+          font-weight: 500;
+        }
+
+        /* 徽章组件 */
+        .badge {
+          display: inline-flex;
+          align-items: center;
+          gap: 4px;
+          padding: 2px var(--space-xs);
+          border-radius: var(--radius-pill);
+          font-size: 11px;
+          font-weight: 600;
+          text-transform: uppercase;
+          letter-spacing: 0.5px;
+        }
+
+        .badge.new {
+          background: var(--color-high-impact);
+          color: white;
+        }
+
+        .badge.trending {
+          background: var(--color-medium-impact);
+          color: white;
+        }
+    </style>
+</head>
+<body>
+    <!-- 主题切换按钮 -->
+    <button id="themeToggle" class="theme-toggle" aria-label="切换主题">
+        <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/>
+            <line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/>
+            <line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+        </svg>
+        <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+    </button>
+
+    <!-- 主容器 -->
+    <div class="container">
+        <!-- Hero搜索区域 -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title">探索AI未来</h1>
+                <p class="hero-subtitle">汇聚全球AI领域最新资讯，掌握技术发展趋势</p>
+                
+                <!-- 搜索框 -->
+                <div class="search-container">
+                    <div class="search-box">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"/>
+                            <path d="m21 21-4.35-4.35"/>
+                        </svg>
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            placeholder="搜索AI资讯、关键词或公司..." 
+                            class="search-input"
+                        >
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 分类筛选栏 -->
+        <section class="filter-section">
+            <div class="filter-container">
+                <button class="filter-pill active" data-category="all">
+                    全部资讯
+                    <span class="count">156</span>
+                </button>
+                <button class="filter-pill" data-category="tech">
+                    技术突破
+                    <span class="count">43</span>
+                </button>
+                <button class="filter-pill" data-category="industry">
+                    产业动态
+                    <span class="count">67</span>
+                </button>
+                <button class="filter-pill" data-category="application">
+                    应用场景
+                    <span class="count">31</span>
+                </button>
+                <button class="filter-pill" data-category="policy">
+                    政策法规
+                    <span class="count">15</span>
+                </button>
+            </div>
+        </section>
+
+        <!-- 主要内容区域 -->
+        <main class="main-content">
+            <!-- 左侧信息流 -->
+            <section class="content-stream">
+                <div class="stream-header">
+                    <h2 class="section-title">最新资讯</h2>
+                    <select id="sortSelect" class="sort-select">
+                        <option value="time">按时间排序</option>
+                        <option value="importance">按重要性排序</option>
+                        <option value="relevance">按相关性排序</option>
+                    </select>
+                </div>
+                
+                <!-- 信息流容器 -->
+                <div id="newsContainer" class="news-container">
+                    <!-- 新闻卡片将通过JavaScript动态生成 -->
+                </div>
+                
+                <!-- 加载更多按钮 -->
+                <div class="load-more-container">
+                    <button id="loadMore" class="load-more-btn">
+                        加载更多资讯
+                    </button>
+                </div>
+            </section>
+
+            <!-- 右侧边栏 -->
+            <aside class="sidebar">
+                <!-- 每日热点 -->
+                <div class="hot-section">
+                    <h3 class="sidebar-title">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/>
+                        </svg>
+                        今日热点
+                    </h3>
+                    <div class="hot-list" id="hotList">
+                        <div class="hot-item">
+                            <div class="hot-rank top-3">1</div>
+                            <div class="hot-title">OpenAI发布GPT-5模型</div>
+                            <div class="hot-trend">↗ +15%</div>
+                        </div>
+                        <div class="hot-item">
+                            <div class="hot-rank top-3">2</div>
+                            <div class="hot-title">Anthropic完成40亿美元融资</div>
+                            <div class="hot-trend">↗ +12%</div>
+                        </div>
+                        <div class="hot-item">
+                            <div class="hot-rank top-3">3</div>
+                            <div class="hot-title">Meta发布Llama 3开源模型</div>
+                            <div class="hot-trend">↗ +8%</div>
+                        </div>
+                        <div class="hot-item">
+                            <div class="hot-rank">4</div>
+                            <div class="hot-title">欧盟AI法案实施细则</div>
+                            <div class="hot-trend">→ 0%</div>
+                        </div>
+                        <div class="hot-item">
+                            <div class="hot-rank">5</div>
+                            <div class="hot-title">特斯拉FSD Beta更新</div>
+                            <div class="hot-trend">↗ +5%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 数据统计 -->
+                <div class="stats-section">
+                    <h3 class="sidebar-title">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 3v18h18"/>
+                            <path d="m19 9-5 5-4-4-3 3"/>
+                        </svg>
+                        实时统计
+                    </h3>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <div class="stat-number">156</div>
+                            <div class="stat-label">今日资讯</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">23</div>
+                            <div class="stat-label">高影响力</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">45</div>
+                            <div class="stat-label">数据源</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">5分钟</div>
+                            <div class="stat-label">更新频率</div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </main>
+    </div>
+
+    <script>
+        // ===============================================
+        // 模拟数据
+        // ===============================================
+        
+        const mockNewsData = [
+          {
+            id: 1,
+            title: "OpenAI发布GPT-5模型：多模态能力实现重大突破",
+            summary: "OpenAI今日正式发布GPT-5模型，该模型在推理能力、多模态理解和代码生成方面实现显著提升。新模型支持文本、图像、音频和视频的联合处理，在复杂任务上的表现接近人类水平。",
+            category: "tech",
+            source: "OpenAI官方博客",
+            sourceIcon: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "2小时前",
+            importance: 9.5,
+            keywords: ["GPT-5", "多模态", "OpenAI", "大语言模型"],
+            sentiment: "positive",
+            url: "https://openai.com/blog/gpt-5",
+            isNew: true,
+            isTrending: true
+          },
+          {
+            id: 2,
+            title: "Google DeepMind推出AlphaCode 2.0：编程能力接近人类程序员",
+            summary: "Google DeepMind发布了AlphaCode 2.0系统，该系统在编程竞赛中表现出色，能够解决复杂算法问题。新的系统在代码生成准确率和执行效率方面都有显著提升。",
+            category: "tech",
+            source: "DeepMind",
+            sourceIcon: "https://images.unsplash.com/photo-1633265486064-086b219458ec?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "4小时前",
+            importance: 8.8,
+            keywords: ["AlphaCode", "编程AI", "Google", "代码生成"],
+            sentiment: "positive",
+            url: "https://deepmind.com/blog/alphacode-2",
+            isNew: true,
+            isTrending: false
+          },
+          {
+            id: 3,
+            title: "Anthropic完成40亿美元C轮融资，估值达到180亿美元",
+            summary: "人工智能安全公司Anthropic完成40亿美元的C轮融资，由Amazon和Google共同领投。本轮融资将用于推进AI安全研究和Claude模型的开发。",
+            category: "industry",
+            source: "TechCrunch",
+            sourceIcon: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "6小时前",
+            importance: 9.2,
+            keywords: ["Anthropic", "融资", "Claude", "AI安全"],
+            sentiment: "positive",
+            url: "https://techcrunch.com/2025/12/18/anthropic-funding",
+            isNew: false,
+            isTrending: true
+          },
+          {
+            id: 4,
+            title: "Meta发布Llama 3：开源大模型的新里程碑",
+            summary: "Meta发布了Llama 3开源大语言模型，该模型在多项基准测试中超越了GPT-3.5。模型提供70B和405B两个版本，支持多种编程语言和复杂的推理任务。",
+            category: "tech",
+            source: "Meta AI",
+            sourceIcon: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "8小时前",
+            importance: 9.0,
+            keywords: ["Llama 3", "开源", "Meta", "大语言模型"],
+            sentiment: "positive",
+            url: "https://ai.meta.com/blog/llama-3",
+            isNew: false,
+            isTrending: true
+          },
+          {
+            id: 5,
+            title: "欧盟发布《AI法案》实施细则，2025年3月正式生效",
+            summary: "欧盟委员会发布了《AI法案》的详细实施细则，对高风险AI系统提出具体要求。该法案将于2025年3月开始实施，将对全球AI行业产生深远影响。",
+            category: "policy",
+            source: "欧盟委员会",
+            sourceIcon: "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "10小时前",
+            importance: 8.5,
+            keywords: ["AI法案", "欧盟", "监管", "高风险AI"],
+            sentiment: "neutral",
+            url: "https://ec.europa.eu/ai-act-implementation",
+            isNew: false,
+            isTrending: false
+          },
+          {
+            id: 6,
+            title: "NVIDIA发布H200 GPU：AI训练性能提升2.4倍",
+            summary: "NVIDIA发布了专为AI训练设计的H200 GPU，采用最新的Hopper架构。该GPU在大型语言模型训练方面的性能相比H100提升2.4倍，内存带宽提升2.8倍。",
+            category: "tech",
+            source: "NVIDIA",
+            sourceIcon: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=32&h=32&fit=crop&crop=faces",
+            publishTime: "12小时前",
+            importance: 8.7,
+            keywords: ["H200", "NVIDIA", "GPU", "AI训练"],
+            sentiment: "positive",
+            url: "https://nvidianews.nvidia.com/news/h200-gpu",
+            isNew: false,
+            isTrending: false
+          }
+        ];
+
+        // ===============================================
+        // 工具函数
+        // ===============================================
+        
+        function debounce(func, delay) {
+          let timeoutId;
+          return function (...args) {
+            clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => func.apply(this, args), delay);
+          };
+        }
+
+        function highlightSearchText(text, query) {
+          if (!query) return text;
+          const regex = new RegExp(`(${query})`, 'gi');
+          return text.replace(regex, '<span class="search-highlight">$1</span>');
+        }
+
+        function getImportanceLevel(score) {
+          if (score >= 8.5) return 'high';
+          if (score >= 7.0) return 'medium';
+          return 'low';
+        }
+
+        // ===============================================
+        // 主应用逻辑
+        // ===============================================
+        
+        class AIInfoApp {
+          constructor() {
+            this.currentPage = 1;
+            this.pageSize = 10;
+            this.currentCategory = 'all';
+            this.currentQuery = '';
+            this.currentSort = 'time';
+            this.allNews = mockNewsData;
+            this.filteredNews = [];
+            this.displayedNews = [];
+            
+            this.init();
+          }
+          
+          init() {
+            this.initTheme();
+            this.bindEvents();
+            this.applyFilters();
+          }
+          
+          initTheme() {
+            const savedTheme = localStorage.get('theme', 'light');
+            this.setTheme(savedTheme);
+            
+            document.getElementById('themeToggle').addEventListener('click', () => {
+              const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+              const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+              this.setTheme(newTheme);
+            });
+          }
+          
+          setTheme(theme) {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+          }
+          
+          bindEvents() {
+            // 搜索功能
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', debounce((e) => {
+              this.handleSearch(e.target.value);
+            }, 300));
+            
+            // 分类筛选
+            document.querySelectorAll('.filter-pill').forEach(btn => {
+              btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active'));
+                e.target.classList.add('active');
+                this.filterByCategory(e.target.dataset.category);
+              });
+            });
+            
+            // 排序功能
+            document.getElementById('sortSelect').addEventListener('change', (e) => {
+              this.handleSort(e.target.value);
+            });
+          }
+          
+          handleSearch(query) {
+            this.currentQuery = query.trim();
+            this.currentPage = 1;
+            this.applyFilters();
+          }
+          
+          filterByCategory(category) {
+            this.currentCategory = category;
+            this.currentPage = 1;
+            this.applyFilters();
+          }
+          
+          handleSort(sort) {
+            this.currentSort = sort;
+            this.currentPage = 1;
+            this.applyFilters();
+          }
+          
+          applyFilters() {
+筛选
+            let            // 分类 filtered = this.allNews;
+            if (this.currentCategory !== 'all') {
+              filtered = filtered.filter(news => news.category === this.currentCategory);
+            }
+            
+            // 搜索筛选
+            if (this.currentQuery) {
+              const lowerQuery = this.currentQuery.toLowerCase();
+              filtered = filtered.filter(news => 
+                news.title.toLowerCase().includes(lowerQuery) ||
+                news.summary.toLowerCase().includes(lowerQuery) ||
+                news.keywords.some(keyword => keyword.toLowerCase().includes(lowerQuery))
+              );
+            }
+            
+            // 排序
+            if (this.currentSort === 'importance') {
+              filtered.sort((a, b) => b.importance - a.importance);
+            }
+            
+            this.filteredNews = filtered;
+            this.updateDisplay();
+          }
+          
+          updateDisplay() {
+            const startIndex = 0;
+            const endIndex = this.currentPage * this.pageSize;
+            this.displayedNews = this.filteredNews.slice(startIndex, endIndex);
+            this.renderNewsList();
+          }
+          
+          renderNewsList() {
+            const container = document.getElementById('newsContainer');
+            container.innerHTML = '';
+            
+            this.displayedNews.forEach(newsItem => {
+              const importanceLevel = getImportanceLevel(newsItem.importance);
+              const title = this.currentQuery ? highlightSearchText(newsItem.title, this.currentQuery) : newsItem.title;
+              const summary = this.currentQuery ? highlightSearchText(newsItem.summary, this.currentQuery) : newsItem.summary;
+              
+              const card = document.createElement('div');
+              card.className = 'news-card fade-in-up';
+              card.innerHTML = `
+                <div class="card-header">
+                  <div class="source-info">
+                    <img src="${newsItem.sourceIcon}" alt="${newsItem.source}" class="source-icon" onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0Y1RjlGQiIvPgo8dGV4dCB4PSI4IiB5PSI4LjUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI0Y4RkFGQyIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RzwvdGV4dD4KPC9zdmc+'">
+                    <span class="source-name">${newsItem.source}</span>
+                    <span class="publish-time">${newsItem.publishTime}</span>
+                  </div>
+                  <div class="importance-badge ${importanceLevel}">
+                    <span class="importance-score">${newsItem.importance.toFixed(1)}</span>
+                    ${newsItem.isNew ? '<span class="badge new">NEW</span>' : ''}
+                    ${newsItem.isTrending ? '<span class="badge trending">HOT</span>' : ''}
+                  </div>
+                </div>
+                
+                <h3 class="card-title">${title}</h3>
+                <p class="card-summary">${summary}</p>
+                
+                <div class="card-footer">
+                  ${newsItem.keywords.map(keyword => 
+                    `<span class="keyword-tag">${keyword}</span>`
+                  ).join('')}
+                </div>
+              `;
+              
+              card.addEventListener('click', () => {
+                window.open(newsItem.url, '_blank');
+              });
+              
+              container.appendChild(card);
+            });
+          }
+        }
+
+        // 页面加载完成后初始化应用
+        document.addEventListener('DOMContentLoaded', () => {
+          window.aiApp = new AIInfoApp();
+        });
+    </script>
+</body>
+</html>
