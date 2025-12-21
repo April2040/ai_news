@@ -103,6 +103,30 @@ class RSSDataSource(DataSource):
         
         return any(keyword.lower() in content for keyword in ai_keywords)
     
+    def _clean_and_truncate_summary(self, summary: str, max_length: int = 300) -> str:
+        """清理HTML标签并截断摘要"""
+        # 移除HTML标签
+        clean_summary = re.sub(r'<[^>]+>', '', summary)
+        # 移除多余空白
+        clean_summary = re.sub(r'\s+', ' ', clean_summary).strip()
+        # 移除HTML实体
+        clean_summary = re.sub(r'&[a-zA-Z0-9#]+;', '', clean_summary)
+        
+        # 截断到指定长度
+        if len(clean_summary) > max_length:
+            truncated = clean_summary[:max_length]
+            last_period = truncated.rfind('.')
+            last_space = truncated.rfind(' ')
+            
+            if last_period > max_length * 0.6:
+                return truncated[:last_period + 1]
+            elif last_space > max_length * 0.6:
+                return truncated[:last_space] + '...'
+            else:
+                return truncated + '...'
+        
+        return clean_summary
+    
     def _parse_rss_entry(self, entry) -> Optional[NewsItem]:
         """解析RSS条目"""
         try:
@@ -111,6 +135,9 @@ class RSSDataSource(DataSource):
             url = getattr(entry, 'link', '')
             author = getattr(entry, 'author', '')
             published = getattr(entry, 'published', '')
+            
+            # 清理并截断摘要
+            summary = self._clean_and_truncate_summary(summary, max_length=300)
             
             # 生成唯一ID
             content_hash = hashlib.md5(f"{title}{url}".encode()).hexdigest()[:16]
