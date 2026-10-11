@@ -8,14 +8,14 @@
     "source": "The Verge AI",
     "author": "Terrence O’Brien",
     "published_date": "2026-10-10T10:41:16-04:00",
-    "importance_score": 8.899999999999999,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116250"
+    "created_at": "2026-10-11T00:12:19.343442"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -26,14 +26,14 @@
     "source": "The Verge AI",
     "author": "Hayden Field",
     "published_date": "2026-10-10T09:00:00-04:00",
-    "importance_score": 8.899999999999999,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116352"
+    "created_at": "2026-10-11T00:12:19.343510"
   },
   {
     "id": "TechCrunch AI_5c35a03a78593288",
@@ -51,25 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141308"
-  },
-  {
-    "id": "The Verge AI_fd362c0a9643dfee",
-    "title": "Anthropic launches free AI security scans for open-source projects",
-    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.",
-    "content": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-08T17:53:51-04:00",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116950"
+    "created_at": "2026-10-11T00:12:18.415851"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -87,7 +69,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647720"
+    "created_at": "2026-10-11T00:12:25.584593"
   },
   {
     "id": "The Verge AI_f3e6c868216c529e",
@@ -105,7 +87,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116879"
+    "created_at": "2026-10-11T00:12:19.343857"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -123,25 +105,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647350"
-  },
-  {
-    "id": "TechCrunch AI_1b49e64516feef16",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Fri, 09 Oct 2026 21:41:29 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141394"
+    "created_at": "2026-10-11T00:12:25.584332"
   },
   {
     "id": "Wired AI_3ce1800e662a4d1b",
@@ -160,61 +124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187657"
-  },
-  {
-    "id": "TechCrunch AI_7f44ec7bd80a9568",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 09 Oct 2026 19:36:56 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141463"
-  },
-  {
-    "id": "The Verge AI_fc5ad79e449dab4d",
-    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-09T17:15:38-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116455"
-  },
-  {
-    "id": "The Verge AI_32f5ab5c8f7226f2",
-    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-09T15:09:44-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116535"
+    "created_at": "2026-10-11T00:12:20.380160"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -233,7 +143,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647583"
+    "created_at": "2026-10-11T00:12:25.584498"
+  },
+  {
+    "id": "TechCrunch AI_0981bd5f8bd96b76",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 21:47:51 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:18.415592"
+  },
+  {
+    "id": "The Verge AI_77eb3f37805c8078",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "content": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T18:10:17-04:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:19.343321"
+  },
+  {
+    "id": "TechCrunch AI_1b49e64516feef16",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Fri, 09 Oct 2026 21:41:29 +0000",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:18.415910"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -253,7 +215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647876"
+    "created_at": "2026-10-11T00:12:25.584676"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -273,7 +235,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.648031"
+    "created_at": "2026-10-11T00:12:25.584767"
+  },
+  {
+    "id": "TechCrunch AI_141ff54715bb0b79",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "content": "Is Apple hoping to get into the AI-generated podcast business?",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 19:50:00 +0000",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:18.415656"
   },
   {
     "id": "Wired AI_453ef1ca6b4ca6d3",
@@ -293,7 +272,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187580"
+    "created_at": "2026-10-11T00:12:20.380105"
+  },
+  {
+    "id": "TechCrunch AI_7f44ec7bd80a9568",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 09 Oct 2026 19:36:56 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:18.415974"
+  },
+  {
+    "id": "The Verge AI_fc5ad79e449dab4d",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
+    "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-09T17:15:38-04:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:19.343576"
+  },
+  {
+    "id": "The Verge AI_32f5ab5c8f7226f2",
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
+    "content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-09T15:09:44-04:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:19.343632"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -312,7 +345,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647783"
+    "created_at": "2026-10-11T00:12:25.584635"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -330,7 +363,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647497"
+    "created_at": "2026-10-11T00:12:25.584443"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -348,7 +381,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647958"
+    "created_at": "2026-10-11T00:12:25.584727"
   },
   {
     "id": "Wired AI_b5977a5ac354a0a6",
@@ -367,7 +400,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:28.187510"
+    "created_at": "2026-10-11T00:12:20.380056"
   },
   {
     "id": "Wired AI_aa7cad7058db291b",
@@ -385,7 +418,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187731"
+    "created_at": "2026-10-11T00:12:20.380212"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -403,41 +436,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:29.191435"
+    "created_at": "2026-10-11T00:12:21.366895"
   },
   {
-    "id": "TechCrunch AI_1dd49211cda47cc6",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "content": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Sat, 10 Oct 2026 15:00:00 +0000",
+    "id": "The Verge AI_0d0cf25998a72426",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T14:52:07-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141119"
-  },
-  {
-    "id": "TechCrunch AI_955eaaf6ff27f012",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 10 Oct 2026 14:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141213"
+    "created_at": "2026-10-11T00:12:19.343384"
   },
   {
     "id": "arXiv AI_a2deae43ade3c42c",
@@ -454,7 +470,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.470693"
+    "created_at": "2026-10-11T00:12:31.790193"
   },
   {
     "id": "TechCrunch AI_f7393fa7324efa34",
@@ -471,60 +487,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141649"
-  },
-  {
-    "id": "Wired AI_e1180b433a69ded0",
-    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-    "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "content": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer",
-    "published_date": "Thu, 08 Oct 2026 19:30:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187371"
-  },
-  {
-    "id": "Lobsters AI_8ba462776cd58e6f",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "source": "Lobsters AI",
-    "author": "buchodi.com via jrgtt",
-    "published_date": "Sun, 20 Sep 2026 12:43:10 -0500",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:45.492880"
-  },
-  {
-    "id": "Wired AI_b945b71eb5b00e30",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "source": "Wired AI",
-    "author": "Adam Morgan",
-    "published_date": "Fri, 09 Oct 2026 19:28:49 +0000",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187151"
+    "created_at": "2026-10-11T00:12:18.416123"
   },
   {
     "id": "MIT Technology Review_2c778ea740f7f046",
@@ -541,7 +504,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:31.238408"
+    "created_at": "2026-10-11T00:12:23.378071"
   },
   {
     "id": "MIT Technology Review_3f3afb799134c646",
@@ -558,7 +521,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:31.238557"
+    "created_at": "2026-10-11T00:12:23.378176"
   },
   {
     "id": "TechCrunch AI_bd69296d7ea9a044",
@@ -575,7 +538,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141559"
+    "created_at": "2026-10-11T00:12:18.416062"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -592,41 +555,58 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647428"
+    "created_at": "2026-10-11T00:12:25.584393"
   },
   {
-    "id": "Reddit ML_554184439e6f7cf1",
-    "title": "ICLR submissions are broken. Maybe a prediction market? [P]",
-    "summary": "ICLR has received 40k submissions this year and it is becoming quite difficult to make sense of all of the papers (including a lot of AI generated ones). Larry Wasserman called for “A World Without Referees” back in 2012 [1], but peer review hasn’t changed much since. I built https://acceptodds.",
-    "content": "ICLR has received 40k submissions this year and it is becoming quite difficult to make sense of all of the papers (including a lot of AI generated ones). Larry Wasserman called for “A World Without Referees” back in 2012 [1], but peer review hasn’t changed much since. I built https://acceptodds.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2hqwz/iclr_submissions_are_broken_maybe_a_prediction/",
-    "source": "Reddit ML",
-    "author": "/u/benedict-armstrong",
-    "published_date": "2026-10-10T15:14:54+00:00",
+    "id": "Lobsters AI_3de27b116cdf95ce",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "Lobsters AI",
+    "author": "arxiv.org via Yogthos",
+    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.918165"
+    "created_at": "2026-10-11T00:12:37.666391"
   },
   {
-    "id": "The Verge AI_001f5a0c7e1f43fb",
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
-    "content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-09T14:06:57-04:00",
+    "id": "TechCrunch AI_1dd49211cda47cc6",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "content": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Sat, 10 Oct 2026 15:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116608"
+    "created_at": "2026-10-11T00:12:18.415737"
+  },
+  {
+    "id": "TechCrunch AI_955eaaf6ff27f012",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Sat, 10 Oct 2026 14:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:18.415789"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -643,7 +623,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187076"
+    "created_at": "2026-10-11T00:12:20.379727"
   },
   {
     "id": "arXiv AI_b3aa6906ed80bc45",
@@ -661,7 +641,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.471646"
+    "created_at": "2026-10-11T00:12:31.790887"
+  },
+  {
+    "id": "Reddit ML_32ed2dc60959809c",
+    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+    "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens  submitted by  /u/Alarming-Emotion-894 [link]  [comments]",
+    "content": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens  submitted by  /u/Alarming-Emotion-894 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+    "source": "Reddit ML",
+    "author": "/u/Alarming-Emotion-894",
+    "published_date": "2026-10-10T18:08:33+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:37.187096"
   },
   {
     "id": "Reddit ML_efa57a2bdc303315",
@@ -678,7 +675,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.918230"
+    "created_at": "2026-10-11T00:12:37.187480"
+  },
+  {
+    "id": "Wired AI_e1180b433a69ded0",
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "content": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "source": "Wired AI",
+    "author": "Zoë Schiffer",
+    "published_date": "Thu, 08 Oct 2026 19:30:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:20.379957"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -695,7 +709,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:30.371841"
+    "created_at": "2026-10-11T00:12:22.485158"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -712,7 +726,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:30.371999"
+    "created_at": "2026-10-11T00:12:22.485270"
   },
   {
     "id": "arXiv AI_2b833c104b8bf5eb",
@@ -729,7 +743,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.471097"
+    "created_at": "2026-10-11T00:12:31.790480"
   },
   {
     "id": "arXiv AI_7991b31366f52426",
@@ -746,7 +760,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.471528"
+    "created_at": "2026-10-11T00:12:31.790800"
   },
   {
     "id": "Reddit ML_3020c5b259ef5ff0",
@@ -764,7 +778,25 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.918339"
+    "created_at": "2026-10-11T00:12:37.187373"
+  },
+  {
+    "id": "Wired AI_b945b71eb5b00e30",
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "source": "Wired AI",
+    "author": "Adam Morgan",
+    "published_date": "Fri, 09 Oct 2026 19:28:49 +0000",
+    "importance_score": 5.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:20.379783"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -781,7 +813,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:29.191367"
+    "created_at": "2026-10-11T00:12:21.366847"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -798,7 +830,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:29.191509"
+    "created_at": "2026-10-11T00:12:21.366958"
   },
   {
     "id": "arXiv AI_15c61c1956a8e39d",
@@ -815,7 +847,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.470855"
+    "created_at": "2026-10-11T00:12:31.790298"
   },
   {
     "id": "arXiv AI_88925c51e866a842",
@@ -832,7 +864,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.471227"
+    "created_at": "2026-10-11T00:12:31.790579"
   },
   {
     "id": "arXiv AI_75dcefcb073c8d81",
@@ -849,7 +881,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:39.471325"
+    "created_at": "2026-10-11T00:12:31.790652"
   },
   {
     "id": "arXiv AI_bc390922ca05e476",
@@ -864,7 +896,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:39.471433"
+    "created_at": "2026-10-11T00:12:31.790732"
   },
   {
     "id": "arXiv AI_7d76a8ae35982580",
@@ -879,7 +911,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-10T18:04:39.471755"
+    "created_at": "2026-10-11T00:12:31.790981"
   },
   {
     "id": "Reddit ML_27ccb1529108d62b",
@@ -896,41 +928,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.917640"
+    "created_at": "2026-10-11T00:12:37.187039"
   },
   {
-    "id": "TechCrunch AI_ddc8fff9e50c547c",
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "content": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 09 Oct 2026 16:40:14 +0000",
+    "id": "The Verge AI_001f5a0c7e1f43fb",
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
+    "content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-09T14:06:57-04:00",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141762"
-  },
-  {
-    "id": "TechCrunch AI_526b4d15da3837a2",
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "content": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Fri, 09 Oct 2026 15:43:33 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:26.141866"
+    "created_at": "2026-10-11T00:12:19.343682"
   },
   {
     "id": "The Verge AI_990482e0e8c0771c",
@@ -947,7 +962,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:27.116698"
+    "created_at": "2026-10-11T00:12:19.343745"
   },
   {
     "id": "The Verge AI_0184b79f39ed8ad4",
@@ -964,24 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.116779"
-  },
-  {
-    "id": "The Verge AI_97c1b398600d031f",
-    "title": "California is trying to shut down robot vs. human cage matches",
-    "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a...",
-    "content": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a...",
-    "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-08T16:06:56-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:27.117028"
+    "created_at": "2026-10-11T00:12:19.343803"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -998,24 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187223"
-  },
-  {
-    "id": "Wired AI_25bfb5076c1a53ca",
-    "title": "Inside Elon Musk’s Midterm Spending Spree",
-    "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "content": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer, Leah Feiger",
-    "published_date": "Thu, 08 Oct 2026 21:14:12 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187303"
+    "created_at": "2026-10-11T00:12:20.379837"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1032,7 +1013,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-10T18:04:31.237915"
+    "created_at": "2026-10-11T00:12:23.377690"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1049,7 +1030,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:31.238023"
+    "created_at": "2026-10-11T00:12:23.377773"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1066,24 +1047,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:31.238116"
-  },
-  {
-    "id": "MIT Technology Review_0b9e9c0161c09cde",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review",
-    "published_date": "Fri, 09 Oct 2026 00:08:24 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:31.238211"
+    "created_at": "2026-10-11T00:12:23.377843"
   },
   {
     "id": "arXiv AI_5203d9095f6fab0b",
@@ -1098,7 +1062,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:39.470977"
+    "created_at": "2026-10-11T00:12:31.790387"
   },
   {
     "id": "Reddit ML_7e95bafd3ee60994",
@@ -1115,24 +1079,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.917764"
-  },
-  {
-    "id": "Reddit ML_60f3241c07f45c9f",
-    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-    "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
-    "content": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-    "source": "Reddit ML",
-    "author": "/u/Old_Cow_6636",
-    "published_date": "2026-10-09T19:52:54+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.917941"
+    "created_at": "2026-10-11T00:12:37.187186"
   },
   {
     "id": "Reddit ML_146871d7d2ff2418",
@@ -1147,22 +1094,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.918039"
-  },
-  {
-    "id": "Reddit ML_724010927e7fb8e0",
-    "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
-    "summary": "Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-source (MIT) and on PyPI, so sharing it here if somebody finds it useful. Code: https://github.",
-    "content": "Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-source (MIT) and on PyPI, so sharing it here if somebody finds it useful. Code: https://github.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
-    "source": "Reddit ML",
-    "author": "/u/nmilosev",
-    "published_date": "2026-10-09T18:59:11+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.918437"
+    "created_at": "2026-10-11T00:12:37.187438"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -1179,7 +1111,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:45.492738"
+    "created_at": "2026-10-11T00:12:37.666563"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -1196,7 +1128,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:33.647647"
+    "created_at": "2026-10-11T00:12:25.584542"
+  },
+  {
+    "id": "Reddit ML_47559a57ccc911d3",
+    "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+    "summary": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: Reduced a 537,748-parameter CNN to 4,080 trainable parameters (131.",
+    "content": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: Reduced a 537,748-parameter CNN to 4,080 trainable parameters (131.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
+    "source": "Reddit ML",
+    "author": "/u/Less_Dream_6331",
+    "published_date": "2026-10-09T08:05:23+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:37.187580"
+  },
+  {
+    "id": "Wired AI_25bfb5076c1a53ca",
+    "title": "Inside Elon Musk’s Midterm Spending Spree",
+    "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "content": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "source": "Wired AI",
+    "author": "Zoë Schiffer, Leah Feiger",
+    "published_date": "Thu, 08 Oct 2026 21:14:12 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:20.379896"
   },
   {
     "id": "Wired AI_d3abbd45186f0626",
@@ -1213,7 +1180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:28.187451"
+    "created_at": "2026-10-11T00:12:20.380017"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1230,7 +1197,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:30.371917"
+    "created_at": "2026-10-11T00:12:22.485211"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1247,7 +1214,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:30.372075"
+    "created_at": "2026-10-11T00:12:22.485321"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1264,7 +1231,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:30.372134"
+    "created_at": "2026-10-11T00:12:22.485362"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -1281,7 +1248,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:30.372187"
+    "created_at": "2026-10-11T00:12:22.485397"
+  },
+  {
+    "id": "MIT Technology Review_0b9e9c0161c09cde",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review",
+    "published_date": "Fri, 09 Oct 2026 00:08:24 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:23.377911"
   },
   {
     "id": "MIT Technology Review_646fc4027cd19148",
@@ -1298,7 +1282,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-10T18:04:31.238301"
+    "created_at": "2026-10-11T00:12:23.377991"
   },
   {
     "id": "MIT Technology Review_d4b840292d486f3a",
@@ -1315,7 +1299,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:31.238483"
+    "created_at": "2026-10-11T00:12:23.378124"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1332,7 +1316,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:32.315964"
+    "created_at": "2026-10-11T00:12:24.411687"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1349,7 +1333,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:32.316038"
+    "created_at": "2026-10-11T00:12:24.411742"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1366,7 +1350,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:29.191579"
+    "created_at": "2026-10-11T00:12:21.367007"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1383,7 +1367,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:36.329805"
+    "created_at": "2026-10-11T00:12:28.462814"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1400,7 +1384,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:36.329879"
+    "created_at": "2026-10-11T00:12:28.462864"
+  },
+  {
+    "id": "Reddit ML_60f3241c07f45c9f",
+    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+    "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
+    "content": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+    "source": "Reddit ML",
+    "author": "/u/Old_Cow_6636",
+    "published_date": "2026-10-09T19:52:54+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T00:12:37.187294"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1417,7 +1418,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:32.316111"
+    "created_at": "2026-10-11T00:12:24.411792"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1435,7 +1436,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:45.492598"
+    "created_at": "2026-10-11T00:12:37.666473"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1452,7 +1453,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:45.492673"
+    "created_at": "2026-10-11T00:12:37.666520"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1467,7 +1468,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:44.917509"
+    "created_at": "2026-10-11T00:12:37.186927"
   },
   {
     "id": "Lobsters AI_c13f57db1c98dade",
@@ -1484,6 +1485,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-10T18:04:45.492816"
+    "created_at": "2026-10-11T00:12:37.666600"
   }
 ]
