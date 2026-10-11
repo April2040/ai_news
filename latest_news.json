@@ -1,5 +1,24 @@
 [
   {
+    "id": "TechCrunch AI_332b3aa926a1cb9e",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "content": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:04:44.547438"
+  },
+  {
     "id": "The Verge AI_1ef98de1a39bfebd",
     "title": "Anthropic is cutting off its internal evaluations from the internet",
     "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led...",
@@ -8,14 +27,14 @@
     "source": "The Verge AI",
     "author": "Terrence O’Brien",
     "published_date": "2026-10-10T10:41:16-04:00",
-    "importance_score": 8.4,
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063779"
+    "created_at": "2026-10-11T18:04:45.594342"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -26,14 +45,14 @@
     "source": "The Verge AI",
     "author": "Hayden Field",
     "published_date": "2026-10-10T09:00:00-04:00",
-    "importance_score": 8.4,
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063855"
+    "created_at": "2026-10-11T18:04:45.594442"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -51,7 +70,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416724"
+    "created_at": "2026-10-11T18:04:51.964055"
   },
   {
     "id": "TechCrunch AI_5c35a03a78593288",
@@ -69,7 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143725"
+    "created_at": "2026-10-11T18:04:44.547868"
   },
   {
     "id": "Wired AI_3ce1800e662a4d1b",
@@ -88,7 +107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122623"
+    "created_at": "2026-10-11T18:04:46.519409"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -107,24 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416620"
-  },
-  {
-    "id": "Wired AI_ac85c289c02960c0",
-    "title": "I Made Terrible Games With Google’s AI Playground",
-    "summary": "A long day’s haul in the video game slop mines.",
-    "content": "A long day’s haul in the video game slop mines.",
-    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "source": "Wired AI",
-    "author": "Boone Ashworth",
-    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122040"
+    "created_at": "2026-10-11T18:04:51.963916"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -142,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416434"
+    "created_at": "2026-10-11T18:04:51.963689"
   },
   {
     "id": "TechCrunch AI_1b49e64516feef16",
@@ -160,7 +162,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143796"
+    "created_at": "2026-10-11T18:04:44.547971"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -180,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416816"
+    "created_at": "2026-10-11T18:04:51.964180"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -200,7 +202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416915"
+    "created_at": "2026-10-11T18:04:51.964369"
   },
   {
     "id": "Wired AI_453ef1ca6b4ca6d3",
@@ -220,7 +222,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122555"
+    "created_at": "2026-10-11T18:04:46.519328"
   },
   {
     "id": "TechCrunch AI_7f44ec7bd80a9568",
@@ -238,7 +240,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143847"
+    "created_at": "2026-10-11T18:04:44.548039"
   },
   {
     "id": "The Verge AI_fc5ad79e449dab4d",
@@ -256,7 +258,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063932"
+    "created_at": "2026-10-11T18:04:45.594535"
   },
   {
     "id": "The Verge AI_32f5ab5c8f7226f2",
@@ -274,7 +276,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.064000"
+    "created_at": "2026-10-11T18:04:45.594615"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -293,7 +295,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416770"
+    "created_at": "2026-10-11T18:04:51.964118"
   },
   {
     "id": "TechCrunch AI_0981bd5f8bd96b76",
@@ -310,7 +312,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143408"
+    "created_at": "2026-10-11T18:04:44.547530"
   },
   {
     "id": "The Verge AI_77eb3f37805c8078",
@@ -327,7 +329,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063647"
+    "created_at": "2026-10-11T18:04:45.594148"
+  },
+  {
+    "id": "Wired AI_ac85c289c02960c0",
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "summary": "A long day’s haul in the video game slop mines.",
+    "content": "A long day’s haul in the video game slop mines.",
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "source": "Wired AI",
+    "author": "Boone Ashworth",
+    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:04:46.518644"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -345,7 +364,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416558"
+    "created_at": "2026-10-11T18:04:51.963837"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -363,7 +382,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416871"
+    "created_at": "2026-10-11T18:04:51.964289"
   },
   {
     "id": "Wired AI_b5977a5ac354a0a6",
@@ -382,7 +401,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T12:05:36.122495"
+    "created_at": "2026-10-11T18:04:46.519231"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -400,7 +419,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:37.226462"
+    "created_at": "2026-10-11T18:04:47.519319"
   },
   {
     "id": "TechCrunch AI_141ff54715bb0b79",
@@ -417,41 +436,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143486"
+    "created_at": "2026-10-11T18:04:44.547604"
   },
   {
-    "id": "The Verge AI_ddbd527c0ea5399d",
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
-    "content": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "source": "The Verge AI",
-    "author": "Antonio G. Di Benedetto",
-    "published_date": "2026-10-11T07:00:00-04:00",
+    "id": "TechCrunch AI_a47356ab9c4afede",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "content": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 11 Oct 2026 16:52:33 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063552"
+    "sentiment": "negative",
+    "created_at": "2026-10-11T18:04:44.547321"
   },
   {
-    "id": "TechCrunch AI_f7393fa7324efa34",
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "summary": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "content": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
-    "published_date": "Fri, 09 Oct 2026 16:53:02 +0000",
+    "id": "Reddit ML_19ee2794e9ce3c41",
+    "title": "Is a second MSc worth it? [D]",
+    "summary": "I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Master’s are both in communications engineering.",
+    "content": "I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Master’s are both in communications engineering.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/",
+    "source": "Reddit ML",
+    "author": "/u/Fit_Caterpillar4434",
+    "published_date": "2026-10-11T14:48:55+00:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.144025"
+    "created_at": "2026-10-11T18:05:03.243430"
   },
   {
     "id": "MIT Technology Review_2c778ea740f7f046",
@@ -468,7 +488,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T12:05:39.116614"
+    "created_at": "2026-10-11T18:04:49.526378"
   },
   {
     "id": "MIT Technology Review_3f3afb799134c646",
@@ -485,58 +505,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:39.116745"
+    "created_at": "2026-10-11T18:04:49.526533"
   },
   {
-    "id": "TechCrunch AI_bd69296d7ea9a044",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "summary": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "content": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo",
-    "published_date": "Fri, 09 Oct 2026 16:56:42 +0000",
+    "id": "Reddit ML_827c4bc0f40e0f14",
+    "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+    "summary": " submitted by  /u/moschles [link]  [comments]",
+    "content": " submitted by  /u/moschles [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+    "source": "Reddit ML",
+    "author": "/u/moschles",
+    "published_date": "2026-10-11T13:51:34+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143952"
+    "created_at": "2026-10-11T18:05:03.242913"
   },
   {
-    "id": "TechCrunch AI_1dd49211cda47cc6",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "content": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Sat, 10 Oct 2026 15:00:00 +0000",
+    "id": "Reddit ML_09048791ec5c97a6",
+    "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
+    "summary": "I wrote a small boid simulator (12 birds), recorded it flying, and trained a transformer to predict each bird's next move without it knowing about any boid rules. (built in Python and PyTorch: a transformer written from scratch, one token per bird, two attention layers, about 414k weights, trained...",
+    "content": "I wrote a small boid simulator (12 birds), recorded it flying, and trained a transformer to predict each bird's next move without it knowing about any boid rules. (built in Python and PyTorch: a transformer written from scratch, one token per bird, two attention layers, about 414k weights, trained...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
+    "source": "Reddit ML",
+    "author": "/u/rage_81",
+    "published_date": "2026-10-11T14:25:59+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:05:03.243591"
+  },
+  {
+    "id": "The Verge AI_ddbd527c0ea5399d",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "content": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": "The Verge AI",
+    "author": "Antonio G. Di Benedetto",
+    "published_date": "2026-10-11T07:00:00-04:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143584"
-  },
-  {
-    "id": "TechCrunch AI_955eaaf6ff27f012",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 10 Oct 2026 14:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:34.143648"
+    "created_at": "2026-10-11T18:04:45.594039"
   },
   {
     "id": "The Verge AI_0d0cf25998a72426",
@@ -553,24 +574,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.063713"
+    "created_at": "2026-10-11T18:04:45.594228"
   },
   {
-    "id": "Reddit ML_32ed2dc60959809c",
-    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
-    "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens  submitted by  /u/Alarming-Emotion-894 [link]  [comments]",
-    "content": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens  submitted by  /u/Alarming-Emotion-894 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+    "id": "Reddit ML_dfc9576ceb58283c",
+    "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+    "summary": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
+    "content": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
     "source": "Reddit ML",
-    "author": "/u/Alarming-Emotion-894",
-    "published_date": "2026-10-10T18:08:33+00:00",
+    "author": "/u/Potential-Barber8658",
+    "published_date": "2026-10-11T14:39:01+00:00",
     "importance_score": 5.8,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.541188"
+    "created_at": "2026-10-11T18:05:03.243156"
   },
   {
     "id": "Wired AI_e1180b433a69ded0",
@@ -587,7 +608,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122374"
+    "created_at": "2026-10-11T18:04:46.519088"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -604,7 +625,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:38.282736"
+    "created_at": "2026-10-11T18:04:48.582988"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -621,7 +642,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:38.282867"
+    "created_at": "2026-10-11T18:04:48.583144"
   },
   {
     "id": "Wired AI_b945b71eb5b00e30",
@@ -639,7 +660,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122184"
+    "created_at": "2026-10-11T18:04:46.518797"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -656,7 +677,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:37.226404"
+    "created_at": "2026-10-11T18:04:47.519227"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -673,22 +694,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:37.226522"
+    "created_at": "2026-10-11T18:04:47.519394"
   },
   {
-    "id": "Reddit ML_9eb8f172be47acf7",
-    "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
-    "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
-    "content": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
+    "id": "Reddit ML_25470dca6ce4e6cf",
+    "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+    "summary": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
+    "content": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
     "source": "Reddit ML",
-    "author": "/u/WebDevToday",
-    "published_date": "2026-10-11T09:33:10+00:00",
+    "author": "/u/Independent-Farmer30",
+    "published_date": "2026-10-11T14:37:01+00:00",
     "importance_score": 5.6,
     "category": "tech",
     "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-10-11T12:05:53.540900"
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:05:03.243249"
+  },
+  {
+    "id": "TechCrunch AI_bd69296d7ea9a044",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "summary": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
+    "content": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo",
+    "published_date": "Fri, 09 Oct 2026 16:56:42 +0000",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:04:44.548129"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -705,7 +743,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416504"
+    "created_at": "2026-10-11T18:04:51.963769"
   },
   {
     "id": "Reddit ML_17c33082309e2246",
@@ -722,7 +760,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.540758"
+    "created_at": "2026-10-11T18:05:03.243035"
   },
   {
     "id": "Reddit ML_56bd249500fc53cf",
@@ -739,24 +777,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.540990"
-  },
-  {
-    "id": "Reddit ML_f0ca4d585714bd52",
-    "title": "What ai is best to operate a system from screen video [p]",
-    "summary": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done. I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the...",
-    "content": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done. I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
-    "source": "Reddit ML",
-    "author": "/u/angrykirby",
-    "published_date": "2026-10-11T04:18:11+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.541260"
+    "created_at": "2026-10-11T18:05:03.243800"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -773,7 +794,41 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.340471"
+    "created_at": "2026-10-11T18:05:03.896343"
+  },
+  {
+    "id": "TechCrunch AI_1dd49211cda47cc6",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "content": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Sat, 10 Oct 2026 15:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:04:44.547707"
+  },
+  {
+    "id": "TechCrunch AI_955eaaf6ff27f012",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Sat, 10 Oct 2026 14:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T18:04:44.547781"
   },
   {
     "id": "The Verge AI_001f5a0c7e1f43fb",
@@ -790,41 +845,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.064059"
-  },
-  {
-    "id": "The Verge AI_990482e0e8c0771c",
-    "title": "Trump’s attempt to rename AI is looking awfully artificial",
-    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large.",
-    "content": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large.",
-    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "source": "The Verge AI",
-    "author": "Adi Robertson",
-    "published_date": "2026-10-09T10:25:43-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-11T12:05:35.064146"
-  },
-  {
-    "id": "The Verge AI_0184b79f39ed8ad4",
-    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-    "content": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "source": "The Verge AI",
-    "author": "Allison Johnson",
-    "published_date": "2026-10-09T10:00:00-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:35.064218"
+    "created_at": "2026-10-11T18:04:45.594687"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -841,24 +862,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122119"
-  },
-  {
-    "id": "MIT Technology Review_8bada6120ea3d42d",
-    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison",
-    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 09 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-11T12:05:39.116169"
+    "created_at": "2026-10-11T18:04:46.518727"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -875,7 +879,22 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.340672"
+    "created_at": "2026-10-11T18:05:03.896582"
+  },
+  {
+    "id": "Reddit ML_9eb8f172be47acf7",
+    "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+    "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
+    "content": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
+    "source": "Reddit ML",
+    "author": "/u/WebDevToday",
+    "published_date": "2026-10-11T09:33:10+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-10-11T18:05:03.243719"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -892,24 +911,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:41.416669"
+    "created_at": "2026-10-11T18:04:51.963981"
   },
   {
-    "id": "Reddit ML_27ccb1529108d62b",
-    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-    "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
-    "content": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
-    "source": "Reddit ML",
-    "author": "/u/Economy_Vacation_504",
-    "published_date": "2026-10-10T10:51:44+00:00",
-    "importance_score": 5.0,
+    "id": "The Verge AI_990482e0e8c0771c",
+    "title": "Trump’s attempt to rename AI is looking awfully artificial",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large.",
+    "content": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large.",
+    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "source": "The Verge AI",
+    "author": "Adi Robertson",
+    "published_date": "2026-10-09T10:25:43-04:00",
+    "importance_score": 4.9,
     "category": "tech",
     "keywords": [
-      "LLM"
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-11T18:04:45.594777"
+  },
+  {
+    "id": "The Verge AI_0184b79f39ed8ad4",
+    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
+    "content": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
+    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+    "source": "The Verge AI",
+    "author": "Allison Johnson",
+    "published_date": "2026-10-09T10:00:00-04:00",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.541105"
+    "created_at": "2026-10-11T18:04:45.594861"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -926,7 +962,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122243"
+    "created_at": "2026-10-11T18:04:46.518866"
   },
   {
     "id": "Wired AI_25bfb5076c1a53ca",
@@ -943,7 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122313"
+    "created_at": "2026-10-11T18:04:46.519004"
   },
   {
     "id": "Wired AI_d3abbd45186f0626",
@@ -960,7 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:36.122444"
+    "created_at": "2026-10-11T18:04:46.519170"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -977,7 +1013,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:38.282797"
+    "created_at": "2026-10-11T18:04:48.583062"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -994,7 +1030,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T12:05:38.282942"
+    "created_at": "2026-10-11T18:04:48.583222"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1011,7 +1047,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:38.282996"
+    "created_at": "2026-10-11T18:04:48.583307"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -1028,7 +1064,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:38.283036"
+    "created_at": "2026-10-11T18:04:48.583365"
+  },
+  {
+    "id": "MIT Technology Review_8bada6120ea3d42d",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison",
+    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 09 Oct 2026 12:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-11T18:04:49.525853"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1045,7 +1098,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:39.116274"
+    "created_at": "2026-10-11T18:04:49.525964"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1062,7 +1115,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:39.116358"
+    "created_at": "2026-10-11T18:04:49.526059"
   },
   {
     "id": "MIT Technology Review_0b9e9c0161c09cde",
@@ -1079,7 +1132,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:39.116441"
+    "created_at": "2026-10-11T18:04:49.526155"
   },
   {
     "id": "MIT Technology Review_646fc4027cd19148",
@@ -1096,7 +1149,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T12:05:39.116520"
+    "created_at": "2026-10-11T18:04:49.526246"
   },
   {
     "id": "MIT Technology Review_d4b840292d486f3a",
@@ -1113,7 +1166,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:39.116679"
+    "created_at": "2026-10-11T18:04:49.526456"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1130,7 +1183,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:40.235192"
+    "created_at": "2026-10-11T18:04:50.639626"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1147,7 +1200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:40.235257"
+    "created_at": "2026-10-11T18:04:50.639702"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1164,7 +1217,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:37.226581"
+    "created_at": "2026-10-11T18:04:47.519465"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1181,7 +1234,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:44.277071"
+    "created_at": "2026-10-11T18:04:54.677538"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1198,41 +1251,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:44.277143"
-  },
-  {
-    "id": "Reddit ML_7e95bafd3ee60994",
-    "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-    "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
-    "content": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
-    "source": "Reddit ML",
-    "author": "/u/BlueCeAnd",
-    "published_date": "2026-10-10T04:02:27+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.541366"
-  },
-  {
-    "id": "Reddit ML_60f3241c07f45c9f",
-    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-    "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
-    "content": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-    "source": "Reddit ML",
-    "author": "/u/Old_Cow_6636",
-    "published_date": "2026-10-09T19:52:54+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.541493"
+    "created_at": "2026-10-11T18:04:54.677608"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1249,7 +1268,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:40.235315"
+    "created_at": "2026-10-11T18:04:50.639773"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1267,7 +1286,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.340564"
+    "created_at": "2026-10-11T18:05:03.896451"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1284,7 +1303,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.340622"
+    "created_at": "2026-10-11T18:05:03.896519"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1299,7 +1318,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.540571"
+    "created_at": "2026-10-11T18:05:03.242830"
   },
   {
     "id": "Lobsters AI_c13f57db1c98dade",
@@ -1316,6 +1335,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T12:05:53.340716"
+    "created_at": "2026-10-11T18:05:03.896637"
   }
 ]
