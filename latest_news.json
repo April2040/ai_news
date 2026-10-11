@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956538"
+    "created_at": "2026-10-11T12:05:35.063779"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -33,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956636"
+    "created_at": "2026-10-11T12:05:35.063855"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -51,25 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391303"
-  },
-  {
-    "id": "The Verge AI_f3e6c868216c529e",
-    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-    "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita Balesni were dismissed for violating \"clear policies on handling...",
-    "content": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita Balesni were dismissed for violating \"clear policies on handling...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-09T05:48:26-04:00",
-    "importance_score": 7.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.957121"
+    "created_at": "2026-10-11T12:05:41.416724"
   },
   {
     "id": "TechCrunch AI_5c35a03a78593288",
@@ -87,25 +69,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.960057"
-  },
-  {
-    "id": "OpenAI News_b5f1f16e15411e34",
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "url": "https://openai.com/index/sophos",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.390928"
+    "created_at": "2026-10-11T12:05:34.143725"
   },
   {
     "id": "Wired AI_3ce1800e662a4d1b",
@@ -124,7 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955708"
+    "created_at": "2026-10-11T12:05:36.122623"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -143,7 +107,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391161"
+    "created_at": "2026-10-11T12:05:41.416620"
+  },
+  {
+    "id": "Wired AI_ac85c289c02960c0",
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "summary": "A long day’s haul in the video game slop mines.",
+    "content": "A long day’s haul in the video game slop mines.",
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "source": "Wired AI",
+    "author": "Boone Ashworth",
+    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:36.122040"
+  },
+  {
+    "id": "OpenAI News_b5f1f16e15411e34",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "url": "https://openai.com/index/sophos",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:41.416434"
   },
   {
     "id": "TechCrunch AI_1b49e64516feef16",
@@ -161,7 +160,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.960140"
+    "created_at": "2026-10-11T12:05:34.143796"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -181,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391461"
+    "created_at": "2026-10-11T12:05:41.416816"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -201,7 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391603"
+    "created_at": "2026-10-11T12:05:41.416915"
   },
   {
     "id": "Wired AI_453ef1ca6b4ca6d3",
@@ -221,7 +220,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955621"
+    "created_at": "2026-10-11T12:05:36.122555"
   },
   {
     "id": "TechCrunch AI_7f44ec7bd80a9568",
@@ -239,7 +238,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.960207"
+    "created_at": "2026-10-11T12:05:34.143847"
   },
   {
     "id": "The Verge AI_fc5ad79e449dab4d",
@@ -257,7 +256,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956726"
+    "created_at": "2026-10-11T12:05:35.063932"
   },
   {
     "id": "The Verge AI_32f5ab5c8f7226f2",
@@ -275,7 +274,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956804"
+    "created_at": "2026-10-11T12:05:35.064000"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -294,7 +293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391367"
+    "created_at": "2026-10-11T12:05:41.416770"
   },
   {
     "id": "TechCrunch AI_0981bd5f8bd96b76",
@@ -311,7 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.959700"
+    "created_at": "2026-10-11T12:05:34.143408"
   },
   {
     "id": "The Verge AI_77eb3f37805c8078",
@@ -328,7 +327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956349"
+    "created_at": "2026-10-11T12:05:35.063647"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -346,7 +345,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391083"
+    "created_at": "2026-10-11T12:05:41.416558"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -364,7 +363,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391539"
+    "created_at": "2026-10-11T12:05:41.416871"
   },
   {
     "id": "Wired AI_b5977a5ac354a0a6",
@@ -383,25 +382,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T06:06:21.955551"
-  },
-  {
-    "id": "Wired AI_aa7cad7058db291b",
-    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-    "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-    "content": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Wed, 07 Oct 2026 11:00:00 +0000",
-    "importance_score": 6.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955781"
+    "created_at": "2026-10-11T12:05:36.122495"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -419,7 +400,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:22.958289"
+    "created_at": "2026-10-11T12:05:37.226462"
   },
   {
     "id": "TechCrunch AI_141ff54715bb0b79",
@@ -436,7 +417,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.959787"
+    "created_at": "2026-10-11T12:05:34.143486"
+  },
+  {
+    "id": "The Verge AI_ddbd527c0ea5399d",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "content": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": "The Verge AI",
+    "author": "Antonio G. Di Benedetto",
+    "published_date": "2026-10-11T07:00:00-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:35.063552"
   },
   {
     "id": "TechCrunch AI_f7393fa7324efa34",
@@ -453,7 +451,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.960426"
+    "created_at": "2026-10-11T12:05:34.144025"
   },
   {
     "id": "MIT Technology Review_2c778ea740f7f046",
@@ -470,7 +468,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T06:06:24.995043"
+    "created_at": "2026-10-11T12:05:39.116614"
   },
   {
     "id": "MIT Technology Review_3f3afb799134c646",
@@ -487,7 +485,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.995198"
+    "created_at": "2026-10-11T12:05:39.116745"
   },
   {
     "id": "TechCrunch AI_bd69296d7ea9a044",
@@ -504,58 +502,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.960319"
-  },
-  {
-    "id": "OpenAI News_764b5092cdf647c5",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391012"
-  },
-  {
-    "id": "Reddit ML_17c33082309e2246",
-    "title": "Has machine learning research gotten more \"wordy\"? [D]",
-    "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
-    "content": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
-    "source": "Reddit ML",
-    "author": "/u/NeighborhoodFatCat",
-    "published_date": "2026-10-11T00:39:07+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "machine learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.577915"
-  },
-  {
-    "id": "Reddit ML_56bd249500fc53cf",
-    "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
-    "summary": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
-    "content": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
-    "source": "Reddit ML",
-    "author": "/u/SillyNeuron",
-    "published_date": "2026-10-11T04:48:48+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578112"
+    "created_at": "2026-10-11T12:05:34.143952"
   },
   {
     "id": "TechCrunch AI_1dd49211cda47cc6",
@@ -572,7 +519,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.959896"
+    "created_at": "2026-10-11T12:05:34.143584"
   },
   {
     "id": "TechCrunch AI_955eaaf6ff27f012",
@@ -589,7 +536,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:19.959971"
+    "created_at": "2026-10-11T12:05:34.143648"
   },
   {
     "id": "The Verge AI_0d0cf25998a72426",
@@ -606,24 +553,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956456"
-  },
-  {
-    "id": "Wired AI_210301a0d5702f21",
-    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-    "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "content": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman, Matt Burgess",
-    "published_date": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955083"
+    "created_at": "2026-10-11T12:05:35.063713"
   },
   {
     "id": "Reddit ML_32ed2dc60959809c",
@@ -640,24 +570,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578190"
-  },
-  {
-    "id": "Reddit ML_efa57a2bdc303315",
-    "title": "ARR Oct Discussion [D]",
-    "summary": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out? I saw an 1.8k submission ID yesterday.  submitted by  /u/StriderKing27 [link]  [comments]",
-    "content": "Are there actually fewer submissions this cycle or are people waiting for ARR Aug Meta to be out? I saw an 1.8k submission ID yesterday.  submitted by  /u/StriderKing27 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
-    "source": "Reddit ML",
-    "author": "/u/StriderKing27",
-    "published_date": "2026-10-09T12:44:04+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578651"
+    "created_at": "2026-10-11T12:05:53.541188"
   },
   {
     "id": "Wired AI_e1180b433a69ded0",
@@ -674,7 +587,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955404"
+    "created_at": "2026-10-11T12:05:36.122374"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -691,7 +604,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.083342"
+    "created_at": "2026-10-11T12:05:38.282736"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -708,7 +621,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.083538"
+    "created_at": "2026-10-11T12:05:38.282867"
   },
   {
     "id": "Wired AI_b945b71eb5b00e30",
@@ -726,7 +639,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955159"
+    "created_at": "2026-10-11T12:05:36.122184"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -743,7 +656,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:22.958221"
+    "created_at": "2026-10-11T12:05:37.226404"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -760,24 +673,90 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:22.958360"
+    "created_at": "2026-10-11T12:05:37.226522"
   },
   {
-    "id": "Reddit ML_27ccb1529108d62b",
-    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-    "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
-    "content": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+    "id": "Reddit ML_9eb8f172be47acf7",
+    "title": "[P] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results [P]",
+    "summary": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
+    "content": "I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/",
     "source": "Reddit ML",
-    "author": "/u/Economy_Vacation_504",
-    "published_date": "2026-10-10T10:51:44+00:00",
+    "author": "/u/WebDevToday",
+    "published_date": "2026-10-11T09:33:10+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-10-11T12:05:53.540900"
+  },
+  {
+    "id": "OpenAI News_764b5092cdf647c5",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 09 Oct 2026 07:00:00 GMT",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "LLM"
+      "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578024"
+    "created_at": "2026-10-11T12:05:41.416504"
+  },
+  {
+    "id": "Reddit ML_17c33082309e2246",
+    "title": "Has machine learning research gotten more \"wordy\"? [D]",
+    "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "content": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+    "source": "Reddit ML",
+    "author": "/u/NeighborhoodFatCat",
+    "published_date": "2026-10-11T00:39:07+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "machine learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:53.540758"
+  },
+  {
+    "id": "Reddit ML_56bd249500fc53cf",
+    "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+    "summary": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
+    "content": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
+    "source": "Reddit ML",
+    "author": "/u/SillyNeuron",
+    "published_date": "2026-10-11T04:48:48+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:53.540990"
+  },
+  {
+    "id": "Reddit ML_f0ca4d585714bd52",
+    "title": "What ai is best to operate a system from screen video [p]",
+    "summary": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done. I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the...",
+    "content": "I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done. I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+    "source": "Reddit ML",
+    "author": "/u/angrykirby",
+    "published_date": "2026-10-11T04:18:11+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:53.541260"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -794,7 +773,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:39.252804"
+    "created_at": "2026-10-11T12:05:53.340471"
   },
   {
     "id": "The Verge AI_001f5a0c7e1f43fb",
@@ -811,7 +790,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.956874"
+    "created_at": "2026-10-11T12:05:35.064059"
   },
   {
     "id": "The Verge AI_990482e0e8c0771c",
@@ -828,7 +807,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T06:06:20.956960"
+    "created_at": "2026-10-11T12:05:35.064146"
   },
   {
     "id": "The Verge AI_0184b79f39ed8ad4",
@@ -845,24 +824,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:20.957042"
+    "created_at": "2026-10-11T12:05:35.064218"
   },
   {
-    "id": "Wired AI_88fcc2874780020b",
-    "title": "Even ‘Law & Order’ Is Terrified of AI",
-    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "content": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "id": "Wired AI_210301a0d5702f21",
+    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+    "content": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
     "source": "Wired AI",
-    "author": "Ej Dickson",
-    "published_date": "Fri, 09 Oct 2026 10:00:00 +0000",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 10 Oct 2026 12:00:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955232"
+    "created_at": "2026-10-11T12:05:36.122119"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -879,41 +858,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-11T06:06:24.994545"
-  },
-  {
-    "id": "MIT Technology Review_96f570626b75ebd3",
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.",
-    "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.",
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "source": "MIT Technology Review",
-    "author": "Arthur Holland Michel",
-    "published_date": "Fri, 09 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.994654"
-  },
-  {
-    "id": "MIT Technology Review_ca3ba50fd0a0045f",
-    "title": "Job titles of the future: Delivery drone air traffic controller",
-    "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.",
-    "content": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.",
-    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-    "source": "MIT Technology Review",
-    "author": "Eamon Whalen",
-    "published_date": "Fri, 09 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.994748"
+    "created_at": "2026-10-11T12:05:39.116169"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -930,25 +875,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:39.253042"
-  },
-  {
-    "id": "Reddit ML_3020c5b259ef5ff0",
-    "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
-    "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
-    "content": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
-    "source": "Reddit ML",
-    "author": "/u/sailor-goon-is-here",
-    "published_date": "2026-10-10T01:45:08+00:00",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578589"
+    "created_at": "2026-10-11T12:05:53.340672"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -965,7 +892,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:27.391228"
+    "created_at": "2026-10-11T12:05:41.416669"
+  },
+  {
+    "id": "Reddit ML_27ccb1529108d62b",
+    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+    "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
+    "content": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA - data prep - fit - eval - tune - save model artefact and notebook.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+    "source": "Reddit ML",
+    "author": "/u/Economy_Vacation_504",
+    "published_date": "2026-10-10T10:51:44+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:53.541105"
+  },
+  {
+    "id": "Wired AI_88fcc2874780020b",
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "content": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "source": "Wired AI",
+    "author": "Ej Dickson",
+    "published_date": "Fri, 09 Oct 2026 10:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:36.122243"
   },
   {
     "id": "Wired AI_25bfb5076c1a53ca",
@@ -982,7 +943,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955312"
+    "created_at": "2026-10-11T12:05:36.122313"
   },
   {
     "id": "Wired AI_d3abbd45186f0626",
@@ -999,7 +960,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:21.955491"
+    "created_at": "2026-10-11T12:05:36.122444"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1016,7 +977,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.083446"
+    "created_at": "2026-10-11T12:05:38.282797"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1033,7 +994,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T06:06:24.083614"
+    "created_at": "2026-10-11T12:05:38.282942"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1050,7 +1011,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.083675"
+    "created_at": "2026-10-11T12:05:38.282996"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -1067,7 +1028,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.083727"
+    "created_at": "2026-10-11T12:05:38.283036"
+  },
+  {
+    "id": "MIT Technology Review_96f570626b75ebd3",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.",
+    "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.",
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "source": "MIT Technology Review",
+    "author": "Arthur Holland Michel",
+    "published_date": "Fri, 09 Oct 2026 09:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:39.116274"
+  },
+  {
+    "id": "MIT Technology Review_ca3ba50fd0a0045f",
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.",
+    "content": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.",
+    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "source": "MIT Technology Review",
+    "author": "Eamon Whalen",
+    "published_date": "Fri, 09 Oct 2026 09:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T12:05:39.116358"
   },
   {
     "id": "MIT Technology Review_0b9e9c0161c09cde",
@@ -1084,7 +1079,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.994842"
+    "created_at": "2026-10-11T12:05:39.116441"
   },
   {
     "id": "MIT Technology Review_646fc4027cd19148",
@@ -1101,7 +1096,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T06:06:24.994935"
+    "created_at": "2026-10-11T12:05:39.116520"
   },
   {
     "id": "MIT Technology Review_d4b840292d486f3a",
@@ -1118,7 +1113,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:24.995121"
+    "created_at": "2026-10-11T12:05:39.116679"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1135,7 +1130,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:26.074071"
+    "created_at": "2026-10-11T12:05:40.235192"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1152,7 +1147,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:26.074147"
+    "created_at": "2026-10-11T12:05:40.235257"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1169,7 +1164,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:22.958455"
+    "created_at": "2026-10-11T12:05:37.226581"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1186,7 +1181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:30.139439"
+    "created_at": "2026-10-11T12:05:44.277071"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1203,7 +1198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:30.139509"
+    "created_at": "2026-10-11T12:05:44.277143"
   },
   {
     "id": "Reddit ML_7e95bafd3ee60994",
@@ -1220,7 +1215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578310"
+    "created_at": "2026-10-11T12:05:53.541366"
   },
   {
     "id": "Reddit ML_60f3241c07f45c9f",
@@ -1237,7 +1232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.578479"
+    "created_at": "2026-10-11T12:05:53.541493"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1254,7 +1249,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:26.074219"
+    "created_at": "2026-10-11T12:05:40.235315"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1272,7 +1267,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:39.252908"
+    "created_at": "2026-10-11T12:05:53.340564"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1289,7 +1284,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:39.252978"
+    "created_at": "2026-10-11T12:05:53.340622"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1304,7 +1299,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:38.577773"
+    "created_at": "2026-10-11T12:05:53.540571"
   },
   {
     "id": "Lobsters AI_c13f57db1c98dade",
@@ -1321,6 +1316,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T06:06:39.253098"
+    "created_at": "2026-10-11T12:05:53.340716"
   }
 ]
