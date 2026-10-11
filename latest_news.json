@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343442"
+    "created_at": "2026-10-11T06:06:20.956538"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -33,25 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343510"
-  },
-  {
-    "id": "TechCrunch AI_5c35a03a78593288",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Sat, 10 Oct 2026 00:18:32 +0000",
-    "importance_score": 8.2,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415851"
+    "created_at": "2026-10-11T06:06:20.956636"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -69,7 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584593"
+    "created_at": "2026-10-11T06:06:27.391303"
   },
   {
     "id": "The Verge AI_f3e6c868216c529e",
@@ -87,7 +69,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343857"
+    "created_at": "2026-10-11T06:06:20.957121"
+  },
+  {
+    "id": "TechCrunch AI_5c35a03a78593288",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Sat, 10 Oct 2026 00:18:32 +0000",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:19.960057"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -105,7 +105,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584332"
+    "created_at": "2026-10-11T06:06:27.390928"
   },
   {
     "id": "Wired AI_3ce1800e662a4d1b",
@@ -124,7 +124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.380160"
+    "created_at": "2026-10-11T06:06:21.955708"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -143,41 +143,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584498"
-  },
-  {
-    "id": "TechCrunch AI_0981bd5f8bd96b76",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 10 Oct 2026 21:47:51 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415592"
-  },
-  {
-    "id": "The Verge AI_77eb3f37805c8078",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
-    "content": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-10T18:10:17-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343321"
+    "created_at": "2026-10-11T06:06:27.391161"
   },
   {
     "id": "TechCrunch AI_1b49e64516feef16",
@@ -195,7 +161,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415910"
+    "created_at": "2026-10-11T06:06:19.960140"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -215,7 +181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584676"
+    "created_at": "2026-10-11T06:06:27.391461"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -235,24 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584767"
-  },
-  {
-    "id": "TechCrunch AI_141ff54715bb0b79",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "content": "Is Apple hoping to get into the AI-generated podcast business?",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 10 Oct 2026 19:50:00 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415656"
+    "created_at": "2026-10-11T06:06:27.391603"
   },
   {
     "id": "Wired AI_453ef1ca6b4ca6d3",
@@ -272,7 +221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.380105"
+    "created_at": "2026-10-11T06:06:21.955621"
   },
   {
     "id": "TechCrunch AI_7f44ec7bd80a9568",
@@ -290,7 +239,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415974"
+    "created_at": "2026-10-11T06:06:19.960207"
   },
   {
     "id": "The Verge AI_fc5ad79e449dab4d",
@@ -308,7 +257,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343576"
+    "created_at": "2026-10-11T06:06:20.956726"
   },
   {
     "id": "The Verge AI_32f5ab5c8f7226f2",
@@ -326,7 +275,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343632"
+    "created_at": "2026-10-11T06:06:20.956804"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -345,7 +294,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584635"
+    "created_at": "2026-10-11T06:06:27.391367"
+  },
+  {
+    "id": "TechCrunch AI_0981bd5f8bd96b76",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 21:47:51 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:19.959700"
+  },
+  {
+    "id": "The Verge AI_77eb3f37805c8078",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "content": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T18:10:17-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:20.956349"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -363,7 +346,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584443"
+    "created_at": "2026-10-11T06:06:27.391083"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -381,7 +364,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584727"
+    "created_at": "2026-10-11T06:06:27.391539"
   },
   {
     "id": "Wired AI_b5977a5ac354a0a6",
@@ -400,7 +383,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:20.380056"
+    "created_at": "2026-10-11T06:06:21.955551"
   },
   {
     "id": "Wired AI_aa7cad7058db291b",
@@ -418,7 +401,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.380212"
+    "created_at": "2026-10-11T06:06:21.955781"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -436,41 +419,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:21.366895"
+    "created_at": "2026-10-11T06:06:22.958289"
   },
   {
-    "id": "The Verge AI_0d0cf25998a72426",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-    "content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-10T14:52:07-04:00",
-    "importance_score": 6.4,
+    "id": "TechCrunch AI_141ff54715bb0b79",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "content": "Is Apple hoping to get into the AI-generated podcast business?",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 19:50:00 +0000",
+    "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343384"
-  },
-  {
-    "id": "arXiv AI_a2deae43ade3c42c",
-    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration.",
-    "content": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration.",
-    "url": "https://arxiv.org/abs/2610.10541",
-    "source": "arXiv AI",
-    "author": "Marcelo Valentim Silva, Hannes Herrmann, Valerie Maxville",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.3,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790193"
+    "created_at": "2026-10-11T06:06:19.959787"
   },
   {
     "id": "TechCrunch AI_f7393fa7324efa34",
@@ -487,7 +453,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.416123"
+    "created_at": "2026-10-11T06:06:19.960426"
   },
   {
     "id": "MIT Technology Review_2c778ea740f7f046",
@@ -504,7 +470,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:23.378071"
+    "created_at": "2026-10-11T06:06:24.995043"
   },
   {
     "id": "MIT Technology Review_3f3afb799134c646",
@@ -521,7 +487,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:23.378176"
+    "created_at": "2026-10-11T06:06:24.995198"
   },
   {
     "id": "TechCrunch AI_bd69296d7ea9a044",
@@ -538,7 +504,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.416062"
+    "created_at": "2026-10-11T06:06:19.960319"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -555,24 +521,41 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584393"
+    "created_at": "2026-10-11T06:06:27.391012"
   },
   {
-    "id": "Lobsters AI_3de27b116cdf95ce",
-    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "url": "https://arxiv.org/html/2610.05978v1",
-    "source": "Lobsters AI",
-    "author": "arxiv.org via Yogthos",
-    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "id": "Reddit ML_17c33082309e2246",
+    "title": "Has machine learning research gotten more \"wordy\"? [D]",
+    "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "content": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+    "source": "Reddit ML",
+    "author": "/u/NeighborhoodFatCat",
+    "published_date": "2026-10-11T00:39:07+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "transformer"
+      "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.666391"
+    "created_at": "2026-10-11T06:06:38.577915"
+  },
+  {
+    "id": "Reddit ML_56bd249500fc53cf",
+    "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+    "summary": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
+    "content": "This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
+    "source": "Reddit ML",
+    "author": "/u/SillyNeuron",
+    "published_date": "2026-10-11T04:48:48+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:38.578112"
   },
   {
     "id": "TechCrunch AI_1dd49211cda47cc6",
@@ -589,7 +572,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415737"
+    "created_at": "2026-10-11T06:06:19.959896"
   },
   {
     "id": "TechCrunch AI_955eaaf6ff27f012",
@@ -606,7 +589,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:18.415789"
+    "created_at": "2026-10-11T06:06:19.959971"
+  },
+  {
+    "id": "The Verge AI_0d0cf25998a72426",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T14:52:07-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:20.956456"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -623,25 +623,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.379727"
-  },
-  {
-    "id": "arXiv AI_b3aa6906ed80bc45",
-    "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-    "summary": "arXiv:2610.10833v1 Announce Type: new Abstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.",
-    "content": "arXiv:2610.10833v1 Announce Type: new Abstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocated runtime and using available time productively. We evaluate Qwen3.",
-    "url": "https://arxiv.org/abs/2610.10833",
-    "source": "arXiv AI",
-    "author": "Aaron Wang, Neelabh Madan, Vlad Sobal, Matthew Trager, Michael Kleinman, Elman Mansimov, Wei Xia, Stefano Soatto",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.9,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790887"
+    "created_at": "2026-10-11T06:06:21.955083"
   },
   {
     "id": "Reddit ML_32ed2dc60959809c",
@@ -658,7 +640,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187096"
+    "created_at": "2026-10-11T06:06:38.578190"
   },
   {
     "id": "Reddit ML_efa57a2bdc303315",
@@ -675,7 +657,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187480"
+    "created_at": "2026-10-11T06:06:38.578651"
   },
   {
     "id": "Wired AI_e1180b433a69ded0",
@@ -692,7 +674,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.379957"
+    "created_at": "2026-10-11T06:06:21.955404"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -709,7 +691,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:22.485158"
+    "created_at": "2026-10-11T06:06:24.083342"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -726,59 +708,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:22.485270"
-  },
-  {
-    "id": "arXiv AI_2b833c104b8bf5eb",
-    "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-    "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms.",
-    "content": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish these mechanisms.",
-    "url": "https://arxiv.org/abs/2610.10611",
-    "source": "arXiv AI",
-    "author": "Chien-Ping Lu",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790480"
-  },
-  {
-    "id": "arXiv AI_7991b31366f52426",
-    "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-    "summary": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI.",
-    "content": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI.",
-    "url": "https://arxiv.org/abs/2610.10805",
-    "source": "arXiv AI",
-    "author": "Jingyao Wu, Mohammad Tariqul Islam, Per R{\\aa}dberg Nagb{\\o}l, Julie Gerlings, Giovanni Leoni, Georgiana Fryza, Lars Pilegaard Thomsen, Jakob Mainz",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790800"
-  },
-  {
-    "id": "Reddit ML_3020c5b259ef5ff0",
-    "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
-    "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
-    "content": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
-    "source": "Reddit ML",
-    "author": "/u/sailor-goon-is-here",
-    "published_date": "2026-10-10T01:45:08+00:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187373"
+    "created_at": "2026-10-11T06:06:24.083538"
   },
   {
     "id": "Wired AI_b945b71eb5b00e30",
@@ -796,7 +726,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.379783"
+    "created_at": "2026-10-11T06:06:21.955159"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -813,7 +743,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:21.366847"
+    "created_at": "2026-10-11T06:06:22.958221"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -830,88 +760,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:21.366958"
-  },
-  {
-    "id": "arXiv AI_15c61c1956a8e39d",
-    "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas.",
-    "content": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on enterprise systems, data, and database schemas.",
-    "url": "https://arxiv.org/abs/2610.10549",
-    "source": "arXiv AI",
-    "author": "Yipeng Li, Ashutosh Hathidara, Jane Lo, Harshavardhan Abichandani, Gunraj Singh, Atin Ghosh",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790298"
-  },
-  {
-    "id": "arXiv AI_88925c51e866a842",
-    "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-    "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval.",
-    "content": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a recorded test, an approval.",
-    "url": "https://arxiv.org/abs/2610.10629",
-    "source": "arXiv AI",
-    "author": "Ravil Akhtyamov",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790579"
-  },
-  {
-    "id": "arXiv AI_75dcefcb073c8d81",
-    "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-    "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate...",
-    "content": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions; on a frozen OpenFly navigator, this \\emph{instruction gap} drops success rate...",
-    "url": "https://arxiv.org/abs/2610.10635",
-    "source": "arXiv AI",
-    "author": "Xi Chen, Zhe Liu, Xiaogang Xu, Jiafei Xu, Chunyi Zhou, Yuan Su, Rui Zeng, Tianyu Du, Kelu Yao, Chao Li, Shouling Ji",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:31.790652"
-  },
-  {
-    "id": "arXiv AI_bc390922ca05e476",
-    "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-    "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps.",
-    "content": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps.",
-    "url": "https://arxiv.org/abs/2610.10786",
-    "source": "arXiv AI",
-    "author": "Syamantak Kumar, Jiang Guo, Hassan Hamad, Hideo Kobayashi, Yi Xiang, Yezhou Yang, Yanjun Qi, Daniele Bonadiman, Jiarong Jiang",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:31.790732"
-  },
-  {
-    "id": "arXiv AI_7d76a8ae35982580",
-    "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-    "summary": "arXiv:2610.10857v1 Announce Type: new Abstract: Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual information over long horizons.",
-    "content": "arXiv:2610.10857v1 Announce Type: new Abstract: Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual information over long horizons.",
-    "url": "https://arxiv.org/abs/2610.10857",
-    "source": "arXiv AI",
-    "author": "Prabin Kumar Rath, Omkar Patil, Nakul Gopalan",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-10-11T00:12:31.790981"
+    "created_at": "2026-10-11T06:06:22.958360"
   },
   {
     "id": "Reddit ML_27ccb1529108d62b",
@@ -928,7 +777,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187039"
+    "created_at": "2026-10-11T06:06:38.578024"
+  },
+  {
+    "id": "Lobsters AI_3de27b116cdf95ce",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "Lobsters AI",
+    "author": "arxiv.org via Yogthos",
+    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:39.252804"
   },
   {
     "id": "The Verge AI_001f5a0c7e1f43fb",
@@ -945,7 +811,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343682"
+    "created_at": "2026-10-11T06:06:20.956874"
   },
   {
     "id": "The Verge AI_990482e0e8c0771c",
@@ -962,7 +828,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:19.343745"
+    "created_at": "2026-10-11T06:06:20.956960"
   },
   {
     "id": "The Verge AI_0184b79f39ed8ad4",
@@ -979,7 +845,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:19.343803"
+    "created_at": "2026-10-11T06:06:20.957042"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -996,7 +862,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.379837"
+    "created_at": "2026-10-11T06:06:21.955232"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1013,7 +879,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-11T00:12:23.377690"
+    "created_at": "2026-10-11T06:06:24.994545"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1030,7 +896,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:23.377773"
+    "created_at": "2026-10-11T06:06:24.994654"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1047,54 +913,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:23.377843"
-  },
-  {
-    "id": "arXiv AI_5203d9095f6fab0b",
-    "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-    "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at...",
-    "content": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model selects previously observed tool results, replaces each with a short note at...",
-    "url": "https://arxiv.org/abs/2610.10590",
-    "source": "arXiv AI",
-    "author": "Jan-Peter Franke",
-    "published_date": "Sat, 10 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.3,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:31.790387"
-  },
-  {
-    "id": "Reddit ML_7e95bafd3ee60994",
-    "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
-    "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
-    "content": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
-    "source": "Reddit ML",
-    "author": "/u/BlueCeAnd",
-    "published_date": "2026-10-10T04:02:27+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187186"
-  },
-  {
-    "id": "Reddit ML_146871d7d2ff2418",
-    "title": "Help With Choosing Hardware [P]",
-    "summary": " I am going to fine-tune a satire model, with the base model being `Qwen3.5-14B-Base`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use LoRA.",
-    "content": " I am going to fine-tune a satire model, with the base model being `Qwen3.5-14B-Base`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use LoRA.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
-    "source": "Reddit ML",
-    "author": "/u/minedroid1",
-    "published_date": "2026-10-10T08:00:41+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187438"
+    "created_at": "2026-10-11T06:06:24.994748"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -1111,7 +930,25 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.666563"
+    "created_at": "2026-10-11T06:06:39.253042"
+  },
+  {
+    "id": "Reddit ML_3020c5b259ef5ff0",
+    "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+    "summary": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
+    "content": "I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Python fundamentals, PyTorch, tensor operations and dimensions/shapes, common model-training code patterns, and debugging...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+    "source": "Reddit ML",
+    "author": "/u/sailor-goon-is-here",
+    "published_date": "2026-10-10T01:45:08+00:00",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:38.578589"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -1128,25 +965,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:25.584542"
-  },
-  {
-    "id": "Reddit ML_47559a57ccc911d3",
-    "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
-    "summary": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: Reduced a 537,748-parameter CNN to 4,080 trainable parameters (131.",
-    "content": "I built MaRN (Mapping Networks), a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: Reduced a 537,748-parameter CNN to 4,080 trainable parameters (131.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
-    "source": "Reddit ML",
-    "author": "/u/Less_Dream_6331",
-    "published_date": "2026-10-09T08:05:23+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187580"
+    "created_at": "2026-10-11T06:06:27.391228"
   },
   {
     "id": "Wired AI_25bfb5076c1a53ca",
@@ -1163,7 +982,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.379896"
+    "created_at": "2026-10-11T06:06:21.955312"
   },
   {
     "id": "Wired AI_d3abbd45186f0626",
@@ -1180,7 +999,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:20.380017"
+    "created_at": "2026-10-11T06:06:21.955491"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1197,7 +1016,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:22.485211"
+    "created_at": "2026-10-11T06:06:24.083446"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1214,7 +1033,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:22.485321"
+    "created_at": "2026-10-11T06:06:24.083614"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1231,7 +1050,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:22.485362"
+    "created_at": "2026-10-11T06:06:24.083675"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -1248,7 +1067,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:22.485397"
+    "created_at": "2026-10-11T06:06:24.083727"
   },
   {
     "id": "MIT Technology Review_0b9e9c0161c09cde",
@@ -1265,7 +1084,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:23.377911"
+    "created_at": "2026-10-11T06:06:24.994842"
   },
   {
     "id": "MIT Technology Review_646fc4027cd19148",
@@ -1282,7 +1101,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T00:12:23.377991"
+    "created_at": "2026-10-11T06:06:24.994935"
   },
   {
     "id": "MIT Technology Review_d4b840292d486f3a",
@@ -1299,7 +1118,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:23.378124"
+    "created_at": "2026-10-11T06:06:24.995121"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1316,7 +1135,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:24.411687"
+    "created_at": "2026-10-11T06:06:26.074071"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1333,7 +1152,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:24.411742"
+    "created_at": "2026-10-11T06:06:26.074147"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1350,7 +1169,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:21.367007"
+    "created_at": "2026-10-11T06:06:22.958455"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1367,7 +1186,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:28.462814"
+    "created_at": "2026-10-11T06:06:30.139439"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1384,7 +1203,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:28.462864"
+    "created_at": "2026-10-11T06:06:30.139509"
+  },
+  {
+    "id": "Reddit ML_7e95bafd3ee60994",
+    "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
+    "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
+    "content": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+    "source": "Reddit ML",
+    "author": "/u/BlueCeAnd",
+    "published_date": "2026-10-10T04:02:27+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-11T06:06:38.578310"
   },
   {
     "id": "Reddit ML_60f3241c07f45c9f",
@@ -1401,7 +1237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.187294"
+    "created_at": "2026-10-11T06:06:38.578479"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1418,7 +1254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:24.411792"
+    "created_at": "2026-10-11T06:06:26.074219"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1436,7 +1272,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.666473"
+    "created_at": "2026-10-11T06:06:39.252908"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1453,7 +1289,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.666520"
+    "created_at": "2026-10-11T06:06:39.252978"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1468,7 +1304,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.186927"
+    "created_at": "2026-10-11T06:06:38.577773"
   },
   {
     "id": "Lobsters AI_c13f57db1c98dade",
@@ -1485,6 +1321,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T00:12:37.666600"
+    "created_at": "2026-10-11T06:06:39.253098"
   }
 ]
