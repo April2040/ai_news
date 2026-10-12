@@ -1,24 +1,5 @@
 [
   {
-    "id": "TechCrunch AI_332b3aa926a1cb9e",
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-    "content": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
-    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Sun, 11 Oct 2026 14:00:00 +0000",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547438"
-  },
-  {
     "id": "The Verge AI_1ef98de1a39bfebd",
     "title": "Anthropic is cutting off its internal evaluations from the internet",
     "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led...",
@@ -34,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594342"
+    "created_at": "2026-10-12T03:17:09.986394"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -52,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594442"
+    "created_at": "2026-10-12T03:17:09.986485"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -70,25 +51,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.964055"
+    "created_at": "2026-10-12T03:17:16.394214"
   },
   {
-    "id": "TechCrunch AI_5c35a03a78593288",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "id": "TechCrunch AI_332b3aa926a1cb9e",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "content": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Sat, 10 Oct 2026 00:18:32 +0000",
-    "importance_score": 7.7,
+    "author": "Ivan Mehta",
+    "published_date": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "importance_score": 7.8,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "GPT",
+      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547868"
+    "created_at": "2026-10-12T03:17:08.983218"
   },
   {
     "id": "Wired AI_3ce1800e662a4d1b",
@@ -107,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.519409"
+    "created_at": "2026-10-12T03:17:10.969037"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -126,7 +108,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.963916"
+    "created_at": "2026-10-12T03:17:16.394065"
+  },
+  {
+    "id": "TechCrunch AI_5c35a03a78593288",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Sat, 10 Oct 2026 00:18:32 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:08.983672"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -144,25 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.963689"
-  },
-  {
-    "id": "TechCrunch AI_1b49e64516feef16",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Fri, 09 Oct 2026 21:41:29 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547971"
+    "created_at": "2026-10-12T03:17:16.393833"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -182,7 +164,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.964180"
+    "created_at": "2026-10-12T03:17:16.394347"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -202,7 +184,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.964369"
+    "created_at": "2026-10-12T03:17:16.394489"
   },
   {
     "id": "Wired AI_453ef1ca6b4ca6d3",
@@ -222,61 +204,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.519328"
-  },
-  {
-    "id": "TechCrunch AI_7f44ec7bd80a9568",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 09 Oct 2026 19:36:56 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.548039"
-  },
-  {
-    "id": "The Verge AI_fc5ad79e449dab4d",
-    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-09T17:15:38-04:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594535"
-  },
-  {
-    "id": "The Verge AI_32f5ab5c8f7226f2",
-    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-09T15:09:44-04:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594615"
+    "created_at": "2026-10-12T03:17:10.968958"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -295,41 +223,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.964118"
-  },
-  {
-    "id": "TechCrunch AI_0981bd5f8bd96b76",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 10 Oct 2026 21:47:51 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547530"
-  },
-  {
-    "id": "The Verge AI_77eb3f37805c8078",
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
-    "content": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-10T18:10:17-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594148"
+    "created_at": "2026-10-12T03:17:16.394282"
   },
   {
     "id": "Wired AI_ac85c289c02960c0",
@@ -346,7 +240,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.518644"
+    "created_at": "2026-10-12T03:17:10.968330"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -364,7 +258,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.963837"
+    "created_at": "2026-10-12T03:17:16.393986"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -382,7 +276,25 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.964289"
+    "created_at": "2026-10-12T03:17:16.394426"
+  },
+  {
+    "id": "TechCrunch AI_1b49e64516feef16",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Fri, 09 Oct 2026 21:41:29 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:08.983774"
   },
   {
     "id": "Wired AI_b5977a5ac354a0a6",
@@ -401,7 +313,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T18:04:46.519231"
+    "created_at": "2026-10-12T03:17:10.968888"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -419,59 +331,95 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:47.519319"
+    "created_at": "2026-10-12T03:17:12.349317"
   },
   {
-    "id": "TechCrunch AI_141ff54715bb0b79",
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "content": "Is Apple hoping to get into the AI-generated podcast business?",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 10 Oct 2026 19:50:00 +0000",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547604"
-  },
-  {
-    "id": "TechCrunch AI_a47356ab9c4afede",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "content": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "id": "The Verge AI_fc5ad79e449dab4d",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
+    "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-09T17:15:38-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "Anthropic",
       "AI"
     ],
-    "sentiment": "negative",
-    "created_at": "2026-10-11T18:04:44.547321"
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:09.986600"
   },
   {
-    "id": "Reddit ML_19ee2794e9ce3c41",
-    "title": "Is a second MSc worth it? [D]",
-    "summary": "I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Master’s are both in communications engineering.",
-    "content": "I’m an AI research engineer based in Africa with about 3 YoEs in RL, LLMs, post-training, and systems efficiency (CUDA/vLLM). However, on a smaller scale because of compute limits. My undergrad and Master’s are both in communications engineering.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/",
-    "source": "Reddit ML",
-    "author": "/u/Fit_Caterpillar4434",
-    "published_date": "2026-10-11T14:48:55+00:00",
+    "id": "The Verge AI_32f5ab5c8f7226f2",
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
+    "content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-09T15:09:44-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:09.986683"
+  },
+  {
+    "id": "TechCrunch AI_0981bd5f8bd96b76",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 21:47:51 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243430"
+    "created_at": "2026-10-12T03:17:08.983308"
+  },
+  {
+    "id": "The Verge AI_77eb3f37805c8078",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "content": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T18:10:17-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:09.986241"
+  },
+  {
+    "id": "The Verge AI_a2d76c89b8fb81f6",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying...",
+    "content": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-11T14:33:56-04:00",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:09.986059"
   },
   {
     "id": "MIT Technology Review_2c778ea740f7f046",
@@ -488,7 +436,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T18:04:49.526378"
+    "created_at": "2026-10-12T03:17:14.030055"
   },
   {
     "id": "MIT Technology Review_3f3afb799134c646",
@@ -505,42 +453,56 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:49.526533"
+    "created_at": "2026-10-12T03:17:14.030212"
   },
   {
-    "id": "Reddit ML_827c4bc0f40e0f14",
-    "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
-    "summary": " submitted by  /u/moschles [link]  [comments]",
-    "content": " submitted by  /u/moschles [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+    "id": "Reddit ML_9465e733355a0212",
+    "title": "What's up with google scholar citations ? [D]",
+    "summary": "Early-stage researcher, and yes, I get excited about people citing my work. I was browsing through arXiv for accepted NeurIPS papers, and I saw multiple papers citing my work. These papers have been there for months, but Google Scholar still has not updated its citations, and it has occurred...",
+    "content": "Early-stage researcher, and yes, I get excited about people citing my work. I was browsing through arXiv for accepted NeurIPS papers, and I saw multiple papers citing my work. These papers have been there for months, but Google Scholar still has not updated its citations, and it has occurred...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
     "source": "Reddit ML",
-    "author": "/u/moschles",
-    "published_date": "2026-10-11T13:51:34+00:00",
+    "author": "/u/ade17_in",
+    "published_date": "2026-10-11T18:17:59+00:00",
+    "importance_score": 6.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:28.002446"
+  },
+  {
+    "id": "TechCrunch AI_141ff54715bb0b79",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "content": "Is Apple hoping to get into the AI-generated podcast business?",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 10 Oct 2026 19:50:00 +0000",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "GPT"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.242913"
+    "created_at": "2026-10-12T03:17:08.983379"
   },
   {
-    "id": "Reddit ML_09048791ec5c97a6",
-    "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
-    "summary": "I wrote a small boid simulator (12 birds), recorded it flying, and trained a transformer to predict each bird's next move without it knowing about any boid rules. (built in Python and PyTorch: a transformer written from scratch, one token per bird, two attention layers, about 414k weights, trained...",
-    "content": "I wrote a small boid simulator (12 birds), recorded it flying, and trained a transformer to predict each bird's next move without it knowing about any boid rules. (built in Python and PyTorch: a transformer written from scratch, one token per bird, two attention layers, about 414k weights, trained...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
-    "source": "Reddit ML",
-    "author": "/u/rage_81",
-    "published_date": "2026-10-11T14:25:59+00:00",
-    "importance_score": 6.0,
+    "id": "TechCrunch AI_a47356ab9c4afede",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "content": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "AI",
-      "transformer"
+      "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243591"
+    "sentiment": "negative",
+    "created_at": "2026-10-12T03:17:08.983118"
   },
   {
     "id": "The Verge AI_ddbd527c0ea5399d",
@@ -557,41 +519,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594039"
+    "created_at": "2026-10-12T03:17:09.986147"
   },
   {
-    "id": "The Verge AI_0d0cf25998a72426",
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-    "content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-10T14:52:07-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594228"
-  },
-  {
-    "id": "Reddit ML_dfc9576ceb58283c",
-    "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
-    "summary": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
-    "content": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+    "id": "Reddit ML_53d59d0e8569551d",
+    "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
+    "summary": "I made a little thing that visualizes attention. It runs SmolLM2-135M fully in the browser (onnxruntime-web, int8, no server, works on my phone). You give it a prompt, it generates one token at a time, and for each step you get the next-token candidates with probabilities, plus the attention from...",
+    "content": "I made a little thing that visualizes attention. It runs SmolLM2-135M fully in the browser (onnxruntime-web, int8, no server, works on my phone). You give it a prompt, it generates one token at a time, and for each step you get the next-token candidates with probabilities, plus the attention from...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
     "source": "Reddit ML",
-    "author": "/u/Potential-Barber8658",
-    "published_date": "2026-10-11T14:39:01+00:00",
+    "author": "/u/Minute-Mountain2665",
+    "published_date": "2026-10-11T22:30:50+00:00",
     "importance_score": 5.8,
     "category": "tech",
     "keywords": [
-      "AI"
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243156"
+    "created_at": "2026-10-12T03:17:28.002599"
   },
   {
     "id": "Wired AI_e1180b433a69ded0",
@@ -608,7 +553,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.519088"
+    "created_at": "2026-10-12T03:17:10.968747"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -625,7 +570,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:48.582988"
+    "created_at": "2026-10-12T03:17:13.217200"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -642,25 +587,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:48.583144"
-  },
-  {
-    "id": "Wired AI_b945b71eb5b00e30",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-    "source": "Wired AI",
-    "author": "Adam Morgan",
-    "published_date": "Fri, 09 Oct 2026 19:28:49 +0000",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.518797"
+    "created_at": "2026-10-12T03:17:13.217363"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -677,7 +604,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:47.519227"
+    "created_at": "2026-10-12T03:17:12.349247"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -694,39 +621,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:47.519394"
-  },
-  {
-    "id": "Reddit ML_25470dca6ce4e6cf",
-    "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
-    "summary": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
-    "content": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
-    "source": "Reddit ML",
-    "author": "/u/Independent-Farmer30",
-    "published_date": "2026-10-11T14:37:01+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243249"
-  },
-  {
-    "id": "TechCrunch AI_bd69296d7ea9a044",
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "summary": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "content": "Amazon says it willstop using NDAswhen negotiating data center deals with local governments, followingasimilar move from Microsoftearlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading tohundreds ofproposed and enacted moratoriums from New York...",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo",
-    "published_date": "Fri, 09 Oct 2026 16:56:42 +0000",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.548129"
+    "created_at": "2026-10-12T03:17:12.349392"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -743,24 +638,24 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.963769"
+    "created_at": "2026-10-12T03:17:16.393915"
   },
   {
-    "id": "Reddit ML_17c33082309e2246",
-    "title": "Has machine learning research gotten more \"wordy\"? [D]",
-    "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
-    "content": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+    "id": "Reddit ML_827c4bc0f40e0f14",
+    "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+    "summary": " submitted by  /u/moschles [link]  [comments]",
+    "content": " submitted by  /u/moschles [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
     "source": "Reddit ML",
-    "author": "/u/NeighborhoodFatCat",
-    "published_date": "2026-10-11T00:39:07+00:00",
+    "author": "/u/moschles",
+    "published_date": "2026-10-11T13:51:34+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "machine learning"
+      "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243035"
+    "created_at": "2026-10-12T03:17:28.002354"
   },
   {
     "id": "Reddit ML_56bd249500fc53cf",
@@ -777,24 +672,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.243800"
-  },
-  {
-    "id": "Lobsters AI_3de27b116cdf95ce",
-    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "url": "https://arxiv.org/html/2610.05978v1",
-    "source": "Lobsters AI",
-    "author": "arxiv.org via Yogthos",
-    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.896343"
+    "created_at": "2026-10-12T03:17:28.003151"
   },
   {
     "id": "TechCrunch AI_1dd49211cda47cc6",
@@ -811,7 +689,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547707"
+    "created_at": "2026-10-12T03:17:08.983480"
   },
   {
     "id": "TechCrunch AI_955eaaf6ff27f012",
@@ -828,24 +706,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:44.547781"
+    "created_at": "2026-10-12T03:17:08.983580"
   },
   {
-    "id": "The Verge AI_001f5a0c7e1f43fb",
-    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
-    "content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "id": "The Verge AI_0d0cf25998a72426",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG.",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
     "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-09T14:06:57-04:00",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-10T14:52:07-04:00",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594687"
+    "created_at": "2026-10-12T03:17:09.986317"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -862,7 +740,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.518727"
+    "created_at": "2026-10-12T03:17:10.968410"
+  },
+  {
+    "id": "Reddit ML_dfc9576ceb58283c",
+    "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+    "summary": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
+    "content": "Palette Atlas (https://itzik123.github.io/PaletteAtlas/) searches public-domain paintings by color scheme. Each image is reduced to 128 colors of equal weight, so the natural distance is the Earth Mover's Distance, which is too slow for nearest-neighbor search over 48,695 items (about 6 ms per...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+    "source": "Reddit ML",
+    "author": "/u/Potential-Barber8658",
+    "published_date": "2026-10-11T14:39:01+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:28.002729"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -879,7 +774,40 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.896582"
+    "created_at": "2026-10-12T03:17:28.713722"
+  },
+  {
+    "id": "Wired AI_b945b71eb5b00e30",
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "source": "Wired AI",
+    "author": "Adam Morgan",
+    "published_date": "Fri, 09 Oct 2026 19:28:49 +0000",
+    "importance_score": 5.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:10.968492"
+  },
+  {
+    "id": "Reddit ML_25470dca6ce4e6cf",
+    "title": "NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]",
+    "summary": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
+    "content": "Hi everyone, I was selected as a NeurIPS 2026 Top Reviewer and awarded complimentary registration. As far as I understand, registration opened in batches: first for SACs, then ACs, and finally reviewers.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/",
+    "source": "Reddit ML",
+    "author": "/u/Independent-Farmer30",
+    "published_date": "2026-10-11T14:37:01+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:28.002825"
   },
   {
     "id": "Reddit ML_9eb8f172be47acf7",
@@ -894,7 +822,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-11T18:05:03.243719"
+    "created_at": "2026-10-12T03:17:28.003070"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -911,7 +839,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:51.963981"
+    "created_at": "2026-10-12T03:17:16.394132"
+  },
+  {
+    "id": "Reddit ML_17c33082309e2246",
+    "title": "Has machine learning research gotten more \"wordy\"? [D]",
+    "summary": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "content": "I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+    "source": "Reddit ML",
+    "author": "/u/NeighborhoodFatCat",
+    "published_date": "2026-10-11T00:39:07+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "machine learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:28.002942"
+  },
+  {
+    "id": "Lobsters AI_3de27b116cdf95ce",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "Lobsters AI",
+    "author": "arxiv.org via Yogthos",
+    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:28.713448"
+  },
+  {
+    "id": "The Verge AI_001f5a0c7e1f43fb",
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
+    "content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-09T14:06:57-04:00",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-12T03:17:09.986754"
   },
   {
     "id": "The Verge AI_990482e0e8c0771c",
@@ -928,24 +907,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T18:04:45.594777"
-  },
-  {
-    "id": "The Verge AI_0184b79f39ed8ad4",
-    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-    "content": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website.",
-    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "source": "The Verge AI",
-    "author": "Allison Johnson",
-    "published_date": "2026-10-09T10:00:00-04:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:45.594861"
+    "created_at": "2026-10-12T03:17:09.986841"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -962,7 +924,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.518866"
+    "created_at": "2026-10-12T03:17:10.968587"
   },
   {
     "id": "Wired AI_25bfb5076c1a53ca",
@@ -979,7 +941,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.519004"
+    "created_at": "2026-10-12T03:17:10.968674"
   },
   {
     "id": "Wired AI_d3abbd45186f0626",
@@ -996,7 +958,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:46.519170"
+    "created_at": "2026-10-12T03:17:10.968829"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1013,7 +975,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:48.583062"
+    "created_at": "2026-10-12T03:17:13.217277"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1030,7 +992,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T18:04:48.583222"
+    "created_at": "2026-10-12T03:17:13.217441"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1047,7 +1009,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:48.583307"
+    "created_at": "2026-10-12T03:17:13.217505"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -1064,7 +1026,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:48.583365"
+    "created_at": "2026-10-12T03:17:13.217586"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1081,7 +1043,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-11T18:04:49.525853"
+    "created_at": "2026-10-12T03:17:14.029516"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1098,7 +1060,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:49.525964"
+    "created_at": "2026-10-12T03:17:14.029657"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1115,7 +1077,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:49.526059"
+    "created_at": "2026-10-12T03:17:14.029756"
   },
   {
     "id": "MIT Technology Review_0b9e9c0161c09cde",
@@ -1132,7 +1094,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:49.526155"
+    "created_at": "2026-10-12T03:17:14.029853"
   },
   {
     "id": "MIT Technology Review_646fc4027cd19148",
@@ -1149,7 +1111,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-11T18:04:49.526246"
+    "created_at": "2026-10-12T03:17:14.029945"
   },
   {
     "id": "MIT Technology Review_d4b840292d486f3a",
@@ -1166,7 +1128,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:49.526456"
+    "created_at": "2026-10-12T03:17:14.030134"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1183,7 +1145,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:50.639626"
+    "created_at": "2026-10-12T03:17:15.191453"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1200,7 +1162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:50.639702"
+    "created_at": "2026-10-12T03:17:15.191536"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1217,7 +1179,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:47.519465"
+    "created_at": "2026-10-12T03:17:12.349461"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1234,7 +1196,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:54.677538"
+    "created_at": "2026-10-12T03:17:19.198054"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1251,7 +1213,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:54.677608"
+    "created_at": "2026-10-12T03:17:19.198124"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1268,7 +1230,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:04:50.639773"
+    "created_at": "2026-10-12T03:17:15.191651"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1286,7 +1248,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.896451"
+    "created_at": "2026-10-12T03:17:28.713576"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1303,7 +1265,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.896519"
+    "created_at": "2026-10-12T03:17:28.713656"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1318,7 +1280,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.242830"
+    "created_at": "2026-10-12T03:17:28.002266"
   },
   {
     "id": "Lobsters AI_c13f57db1c98dade",
@@ -1335,6 +1297,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-11T18:05:03.896637"
+    "created_at": "2026-10-12T03:17:28.713780"
   }
 ]
