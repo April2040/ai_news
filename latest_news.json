@@ -1,5 +1,41 @@
 [
   {
+    "id": "MIT Technology Review_8d7d2d10dd4b8cc8",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company...",
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 13 Oct 2026 12:00:00 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:58.025368"
+  },
+  {
+    "id": "MIT Technology Review_1ddfacf5fdd1dbfd",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Technology Review",
+    "author": "Grace Huckins",
+    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:58.025439"
+  },
+  {
     "id": "OpenAI News_55bed8c710430de9",
     "title": "Disrupting AI-enabled “false front” operations",
     "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
@@ -15,7 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959348"
+    "created_at": "2026-10-13T13:10:00.252079"
   },
   {
     "id": "TechCrunch AI_f7eeb774bba4d54c",
@@ -32,7 +68,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649531"
+    "created_at": "2026-10-13T13:09:53.086780"
   },
   {
     "id": "TechCrunch AI_b284b5d8ed28439c",
@@ -49,7 +85,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649782"
+    "created_at": "2026-10-13T13:09:53.086959"
   },
   {
     "id": "The Verge AI_1ef98de1a39bfebd",
@@ -67,7 +103,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.587020"
+    "created_at": "2026-10-13T13:09:54.024352"
   },
   {
     "id": "The Verge AI_e1c12791c3c3c124",
@@ -85,7 +121,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.587114"
+    "created_at": "2026-10-13T13:09:54.024404"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -104,7 +140,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959164"
+    "created_at": "2026-10-13T13:10:00.251999"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -122,7 +158,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.958933"
+    "created_at": "2026-10-13T13:10:00.251863"
+  },
+  {
+    "id": "The Verge AI_84d531e20a744b15",
+    "title": "Character.AI files for bankruptcy",
+    "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its...",
+    "content": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-13T06:32:23-04:00",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:54.023989"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -142,7 +195,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959479"
+    "created_at": "2026-10-13T13:10:00.252148"
   },
   {
     "id": "OpenAI News_00ea7593c4e1fde7",
@@ -162,25 +215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959620"
-  },
-  {
-    "id": "The Verge AI_95c321d306143401",
-    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest...",
-    "content": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest...",
-    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-12T09:00:00-04:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586606"
+    "created_at": "2026-10-13T13:10:00.252224"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -199,7 +234,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959414"
+    "created_at": "2026-10-13T13:10:00.252113"
   },
   {
     "id": "The Verge AI_819369b478494178",
@@ -216,7 +251,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586498"
+    "created_at": "2026-10-13T13:09:54.024041"
   },
   {
     "id": "Wired AI_5ac16855c227025c",
@@ -233,7 +268,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586306"
+    "created_at": "2026-10-13T13:09:55.082101"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -251,7 +286,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959085"
+    "created_at": "2026-10-13T13:10:00.251956"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -269,26 +304,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959557"
-  },
-  {
-    "id": "Wired AI_b5977a5ac354a0a6",
-    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-    "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-    "content": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 07 Oct 2026 18:45:00 +0000",
-    "importance_score": 6.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-13T05:00:29.586890"
+    "created_at": "2026-10-13T13:10:00.252190"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -306,7 +322,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:30.573698"
+    "created_at": "2026-10-13T13:09:55.996485"
   },
   {
     "id": "Reddit ML_c21d1e55aef1c12c",
@@ -323,94 +339,161 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194094"
+    "created_at": "2026-10-13T13:10:11.749910"
   },
   {
-    "id": "TechCrunch AI_ad0f967b827274f9",
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather...",
-    "content": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather...",
-    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "id": "TechCrunch AI_256b381cc6480629",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "summary": "The startup will sell some of its assets to Disney for $20 million.",
+    "content": "The startup will sell some of its assets to Disney for $20 million.",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
     "source": "TechCrunch AI",
     "author": "Ivan Mehta",
-    "published_date": "Mon, 12 Oct 2026 12:47:59 +0000",
+    "published_date": "Tue, 13 Oct 2026 12:23:42 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649961"
+    "created_at": "2026-10-13T13:09:53.086673"
   },
   {
-    "id": "The Verge AI_fc5ad79e449dab4d",
-    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "content": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "id": "The Verge AI_95c321d306143401",
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest...",
+    "content": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest...",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
     "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-09T17:15:38-04:00",
+    "author": "Tom Warren",
+    "published_date": "2026-10-12T09:00:00-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.587205"
+    "created_at": "2026-10-13T13:09:54.024102"
   },
   {
-    "id": "The Verge AI_32f5ab5c8f7226f2",
-    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-09T15:09:44-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.587308"
-  },
-  {
-    "id": "Wired AI_ac85c289c02960c0",
-    "title": "I Made Terrible Games With Google’s AI Playground",
-    "summary": "A long day’s haul in the video game slop mines.",
-    "content": "A long day’s haul in the video game slop mines.",
-    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "id": "Wired AI_d36ac04670d5a0c6",
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+    "content": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
     "source": "Wired AI",
-    "author": "Boone Ashworth",
-    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "author": "Richard Cooke",
+    "published_date": "Tue, 13 Oct 2026 11:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:55.082003"
+  },
+  {
+    "id": "MIT Technology Review_09efb776a103f66b",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+    "content": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Technology Review",
+    "author": "Matthew King",
+    "published_date": "Tue, 13 Oct 2026 09:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:58.025494"
+  },
+  {
+    "id": "Reddit ML_c092a28af8a4763d",
+    "title": "[UPDATE] I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR) [P]",
+    "summary": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens I’ve also been testing tiny stories and it looks promising However i can’t post any...",
+    "content": "ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens I’ve also been testing tiny stories and it looks promising However i can’t post any...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4uk6i/update_i_built_a_onlogn_attention_system_that/",
+    "source": "Reddit ML",
+    "author": "/u/Alarming-Emotion-894",
+    "published_date": "2026-10-13T11:52:20+00:00",
+    "importance_score": 6.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:10:11.750281"
+  },
+  {
+    "id": "TechCrunch AI_66dd14cbe6479195",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "content": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 13:00:00 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586386"
+    "created_at": "2026-10-13T13:09:53.086572"
   },
   {
-    "id": "Reddit ML_8ed6432d70b7c218",
-    "title": "Got desk rejected at TMLR with no idea why [D]",
-    "summary": "My paper cited and even built up on a niche topic that was accepted in 2024. The template and everything was also followed properly. Sure, it wasn't too novel, but it was damn rigorous, robust and reproducible. Still, I got desk rejected within 2 days. 2 days. With no comment.",
-    "content": "My paper cited and even built up on a niche topic that was accepted in 2024. The template and everything was also followed properly. Sure, it wasn't too novel, but it was damn rigorous, robust and reproducible. Still, I got desk rejected within 2 days. 2 days. With no comment.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4h5bx/got_desk_rejected_at_tmlr_with_no_idea_why_d/",
+    "id": "Wired AI_cda3f9c4f891e1e4",
+    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "content": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "source": "Wired AI",
+    "author": "Tess Owen",
+    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:55.082051"
+  },
+  {
+    "id": "Reddit ML_447642ce039f600b",
+    "title": "Machine Learning Tutorial/Workshop [D]",
+    "summary": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as you can see it is a mathematics server, so the learning environment is quite focused indeed.",
+    "content": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as you can see it is a mathematics server, so the learning environment is quite focused indeed.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
     "source": "Reddit ML",
-    "author": "/u/Audaticreddit",
-    "published_date": "2026-10-12T23:23:35+00:00",
+    "author": "/u/zeroalephzeta",
+    "published_date": "2026-10-13T07:34:40+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "ML"
+      "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194984"
+    "created_at": "2026-10-13T13:10:11.750044"
+  },
+  {
+    "id": "Reddit ML_c3e4ae2310ea0d85",
+    "title": "Where can you find dependable partners for large-scale training data? [P]",
+    "summary": "The project is growing, and we are trying partners capable of delivering big datasets on a steady basis, potentially millions of samples, backed by strong quality checks. I have looked into the major annotation providers, but their websites make it difficult to separate the ones that handle real...",
+    "content": "The project is growing, and we are trying partners capable of delivering big datasets on a steady basis, potentially millions of samples, backed by strong quality checks. I have looked into the major annotation providers, but their websites make it difficult to separate the ones that handle real...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4t0g6/where_can_you_find_dependable_partners_for/",
+    "source": "Reddit ML",
+    "author": "/u/Chaseboost",
+    "published_date": "2026-10-13T10:26:35+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:10:11.750348"
   },
   {
     "id": "TechCrunch AI_ace534b7832b7a57",
@@ -427,7 +510,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649624"
+    "created_at": "2026-10-13T13:09:53.086845"
   },
   {
     "id": "TechCrunch AI_e311524640d7c4ea",
@@ -444,7 +527,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649702"
+    "created_at": "2026-10-13T13:09:53.086902"
   },
   {
     "id": "TechCrunch AI_c01d729608dcf83a",
@@ -461,58 +544,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:27.649855"
+    "created_at": "2026-10-13T13:09:53.087024"
   },
   {
-    "id": "MIT Technology Review_ad8d8365dd8a1fa9",
-    "title": "The Download: moon city problems and drone traffic controllers",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small",
-    "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 12 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-13T05:00:32.532668"
-  },
-  {
-    "id": "MIT Technology Review_39f0ce4c982e7bc9",
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
-    "content": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
-    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "source": "MIT Technology Review",
-    "author": "Matthew Ponsford",
-    "published_date": "Mon, 12 Oct 2026 09:00:00 +0000",
+    "id": "TechCrunch AI_ad0f967b827274f9",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather...",
+    "content": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather...",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Mon, 12 Oct 2026 12:47:59 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:32.532779"
-  },
-  {
-    "id": "Reddit ML_06020ad8360ce58b",
-    "title": "learnc: fit the constants in existing C code to data (9.1% smaller JPEGs, +4.9 F1 on WebRTC VAD) [P]",
-    "summary": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 quantization-table entries, tuned on 12 Kodak images, tested on the other 12): 9.",
-    "content": "learnc tunes named constants in unmodified C code against a score function you write in C, and writes the same file back with new values. Results, both on held-out data: JPEG, stb_image_write.h (128 quantization-table entries, tuned on 12 Kodak images, tested on the other 12): 9.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/",
-    "source": "Reddit ML",
-    "author": "/u/keep_up_sharma",
-    "published_date": "2026-10-12T20:51:32+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194580"
+    "created_at": "2026-10-13T13:09:53.087145"
   },
   {
     "id": "The Verge AI_77eb3f37805c8078",
@@ -529,7 +578,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586869"
+    "created_at": "2026-10-13T13:09:54.024255"
+  },
+  {
+    "id": "Wired AI_ac85c289c02960c0",
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "summary": "A long day’s haul in the video game slop mines.",
+    "content": "A long day’s haul in the video game slop mines.",
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "source": "Wired AI",
+    "author": "Boone Ashworth",
+    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:09:55.082139"
   },
   {
     "id": "Wired AI_e1180b433a69ded0",
@@ -546,7 +612,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586748"
+    "created_at": "2026-10-13T13:09:55.082331"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -563,7 +629,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:31.592181"
+    "created_at": "2026-10-13T13:09:57.260013"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -580,25 +646,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:31.592367"
-  },
-  {
-    "id": "Reddit ML_ae5d65f53ef1ee4c",
-    "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
-    "summary": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion.github.io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the data well and still be physically wrong: they create or destroy mass and energy, produce negative...",
-    "content": "CALL FOR CONTRIBUTIONS CL4SM session at ELLIs UnConference, a NeurIPS Paris pre-event: https://badulion.github.io/cl4sm\\_2026/ Machine learning models of scientific and engineering systems can fit the data well and still be physically wrong: they create or destroy mass and energy, produce negative...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
-    "source": "Reddit ML",
-    "author": "/u/cici118",
-    "published_date": "2026-10-12T07:46:00+00:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "machine learning",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194825"
+    "created_at": "2026-10-13T13:09:57.260107"
   },
   {
     "id": "The Verge AI_a2d76c89b8fb81f6",
@@ -616,7 +664,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586703"
+    "created_at": "2026-10-13T13:09:54.024159"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -633,7 +681,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:30.573595"
+    "created_at": "2026-10-13T13:09:55.996442"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -650,7 +698,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:30.573823"
+    "created_at": "2026-10-13T13:09:55.996528"
+  },
+  {
+    "id": "Reddit ML_a4c8394ff7ced39b",
+    "title": "How do you handle coverage guarantees from split conformal prediction when the data shifts? [D]",
+    "summary": "Split conformal prediction gives you a clean statement: with a calibration set exchangeable with future data, your prediction sets cover the true label at the rate you chose. The trouble is that production data rarely stays exchangeable.",
+    "content": "Split conformal prediction gives you a clean statement: with a calibration set exchangeable with future data, your prediction sets cover the true label at the rate you chose. The trouble is that production data rarely stays exchangeable.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4snts/how_do_you_handle_coverage_guarantees_from_split/",
+    "source": "Reddit ML",
+    "author": "/u/camerongreen95",
+    "published_date": "2026-10-13T10:05:38+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:10:11.750412"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -667,7 +730,24 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959014"
+    "created_at": "2026-10-13T13:10:00.251916"
+  },
+  {
+    "id": "Reddit ML_d364329f38a0cfeb",
+    "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
+    "summary": "I’m prioritizing my path and was wondering if an MS is a soft requirement for some of these Research Engineer, Applied Scientist, Post-Training roles. I only have a BS but I work full time as a Data Scientist and was wondering how I should go about this career transition.",
+    "content": "I’m prioritizing my path and was wondering if an MS is a soft requirement for some of these Research Engineer, Applied Scientist, Post-Training roles. I only have a BS but I work full time as a Data Scientist and was wondering how I should go about this career transition.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
+    "source": "Reddit ML",
+    "author": "/u/jacobnar",
+    "published_date": "2026-10-13T03:13:36+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-13T13:10:11.750210"
   },
   {
     "id": "Reddit ML_83036d5fb42cb3f9",
@@ -684,58 +764,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194463"
+    "created_at": "2026-10-13T13:10:11.750546"
   },
   {
-    "id": "Reddit ML_b36e6b15b769fcde",
-    "title": "How's ICLR reviewing going for you? Any observations? [D]",
-    "summary": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers! Maybe the first big conference with automated research submission and it is increasingly becoming harder to detect AI-written text - how are you dealing with this? How are you even identifying slop...",
-    "content": "I know it's early but I've been browsing through ICLR OpenReview and I see a lot of good papers! Maybe the first big conference with automated research submission and it is increasingly becoming harder to detect AI-written text - how are you dealing with this? How are you even identifying slop...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3ve39/hows_iclr_reviewing_going_for_you_any/",
-    "source": "Reddit ML",
-    "author": "/u/ade17_in",
-    "published_date": "2026-10-12T07:22:41+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194662"
-  },
-  {
-    "id": "TechCrunch AI_a47356ab9c4afede",
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "content": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "id": "MIT Technology Review_ad8d8365dd8a1fa9",
+    "title": "The Download: moon city problems and drone traffic controllers",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small",
+    "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 12 Oct 2026 12:10:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-13T05:00:27.650055"
+    "created_at": "2026-10-13T13:09:58.025541"
   },
   {
-    "id": "The Verge AI_ddbd527c0ea5399d",
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
-    "content": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "source": "The Verge AI",
-    "author": "Antonio G. Di Benedetto",
-    "published_date": "2026-10-11T07:00:00-04:00",
+    "id": "MIT Technology Review_39f0ce4c982e7bc9",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+    "content": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "source": "MIT Technology Review",
+    "author": "Matthew Ponsford",
+    "published_date": "Mon, 12 Oct 2026 09:00:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586779"
+    "created_at": "2026-10-13T13:09:58.025601"
   },
   {
     "id": "Reddit ML_ebf189597e932470",
@@ -752,7 +815,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194239"
+    "created_at": "2026-10-13T13:10:11.750119"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -769,7 +832,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.822270"
+    "created_at": "2026-10-13T13:10:12.315793"
   },
   {
     "id": "Wired AI_b945b71eb5b00e30",
@@ -787,7 +850,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586527"
+    "created_at": "2026-10-13T13:09:55.082213"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -804,24 +867,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:34.959268"
+    "created_at": "2026-10-13T13:10:00.252038"
   },
   {
-    "id": "Reddit ML_827c4bc0f40e0f14",
-    "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
-    "summary": " submitted by  /u/moschles [link]  [comments]",
-    "content": " submitted by  /u/moschles [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
-    "source": "Reddit ML",
-    "author": "/u/moschles",
-    "published_date": "2026-10-11T13:51:34+00:00",
-    "importance_score": 5.0,
+    "id": "The Verge AI_ddbd527c0ea5399d",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "content": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": "The Verge AI",
+    "author": "Antonio G. Di Benedetto",
+    "published_date": "2026-10-11T07:00:00-04:00",
+    "importance_score": 4.9,
     "category": "tech",
     "keywords": [
-      "GPT"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.194884"
+    "created_at": "2026-10-13T13:09:54.024202"
   },
   {
     "id": "The Verge AI_0d0cf25998a72426",
@@ -838,7 +901,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:28.586944"
+    "created_at": "2026-10-13T13:09:54.024296"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -855,7 +918,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586458"
+    "created_at": "2026-10-13T13:09:55.082176"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -872,7 +935,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586597"
+    "created_at": "2026-10-13T13:09:55.082249"
   },
   {
     "id": "Wired AI_25bfb5076c1a53ca",
@@ -889,24 +952,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586679"
-  },
-  {
-    "id": "Wired AI_d3abbd45186f0626",
-    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-    "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-    "content": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 08 Oct 2026 09:30:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:29.586829"
+    "created_at": "2026-10-13T13:09:55.082294"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -923,7 +969,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:31.592280"
+    "created_at": "2026-10-13T13:09:57.260058"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -940,7 +986,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-13T05:00:31.592446"
+    "created_at": "2026-10-13T13:09:57.260152"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -957,7 +1003,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:31.592509"
+    "created_at": "2026-10-13T13:09:57.260185"
   },
   {
     "id": "Google AI Blog_da3f296bbbffd234",
@@ -974,7 +1020,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:31.592563"
+    "created_at": "2026-10-13T13:09:57.260214"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -991,7 +1037,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-13T05:00:32.532883"
+    "created_at": "2026-10-13T13:09:58.025669"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1008,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:32.532982"
+    "created_at": "2026-10-13T13:09:58.025726"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1025,41 +1071,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:32.533074"
-  },
-  {
-    "id": "MIT Technology Review_0b9e9c0161c09cde",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review",
-    "published_date": "Fri, 09 Oct 2026 00:08:24 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:32.533167"
-  },
-  {
-    "id": "MIT Technology Review_646fc4027cd19148",
-    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-    "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 08 Oct 2026 12:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-13T05:00:32.533293"
+    "created_at": "2026-10-13T13:09:58.025777"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1076,7 +1088,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:33.659098"
+    "created_at": "2026-10-13T13:09:59.080779"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1093,7 +1105,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:33.659176"
+    "created_at": "2026-10-13T13:09:59.080824"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1110,7 +1122,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:30.573934"
+    "created_at": "2026-10-13T13:09:55.996566"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1127,7 +1139,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:37.694628"
+    "created_at": "2026-10-13T13:10:03.145676"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1144,7 +1156,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:37.694699"
+    "created_at": "2026-10-13T13:10:03.145716"
   },
   {
     "id": "DeepMind Blog_c5f34f26d8ad2bea",
@@ -1161,7 +1173,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:33.659276"
+    "created_at": "2026-10-13T13:09:59.080864"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1179,7 +1191,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.822111"
+    "created_at": "2026-10-13T13:10:12.315712"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1196,7 +1208,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.822007"
+    "created_at": "2026-10-13T13:10:12.315649"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1213,7 +1225,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.822180"
+    "created_at": "2026-10-13T13:10:12.315750"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1228,6 +1240,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T05:00:46.193949"
+    "created_at": "2026-10-13T13:10:11.749816"
   }
 ]
