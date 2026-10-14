@@ -1,23 +1,5 @@
 [
   {
-    "id": "DeepMind Blog_1f7505bfc78dcbe6",
-    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "source": "DeepMind Blog",
-    "author": "",
-    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "importance_score": 9.2,
-    "category": "tech",
-    "keywords": [
-      "DeepMind",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:39.974834"
-  },
-  {
     "id": "The Verge AI_f948bb676afc4707",
     "title": "Google finally releases Gemini 4 Argon",
     "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
@@ -32,24 +14,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.561153"
-  },
-  {
-    "id": "Reddit ML_d57930309fd6bae3",
-    "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
-    "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
-    "content": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
-    "source": "Reddit ML",
-    "author": "/u/WhiteBear2018",
-    "published_date": "2026-10-14T00:28:26+00:00",
-    "importance_score": 8.499999999999998,
-    "category": "tech",
-    "keywords": [
-      "Claude"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589259"
+    "created_at": "2026-10-14T10:50:26.720122"
   },
   {
     "id": "TechCrunch AI_e937b5046cea06b3",
@@ -67,43 +32,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552410"
+    "created_at": "2026-10-14T10:50:25.655476"
   },
   {
-    "id": "The Verge AI_984963d91c40e404",
-    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-13T16:45:25-04:00",
-    "importance_score": 8.100000000000001,
+    "id": "Reddit ML_d57930309fd6bae3",
+    "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+    "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
+    "content": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+    "source": "Reddit ML",
+    "author": "/u/WhiteBear2018",
+    "published_date": "2026-10-14T00:28:26+00:00",
+    "importance_score": 8.0,
     "category": "tech",
     "keywords": [
-      "OpenAI",
-      "AI"
+      "Claude"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.560650"
+    "created_at": "2026-10-14T10:50:44.287588"
   },
   {
-    "id": "Wired AI_9a6eecc4e08c845d",
-    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-    "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-    "content": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-    "source": "Wired AI",
-    "author": "Paresh Dave, Maddy Varner, Caroline Haskins",
-    "published_date": "Tue, 13 Oct 2026 23:17:59 +0000",
+    "id": "DeepMind Blog_a464070164a13345",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "DeepMind",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532260"
+    "created_at": "2026-10-14T10:50:31.861839"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -121,7 +85,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949169"
+    "created_at": "2026-10-14T10:50:32.880196"
   },
   {
     "id": "Wired AI_cfa965838dc28caf",
@@ -140,7 +104,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532351"
+    "created_at": "2026-10-14T10:50:27.678073"
   },
   {
     "id": "The Verge AI_b4ef9863169a9a83",
@@ -157,7 +121,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.560967"
+    "created_at": "2026-10-14T10:50:26.720032"
+  },
+  {
+    "id": "The Verge AI_984963d91c40e404",
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-13T16:45:25-04:00",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:26.719840"
+  },
+  {
+    "id": "Wired AI_9a6eecc4e08c845d",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "content": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "source": "Wired AI",
+    "author": "Paresh Dave, Maddy Varner, Caroline Haskins",
+    "published_date": "Tue, 13 Oct 2026 23:17:59 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:27.678030"
   },
   {
     "id": "MIT Technology Review_8d7d2d10dd4b8cc8",
@@ -175,25 +175,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652019"
-  },
-  {
-    "id": "MIT Technology Review_1ddfacf5fdd1dbfd",
-    "title": "Open models have real benefits. Do they outweigh the risks?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
-    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
-    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "source": "MIT Technology Review",
-    "author": "Grace Huckins",
-    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652152"
+    "created_at": "2026-10-14T10:50:30.678103"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -212,7 +194,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949003"
+    "created_at": "2026-10-14T10:50:32.880122"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -230,7 +212,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.948793"
+    "created_at": "2026-10-14T10:50:32.880009"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -250,24 +232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949297"
-  },
-  {
-    "id": "TechCrunch AI_dac881be6700f26b",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 13 Oct 2026 23:13:31 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552127"
+    "created_at": "2026-10-14T10:50:32.880264"
   },
   {
     "id": "The Verge AI_34011ac24077b40d",
@@ -285,7 +250,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.561295"
+    "created_at": "2026-10-14T10:50:26.720197"
+  },
+  {
+    "id": "MIT Technology Review_1ddfacf5fdd1dbfd",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk.",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Technology Review",
+    "author": "Grace Huckins",
+    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:30.678173"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -304,7 +287,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949234"
+    "created_at": "2026-10-14T10:50:32.880230"
   },
   {
     "id": "TechCrunch AI_bd2f5b4440de9a5d",
@@ -321,7 +304,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552561"
+    "created_at": "2026-10-14T10:50:25.655559"
   },
   {
     "id": "TechCrunch AI_d2e41eaa4f37560f",
@@ -338,7 +321,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552815"
+    "created_at": "2026-10-14T10:50:25.655710"
   },
   {
     "id": "The Verge AI_49d2fce0bcb4884f",
@@ -355,7 +338,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.560895"
+    "created_at": "2026-10-14T10:50:26.719991"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -373,25 +356,42 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.948929"
+    "created_at": "2026-10-14T10:50:32.880081"
   },
   {
-    "id": "OpenAI News_08e5d67fbb2c366f",
-    "title": "GPT-6 and Intelligent UI for everyone",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "content": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "url": "https://openai.com/index/gpt-6-for-everyone",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "id": "arXiv AI_f4ace766380ad809",
+    "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+    "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon.",
+    "content": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon.",
+    "url": "https://arxiv.org/abs/2610.14005",
+    "source": "arXiv AI",
+    "author": "Jose Hernandez-Orallo",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
     "importance_score": 6.7,
-    "category": "tech",
+    "category": "research",
     "keywords": [
-      "GPT",
-      "ChatGPT"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949372"
+    "created_at": "2026-10-14T10:50:39.255369"
+  },
+  {
+    "id": "arXiv AI_89bec06e4b334cea",
+    "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+    "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration...",
+    "content": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine through standardized, high-quality datasets and multi-institutional collaboration...",
+    "url": "https://arxiv.org/abs/2610.14149",
+    "source": "arXiv AI",
+    "author": "Katherine J. Koebel, Renata Ivanek, Parminder Basran, Jennifer Sun, Casey Cazer, Gayatri Anil, Tommaso Banzato, Liz Barton, Dottie Cimino Brown, Leszek Bukowski, Marta Castelhano, Simon Coghlan, Christopher De Sa, Nikki Dutta, Hala Ghali, Julio Giordano, Joshua Glass, David C. Hogg, Nicholas Hollingshead, Adam Kiehl, Ziang Liu, Monica Meduri, Param Mohapatra, Kim Nayyer, Amelia Nelson, Peter-John Mantyla Noble, Christopher Pinard, Beryl Rabindran, Scott Ross, Ron Seccia, Moira Sheehan, Fei Wang, Tracy L. Webb, Kilian Q. Weinberger, Heather M. Whitney, Chen Xin",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-14T10:50:39.255755"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -409,43 +409,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:36.546676"
+    "created_at": "2026-10-14T10:50:28.730865"
   },
   {
-    "id": "Reddit ML_46708aa0d897c36c",
-    "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
-    "summary": "I started Flama in 2018 to take a trained model to a production API with as little ceremony as possible. With 2.0 LLMs became first-class alongside classic models, and together with Miguel Durán-Olivencia we've now written up the whole architecture in an 83-page paper on arXiv (2608.18733).",
-    "content": "I started Flama in 2018 to take a trained model to a production API with as little ceremony as possible. With 2.0 LLMs became first-class alongside classic models, and together with Miguel Durán-Olivencia we've now written up the whole architecture in an 83-page paper on arXiv (2608.18733).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
-    "source": "Reddit ML",
-    "author": "/u/p3rdy",
-    "published_date": "2026-10-13T15:35:48+00:00",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.590257"
-  },
-  {
-    "id": "TechCrunch AI_8643f21e51f7efad",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "id": "TechCrunch AI_dac881be6700f26b",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 22:36:59 +0000",
-    "importance_score": 6.4,
+    "author": "Aisha Malik",
+    "published_date": "Tue, 13 Oct 2026 23:13:31 +0000",
+    "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552335"
+    "created_at": "2026-10-14T10:50:25.655299"
+  },
+  {
+    "id": "arXiv ML_7ccbc5cf9072b587",
+    "title": "Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents",
+    "summary": "arXiv:2610.13991v1 Announce Type: new Abstract: Self-evolving agents improve through repeated cycles of modification and evaluation. However, existing methods receive feedback on modifications only after costly evaluations, and aggregate scores may obscure distinctions between failures that require...",
+    "content": "arXiv:2610.13991v1 Announce Type: new Abstract: Self-evolving agents improve through repeated cycles of modification and evaluation. However, existing methods receive feedback on modifications only after costly evaluations, and aggregate scores may obscure distinctions between failures that require...",
+    "url": "https://arxiv.org/abs/2610.13991",
+    "source": "arXiv ML",
+    "author": "Zixuan Xie, Chang Xu, Yuhua Jiang, Li Zhao",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T10:50:39.927628"
   },
   {
     "id": "TechCrunch AI_41b689c64089f070",
@@ -462,24 +460,41 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T02:41:33.552737"
+    "created_at": "2026-10-14T10:50:25.655668"
   },
   {
-    "id": "TechCrunch AI_753febbbaa86a108",
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 23:05:34 +0000",
-    "importance_score": 6.2,
+    "id": "Wired AI_d42caa245be76250",
+    "title": "Men Can’t Stop Faking How Much They Know About AI",
+    "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+    "content": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "source": "Wired AI",
+    "author": "Kate Taylor",
+    "published_date": "Wed, 14 Oct 2026 09:30:00 +0000",
+    "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552242"
+    "created_at": "2026-10-14T10:50:27.677923"
+  },
+  {
+    "id": "Wired AI_8986d62f63014986",
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "content": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "source": "Wired AI",
+    "author": "David Gilbert",
+    "published_date": "Wed, 14 Oct 2026 09:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T10:50:27.677981"
   },
   {
     "id": "Wired AI_5ac16855c227025c",
@@ -496,7 +511,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532555"
+    "created_at": "2026-10-14T10:50:27.678179"
   },
   {
     "id": "OpenAI News_b4c456b96952f9e5",
@@ -514,25 +529,93 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.948699"
+    "created_at": "2026-10-14T10:50:32.879963"
   },
   {
-    "id": "Reddit ML_029a87492563d5d4",
-    "title": "PhD students, how ya feeling? [D]",
-    "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
-    "content": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+    "id": "Reddit ML_40f7c36715d71858",
+    "title": "Localized Neural learning vs backpropagation [D]",
+    "summary": "I’ve recently started exploring machine learning by building neural networks from scratch and studying the underlying mathematics. I come from a physics and mathematics background, and as I’ve become more familiar with backpropagation, I’ve grown increasingly interested in alternative learning...",
+    "content": "I’ve recently started exploring machine learning by building neural networks from scratch and studying the underlying mathematics. I come from a physics and mathematics background, and as I’ve become more familiar with backpropagation, I’ve grown increasingly interested in alternative learning...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5itey/localized_neural_learning_vs_backpropagation_d/",
     "source": "Reddit ML",
-    "author": "/u/SeaAccomplished441",
-    "published_date": "2026-10-14T02:33:44+00:00",
+    "author": "/u/Nearby_Effective6679",
+    "published_date": "2026-10-14T05:16:34+00:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "machine learning",
+      "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589450"
+    "created_at": "2026-10-14T10:50:44.287757"
+  },
+  {
+    "id": "OpenAI News_3c25b5b9474e6822",
+    "title": "The EU’s next chapter in AI is agentic",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "content": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:32.879913"
+  },
+  {
+    "id": "Reddit ML_7def5e5016d7c179",
+    "title": "Binary noise classification using CRNN mean teacher algo [R]",
+    "summary": "Hi all, so im making a binary noise classification model. I have training data with timestamps of noise and some with verified some with unverified. The performance parameters are F1 and Dice scores and their combined score.",
+    "content": "Hi all, so im making a binary noise classification model. I have training data with timestamps of noise and some with verified some with unverified. The performance parameters are F1 and Dice scores and their combined score.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5jm7g/binary_noise_classification_using_crnn_mean/",
+    "source": "Reddit ML",
+    "author": "/u/AerieBeautiful8188",
+    "published_date": "2026-10-14T06:05:41+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:44.287821"
+  },
+  {
+    "id": "Reddit ML_bb4f60b199dca908",
+    "title": "I turned my dog Jackies Brain into a working AI [P]",
+    "summary": "Hey everyone,I’m a researcher at MIT and this whole thing started completely by accident. My dog Jackie had to do a couple of veterinary MRI scans last year for a minor issue that luckily turned out fine.",
+    "content": "Hey everyone,I’m a researcher at MIT and this whole thing started completely by accident. My dog Jackie had to do a couple of veterinary MRI scans last year for a minor issue that luckily turned out fine.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ny23/i_turned_my_dog_jackies_brain_into_a_working_ai_p/",
+    "source": "Reddit ML",
+    "author": "/u/Sad_Measurement_7502",
+    "published_date": "2026-10-14T10:43:35+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:44.288038"
+  },
+  {
+    "id": "TechCrunch AI_8643f21e51f7efad",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:25.655425"
   },
   {
     "id": "The Verge AI_4d1408869205552c",
@@ -549,7 +632,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.560734"
+    "created_at": "2026-10-14T10:50:26.719894"
   },
   {
     "id": "The Verge AI_924c354f236b9c29",
@@ -566,7 +649,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.560808"
+    "created_at": "2026-10-14T10:50:26.719939"
   },
   {
     "id": "The Verge AI_7502cd056ffc913b",
@@ -583,7 +666,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.561226"
+    "created_at": "2026-10-14T10:50:26.720160"
   },
   {
     "id": "Wired AI_d36ac04670d5a0c6",
@@ -600,24 +683,60 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532416"
+    "created_at": "2026-10-14T10:50:27.678107"
   },
   {
-    "id": "MIT Technology Review_09efb776a103f66b",
-    "title": "AI labs are buying data from dead startups to train their models",
-    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-    "content": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "source": "MIT Technology Review",
-    "author": "Matthew King",
-    "published_date": "Tue, 13 Oct 2026 09:00:00 +0000",
+    "id": "arXiv AI_0011353cf210f962",
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells.",
+    "content": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells.",
+    "url": "https://arxiv.org/abs/2610.14118",
+    "source": "arXiv AI",
+    "author": "Hansi Yang, Linji Hao, Hongyan Hao, An Wang, Han Wu, Qi Gu, Xunliang Cai",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
     "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.255556"
+  },
+  {
+    "id": "arXiv ML_348e939d867ddf18",
+    "title": "GameSmith: Scaling Zero-Sum Self-Play with Synthesised Games",
+    "summary": "arXiv:2610.13995v1 Announce Type: new Abstract: Post-training large language models (LLMs) on two-player zero-sum games provides a verifiable reward, and the gains have been shown to transfer to general reasoning.",
+    "content": "arXiv:2610.13995v1 Announce Type: new Abstract: Post-training large language models (LLMs) on two-player zero-sum games provides a verifiable reward, and the gains have been shown to transfer to general reasoning.",
+    "url": "https://arxiv.org/abs/2610.13995",
+    "source": "arXiv ML",
+    "author": "Weixian Waylon Li, Jiaxin Zhang, Han Zhou, Chengzu Li, Ke Wang, Fengxiang He, Yiwen Guo",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927739"
+  },
+  {
+    "id": "TechCrunch AI_753febbbaa86a108",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 23:05:34 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652264"
+    "created_at": "2026-10-14T10:50:25.655372"
   },
   {
     "id": "TechCrunch AI_cb5aeb847be52e93",
@@ -634,7 +753,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552480"
+    "created_at": "2026-10-14T10:50:25.655513"
   },
   {
     "id": "TechCrunch AI_104d1463aa5129f3",
@@ -651,7 +770,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:33.552643"
+    "created_at": "2026-10-14T10:50:25.655606"
   },
   {
     "id": "The Verge AI_6a570cfea4d3a445",
@@ -668,24 +787,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:34.561058"
-  },
-  {
-    "id": "Wired AI_cda3f9c4f891e1e4",
-    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-    "content": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-    "source": "Wired AI",
-    "author": "Tess Owen",
-    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532481"
+    "created_at": "2026-10-14T10:50:26.720085"
   },
   {
     "id": "Wired AI_ac85c289c02960c0",
@@ -702,7 +804,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532618"
+    "created_at": "2026-10-14T10:50:27.678210"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -719,7 +821,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:37.646616"
+    "created_at": "2026-10-14T10:50:29.721719"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -736,7 +838,128 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:37.646776"
+    "created_at": "2026-10-14T10:50:29.721810"
+  },
+  {
+    "id": "arXiv AI_99c5791047ab9540",
+    "title": "The Silent Failures in Agentic Data Science",
+    "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model...",
+    "content": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model...",
+    "url": "https://arxiv.org/abs/2610.14115",
+    "source": "arXiv AI",
+    "author": "Xue Li, Hongqian Xia, Daniel Gomm, A\\'ecio Santos, Cornelius Wolff, Madelon Hulsebos",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T10:50:39.255481"
+  },
+  {
+    "id": "arXiv AI_1f7ac33d62b94480",
+    "title": "Correction Training for Diffusion Models",
+    "summary": "arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier...",
+    "content": "arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier...",
+    "url": "https://arxiv.org/abs/2610.14136",
+    "source": "arXiv AI",
+    "author": "Donghoon Ahn, Runqian Wang, Alexei A. Efros, Taesung Park, Yash Belhe",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T10:50:39.255632"
+  },
+  {
+    "id": "arXiv AI_3b834deb56eec84b",
+    "title": "Unconstrained CTI-REALM with Open-Weights",
+    "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.",
+    "content": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive closed frontier models. We study that choice on CTI-REALM (arXiv:2603.",
+    "url": "https://arxiv.org/abs/2610.14180",
+    "source": "arXiv AI",
+    "author": "Sahil Garg, Ruhi Gottumukkala, Vishal Agarwal, Shubham Vishwakarma",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.255830"
+  },
+  {
+    "id": "arXiv ML_8d33cef7075e970f",
+    "title": "LACRM: LLM-Guided Mining of Directed Advertiser Competition Relationships in E-Commerce Advertising",
+    "summary": "arXiv:2610.13959v1 Announce Type: new Abstract: In e-commerce advertising, ad platforms typically fail to model the externalities among advertisers when making optimization decisions: an advertiser's actual performance is largely shaped by rivals competing for the same users; these rivals typically...",
+    "content": "arXiv:2610.13959v1 Announce Type: new Abstract: In e-commerce advertising, ad platforms typically fail to model the externalities among advertisers when making optimization decisions: an advertiser's actual performance is largely shaped by rivals competing for the same users; these rivals typically...",
+    "url": "https://arxiv.org/abs/2610.13959",
+    "source": "arXiv ML",
+    "author": "Xiang Shi, Yitian Kou, Bing Li, Shengsheng Niu, Chun Gan, Linghui Meng, Jie He, Zhangang Lin, Ching Law",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927410"
+  },
+  {
+    "id": "arXiv ML_2a5034d3c79be74a",
+    "title": "Posterior Flow Matching",
+    "summary": "arXiv:2610.13994v1 Announce Type: new Abstract: Flow matching learns how to transport noise toward data, but its mean prediction does not directly report the endpoint uncertainty remaining at an intermediate state.",
+    "content": "arXiv:2610.13994v1 Announce Type: new Abstract: Flow matching learns how to transport noise toward data, but its mean prediction does not directly report the endpoint uncertainty remaining at an intermediate state.",
+    "url": "https://arxiv.org/abs/2610.13994",
+    "source": "arXiv ML",
+    "author": "Chenrui Ma, Xi Xiao, Lin Zhao, Xinru Jiang, Tianyang Wang, Yanning Shen, Ferdinando Fioretto",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927677"
+  },
+  {
+    "id": "arXiv ML_93a801cdd7845f48",
+    "title": "Splicing Hints into Reasoning Traces: Learning from Demonstrator Failures",
+    "summary": "arXiv:2610.13996v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards improves mathematical reasoning when a final answer can be checked, but a correct answer does not certify the derivation behind it, and proof problems offer no answer to check.",
+    "content": "arXiv:2610.13996v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards improves mathematical reasoning when a final answer can be checked, but a correct answer does not certify the derivation behind it, and proof problems offer no answer to check.",
+    "url": "https://arxiv.org/abs/2610.13996",
+    "source": "arXiv ML",
+    "author": "Hamed Mahdavi (Pennsylvania State University), Pouria Mahdavinia (Pennsylvania State University), Majid Farhadi (Google), Vasant Honavar (Pennsylvania State University)",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T10:50:39.927805"
+  },
+  {
+    "id": "Reddit ML_029a87492563d5d4",
+    "title": "PhD students, how ya feeling? [D]",
+    "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
+    "content": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+    "source": "Reddit ML",
+    "author": "/u/SeaAccomplished441",
+    "published_date": "2026-10-14T02:33:44+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:44.287512"
   },
   {
     "id": "Reddit ML_079e778b30d22e66",
@@ -754,7 +977,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589373"
+    "created_at": "2026-10-14T10:50:44.287881"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -771,7 +994,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:36.546608"
+    "created_at": "2026-10-14T10:50:28.730824"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -788,7 +1011,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:36.546748"
+    "created_at": "2026-10-14T10:50:28.730904"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -805,7 +1028,103 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.948861"
+    "created_at": "2026-10-14T10:50:32.880046"
+  },
+  {
+    "id": "arXiv AI_c6fefcd90594aad6",
+    "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+    "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.",
+    "content": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.",
+    "url": "https://arxiv.org/abs/2610.14146",
+    "source": "arXiv AI",
+    "author": "Zongxia Li, Zhongzhi Li, Yucheng Shi, Ruhan Wang, Junyao Yang, Chengsong Huang, Zhichao Liu, Xiyang Wu, Anhao Li, Yue Yu, Ergan Shang, Fuxiao Liu, Tong Zheng, Ninghao Liu, Lichao Sun, Haitao Mi, Leowei Liang",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.255704"
+  },
+  {
+    "id": "arXiv AI_680a0cfaca056179",
+    "title": "Visualizing the World Model in an Agent's Value Function",
+    "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value...",
+    "content": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everything about a state fixed, besides a targeted change, to explore if the value...",
+    "url": "https://arxiv.org/abs/2610.14186",
+    "source": "arXiv AI",
+    "author": "Shawheen Naderi, Fatemeh Akherati, Yubei Chen",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.255883"
+  },
+  {
+    "id": "arXiv AI_b9bc3a90ebc22127",
+    "title": "Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models",
+    "summary": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level.",
+    "content": "arXiv:2610.14190v1 Announce Type: new Abstract: Explaining a vision--language model (VLM) prediction requires tracing training-example influence to the multimodal evidence that mediates it, yet existing attribution methods largely operate only at the sample level.",
+    "url": "https://arxiv.org/abs/2610.14190",
+    "source": "arXiv AI",
+    "author": "Laura Yao, Shixing Yu, Jie Peng, Promit Ghosal, Kyra Gan, Tianlong Chen",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.255947"
+  },
+  {
+    "id": "arXiv ML_7a430186d62cf968",
+    "title": "MDN-VJEPA: Multimodal Probabilistic Joint-Embedding World Models",
+    "summary": "arXiv:2610.13956v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting future representations rather than reconstructing observations.",
+    "content": "arXiv:2610.13956v1 Announce Type: new Abstract: Joint-Embedding Predictive Architectures (JEPAs) learn world models by predicting future representations rather than reconstructing observations.",
+    "url": "https://arxiv.org/abs/2610.13956",
+    "source": "arXiv ML",
+    "author": "Yongchao Huang",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927322"
+  },
+  {
+    "id": "arXiv ML_d489b4728dff7e71",
+    "title": "MRFlow: Mechanism-Structured Residual Flow Matching for Virtual Cell Perturbation Prediction",
+    "summary": "arXiv:2610.13966v1 Announce Type: new Abstract: Predicting cellular responses to chemical and genetic perturbations is a central test for AI virtual cells, yet many single-cell models reduce each condition to an average expression shift.",
+    "content": "arXiv:2610.13966v1 Announce Type: new Abstract: Predicting cellular responses to chemical and genetic perturbations is a central test for AI virtual cells, yet many single-cell models reduce each condition to an average expression shift.",
+    "url": "https://arxiv.org/abs/2610.13966",
+    "source": "arXiv ML",
+    "author": "Haojie Yang, Ran Su",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927489"
+  },
+  {
+    "id": "arXiv ML_a1a2ada7a704728d",
+    "title": "DoSA: Dots Sparse Attention",
+    "summary": "arXiv:2610.13990v1 Announce Type: new Abstract: Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this computation conditional while preserving exact token selection.",
+    "content": "arXiv:2610.13990v1 Announce Type: new Abstract: Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this computation conditional while preserving exact token selection.",
+    "url": "https://arxiv.org/abs/2610.13990",
+    "source": "arXiv ML",
+    "author": "Fanxu Meng, Taosong Fang",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:39.927562"
   },
   {
     "id": "Reddit ML_e5d8a6ccc9a7f4ff",
@@ -822,24 +1141,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589534"
+    "created_at": "2026-10-14T10:50:44.288084"
   },
   {
-    "id": "Reddit ML_447642ce039f600b",
-    "title": "Machine Learning Tutorial/Workshop [D]",
-    "summary": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as you can see it is a mathematics server, so the learning environment is quite focused indeed.",
-    "content": "This post is to let people know about a workshop/tutorial on Machine Learning that will run on the (blue) math discord server: discord.gg/maths. The place is nice, people are cool and helpful, and as you can see it is a mathematics server, so the learning environment is quite focused indeed.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4qcxw/machine_learning_tutorialworkshop_d/",
-    "source": "Reddit ML",
-    "author": "/u/zeroalephzeta",
-    "published_date": "2026-10-13T07:34:40+00:00",
-    "importance_score": 5.5,
+    "id": "MIT Technology Review_09efb776a103f66b",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+    "content": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Technology Review",
+    "author": "Matthew King",
+    "published_date": "Tue, 13 Oct 2026 09:00:00 +0000",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
-      "machine learning"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589996"
+    "created_at": "2026-10-14T10:50:30.678227"
   },
   {
     "id": "MIT Technology Review_ad8d8365dd8a1fa9",
@@ -856,24 +1175,22 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T02:41:38.652345"
+    "created_at": "2026-10-14T10:50:30.678271"
   },
   {
-    "id": "MIT Technology Review_39f0ce4c982e7bc9",
-    "title": "The ecologist revealing the invisible networks that revive rainforests",
-    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
-    "content": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
-    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-    "source": "MIT Technology Review",
-    "author": "Matthew Ponsford",
-    "published_date": "Mon, 12 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "id": "arXiv AI_a2b0c833fedb03d2",
+    "title": "Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs",
+    "summary": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user.",
+    "content": "arXiv:2610.14209v1 Announce Type: new Abstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the private data of the user.",
+    "url": "https://arxiv.org/abs/2610.14209",
+    "source": "arXiv AI",
+    "author": "Boris Radovi\\v{c}, Marco Canini, Veljko Pejovi\\'c",
+    "published_date": "Wed, 14 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652442"
+    "created_at": "2026-10-14T10:50:39.256004"
   },
   {
     "id": "Reddit ML_c468e1910e48f61a",
@@ -890,24 +1207,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589603"
-  },
-  {
-    "id": "Reddit ML_08991cd5de410b1c",
-    "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
-    "summary": "https://preview.redd.it/m5e9anluo8vh1.png?width=1080format=pngauto=webps=4c80687e6fe40036843a97ed8975ce46eaab0662 I am excited to share a project I have been working on during the past few years during my free time.",
-    "content": "https://preview.redd.it/m5e9anluo8vh1.png?width=1080format=pngauto=webps=4c80687e6fe40036843a97ed8975ce46eaab0662 I am excited to share a project I have been working on during the past few years during my free time.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
-    "source": "Reddit ML",
-    "author": "/u/arthurdjn",
-    "published_date": "2026-10-13T13:50:38+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589806"
+    "created_at": "2026-10-14T10:50:44.288121"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -924,25 +1224,24 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:53.140704"
+    "created_at": "2026-10-14T10:50:44.963971"
   },
   {
-    "id": "Wired AI_b945b71eb5b00e30",
-    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "content": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "id": "Wired AI_cda3f9c4f891e1e4",
+    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "content": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
     "source": "Wired AI",
-    "author": "Adam Morgan",
-    "published_date": "Fri, 09 Oct 2026 19:28:49 +0000",
-    "importance_score": 5.1000000000000005,
+    "author": "Tess Owen",
+    "published_date": "Tue, 13 Oct 2026 10:00:00 +0000",
+    "importance_score": 5.2,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532741"
+    "created_at": "2026-10-14T10:50:27.678140"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -959,7 +1258,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:40.949087"
+    "created_at": "2026-10-14T10:50:32.880157"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -976,24 +1275,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532679"
-  },
-  {
-    "id": "Wired AI_88fcc2874780020b",
-    "title": "Even ‘Law & Order’ Is Terrified of AI",
-    "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "content": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-    "source": "Wired AI",
-    "author": "Ej Dickson",
-    "published_date": "Fri, 09 Oct 2026 10:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:35.532804"
+    "created_at": "2026-10-14T10:50:27.678241"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1010,7 +1292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:37.646688"
+    "created_at": "2026-10-14T10:50:29.721761"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1027,7 +1309,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-14T02:41:37.646854"
+    "created_at": "2026-10-14T10:50:29.721851"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1044,7 +1326,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:37.646915"
+    "created_at": "2026-10-14T10:50:29.721884"
+  },
+  {
+    "id": "MIT Technology Review_39f0ce4c982e7bc9",
+    "title": "The ecologist revealing the invisible networks that revive rainforests",
+    "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+    "content": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth.",
+    "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+    "source": "MIT Technology Review",
+    "author": "Matthew Ponsford",
+    "published_date": "Mon, 12 Oct 2026 09:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T10:50:30.678326"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1061,7 +1360,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T02:41:38.652538"
+    "created_at": "2026-10-14T10:50:30.678379"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1078,7 +1377,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652634"
+    "created_at": "2026-10-14T10:50:30.678433"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1095,7 +1394,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:38.652722"
+    "created_at": "2026-10-14T10:50:30.678491"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1112,7 +1411,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:39.974927"
+    "created_at": "2026-10-14T10:50:31.861893"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1129,7 +1428,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:39.974994"
+    "created_at": "2026-10-14T10:50:31.861930"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1146,7 +1445,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:36.546816"
+    "created_at": "2026-10-14T10:50:28.730941"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1163,7 +1462,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:43.815045"
+    "created_at": "2026-10-14T10:50:35.799301"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1180,7 +1479,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:43.815135"
+    "created_at": "2026-10-14T10:50:35.799342"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1198,7 +1497,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:53.140575"
+    "created_at": "2026-10-14T10:50:44.963905"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1215,7 +1514,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:53.140473"
+    "created_at": "2026-10-14T10:50:44.963845"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1232,7 +1531,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:53.140642"
+    "created_at": "2026-10-14T10:50:44.963940"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1247,6 +1546,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T02:41:52.589106"
+    "created_at": "2026-10-14T10:50:44.287435"
   }
 ]
