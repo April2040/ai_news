@@ -1,5 +1,62 @@
 [
   {
+    "id": "The Verge AI_79c2eabe16f5d010",
+    "title": "The AI race is back on",
+    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish...",
+    "content": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-14T15:06:03-04:00",
+    "importance_score": 9.1,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:52.448770"
+  },
+  {
+    "id": "The Verge AI_fe1126ae16b10fae",
+    "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+    "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice...",
+    "content": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-14T12:43:24-04:00",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:52.449121"
+  },
+  {
+    "id": "OpenAI News_6b056a8c4f3e6869",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "content": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "importance_score": 8.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:58.850903"
+  },
+  {
     "id": "Reddit ML_d57930309fd6bae3",
     "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
     "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
@@ -14,7 +71,7 @@
       "Claude"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331395"
+    "created_at": "2026-10-14T21:06:10.350794"
   },
   {
     "id": "The Verge AI_e5046eb9d21bf87f",
@@ -32,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606448"
+    "created_at": "2026-10-14T21:05:52.449444"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -50,80 +107,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:35.864406"
+    "created_at": "2026-10-14T21:05:57.458966"
   },
   {
-    "id": "OpenAI News_55bed8c710430de9",
-    "title": "Disrupting AI-enabled “false front” operations",
-    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "content": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "id": "OpenAI News_40df79f07b1bf3c7",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "content": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "url": "https://openai.com/index/sentinelone",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Thu, 08 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.9,
+    "published_date": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243707"
-  },
-  {
-    "id": "Ars Technica_eb1561a498237fe9",
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "content": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Wed, 14 Oct 2026 12:55:06 +0000",
-    "importance_score": 7.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:32.635032"
-  },
-  {
-    "id": "Wired AI_cfa965838dc28caf",
-    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "source": "Wired AI",
-    "author": "Ben Gartside",
-    "published_date": "Tue, 13 Oct 2026 19:35:29 +0000",
-    "importance_score": 7.8,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639327"
-  },
-  {
-    "id": "The Verge AI_984963d91c40e404",
-    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-    "content": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-13T16:45:25-04:00",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606611"
+    "created_at": "2026-10-14T21:05:58.850985"
   },
   {
     "id": "The Verge AI_bd3b4f3df253567b",
@@ -141,24 +143,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:30.606174"
-  },
-  {
-    "id": "The Verge AI_d912d80557adce82",
-    "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
-    "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.",
-    "content": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.",
-    "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-14T09:55:02-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606536"
+    "created_at": "2026-10-14T21:05:52.449193"
   },
   {
     "id": "Wired AI_9a6eecc4e08c845d",
@@ -176,7 +161,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639250"
+    "created_at": "2026-10-14T21:05:53.434411"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -195,7 +180,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243539"
+    "created_at": "2026-10-14T21:05:58.851480"
+  },
+  {
+    "id": "Ars Technica_eb1561a498237fe9",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "content": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Wed, 14 Oct 2026 12:55:06 +0000",
+    "importance_score": 7.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:54.466162"
+  },
+  {
+    "id": "Wired AI_cfa965838dc28caf",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "source": "Wired AI",
+    "author": "Ben Gartside",
+    "published_date": "Tue, 13 Oct 2026 19:35:29 +0000",
+    "importance_score": 7.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:53.434488"
+  },
+  {
+    "id": "TechCrunch AI_a5b313853b6123bb",
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "content": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Wed, 14 Oct 2026 18:23:46 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:51.432150"
   },
   {
     "id": "The Verge AI_090b387730870a9a",
@@ -212,7 +251,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606355"
+    "created_at": "2026-10-14T21:05:52.449355"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -230,24 +269,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243396"
+    "created_at": "2026-10-14T21:05:58.851341"
   },
   {
-    "id": "TechCrunch AI_ac128557cf796e43",
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-    "content": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Wed, 14 Oct 2026 11:00:00 +0000",
+    "id": "Reddit ML_69e11933db00ad5d",
+    "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+    "summary": "I was curious about OpenResearch by alphaXiv. Turn your coding agents into research agents? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: Silent feedback to the vendor.",
+    "content": "I was curious about OpenResearch by alphaXiv. Turn your coding agents into research agents? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: Silent feedback to the vendor.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+    "source": "Reddit ML",
+    "author": "/u/Dry_Leadership1075",
+    "published_date": "2026-10-14T18:40:18+00:00",
+    "importance_score": 7.1,
+    "category": "tech",
+    "keywords": [
+      "Claude"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:06:10.350023"
+  },
+  {
+    "id": "The Verge AI_d912d80557adce82",
+    "title": "Epic&#8217;s new games launcher is ‘vibe coded’",
+    "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.",
+    "content": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.",
+    "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-14T09:55:02-04:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.647160"
+    "created_at": "2026-10-14T21:05:52.449535"
   },
   {
     "id": "MIT Technology Review_8d7d2d10dd4b8cc8",
@@ -265,7 +321,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.696611"
+    "created_at": "2026-10-14T21:05:56.443063"
   },
   {
     "id": "MIT Technology Review_1ddfacf5fdd1dbfd",
@@ -283,32 +339,13 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.696783"
-  },
-  {
-    "id": "OpenAI News_776041a37bb7920c",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "content": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "importance_score": 6.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243778"
+    "created_at": "2026-10-14T21:05:56.443168"
   },
   {
     "id": "TechCrunch AI_54af114f6d604916",
     "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-    "summary": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-    "content": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "content": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
     "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
     "source": "TechCrunch AI",
     "author": "TechCrunch Events",
@@ -319,7 +356,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.646852"
+    "created_at": "2026-10-14T21:05:51.432410"
   },
   {
     "id": "TechCrunch AI_6bd3508d526c1384",
@@ -336,24 +373,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.646927"
-  },
-  {
-    "id": "The Verge AI_49d2fce0bcb4884f",
-    "title": "Facebook will let you customize your feed algorithm using AI",
-    "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
-    "content": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
-    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-13T13:01:31-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606867"
+    "created_at": "2026-10-14T21:05:51.432475"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -371,7 +391,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243463"
+    "created_at": "2026-10-14T21:05:58.851407"
   },
   {
     "id": "arXiv AI_f4ace766380ad809",
@@ -389,7 +409,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.612121"
+    "created_at": "2026-10-14T21:06:05.263058"
   },
   {
     "id": "arXiv AI_89bec06e4b334cea",
@@ -406,7 +426,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-14T16:09:43.612780"
+    "created_at": "2026-10-14T21:06:05.263661"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -424,7 +444,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:32.635180"
+    "created_at": "2026-10-14T21:05:54.466308"
   },
   {
     "id": "TechCrunch AI_dac881be6700f26b",
@@ -441,7 +461,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.647239"
+    "created_at": "2026-10-14T21:05:51.432797"
   },
   {
     "id": "arXiv ML_7ccbc5cf9072b587",
@@ -458,7 +478,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:44.351914"
+    "created_at": "2026-10-14T21:06:06.086348"
   },
   {
     "id": "TechCrunch AI_84dd477cc95755da",
@@ -475,41 +495,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.646722"
+    "created_at": "2026-10-14T21:05:51.432311"
   },
   {
-    "id": "TechCrunch AI_f7b18093bd968c5d",
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-    "content": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "id": "TechCrunch AI_ac128557cf796e43",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "content": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
     "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Wed, 14 Oct 2026 15:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:29.647012"
-  },
-  {
-    "id": "TechCrunch AI_bab5a3c73a32f4ba",
-    "title": "TechCrunch Disrupt 2026: Day 2",
-    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
-    "content": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
-    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Wed, 14 Oct 2026 14:30:00 +0000",
+    "author": "Jagmeet Singh",
+    "published_date": "Wed, 14 Oct 2026 11:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.647082"
+    "created_at": "2026-10-14T21:05:51.432722"
+  },
+  {
+    "id": "The Verge AI_553bc0540dff3071",
+    "title": "YouTube sticks new labels on AI-generated songs",
+    "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it []",
+    "content": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-14T14:22:56-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:52.448961"
+  },
+  {
+    "id": "The Verge AI_a1711f1237c10784",
+    "title": "My AI doppelganger tells me what to eat",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm.",
+    "content": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm.",
+    "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+    "source": "The Verge AI",
+    "author": "Victoria Song",
+    "published_date": "2026-10-14T13:00:00-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:52.449037"
   },
   {
     "id": "The Verge AI_d0ed3aa9883f3e3b",
@@ -526,58 +563,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606278"
+    "created_at": "2026-10-14T21:05:52.449285"
   },
   {
-    "id": "Wired AI_5a39ee5d26690ac1",
-    "title": "My Friend Has No Soul",
-    "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-    "content": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "source": "Wired AI",
-    "author": "Boone Ashworth",
-    "published_date": "Wed, 14 Oct 2026 11:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.638995"
-  },
-  {
-    "id": "MIT Technology Review_7ec29aa2d7fa8245",
-    "title": "The Download: faking blood and the future of batteries",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
-    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 14 Oct 2026 12:10:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.696484"
-  },
-  {
-    "id": "Wired AI_5ac16855c227025c",
-    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-    "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-    "content": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "id": "Wired AI_38010039191a34ad",
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
     "source": "Wired AI",
     "author": "Will Knight",
-    "published_date": "Mon, 12 Oct 2026 17:00:27 +0000",
+    "published_date": "Wed, 14 Oct 2026 18:15:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-14T21:05:53.434092"
+  },
+  {
+    "id": "TechCrunch AI_a7d94549c94e9b32",
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "content": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "source": "TechCrunch AI",
+    "author": "Ram Iyer",
+    "published_date": "Wed, 14 Oct 2026 18:00:00 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639535"
+    "created_at": "2026-10-14T21:05:51.432239"
+  },
+  {
+    "id": "The Verge AI_1bfbef0ba047dbf0",
+    "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+    "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.",
+    "content": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.",
+    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-10-14T14:47:54-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:52.448860"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -595,7 +632,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243082"
+    "created_at": "2026-10-14T21:05:58.851055"
   },
   {
     "id": "Reddit ML_1ab085bf6497f57f",
@@ -613,7 +650,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331192"
+    "created_at": "2026-10-14T21:06:10.350323"
   },
   {
     "id": "OpenAI News_3c25b5b9474e6822",
@@ -630,58 +667,93 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243178"
+    "created_at": "2026-10-14T21:05:58.851135"
   },
   {
-    "id": "TechCrunch AI_8643f21e51f7efad",
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "id": "Reddit ML_564a500ce3fc48fc",
+    "title": "What behaviors does a model actually learn in RL? [P]",
+    "summary": "I've been working on unsupervised tooling to discover what behaviors a model learns in post-training. The core idea is to use features from sparse autoencoders to identify differences in traces generated before and after training. I applied this to traces from the MiMo-v2.",
+    "content": "I've been working on unsupervised tooling to discover what behaviors a model learns in post-training. The core idea is to use features from sparse autoencoders to identify differences in traces generated before and after training. I applied this to traces from the MiMo-v2.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5ywx3/what_behaviors_does_a_model_actually_learn_in_rl_p/",
+    "source": "Reddit ML",
+    "author": "/u/hansenjakob",
+    "published_date": "2026-10-14T18:23:30+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:06:10.350670"
+  },
+  {
+    "id": "Reddit ML_0651ef83bad62fe9",
+    "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+    "summary": "Inspired by TypeSafe's Jev (a non-generative model that only outputs bounded decisions — choices, probabilities, calibrated confidence), I built two small decision models end-to-end on identical budgets and tasks to answer one question: which substrate makes the better Jev? Repo: https://github.",
+    "content": "Inspired by TypeSafe's Jev (a non-generative model that only outputs bounded decisions — choices, probabilities, calibrated confidence), I built two small decision models end-to-end on identical budgets and tasks to answer one question: which substrate makes the better Jev? Repo: https://github.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
+    "source": "Reddit ML",
+    "author": "/u/AlarmingTrouble5261",
+    "published_date": "2026-10-14T18:07:44+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:06:10.351013"
+  },
+  {
+    "id": "TechCrunch AI_f7b18093bd968c5d",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "content": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "author": "Lauren Forristal",
+    "published_date": "Wed, 14 Oct 2026 15:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.647430"
+    "sentiment": "negative",
+    "created_at": "2026-10-14T21:05:51.432555"
   },
   {
-    "id": "The Verge AI_4d1408869205552c",
-    "title": "Shopify opens its catalog up to more AI agents",
-    "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
-    "content": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
-    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-    "source": "The Verge AI",
-    "author": "Mia Sato",
-    "published_date": "2026-10-13T15:42:42-04:00",
+    "id": "TechCrunch AI_bab5a3c73a32f4ba",
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+    "content": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
+    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Wed, 14 Oct 2026 14:30:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606708"
+    "created_at": "2026-10-14T21:05:51.432626"
   },
   {
-    "id": "The Verge AI_924c354f236b9c29",
-    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
-    "content": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
-    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-13T15:00:48-04:00",
+    "id": "Wired AI_5a39ee5d26690ac1",
+    "title": "My Friend Has No Soul",
+    "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+    "content": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "source": "Wired AI",
+    "author": "Boone Ashworth",
+    "published_date": "Wed, 14 Oct 2026 11:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:30.606783"
+    "created_at": "2026-10-14T21:05:53.434163"
   },
   {
     "id": "Wired AI_d42caa245be76250",
@@ -698,7 +770,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639080"
+    "created_at": "2026-10-14T21:05:53.434239"
   },
   {
     "id": "Wired AI_8986d62f63014986",
@@ -715,7 +787,24 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:31.639167"
+    "created_at": "2026-10-14T21:05:53.434329"
+  },
+  {
+    "id": "MIT Technology Review_7ec29aa2d7fa8245",
+    "title": "The Download: faking blood and the future of batteries",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
+    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 14 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T21:05:56.442924"
   },
   {
     "id": "arXiv AI_0011353cf210f962",
@@ -733,7 +822,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.612409"
+    "created_at": "2026-10-14T21:06:05.263327"
   },
   {
     "id": "arXiv ML_348e939d867ddf18",
@@ -751,7 +840,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.352112"
+    "created_at": "2026-10-14T21:06:06.086548"
   },
   {
     "id": "TechCrunch AI_753febbbaa86a108",
@@ -768,24 +857,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:29.647350"
+    "created_at": "2026-10-14T21:05:51.432907"
   },
   {
-    "id": "Wired AI_ac85c289c02960c0",
-    "title": "I Made Terrible Games With Google’s AI Playground",
-    "summary": "A long day’s haul in the video game slop mines.",
-    "content": "A long day’s haul in the video game slop mines.",
-    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "id": "Wired AI_5ac16855c227025c",
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "content": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
     "source": "Wired AI",
-    "author": "Boone Ashworth",
-    "published_date": "Sun, 11 Oct 2026 11:30:00 +0000",
+    "author": "Will Knight",
+    "published_date": "Mon, 12 Oct 2026 17:00:27 +0000",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639598"
+    "created_at": "2026-10-14T21:05:53.434686"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -802,7 +891,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:33.790002"
+    "created_at": "2026-10-14T21:05:55.545594"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -819,7 +908,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:33.790160"
+    "created_at": "2026-10-14T21:05:55.545754"
   },
   {
     "id": "OpenAI News_b4c456b96952f9e5",
@@ -837,7 +926,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243249"
+    "created_at": "2026-10-14T21:05:58.851200"
   },
   {
     "id": "arXiv AI_99c5791047ab9540",
@@ -854,7 +943,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:43.612278"
+    "created_at": "2026-10-14T21:06:05.263201"
   },
   {
     "id": "arXiv AI_1f7ac33d62b94480",
@@ -871,7 +960,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:43.612539"
+    "created_at": "2026-10-14T21:06:05.263457"
   },
   {
     "id": "arXiv AI_3b834deb56eec84b",
@@ -888,7 +977,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.612917"
+    "created_at": "2026-10-14T21:06:05.263788"
   },
   {
     "id": "arXiv ML_8d33cef7075e970f",
@@ -906,7 +995,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.351537"
+    "created_at": "2026-10-14T21:06:06.085990"
   },
   {
     "id": "arXiv ML_2a5034d3c79be74a",
@@ -923,7 +1012,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.352003"
+    "created_at": "2026-10-14T21:06:06.086437"
   },
   {
     "id": "arXiv ML_93a801cdd7845f48",
@@ -940,7 +1029,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:44.352229"
+    "created_at": "2026-10-14T21:06:06.086666"
   },
   {
     "id": "Reddit ML_029a87492563d5d4",
@@ -958,7 +1047,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331273"
+    "created_at": "2026-10-14T21:06:10.350588"
   },
   {
     "id": "Reddit ML_40f7c36715d71858",
@@ -976,7 +1065,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331670"
+    "created_at": "2026-10-14T21:06:10.351277"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -993,7 +1082,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:32.635119"
+    "created_at": "2026-10-14T21:05:54.466248"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -1010,22 +1099,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:32.635251"
-  },
-  {
-    "id": "Reddit ML_d2dda7e4a620c770",
-    "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-    "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
-    "content": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
-    "source": "Reddit ML",
-    "author": "/u/sulcantonin",
-    "published_date": "2026-10-14T10:16:24+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.330895"
+    "created_at": "2026-10-14T21:05:54.466378"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -1042,7 +1116,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243315"
+    "created_at": "2026-10-14T21:05:58.851263"
   },
   {
     "id": "arXiv AI_c6fefcd90594aad6",
@@ -1059,7 +1133,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.612685"
+    "created_at": "2026-10-14T21:06:05.263577"
   },
   {
     "id": "arXiv AI_680a0cfaca056179",
@@ -1074,7 +1148,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.613017"
+    "created_at": "2026-10-14T21:06:05.263901"
   },
   {
     "id": "arXiv AI_b9bc3a90ebc22127",
@@ -1091,7 +1165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.613133"
+    "created_at": "2026-10-14T21:06:05.264022"
   },
   {
     "id": "arXiv ML_7a430186d62cf968",
@@ -1106,7 +1180,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.351397"
+    "created_at": "2026-10-14T21:06:06.085818"
   },
   {
     "id": "arXiv ML_d489b4728dff7e71",
@@ -1123,7 +1197,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.351675"
+    "created_at": "2026-10-14T21:06:06.086112"
   },
   {
     "id": "arXiv ML_a1a2ada7a704728d",
@@ -1138,41 +1212,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:44.351803"
-  },
-  {
-    "id": "Reddit ML_7def5e5016d7c179",
-    "title": "Binary noise classification using CRNN mean teacher algo [R]",
-    "summary": "Hi all, so im making a binary noise classification model. I have training data with timestamps of noise and some with verified some with unverified. The performance parameters are F1 and Dice scores and their combined score.",
-    "content": "Hi all, so im making a binary noise classification model. I have training data with timestamps of noise and some with verified some with unverified. The performance parameters are F1 and Dice scores and their combined score.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5jm7g/binary_noise_classification_using_crnn_mean/",
-    "source": "Reddit ML",
-    "author": "/u/AerieBeautiful8188",
-    "published_date": "2026-10-14T06:05:41+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331898"
-  },
-  {
-    "id": "Reddit ML_e5d8a6ccc9a7f4ff",
-    "title": "On writing papers [D]",
-    "summary": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
-    "content": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
-    "source": "Reddit ML",
-    "author": "/u/ComprehensiveTop3297",
-    "published_date": "2026-10-13T18:18:21+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331979"
+    "created_at": "2026-10-14T21:06:06.086236"
   },
   {
     "id": "Wired AI_d36ac04670d5a0c6",
@@ -1189,7 +1229,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639390"
+    "created_at": "2026-10-14T21:05:53.434550"
   },
   {
     "id": "MIT Technology Review_09efb776a103f66b",
@@ -1206,7 +1246,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.696886"
+    "created_at": "2026-10-14T21:05:56.443271"
   },
   {
     "id": "arXiv AI_a2b0c833fedb03d2",
@@ -1221,7 +1261,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:43.613232"
+    "created_at": "2026-10-14T21:06:05.264121"
   },
   {
     "id": "Wired AI_cda3f9c4f891e1e4",
@@ -1238,25 +1278,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:31.639460"
+    "created_at": "2026-10-14T21:05:53.434613"
   },
   {
-    "id": "Reddit ML_079e778b30d22e66",
-    "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
-    "summary": "I'm a first year ML PhD at a T5 ML program in the US. I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since I saw a lot of them required a top venue publication.",
-    "content": "I'm a first year ML PhD at a T5 ML program in the US. I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since I saw a lot of them required a top venue publication.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+    "id": "Reddit ML_d2dda7e4a620c770",
+    "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
+    "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
+    "content": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
     "source": "Reddit ML",
-    "author": "/u/Perfect-Asparagus300",
-    "published_date": "2026-10-13T15:47:53+00:00",
-    "importance_score": 5.2,
+    "author": "/u/sulcantonin",
+    "published_date": "2026-10-14T10:16:24+00:00",
+    "importance_score": 5.1,
     "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.331788"
+    "created_at": "2026-10-14T21:06:10.350510"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -1273,7 +1310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:37.243605"
+    "created_at": "2026-10-14T21:05:58.851544"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1290,7 +1327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:33.790076"
+    "created_at": "2026-10-14T21:05:55.545669"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1307,7 +1344,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-14T16:09:33.790238"
+    "created_at": "2026-10-14T21:05:55.545831"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1324,7 +1361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:33.790299"
+    "created_at": "2026-10-14T21:05:55.545960"
   },
   {
     "id": "MIT Technology Review_ad8d8365dd8a1fa9",
@@ -1341,7 +1378,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:34.696965"
+    "created_at": "2026-10-14T21:05:56.443353"
   },
   {
     "id": "MIT Technology Review_39f0ce4c982e7bc9",
@@ -1358,7 +1395,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.697060"
+    "created_at": "2026-10-14T21:05:56.443451"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1375,7 +1412,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-14T16:09:34.697156"
+    "created_at": "2026-10-14T21:05:56.443548"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1392,7 +1429,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:34.697249"
+    "created_at": "2026-10-14T21:05:56.443644"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1409,7 +1446,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:35.864509"
+    "created_at": "2026-10-14T21:05:57.459061"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1426,7 +1463,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:35.864581"
+    "created_at": "2026-10-14T21:05:57.459129"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1443,7 +1480,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:39.789372"
+    "created_at": "2026-10-14T21:06:01.572584"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1460,7 +1497,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:39.789445"
+    "created_at": "2026-10-14T21:06:01.572653"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1478,7 +1515,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:49.000569"
+    "created_at": "2026-10-14T21:06:10.551450"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1495,7 +1532,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:49.000468"
+    "created_at": "2026-10-14T21:06:10.551346"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1512,7 +1549,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:49.000640"
+    "created_at": "2026-10-14T21:06:10.551519"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1527,6 +1564,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-14T16:09:48.330672"
+    "created_at": "2026-10-14T21:06:10.349847"
   }
 ]
