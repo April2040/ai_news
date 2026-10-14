@@ -1,21 +1,21 @@
 [
   {
-    "id": "TechCrunch AI_e937b5046cea06b3",
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 20:36:44 +0000",
-    "importance_score": 8.899999999999999,
+    "id": "DeepMind Blog_1f7505bfc78dcbe6",
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
+    "importance_score": 9.2,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "DeepMind",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254198"
+    "created_at": "2026-10-14T02:41:39.974834"
   },
   {
     "id": "The Verge AI_f948bb676afc4707",
@@ -32,62 +32,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189917"
+    "created_at": "2026-10-14T02:41:34.561153"
   },
   {
-    "id": "Reddit ML_0a68782492962d11",
-    "title": "Is human evaluation through surveys common in ML research?[R][D]",
-    "summary": "Hi, I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images.",
-    "content": "Hi, I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml/",
+    "id": "Reddit ML_d57930309fd6bae3",
+    "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+    "summary": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
+    "content": "I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among top conference submissions now.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
     "source": "Reddit ML",
-    "author": "/u/Dapper-Perspective21",
-    "published_date": "2026-10-13T15:16:50+00:00",
-    "importance_score": 8.399999999999999,
+    "author": "/u/WhiteBear2018",
+    "published_date": "2026-10-14T00:28:26+00:00",
+    "importance_score": 8.499999999999998,
+    "category": "tech",
+    "keywords": [
+      "Claude"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:52.589259"
+  },
+  {
+    "id": "TechCrunch AI_e937b5046cea06b3",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028943"
-  },
-  {
-    "id": "Wired AI_cfa965838dc28caf",
-    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "source": "Wired AI",
-    "author": "Ben Gartside",
-    "published_date": "Tue, 13 Oct 2026 19:35:29 +0000",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.234969"
-  },
-  {
-    "id": "The Verge AI_b4ef9863169a9a83",
-    "title": "Google makes it easier to launch your vibe-coded apps",
-    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
-    "content": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
-    "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-13T13:00:00-04:00",
-    "importance_score": 8.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189756"
+    "created_at": "2026-10-14T02:41:33.552410"
   },
   {
     "id": "The Verge AI_984963d91c40e404",
@@ -105,7 +85,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189409"
+    "created_at": "2026-10-14T02:41:34.560650"
+  },
+  {
+    "id": "Wired AI_9a6eecc4e08c845d",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "content": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "source": "Wired AI",
+    "author": "Paresh Dave, Maddy Varner, Caroline Haskins",
+    "published_date": "Tue, 13 Oct 2026 23:17:59 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:35.532260"
   },
   {
     "id": "OpenAI News_55bed8c710430de9",
@@ -123,7 +121,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667408"
+    "created_at": "2026-10-14T02:41:40.949169"
+  },
+  {
+    "id": "Wired AI_cfa965838dc28caf",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "source": "Wired AI",
+    "author": "Ben Gartside",
+    "published_date": "Tue, 13 Oct 2026 19:35:29 +0000",
+    "importance_score": 7.8,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:35.532351"
+  },
+  {
+    "id": "The Verge AI_b4ef9863169a9a83",
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+    "content": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store.",
+    "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-13T13:00:00-04:00",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:34.560967"
   },
   {
     "id": "MIT Technology Review_8d7d2d10dd4b8cc8",
@@ -141,7 +175,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.327656"
+    "created_at": "2026-10-14T02:41:38.652019"
   },
   {
     "id": "MIT Technology Review_1ddfacf5fdd1dbfd",
@@ -159,7 +193,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.327777"
+    "created_at": "2026-10-14T02:41:38.652152"
   },
   {
     "id": "OpenAI News_1d810393fbd4b632",
@@ -178,58 +212,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667272"
-  },
-  {
-    "id": "TechCrunch AI_bd2f5b4440de9a5d",
-    "title": "Facebook is giving users more control over their algorithm",
-    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "content": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Tue, 13 Oct 2026 18:05:24 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254374"
-  },
-  {
-    "id": "TechCrunch AI_d2e41eaa4f37560f",
-    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-    "content": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 17:00:00 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254636"
-  },
-  {
-    "id": "The Verge AI_49d2fce0bcb4884f",
-    "title": "Facebook will let you customize your feed algorithm using AI",
-    "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
-    "content": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
-    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-13T13:01:31-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189683"
+    "created_at": "2026-10-14T02:41:40.949003"
   },
   {
     "id": "OpenAI News_b5f1f16e15411e34",
@@ -247,7 +230,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667066"
+    "created_at": "2026-10-14T02:41:40.948793"
   },
   {
     "id": "OpenAI News_0370806873d550cc",
@@ -267,41 +250,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667532"
+    "created_at": "2026-10-14T02:41:40.949297"
   },
   {
-    "id": "TechCrunch AI_b6aba482afd16809",
-    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "content": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "id": "TechCrunch AI_dac881be6700f26b",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 13 Oct 2026 16:30:00 +0000",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 13 Oct 2026 23:13:31 +0000",
     "importance_score": 7.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254724"
-  },
-  {
-    "id": "TechCrunch AI_41b689c64089f070",
-    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-    "content": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-    "source": "TechCrunch AI",
-    "author": "Ram Iyer",
-    "published_date": "Tue, 13 Oct 2026 17:18:25 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-13T22:04:32.254539"
+    "created_at": "2026-10-14T02:41:33.552127"
   },
   {
     "id": "The Verge AI_34011ac24077b40d",
@@ -319,7 +285,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.190055"
+    "created_at": "2026-10-14T02:41:34.561295"
   },
   {
     "id": "OpenAI News_776041a37bb7920c",
@@ -338,7 +304,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667470"
+    "created_at": "2026-10-14T02:41:40.949234"
+  },
+  {
+    "id": "TechCrunch AI_bd2f5b4440de9a5d",
+    "title": "Facebook is giving users more control over their algorithm",
+    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "content": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Tue, 13 Oct 2026 18:05:24 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:33.552561"
+  },
+  {
+    "id": "TechCrunch AI_d2e41eaa4f37560f",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "content": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:33.552815"
+  },
+  {
+    "id": "The Verge AI_49d2fce0bcb4884f",
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+    "content": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics.",
+    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-13T13:01:31-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:34.560895"
   },
   {
     "id": "OpenAI News_33ef4cdd08c66724",
@@ -356,7 +373,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667199"
+    "created_at": "2026-10-14T02:41:40.948929"
   },
   {
     "id": "OpenAI News_08e5d67fbb2c366f",
@@ -374,7 +391,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667634"
+    "created_at": "2026-10-14T02:41:40.949372"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -392,7 +409,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:35.268402"
+    "created_at": "2026-10-14T02:41:36.546676"
   },
   {
     "id": "Reddit ML_46708aa0d897c36c",
@@ -411,92 +428,58 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028815"
+    "created_at": "2026-10-14T02:41:52.590257"
   },
   {
-    "id": "The Verge AI_4d1408869205552c",
-    "title": "Shopify opens its catalog up to more AI agents",
-    "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
-    "content": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
-    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-    "source": "The Verge AI",
-    "author": "Mia Sato",
-    "published_date": "2026-10-13T15:42:42-04:00",
+    "id": "TechCrunch AI_8643f21e51f7efad",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 22:36:59 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189494"
+    "created_at": "2026-10-14T02:41:33.552335"
   },
   {
-    "id": "The Verge AI_924c354f236b9c29",
-    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
-    "content": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
-    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-13T15:00:48-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189591"
-  },
-  {
-    "id": "TechCrunch AI_cb5aeb847be52e93",
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-    "content": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "id": "TechCrunch AI_41b689c64089f070",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "content": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
     "source": "TechCrunch AI",
     "author": "Ram Iyer",
-    "published_date": "Tue, 13 Oct 2026 18:30:00 +0000",
-    "importance_score": 6.2,
+    "published_date": "Tue, 13 Oct 2026 17:18:25 +0000",
+    "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254285"
+    "sentiment": "negative",
+    "created_at": "2026-10-14T02:41:33.552737"
   },
   {
-    "id": "TechCrunch AI_104d1463aa5129f3",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "id": "TechCrunch AI_753febbbaa86a108",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
     "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 13 Oct 2026 17:30:00 +0000",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 13 Oct 2026 23:05:34 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254460"
-  },
-  {
-    "id": "The Verge AI_6a570cfea4d3a445",
-    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
-    "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
-    "content": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-    "source": "The Verge AI",
-    "author": "Mia Sato",
-    "published_date": "2026-10-13T12:42:51-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189847"
+    "created_at": "2026-10-14T02:41:33.552242"
   },
   {
     "id": "Wired AI_5ac16855c227025c",
@@ -513,7 +496,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235198"
+    "created_at": "2026-10-14T02:41:35.532555"
   },
   {
     "id": "OpenAI News_b4c456b96952f9e5",
@@ -531,41 +514,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.666974"
+    "created_at": "2026-10-14T02:41:40.948699"
   },
   {
-    "id": "Reddit ML_e5d8a6ccc9a7f4ff",
-    "title": "On writing papers [D]",
-    "summary": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
-    "content": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
+    "id": "Reddit ML_029a87492563d5d4",
+    "title": "PhD students, how ya feeling? [D]",
+    "summary": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
+    "content": "All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
     "source": "Reddit ML",
-    "author": "/u/ComprehensiveTop3297",
-    "published_date": "2026-10-13T18:18:21+00:00",
-    "importance_score": 6.0,
+    "author": "/u/SeaAccomplished441",
+    "published_date": "2026-10-14T02:33:44+00:00",
+    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "ML"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028119"
+    "created_at": "2026-10-14T02:41:52.589450"
   },
   {
-    "id": "TechCrunch AI_9364685ec811fba3",
-    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "content": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 13 Oct 2026 13:50:19 +0000",
+    "id": "The Verge AI_4d1408869205552c",
+    "title": "Shopify opens its catalog up to more AI agents",
+    "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
+    "content": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion...",
+    "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "source": "The Verge AI",
+    "author": "Mia Sato",
+    "published_date": "2026-10-13T15:42:42-04:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:32.254819"
+    "created_at": "2026-10-14T02:41:34.560734"
+  },
+  {
+    "id": "The Verge AI_924c354f236b9c29",
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
+    "content": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience.",
+    "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "source": "The Verge AI",
+    "author": "Tom Warren",
+    "published_date": "2026-10-13T15:00:48-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:34.560808"
   },
   {
     "id": "The Verge AI_7502cd056ffc913b",
@@ -582,7 +583,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:33.189987"
+    "created_at": "2026-10-14T02:41:34.561226"
   },
   {
     "id": "Wired AI_d36ac04670d5a0c6",
@@ -599,7 +600,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235044"
+    "created_at": "2026-10-14T02:41:35.532416"
   },
   {
     "id": "MIT Technology Review_09efb776a103f66b",
@@ -616,24 +617,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.327872"
+    "created_at": "2026-10-14T02:41:38.652264"
   },
   {
-    "id": "Reddit ML_c468e1910e48f61a",
-    "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
-    "summary": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way?  submitted by  /u/Hope999991 [link]  [comments]",
-    "content": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way?  submitted by  /u/Hope999991 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
-    "source": "Reddit ML",
-    "author": "/u/Hope999991",
-    "published_date": "2026-10-13T16:06:10+00:00",
-    "importance_score": 5.8,
+    "id": "TechCrunch AI_cb5aeb847be52e93",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "content": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "source": "TechCrunch AI",
+    "author": "Ram Iyer",
+    "published_date": "Tue, 13 Oct 2026 18:30:00 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028189"
+    "created_at": "2026-10-14T02:41:33.552480"
+  },
+  {
+    "id": "TechCrunch AI_104d1463aa5129f3",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 13 Oct 2026 17:30:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:33.552643"
+  },
+  {
+    "id": "The Verge AI_6a570cfea4d3a445",
+    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
+    "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+    "content": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+    "source": "The Verge AI",
+    "author": "Mia Sato",
+    "published_date": "2026-10-13T12:42:51-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:34.561058"
   },
   {
     "id": "Wired AI_cda3f9c4f891e1e4",
@@ -650,7 +685,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235113"
+    "created_at": "2026-10-14T02:41:35.532481"
   },
   {
     "id": "Wired AI_ac85c289c02960c0",
@@ -667,7 +702,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235264"
+    "created_at": "2026-10-14T02:41:35.532618"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -684,7 +719,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:36.439230"
+    "created_at": "2026-10-14T02:41:37.646616"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -701,7 +736,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:36.439384"
+    "created_at": "2026-10-14T02:41:37.646776"
   },
   {
     "id": "Reddit ML_079e778b30d22e66",
@@ -719,7 +754,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028031"
+    "created_at": "2026-10-14T02:41:52.589373"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -736,7 +771,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:35.268333"
+    "created_at": "2026-10-14T02:41:36.546608"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -753,7 +788,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:35.268475"
+    "created_at": "2026-10-14T02:41:36.546748"
   },
   {
     "id": "OpenAI News_764b5092cdf647c5",
@@ -770,7 +805,24 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667133"
+    "created_at": "2026-10-14T02:41:40.948861"
+  },
+  {
+    "id": "Reddit ML_e5d8a6ccc9a7f4ff",
+    "title": "On writing papers [D]",
+    "summary": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
+    "content": "Hey all, I was curious about your take on writing papers. I see many different styles of writing, and I am kind of lost myself about what the best way to write is for a NeurIPS/ICLR/ICML conference audience.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
+    "source": "Reddit ML",
+    "author": "/u/ComprehensiveTop3297",
+    "published_date": "2026-10-13T18:18:21+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:52.589534"
   },
   {
     "id": "Reddit ML_447642ce039f600b",
@@ -787,7 +839,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028595"
+    "created_at": "2026-10-14T02:41:52.589996"
   },
   {
     "id": "MIT Technology Review_ad8d8365dd8a1fa9",
@@ -804,7 +856,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-13T22:04:37.327950"
+    "created_at": "2026-10-14T02:41:38.652345"
   },
   {
     "id": "MIT Technology Review_39f0ce4c982e7bc9",
@@ -821,7 +873,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.328045"
+    "created_at": "2026-10-14T02:41:38.652442"
+  },
+  {
+    "id": "Reddit ML_c468e1910e48f61a",
+    "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
+    "summary": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way?  submitted by  /u/Hope999991 [link]  [comments]",
+    "content": "Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way?  submitted by  /u/Hope999991 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+    "source": "Reddit ML",
+    "author": "/u/Hope999991",
+    "published_date": "2026-10-13T16:06:10+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-14T02:41:52.589603"
   },
   {
     "id": "Reddit ML_08991cd5de410b1c",
@@ -838,7 +907,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.028387"
+    "created_at": "2026-10-14T02:41:52.589806"
   },
   {
     "id": "Lobsters AI_00c30ba9d9bca2cf",
@@ -855,7 +924,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.555777"
+    "created_at": "2026-10-14T02:41:53.140704"
   },
   {
     "id": "Wired AI_b945b71eb5b00e30",
@@ -873,7 +942,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235391"
+    "created_at": "2026-10-14T02:41:35.532741"
   },
   {
     "id": "OpenAI News_eaf4de5d4329998f",
@@ -890,7 +959,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:39.667335"
+    "created_at": "2026-10-14T02:41:40.949087"
   },
   {
     "id": "Wired AI_210301a0d5702f21",
@@ -907,7 +976,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235327"
+    "created_at": "2026-10-14T02:41:35.532679"
   },
   {
     "id": "Wired AI_88fcc2874780020b",
@@ -924,24 +993,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235457"
-  },
-  {
-    "id": "Wired AI_25bfb5076c1a53ca",
-    "title": "Inside Elon Musk’s Midterm Spending Spree",
-    "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "content": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer, Leah Feiger",
-    "published_date": "Thu, 08 Oct 2026 21:14:12 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:34.235533"
+    "created_at": "2026-10-14T02:41:35.532804"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -958,7 +1010,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:36.439303"
+    "created_at": "2026-10-14T02:41:37.646688"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -975,7 +1027,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-13T22:04:36.439468"
+    "created_at": "2026-10-14T02:41:37.646854"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -992,7 +1044,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:36.439530"
+    "created_at": "2026-10-14T02:41:37.646915"
   },
   {
     "id": "MIT Technology Review_8bada6120ea3d42d",
@@ -1009,7 +1061,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-13T22:04:37.328141"
+    "created_at": "2026-10-14T02:41:38.652538"
   },
   {
     "id": "MIT Technology Review_96f570626b75ebd3",
@@ -1026,7 +1078,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.328234"
+    "created_at": "2026-10-14T02:41:38.652634"
   },
   {
     "id": "MIT Technology Review_ca3ba50fd0a0045f",
@@ -1043,7 +1095,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:37.328321"
+    "created_at": "2026-10-14T02:41:38.652722"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1060,7 +1112,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:38.445113"
+    "created_at": "2026-10-14T02:41:39.974927"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1077,7 +1129,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:38.445190"
+    "created_at": "2026-10-14T02:41:39.974994"
   },
   {
     "id": "Ars Technica_244a45ca515b7e77",
@@ -1094,7 +1146,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:35.268562"
+    "created_at": "2026-10-14T02:41:36.546816"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1111,7 +1163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:42.463126"
+    "created_at": "2026-10-14T02:41:43.815045"
   },
   {
     "id": "Hugging Face Blog_83737369d8571223",
@@ -1128,7 +1180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:42.463195"
+    "created_at": "2026-10-14T02:41:43.815135"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1146,7 +1198,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.555648"
+    "created_at": "2026-10-14T02:41:53.140575"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1163,7 +1215,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.555525"
+    "created_at": "2026-10-14T02:41:53.140473"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1180,7 +1232,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.555716"
+    "created_at": "2026-10-14T02:41:53.140642"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1195,6 +1247,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-13T22:04:51.027900"
+    "created_at": "2026-10-14T02:41:52.589106"
   }
 ]
