@@ -1,5 +1,24 @@
 [
   {
+    "id": "TechCrunch AI_e83692b36015cdfd",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo",
+    "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "importance_score": 9.799999999999999,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "NVIDIA"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:25.160845"
+  },
+  {
     "id": "The Verge AI_168e9cf9b2d87145",
     "title": "ChatGPT can peek at your Chrome tabs now",
     "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop...",
@@ -17,7 +36,79 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.978927"
+    "created_at": "2026-10-16T20:14:26.246061"
+  },
+  {
+    "id": "TechCrunch AI_ab1048b870dd41c9",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:25.161055"
+  },
+  {
+    "id": "TechCrunch AI_f071b52a016d02b6",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Dominic-Madori Davis",
+    "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:25.160959"
+  },
+  {
+    "id": "OpenAI News_6ba6d44068dbe62a",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:32.591889"
+  },
+  {
+    "id": "Lobsters AI_fe6fc7d857a17e87",
+    "title": "Why Math Dumped OpenAI",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://raymyers.org/post/math-dumped-openai/",
+    "source": "Lobsters AI",
+    "author": "raymyers.org via aphaelion",
+    "published_date": "Fri, 16 Oct 2026 11:38:47 -0500",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:44.354997"
   },
   {
     "id": "TechCrunch AI_130cc4418f8c9a45",
@@ -28,48 +119,13 @@
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
     "published_date": "Thu, 15 Oct 2026 20:04:53 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.000907"
-  },
-  {
-    "id": "TechCrunch AI_800805228456c078",
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "content": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Thu, 15 Oct 2026 19:14:26 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.001062"
-  },
-  {
-    "id": "The Verge AI_9633c7774c21a06b",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-16T10:02:40-04:00",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.978850"
+    "created_at": "2026-10-16T20:14:25.161523"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -87,7 +143,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357278"
+    "created_at": "2026-10-16T20:14:32.592123"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -107,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357336"
+    "created_at": "2026-10-16T20:14:32.592187"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -124,25 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.978996"
-  },
-  {
-    "id": "The Verge AI_36590fc61c12355e",
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
-    "content": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T14:15:36-04:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979259"
+    "created_at": "2026-10-16T20:14:26.246138"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -160,26 +198,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:56.059685"
+    "created_at": "2026-10-16T20:14:31.248249"
   },
   {
-    "id": "Wired AI_cfa965838dc28caf",
-    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-    "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "content": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
-    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-    "source": "Wired AI",
-    "author": "Ben Gartside",
-    "published_date": "Tue, 13 Oct 2026 19:35:29 +0000",
-    "importance_score": 6.8,
+    "id": "The Verge AI_9633c7774c21a06b",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-16T10:02:40-04:00",
+    "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "OpenAI",
-      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982460"
+    "created_at": "2026-10-16T20:14:26.245972"
   },
   {
     "id": "The Verge AI_3dd1d9395cc9636c",
@@ -196,24 +232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979138"
-  },
-  {
-    "id": "The Verge AI_1663b91f3a0b3075",
-    "title": "Friends don&#8217;t let friends feed their data to AI agents",
-    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
-    "content": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
-    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "source": "The Verge AI",
-    "author": "Janus Rose",
-    "published_date": "2026-10-15T12:21:45-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979318"
+    "created_at": "2026-10-16T20:14:26.246280"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -230,7 +249,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982009"
+    "created_at": "2026-10-16T20:14:27.175009"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -248,7 +267,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357387"
+    "created_at": "2026-10-16T20:14:32.592247"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -266,7 +285,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357487"
+    "created_at": "2026-10-16T20:14:32.592394"
   },
   {
     "id": "arXiv ML_aaf14b23a62b2c4e",
@@ -283,7 +302,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.112728"
+    "created_at": "2026-10-16T20:14:39.373060"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -301,13 +320,30 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:52.988107"
+    "created_at": "2026-10-16T20:14:28.144952"
+  },
+  {
+    "id": "TechCrunch AI_3d71db2945971013",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:25.160701"
   },
   {
     "id": "TechCrunch AI_a7d3014b9575462e",
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "summary": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "content": "The data comes from the Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
     "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "source": "TechCrunch AI",
     "author": "Russell Brandom",
@@ -318,24 +354,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.000584"
+    "created_at": "2026-10-16T20:14:25.161138"
   },
   {
-    "id": "TechCrunch AI_89ae0f687aabc7eb",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Fri, 16 Oct 2026 12:55:09 +0000",
+    "id": "The Verge AI_36590fc61c12355e",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
+    "content": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-15T14:15:36-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.000775"
+    "created_at": "2026-10-16T20:14:26.246447"
   },
   {
     "id": "The Verge AI_c9f2dc8d76606f04",
@@ -353,24 +390,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979395"
-  },
-  {
-    "id": "Wired AI_d427aec018c56870",
-    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "source": "Wired AI",
-    "author": "Ej Dickson",
-    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.981912"
+    "created_at": "2026-10-16T20:14:26.246606"
   },
   {
     "id": "Wired AI_9a6eecc4e08c845d",
@@ -388,24 +408,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982396"
+    "created_at": "2026-10-16T20:14:27.175472"
   },
   {
-    "id": "MIT Technology Review_007cf1866bd54a13",
-    "title": "The Download: failed social media bans, and extending pets’ lives",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "id": "MIT Technology Review_ade5d1d4bfeee099",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "author": "MIT Technology Review",
+    "published_date": "Fri, 16 Oct 2026 18:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "negative",
-    "created_at": "2026-10-16T15:45:55.016516"
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:30.202756"
   },
   {
     "id": "arXiv AI_553d7c53284280bd",
@@ -422,7 +442,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284364"
+    "created_at": "2026-10-16T20:14:38.564026"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -440,24 +460,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:52.987966"
-  },
-  {
-    "id": "TechCrunch AI_d0c6b3c37c13d640",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "content": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 15 Oct 2026 19:55:25 +0000",
-    "importance_score": 6.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.000971"
+    "created_at": "2026-10-16T20:14:28.144807"
   },
   {
     "id": "TechCrunch AI_b97a49869e14e336",
@@ -474,7 +477,78 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.000679"
+    "created_at": "2026-10-16T20:14:25.161224"
+  },
+  {
+    "id": "The Verge AI_1663b91f3a0b3075",
+    "title": "Friends don&#8217;t let friends feed their data to AI agents",
+    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
+    "content": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
+    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "source": "The Verge AI",
+    "author": "Janus Rose",
+    "published_date": "2026-10-15T12:21:45-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:26.246518"
+  },
+  {
+    "id": "Wired AI_87aa0fefba1f3b13",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "author": "Tess Owen, Tim Marchman",
+    "published_date": "Fri, 16 Oct 2026 20:05:08 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:27.174822"
+  },
+  {
+    "id": "Reddit ML_aa1986d18b4304bf",
+    "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
+    "summary": "Half of one sentence in my paper trails onto page 10... This must have happened after a small edit and recompile of the pdf on resubmission? but this got me desk rejected??? Is this normal?? This wasn't even flagged by the official LLM feedback? Like whats the point of providing LLM feedback if it...",
+    "content": "Half of one sentence in my paper trails onto page 10... This must have happened after a small edit and recompile of the pdf on resubmission? but this got me desk rejected??? Is this normal?? This wasn't even flagged by the official LLM feedback? Like whats the point of providing LLM feedback if it...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+    "source": "Reddit ML",
+    "author": "/u/Eclectic_eels",
+    "published_date": "2026-10-16T17:50:55+00:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:43.750840"
+  },
+  {
+    "id": "Reddit ML_eb06cf267b474582",
+    "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+    "summary": "hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I'm kind of proud of: if you point `import torch` at it and run karpathy's nanoGPT unchanged, you get the exact same numbers as pytorch.",
+    "content": "hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I'm kind of proud of: if you point `import torch` at it and run karpathy's nanoGPT unchanged, you get the exact same numbers as pytorch.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+    "source": "Reddit ML",
+    "author": "/u/Mental-Feature-2377",
+    "published_date": "2026-10-16T18:49:12+00:00",
+    "importance_score": 6.199999999999999,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "deep learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:43.750164"
   },
   {
     "id": "arXiv ML_39ed35a122f9c6a2",
@@ -489,41 +563,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113786"
-  },
-  {
-    "id": "Reddit ML_69e11933db00ad5d",
-    "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
-    "summary": "I was curious about OpenResearch by alphaXiv. Turn your coding agents into research agents? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: Silent feedback to the vendor.",
-    "content": "I was curious about OpenResearch by alphaXiv. Turn your coding agents into research agents? Sounds great! Just what I needed to save time on my experiments. So I copy pasted their repo into Claude and asked what it thought. Here were the first 4 lines: Silent feedback to the vendor.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
-    "source": "Reddit ML",
-    "author": "/u/Dry_Leadership1075",
-    "published_date": "2026-10-14T18:40:18+00:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "Claude"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.673519"
-  },
-  {
-    "id": "OpenAI News_d4db257fcf813715",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357128"
+    "created_at": "2026-10-16T20:14:39.374259"
   },
   {
     "id": "arXiv AI_b66310aac7bebfae",
@@ -538,24 +578,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284771"
+    "created_at": "2026-10-16T20:14:38.564530"
   },
   {
-    "id": "Reddit ML_416b9469b29dc4d1",
-    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
-    "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "content": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
-    "source": "Reddit ML",
-    "author": "/u/StingMeleoron",
-    "published_date": "2026-10-16T12:41:41+00:00",
-    "importance_score": 6.0,
+    "id": "TechCrunch AI_89ae0f687aabc7eb",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Fri, 16 Oct 2026 12:55:09 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.673083"
+    "created_at": "2026-10-16T20:14:25.161323"
   },
   {
     "id": "TechCrunch AI_a2e9910e7c22cd9a",
@@ -572,24 +612,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-16T15:45:50.000847"
+    "created_at": "2026-10-16T20:14:25.161452"
   },
   {
-    "id": "The Verge AI_ac07f41a6c666aad",
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T15:57:16-04:00",
+    "id": "Wired AI_d427aec018c56870",
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "author": "Ej Dickson",
+    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979198"
+    "created_at": "2026-10-16T20:14:27.174922"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -606,13 +646,30 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982086"
+    "created_at": "2026-10-16T20:14:27.175086"
+  },
+  {
+    "id": "MIT Technology Review_007cf1866bd54a13",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-16T20:14:30.202870"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
     "title": "This implant can restore sight for patients with macular degeneration",
-    "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
-    "content": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
+    "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
+    "content": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
     "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "source": "MIT Technology Review",
     "author": "Linda Marsa",
@@ -623,7 +680,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:55.016611"
+    "created_at": "2026-10-16T20:14:30.202961"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -640,7 +697,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:55.016692"
+    "created_at": "2026-10-16T20:14:30.203053"
   },
   {
     "id": "arXiv AI_41398a8119633ddf",
@@ -658,7 +715,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284234"
+    "created_at": "2026-10-16T20:14:38.563871"
   },
   {
     "id": "arXiv AI_962ab41b339715c0",
@@ -676,7 +733,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-16T15:46:03.284950"
+    "created_at": "2026-10-16T20:14:38.564735"
   },
   {
     "id": "arXiv AI_ce275fe1f497826a",
@@ -694,7 +751,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-16T15:46:03.285174"
+    "created_at": "2026-10-16T20:14:38.564969"
   },
   {
     "id": "arXiv ML_dbdd4f0058860ba7",
@@ -712,24 +769,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113110"
-  },
-  {
-    "id": "TechCrunch AI_20cde3375e2ae7a4",
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "content": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 15 Oct 2026 18:56:46 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.001166"
+    "created_at": "2026-10-16T20:14:39.373495"
   },
   {
     "id": "The Verge AI_192593273b0c06a7",
@@ -744,7 +784,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:50.979072"
+    "created_at": "2026-10-16T20:14:26.246207"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -761,7 +801,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:54.150088"
+    "created_at": "2026-10-16T20:14:29.255994"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -778,7 +818,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:54.150223"
+    "created_at": "2026-10-16T20:14:29.256153"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -793,7 +833,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-16T15:45:55.016793"
+    "created_at": "2026-10-16T20:14:30.203163"
   },
   {
     "id": "arXiv AI_fd8dc22545655f4c",
@@ -810,7 +850,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284577"
+    "created_at": "2026-10-16T20:14:38.564273"
   },
   {
     "id": "arXiv ML_3dcdef54f8dece19",
@@ -827,7 +867,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.112960"
+    "created_at": "2026-10-16T20:14:39.373308"
   },
   {
     "id": "arXiv ML_51a780e7c41d50bd",
@@ -845,7 +885,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113235"
+    "created_at": "2026-10-16T20:14:39.373639"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -862,7 +902,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:52.988054"
+    "created_at": "2026-10-16T20:14:28.144891"
   },
   {
     "id": "Ars Technica_99bce33ea5ef81f8",
@@ -879,7 +919,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:52.988165"
+    "created_at": "2026-10-16T20:14:28.145021"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -896,7 +936,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:00.139699"
+    "created_at": "2026-10-16T20:14:35.329544"
+  },
+  {
+    "id": "OpenAI News_d4db257fcf813715",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:32.591971"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -913,24 +970,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357218"
-  },
-  {
-    "id": "OpenAI News_764b5092cdf647c5",
-    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "content": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 09 Oct 2026 07:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357645"
+    "created_at": "2026-10-16T20:14:32.592056"
   },
   {
     "id": "arXiv AI_b3978926e30828d6",
@@ -945,7 +985,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284864"
+    "created_at": "2026-10-16T20:14:38.564634"
   },
   {
     "id": "arXiv AI_b23a45b3930d71ac",
@@ -962,7 +1002,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.285064"
+    "created_at": "2026-10-16T20:14:38.564844"
   },
   {
     "id": "arXiv ML_3c034e6538e9cfd7",
@@ -979,7 +1019,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.112851"
+    "created_at": "2026-10-16T20:14:39.373189"
   },
   {
     "id": "arXiv ML_d5ea8341b17e9025",
@@ -996,7 +1036,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113454"
+    "created_at": "2026-10-16T20:14:39.373891"
   },
   {
     "id": "arXiv ML_935afafa56c2884a",
@@ -1013,7 +1053,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113557"
+    "created_at": "2026-10-16T20:14:39.374012"
   },
   {
     "id": "arXiv ML_1be8c7e634cf0587",
@@ -1028,7 +1068,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113681"
+    "created_at": "2026-10-16T20:14:39.374144"
+  },
+  {
+    "id": "Reddit ML_416b9469b29dc4d1",
+    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+    "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
+    "content": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
+    "source": "Reddit ML",
+    "author": "/u/StingMeleoron",
+    "published_date": "2026-10-16T12:41:41+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:43.750340"
   },
   {
     "id": "Reddit ML_944d53c63c4de5f6",
@@ -1045,7 +1102,7 @@
       "ML"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-16T15:46:08.673193"
+    "created_at": "2026-10-16T20:14:43.750502"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1062,24 +1119,24 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:09.436856"
+    "created_at": "2026-10-16T20:14:44.355063"
   },
   {
-    "id": "Wired AI_38010039191a34ad",
-    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 14 Oct 2026 18:15:00 +0000",
+    "id": "The Verge AI_ac07f41a6c666aad",
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
+    "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
+    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-15T15:57:16-04:00",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "negative",
-    "created_at": "2026-10-16T15:45:51.982154"
+    "sentiment": "neutral",
+    "created_at": "2026-10-16T20:14:26.246350"
   },
   {
     "id": "MIT Technology Review_60164cafc3f065fc",
@@ -1096,7 +1153,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:55.016875"
+    "created_at": "2026-10-16T20:14:30.203257"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -1113,7 +1170,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-16T15:45:55.017048"
+    "created_at": "2026-10-16T20:14:30.203475"
   },
   {
     "id": "arXiv AI_7672c1e42260fab7",
@@ -1128,7 +1185,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284474"
+    "created_at": "2026-10-16T20:14:38.564152"
   },
   {
     "id": "arXiv AI_82eb5a5458a7e07c",
@@ -1143,7 +1200,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:03.284672"
+    "created_at": "2026-10-16T20:14:38.564412"
   },
   {
     "id": "arXiv ML_6ed0735013188295",
@@ -1158,7 +1215,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:04.113354"
+    "created_at": "2026-10-16T20:14:39.373776"
   },
   {
     "id": "Reddit ML_d4aa558d26d5e4cd",
@@ -1175,7 +1232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.672989"
+    "created_at": "2026-10-16T20:14:43.750250"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1190,7 +1247,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:55.016953"
+    "created_at": "2026-10-16T20:14:30.203346"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1208,7 +1265,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357437"
+    "created_at": "2026-10-16T20:14:32.592309"
   },
   {
     "id": "OpenAI News_b4c456b96952f9e5",
@@ -1226,7 +1283,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357596"
+    "created_at": "2026-10-16T20:14:32.592536"
   },
   {
     "id": "OpenAI News_3c25b5b9474e6822",
@@ -1243,7 +1300,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:57.357547"
+    "created_at": "2026-10-16T20:14:32.592474"
   },
   {
     "id": "Reddit ML_d99bf7540c17305d",
@@ -1260,7 +1317,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.673256"
+    "created_at": "2026-10-16T20:14:43.750581"
   },
   {
     "id": "Reddit ML_8b4066df6bc884f5",
@@ -1278,7 +1335,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.673408"
+    "created_at": "2026-10-16T20:14:43.750749"
+  },
+  {
+    "id": "Wired AI_38010039191a34ad",
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 14 Oct 2026 18:15:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-16T20:14:27.175164"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -1295,7 +1369,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982201"
+    "created_at": "2026-10-16T20:14:27.175221"
   },
   {
     "id": "Wired AI_d42caa245be76250",
@@ -1312,7 +1386,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:51.982261"
+    "created_at": "2026-10-16T20:14:27.175290"
   },
   {
     "id": "Wired AI_8986d62f63014986",
@@ -1329,7 +1403,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-16T15:45:51.982329"
+    "created_at": "2026-10-16T20:14:27.175389"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1346,7 +1420,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:54.150152"
+    "created_at": "2026-10-16T20:14:29.256068"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1363,7 +1437,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-16T15:45:54.150286"
+    "created_at": "2026-10-16T20:14:29.256234"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1380,24 +1454,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:54.150334"
-  },
-  {
-    "id": "MIT Technology Review_7ec29aa2d7fa8245",
-    "title": "The Download: faking blood and the future of batteries",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven...",
-    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 14 Oct 2026 12:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:55.017134"
+    "created_at": "2026-10-16T20:14:29.256294"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1414,7 +1471,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:56.059766"
+    "created_at": "2026-10-16T20:14:31.248342"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1431,7 +1488,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:45:56.059824"
+    "created_at": "2026-10-16T20:14:31.248438"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1448,7 +1505,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:00.139794"
+    "created_at": "2026-10-16T20:14:35.329655"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1466,7 +1523,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:09.437178"
+    "created_at": "2026-10-16T20:14:44.355416"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1483,24 +1540,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:09.437094"
-  },
-  {
-    "id": "Lobsters AI_d645a42aa4bf0630",
-    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-    "source": "Lobsters AI",
-    "author": "youtube.com via Yogthos",
-    "published_date": "Sat, 26 Sep 2026 12:34:14 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "deep learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:09.437234"
+    "created_at": "2026-10-16T20:14:44.355294"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1515,21 +1555,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.672892"
-  },
-  {
-    "id": "Reddit ML_d2dda7e4a620c770",
-    "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-    "summary": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
-    "content": "I've been working on Event2Vec, a small library for learning embeddings of discrete event sequences (purchases, logs, clinical codes, etc.) with a deliberately simple structure: a history is the running sum of its event vectors.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
-    "source": "Reddit ML",
-    "author": "/u/sulcantonin",
-    "published_date": "2026-10-14T10:16:24+00:00",
-    "importance_score": 4.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-16T15:46:08.673692"
+    "created_at": "2026-10-16T20:14:43.749995"
   }
 ]
