@@ -16,7 +16,25 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021066"
+    "created_at": "2026-10-17T14:38:30.733506"
+  },
+  {
+    "id": "The Verge AI_fba3f1f13df3d4af",
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "content": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-17T09:00:00-04:00",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:31.744595"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -36,7 +54,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965398"
+    "created_at": "2026-10-17T14:38:31.744809"
   },
   {
     "id": "TechCrunch AI_ab1048b870dd41c9",
@@ -54,7 +72,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021273"
+    "created_at": "2026-10-17T14:38:30.733769"
   },
   {
     "id": "TechCrunch AI_64265f4c8926c520",
@@ -73,7 +91,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.020824"
+    "created_at": "2026-10-17T14:38:30.733292"
   },
   {
     "id": "TechCrunch AI_f071b52a016d02b6",
@@ -91,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021181"
+    "created_at": "2026-10-17T14:38:30.733619"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -109,7 +127,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:24.017593"
+    "created_at": "2026-10-17T14:38:33.726976"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -127,7 +145,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403379"
+    "created_at": "2026-10-17T14:38:38.185324"
   },
   {
     "id": "Lobsters AI_fe6fc7d857a17e87",
@@ -145,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.320443"
+    "created_at": "2026-10-17T14:38:49.942398"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -165,7 +183,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403667"
+    "created_at": "2026-10-17T14:38:38.185605"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -183,41 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:27.074591"
-  },
-  {
-    "id": "arXiv AI_553d7c53284280bd",
-    "title": "Evaluating Model Capabilities After Benchmark Saturation",
-    "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
-    "content": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
-    "url": "https://arxiv.org/abs/2610.20667",
-    "source": "arXiv AI",
-    "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.9,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263402"
-  },
-  {
-    "id": "The Verge AI_9633c7774c21a06b",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-16T10:02:40-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965312"
+    "created_at": "2026-10-17T14:38:36.906413"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -235,7 +219,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403604"
+    "created_at": "2026-10-17T14:38:38.185542"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -253,7 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403728"
+    "created_at": "2026-10-17T14:38:38.185693"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -271,7 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403851"
+    "created_at": "2026-10-17T14:38:38.185825"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -289,22 +273,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:24.017808"
-  },
-  {
-    "id": "arXiv AI_b66310aac7bebfae",
-    "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-    "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted.",
-    "content": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted.",
-    "url": "https://arxiv.org/abs/2610.20679",
-    "source": "arXiv AI",
-    "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263857"
+    "created_at": "2026-10-17T14:38:33.727192"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -321,7 +290,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965476"
+    "created_at": "2026-10-17T14:38:31.744882"
   },
   {
     "id": "The Verge AI_36590fc61c12355e",
@@ -339,25 +308,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965758"
-  },
-  {
-    "id": "The Verge AI_c9f2dc8d76606f04",
-    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-    "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear []",
-    "content": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear []",
-    "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-    "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-15T10:30:00-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965916"
+    "created_at": "2026-10-17T14:38:31.745162"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -374,61 +325,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.968849"
+    "created_at": "2026-10-17T14:38:32.696109"
   },
   {
-    "id": "arXiv AI_41398a8119633ddf",
-    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-    "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late.",
-    "content": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late.",
-    "url": "https://arxiv.org/abs/2610.20665",
+    "id": "arXiv AI_553d7c53284280bd",
+    "title": "Evaluating Model Capabilities After Benchmark Saturation",
+    "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
+    "content": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies.",
+    "url": "https://arxiv.org/abs/2610.20667",
     "source": "arXiv AI",
-    "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang",
+    "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois",
     "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
     "importance_score": 6.4,
     "category": "research",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263255"
-  },
-  {
-    "id": "arXiv AI_962ab41b339715c0",
-    "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-    "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure.",
-    "content": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure.",
-    "url": "https://arxiv.org/abs/2610.20685",
-    "source": "arXiv AI",
-    "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.4,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:34.264085"
-  },
-  {
-    "id": "arXiv AI_ce275fe1f497826a",
-    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-    "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task.",
-    "content": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task.",
-    "url": "https://arxiv.org/abs/2610.20780",
-    "source": "arXiv AI",
-    "author": "Bolin Shen, Yushun Dong",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.4,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:34.264315"
+    "created_at": "2026-10-17T14:38:43.921513"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -446,7 +360,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:24.017675"
+    "created_at": "2026-10-17T14:38:33.727059"
+  },
+  {
+    "id": "The Verge AI_9633c7774c21a06b",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-16T10:02:40-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:31.744730"
   },
   {
     "id": "The Verge AI_3dd1d9395cc9636c",
@@ -463,7 +394,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965617"
+    "created_at": "2026-10-17T14:38:31.745023"
   },
   {
     "id": "The Verge AI_1663b91f3a0b3075",
@@ -480,7 +411,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965828"
+    "created_at": "2026-10-17T14:38:31.745232"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -497,24 +428,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.969163"
-  },
-  {
-    "id": "arXiv AI_fd8dc22545655f4c",
-    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-    "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
-    "content": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
-    "url": "https://arxiv.org/abs/2610.20675",
-    "source": "arXiv AI",
-    "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263643"
+    "created_at": "2026-10-17T14:38:32.696382"
   },
   {
     "id": "Reddit ML_07c7145b0c6a3e15",
@@ -531,7 +445,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.224650"
+    "created_at": "2026-10-17T14:38:49.466920"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -548,39 +462,57 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403285"
+    "created_at": "2026-10-17T14:38:38.185223"
   },
   {
-    "id": "arXiv AI_b3978926e30828d6",
-    "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-    "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations.",
-    "content": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations.",
-    "url": "https://arxiv.org/abs/2610.20681",
+    "id": "arXiv AI_b66310aac7bebfae",
+    "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+    "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted.",
+    "content": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted.",
+    "url": "https://arxiv.org/abs/2610.20679",
     "source": "arXiv AI",
-    "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang",
+    "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu",
     "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
     "importance_score": 6.0,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263960"
+    "created_at": "2026-10-17T14:38:43.922030"
   },
   {
-    "id": "arXiv AI_b23a45b3930d71ac",
-    "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-    "summary": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We...",
-    "content": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We...",
-    "url": "https://arxiv.org/abs/2610.20764",
-    "source": "arXiv AI",
-    "author": "Ahsan Adeel, Talha Bin Riaz",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "id": "Reddit ML_146ab05b523ee827",
+    "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+    "summary": "Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent  submitted by  /u/SeveralSeat2176 [link]  [comments]",
+    "content": "Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent  submitted by  /u/SeveralSeat2176 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
+    "source": "Reddit ML",
+    "author": "/u/SeveralSeat2176",
+    "published_date": "2026-10-17T14:22:57+00:00",
     "importance_score": 6.0,
-    "category": "research",
+    "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.264195"
+    "created_at": "2026-10-17T14:38:49.466574"
+  },
+  {
+    "id": "Reddit ML_804b44f92291713c",
+    "title": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model [D]",
+    "summary": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model I've been exploring a hypothetical question: How large could a model's parameter count be if a major AI provider allocated a substantial GPU cluster to inference while targeting 66 output tokens per second per active...",
+    "content": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model I've been exploring a hypothetical question: How large could a model's parameter count be if a major AI provider allocated a substantial GPU cluster to inference while targeting 66 output tokens per second per active...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x898us/estimating_the_theoretical_parameter_capacity_of/",
+    "source": "Reddit ML",
+    "author": "/u/Gokbagbasi",
+    "published_date": "2026-10-17T12:39:06+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:49.467308"
   },
   {
     "id": "TechCrunch AI_3d71db2945971013",
@@ -597,7 +529,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.020916"
+    "created_at": "2026-10-17T14:38:30.733383"
   },
   {
     "id": "TechCrunch AI_a7d3014b9575462e",
@@ -614,41 +546,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021353"
-  },
-  {
-    "id": "TechCrunch AI_89ae0f687aabc7eb",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Fri, 16 Oct 2026 12:55:09 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021555"
-  },
-  {
-    "id": "Wired AI_d427aec018c56870",
-    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "source": "Wired AI",
-    "author": "Ej Dickson",
-    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.969077"
+    "created_at": "2026-10-17T14:38:30.733855"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -665,88 +563,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:26.057611"
+    "created_at": "2026-10-17T14:38:35.766561"
   },
   {
-    "id": "MIT Technology Review_007cf1866bd54a13",
-    "title": "The Download: failed social media bans, and extending pets’ lives",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "id": "arXiv AI_41398a8119633ddf",
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late.",
+    "content": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late.",
+    "url": "https://arxiv.org/abs/2610.20665",
+    "source": "arXiv AI",
+    "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
     "importance_score": 5.9,
-    "category": "tech",
+    "category": "research",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:43.921372"
+  },
+  {
+    "id": "arXiv AI_962ab41b339715c0",
+    "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+    "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure.",
+    "content": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure.",
+    "url": "https://arxiv.org/abs/2610.20685",
+    "source": "arXiv AI",
+    "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:26.057726"
+    "created_at": "2026-10-17T14:38:43.922237"
   },
   {
-    "id": "arXiv AI_7672c1e42260fab7",
-    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-    "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive.",
-    "content": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive.",
-    "url": "https://arxiv.org/abs/2610.20669",
+    "id": "arXiv AI_ce275fe1f497826a",
+    "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+    "summary": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task.",
+    "content": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task.",
+    "url": "https://arxiv.org/abs/2610.20780",
     "source": "arXiv AI",
-    "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim",
+    "author": "Bolin Shen, Yushun Dong",
     "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.8,
+    "importance_score": 5.9,
     "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263526"
-  },
-  {
-    "id": "arXiv AI_82eb5a5458a7e07c",
-    "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-    "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior.",
-    "content": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior.",
-    "url": "https://arxiv.org/abs/2610.20676",
-    "source": "arXiv AI",
-    "author": "Adarsh Agrawal (Independent Researcher)",
-    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.8,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:34.263749"
-  },
-  {
-    "id": "Reddit ML_ec5dc3f547779ca0",
-    "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-    "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't have any sort of gaurantee for registrations in other parts of the conference...",
-    "content": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't have any sort of gaurantee for registrations in other parts of the conference...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-    "source": "Reddit ML",
-    "author": "/u/Exotic_Zucchini9311",
-    "published_date": "2026-10-17T08:17:31+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.224319"
-  },
-  {
-    "id": "TechCrunch AI_b97a49869e14e336",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Fri, 16 Oct 2026 14:26:51 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.021437"
+    "sentiment": "negative",
+    "created_at": "2026-10-17T14:38:43.922471"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -763,7 +634,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.968953"
+    "created_at": "2026-10-17T14:38:32.696205"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -780,7 +651,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:25.190320"
+    "created_at": "2026-10-17T14:38:34.811886"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -797,26 +668,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:25.190477"
+    "created_at": "2026-10-17T14:38:34.812040"
   },
   {
-    "id": "Reddit ML_eb06cf267b474582",
-    "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
-    "summary": "hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I'm kind of proud of: if you point `import torch` at it and run karpathy's nanoGPT unchanged, you get the exact same numbers as pytorch.",
-    "content": "hey, CS student here. for the past few days I've been building DenseCore, a small deep learning framework in rust with a pytorch-like python API. the thing I'm kind of proud of: if you point `import torch` at it and run karpathy's nanoGPT unchanged, you get the exact same numbers as pytorch.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
-    "source": "Reddit ML",
-    "author": "/u/Mental-Feature-2377",
-    "published_date": "2026-10-16T18:49:12+00:00",
-    "importance_score": 5.699999999999999,
-    "category": "tech",
+    "id": "arXiv AI_fd8dc22545655f4c",
+    "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+    "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
+    "content": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use.",
+    "url": "https://arxiv.org/abs/2610.20675",
+    "source": "arXiv AI",
+    "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
     "keywords": [
-      "GPT",
-      "deep learning",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.225146"
+    "created_at": "2026-10-17T14:38:43.921804"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -833,7 +702,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:24.017750"
+    "created_at": "2026-10-17T14:38:33.727135"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -850,41 +719,56 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403458"
+    "created_at": "2026-10-17T14:38:38.185394"
   },
   {
-    "id": "OpenAI News_da7f8b1d71836c0a",
-    "title": "Teaching students to think and learn through questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "id": "arXiv AI_b3978926e30828d6",
+    "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+    "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations.",
+    "content": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations.",
+    "url": "https://arxiv.org/abs/2610.20681",
+    "source": "arXiv AI",
+    "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:43.922135"
+  },
+  {
+    "id": "arXiv AI_b23a45b3930d71ac",
+    "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+    "summary": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We...",
+    "content": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We...",
+    "url": "https://arxiv.org/abs/2610.20764",
+    "source": "arXiv AI",
+    "author": "Ahsan Adeel, Talha Bin Riaz",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:43.922346"
+  },
+  {
+    "id": "TechCrunch AI_89ae0f687aabc7eb",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Fri, 16 Oct 2026 12:55:09 +0000",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403538"
-  },
-  {
-    "id": "Reddit ML_416b9469b29dc4d1",
-    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
-    "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "content": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
-    "source": "Reddit ML",
-    "author": "/u/StingMeleoron",
-    "published_date": "2026-10-16T12:41:41+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.224912"
+    "created_at": "2026-10-17T14:38:30.734058"
   },
   {
     "id": "TechCrunch AI_a2e9910e7c22cd9a",
@@ -901,7 +785,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T09:53:21.021636"
+    "created_at": "2026-10-17T14:38:30.734147"
   },
   {
     "id": "The Verge AI_ac07f41a6c666aad",
@@ -918,7 +802,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965687"
+    "created_at": "2026-10-17T14:38:31.745093"
+  },
+  {
+    "id": "Wired AI_d427aec018c56870",
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "author": "Ej Dickson",
+    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:32.696296"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -935,7 +836,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.969238"
+    "created_at": "2026-10-17T14:38:32.696459"
+  },
+  {
+    "id": "MIT Technology Review_007cf1866bd54a13",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-17T14:38:35.766696"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -952,7 +870,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:26.057819"
+    "created_at": "2026-10-17T14:38:35.766790"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -969,24 +887,54 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:26.057910"
+    "created_at": "2026-10-17T14:38:35.766879"
   },
   {
-    "id": "MIT Technology Review_60164cafc3f065fc",
-    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
-    "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 15 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
+    "id": "arXiv AI_7672c1e42260fab7",
+    "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+    "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive.",
+    "content": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive.",
+    "url": "https://arxiv.org/abs/2610.20669",
+    "source": "arXiv AI",
+    "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:43.921637"
+  },
+  {
+    "id": "arXiv AI_82eb5a5458a7e07c",
+    "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+    "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior.",
+    "content": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior.",
+    "url": "https://arxiv.org/abs/2610.20676",
+    "source": "arXiv AI",
+    "author": "Adarsh Agrawal (Independent Researcher)",
+    "published_date": "Sat, 17 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:43.921917"
+  },
+  {
+    "id": "Reddit ML_ec5dc3f547779ca0",
+    "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+    "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't have any sort of gaurantee for registrations in other parts of the conference...",
+    "content": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't have any sort of gaurantee for registrations in other parts of the conference...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+    "source": "Reddit ML",
+    "author": "/u/Exotic_Zucchini9311",
+    "published_date": "2026-10-17T08:17:31+00:00",
+    "importance_score": 5.3,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:26.058141"
+    "created_at": "2026-10-17T14:38:49.466496"
   },
   {
     "id": "Reddit ML_68c637d2bae868a3",
@@ -1003,7 +951,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.224823"
+    "created_at": "2026-10-17T14:38:49.467091"
+  },
+  {
+    "id": "TechCrunch AI_b97a49869e14e336",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Fri, 16 Oct 2026 14:26:51 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:30.733941"
   },
   {
     "id": "The Verge AI_192593273b0c06a7",
@@ -1018,7 +983,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:21.965544"
+    "created_at": "2026-10-17T14:38:31.744951"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -1033,7 +998,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:26.058043"
+    "created_at": "2026-10-17T14:38:35.767010"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1051,7 +1016,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:28.403790"
+    "created_at": "2026-10-17T14:38:38.185762"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1068,7 +1033,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:31.217243"
+    "created_at": "2026-10-17T14:38:40.866857"
+  },
+  {
+    "id": "OpenAI News_da7f8b1d71836c0a",
+    "title": "Teaching students to think and learn through questions",
+    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:38.185475"
+  },
+  {
+    "id": "Reddit ML_416b9469b29dc4d1",
+    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+    "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
+    "content": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
+    "source": "Reddit ML",
+    "author": "/u/StingMeleoron",
+    "published_date": "2026-10-16T12:41:41+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:49.467395"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1085,7 +1084,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.320511"
+    "created_at": "2026-10-17T14:38:49.942463"
   },
   {
     "id": "Wired AI_38010039191a34ad",
@@ -1102,7 +1101,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:22.969310"
+    "created_at": "2026-10-17T14:38:32.696530"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -1119,7 +1118,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.969365"
+    "created_at": "2026-10-17T14:38:32.696585"
   },
   {
     "id": "Wired AI_d42caa245be76250",
@@ -1136,7 +1135,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:22.969432"
+    "created_at": "2026-10-17T14:38:32.696693"
   },
   {
     "id": "Wired AI_8986d62f63014986",
@@ -1153,7 +1152,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T09:53:22.969508"
+    "created_at": "2026-10-17T14:38:32.696784"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1170,7 +1169,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:25.190393"
+    "created_at": "2026-10-17T14:38:34.811957"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1187,7 +1186,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T09:53:25.190554"
+    "created_at": "2026-10-17T14:38:34.812117"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1204,7 +1203,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:25.190614"
+    "created_at": "2026-10-17T14:38:34.812177"
+  },
+  {
+    "id": "MIT Technology Review_60164cafc3f065fc",
+    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
+    "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 15 Oct 2026 12:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T14:38:35.767124"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -1221,7 +1237,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T09:53:26.058325"
+    "created_at": "2026-10-17T14:38:35.767309"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1238,7 +1254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:27.074688"
+    "created_at": "2026-10-17T14:38:36.906511"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1255,7 +1271,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:27.074758"
+    "created_at": "2026-10-17T14:38:36.906582"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1272,24 +1288,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:31.217358"
-  },
-  {
-    "id": "Reddit ML_d4aa558d26d5e4cd",
-    "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
-    "summary": "Just spend 4h reviewing a paper while I was sick, gave it a 3/4. This morning got an email saying it's desk rejected. I saw many people around me also have many papers desk rejected.",
-    "content": "Just spend 4h reviewing a paper while I was sick, gave it a 3/4. This morning got an email saying it's desk rejected. I saw many people around me also have many papers desk rejected.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x75edb/how_many_of_your_paper_either_paper_you_authored/",
-    "source": "Reddit ML",
-    "author": "/u/Striking-Warning9533",
-    "published_date": "2026-10-16T03:13:24+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.225012"
+    "created_at": "2026-10-17T14:38:40.866971"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1304,7 +1303,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:26.058231"
+    "created_at": "2026-10-17T14:38:35.767215"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1322,7 +1321,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.320834"
+    "created_at": "2026-10-17T14:38:49.942802"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1339,7 +1338,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.320739"
+    "created_at": "2026-10-17T14:38:49.942706"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1354,6 +1353,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T09:53:40.224187"
+    "created_at": "2026-10-17T14:38:49.466366"
   }
 ]
