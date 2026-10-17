@@ -1,5 +1,25 @@
 [
   {
+    "id": "Reddit ML_b0faeeaddb16a842",
+    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+    "summary": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating...",
+    "content": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+    "source": "Reddit ML",
+    "author": "/u/Grouchy-Excitement28",
+    "published_date": "2026-10-17T14:48:25+00:00",
+    "importance_score": 9.499999999999998,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "machine learning",
+      "ML",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:34.908393"
+  },
+  {
     "id": "TechCrunch AI_e83692b36015cdfd",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
@@ -8,7 +28,7 @@
     "source": "TechCrunch AI",
     "author": "Theresa Loconsolo",
     "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
-    "importance_score": 9.299999999999999,
+    "importance_score": 8.799999999999999,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -16,7 +36,27 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733506"
+    "created_at": "2026-10-17T19:50:16.283821"
+  },
+  {
+    "id": "TechCrunch AI_7f804b093dbb1f42",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "content": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
+    "published_date": "Sat, 17 Oct 2026 18:48:08 +0000",
+    "importance_score": 8.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:16.283601"
   },
   {
     "id": "The Verge AI_fba3f1f13df3d4af",
@@ -27,14 +67,14 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-10-17T09:00:00-04:00",
-    "importance_score": 8.899999999999999,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.744595"
+    "created_at": "2026-10-17T19:50:17.301644"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -54,62 +94,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.744809"
-  },
-  {
-    "id": "TechCrunch AI_ab1048b870dd41c9",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Fri, 16 Oct 2026 16:01:37 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733769"
-  },
-  {
-    "id": "TechCrunch AI_64265f4c8926c520",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Fri, 16 Oct 2026 21:22:28 +0000",
-    "importance_score": 7.8,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733292"
-  },
-  {
-    "id": "TechCrunch AI_f071b52a016d02b6",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
-    "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Dominic-Madori Davis",
-    "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733619"
+    "created_at": "2026-10-17T19:50:17.301819"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -127,7 +112,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:33.726976"
+    "created_at": "2026-10-17T19:50:19.265694"
+  },
+  {
+    "id": "TechCrunch AI_ab1048b870dd41c9",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:16.284051"
+  },
+  {
+    "id": "The Verge AI_46380ef152731307",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-17T11:04:36-04:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:17.301559"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -145,25 +165,25 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185324"
+    "created_at": "2026-10-17T19:50:23.693892"
   },
   {
-    "id": "Lobsters AI_fe6fc7d857a17e87",
-    "title": "Why Math Dumped OpenAI",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://raymyers.org/post/math-dumped-openai/",
-    "source": "Lobsters AI",
-    "author": "raymyers.org via aphaelion",
-    "published_date": "Fri, 16 Oct 2026 11:38:47 -0500",
-    "importance_score": 7.2,
+    "id": "TechCrunch AI_f071b52a016d02b6",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Dominic-Madori Davis",
+    "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.942398"
+    "created_at": "2026-10-17T19:50:16.283935"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -183,7 +203,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185605"
+    "created_at": "2026-10-17T19:50:23.694201"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -201,7 +221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:36.906413"
+    "created_at": "2026-10-17T19:50:22.282329"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -219,7 +239,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185542"
+    "created_at": "2026-10-17T19:50:23.694138"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -237,7 +257,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185693"
+    "created_at": "2026-10-17T19:50:23.694261"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -255,7 +275,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185825"
+    "created_at": "2026-10-17T19:50:23.694382"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -273,7 +293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:33.727192"
+    "created_at": "2026-10-17T19:50:19.265912"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -290,42 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.744882"
-  },
-  {
-    "id": "The Verge AI_36590fc61c12355e",
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
-    "content": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T14:15:36-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.745162"
-  },
-  {
-    "id": "Wired AI_73edb75850570b2d",
-    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "content": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "source": "Wired AI",
-    "author": "Philip Ball",
-    "published_date": "Sat, 17 Oct 2026 09:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696109"
+    "created_at": "2026-10-17T19:50:17.301890"
   },
   {
     "id": "arXiv AI_553d7c53284280bd",
@@ -342,7 +327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.921513"
+    "created_at": "2026-10-17T19:50:29.610046"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -360,7 +345,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:33.727059"
+    "created_at": "2026-10-17T19:50:19.265777"
   },
   {
     "id": "The Verge AI_9633c7774c21a06b",
@@ -377,7 +362,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.744730"
+    "created_at": "2026-10-17T19:50:17.301747"
   },
   {
     "id": "The Verge AI_3dd1d9395cc9636c",
@@ -394,24 +379,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.745023"
-  },
-  {
-    "id": "The Verge AI_1663b91f3a0b3075",
-    "title": "Friends don&#8217;t let friends feed their data to AI agents",
-    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
-    "content": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up...",
-    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-    "source": "The Verge AI",
-    "author": "Janus Rose",
-    "published_date": "2026-10-15T12:21:45-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.745232"
+    "created_at": "2026-10-17T19:50:17.302072"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -428,7 +396,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696382"
+    "created_at": "2026-10-17T19:50:18.295994"
   },
   {
     "id": "Reddit ML_07c7145b0c6a3e15",
@@ -445,24 +413,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.466920"
-  },
-  {
-    "id": "OpenAI News_d7f4dda174e9c83c",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185223"
+    "created_at": "2026-10-17T19:50:34.908772"
   },
   {
     "id": "arXiv AI_b66310aac7bebfae",
@@ -477,7 +428,41 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.922030"
+    "created_at": "2026-10-17T19:50:29.610527"
+  },
+  {
+    "id": "Reddit ML_5c2da32bdb5687cf",
+    "title": "EMNLP main presentation[D]",
+    "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
+    "content": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+    "source": "Reddit ML",
+    "author": "/u/Sorry-Concern-3772",
+    "published_date": "2026-10-17T16:45:33+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:34.908150"
+  },
+  {
+    "id": "Reddit ML_8fff9f7893b5b541",
+    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+    "summary": " submitted by  /u/Civil-Demand555 [link]  [comments]",
+    "content": " submitted by  /u/Civil-Demand555 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+    "source": "Reddit ML",
+    "author": "/u/Civil-Demand555",
+    "published_date": "2026-10-17T19:41:19+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:34.908450"
   },
   {
     "id": "Reddit ML_146ab05b523ee827",
@@ -494,76 +479,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.466574"
+    "created_at": "2026-10-17T19:50:34.908836"
   },
   {
-    "id": "Reddit ML_804b44f92291713c",
-    "title": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model [D]",
-    "summary": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model I've been exploring a hypothetical question: How large could a model's parameter count be if a major AI provider allocated a substantial GPU cluster to inference while targeting 66 output tokens per second per active...",
-    "content": "Estimating the Theoretical Parameter Capacity of a Hypothetical GPT-6-Class Model I've been exploring a hypothetical question: How large could a model's parameter count be if a major AI provider allocated a substantial GPU cluster to inference while targeting 66 output tokens per second per active...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x898us/estimating_the_theoretical_parameter_capacity_of/",
-    "source": "Reddit ML",
-    "author": "/u/Gokbagbasi",
-    "published_date": "2026-10-17T12:39:06+00:00",
+    "id": "Lobsters AI_e905b9829e1a1a6f",
+    "title": "Abolish AI! Manifesto",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+    "source": "Lobsters AI",
+    "author": "abolish-ai.net via janus",
+    "published_date": "Sat, 17 Oct 2026 13:25:58 -0500",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "GPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.467308"
+    "created_at": "2026-10-17T19:50:35.560101"
   },
   {
-    "id": "TechCrunch AI_3d71db2945971013",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "id": "The Verge AI_36590fc61c12355e",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
+    "content": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-15T14:15:36-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:17.302268"
+  },
+  {
+    "id": "Wired AI_73edb75850570b2d",
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "content": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "source": "Wired AI",
+    "author": "Philip Ball",
+    "published_date": "Sat, 17 Oct 2026 09:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733383"
-  },
-  {
-    "id": "TechCrunch AI_a7d3014b9575462e",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Fri, 16 Oct 2026 15:33:49 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733855"
-  },
-  {
-    "id": "MIT Technology Review_ade5d1d4bfeee099",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review",
-    "published_date": "Fri, 16 Oct 2026 18:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:35.766561"
+    "created_at": "2026-10-17T19:50:18.295718"
   },
   {
     "id": "arXiv AI_41398a8119633ddf",
@@ -581,7 +549,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.921372"
+    "created_at": "2026-10-17T19:50:29.609871"
   },
   {
     "id": "arXiv AI_962ab41b339715c0",
@@ -599,7 +567,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:43.922237"
+    "created_at": "2026-10-17T19:50:29.610733"
   },
   {
     "id": "arXiv AI_ce275fe1f497826a",
@@ -617,7 +585,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:43.922471"
+    "created_at": "2026-10-17T19:50:29.611102"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -634,7 +602,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696205"
+    "created_at": "2026-10-17T19:50:18.295816"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -651,7 +619,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:34.811886"
+    "created_at": "2026-10-17T19:50:20.340870"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -668,7 +636,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:34.812040"
+    "created_at": "2026-10-17T19:50:20.341052"
   },
   {
     "id": "arXiv AI_fd8dc22545655f4c",
@@ -685,7 +653,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.921804"
+    "created_at": "2026-10-17T19:50:29.610302"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -702,24 +670,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:33.727135"
+    "created_at": "2026-10-17T19:50:19.265854"
   },
   {
-    "id": "OpenAI News_d4db257fcf813715",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "id": "OpenAI News_d7f4dda174e9c83c",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "url": "https://openai.com/index/itau-generative-ai",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "published_date": "Fri, 16 Oct 2026 19:00:00 GMT",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "GPT"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185394"
+    "created_at": "2026-10-17T19:50:23.693786"
   },
   {
     "id": "arXiv AI_b3978926e30828d6",
@@ -734,7 +702,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.922135"
+    "created_at": "2026-10-17T19:50:29.610632"
   },
   {
     "id": "arXiv AI_b23a45b3930d71ac",
@@ -751,7 +719,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.922346"
+    "created_at": "2026-10-17T19:50:29.610854"
+  },
+  {
+    "id": "TechCrunch AI_3d71db2945971013",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:16.283693"
+  },
+  {
+    "id": "TechCrunch AI_a7d3014b9575462e",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch AI",
+    "author": "Russell Brandom",
+    "published_date": "Fri, 16 Oct 2026 15:33:49 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:16.284142"
   },
   {
     "id": "TechCrunch AI_89ae0f687aabc7eb",
@@ -768,7 +770,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.734058"
+    "created_at": "2026-10-17T19:50:16.284351"
   },
   {
     "id": "TechCrunch AI_a2e9910e7c22cd9a",
@@ -785,7 +787,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T14:38:30.734147"
+    "created_at": "2026-10-17T19:50:16.284433"
   },
   {
     "id": "The Verge AI_ac07f41a6c666aad",
@@ -802,7 +804,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.745093"
+    "created_at": "2026-10-17T19:50:17.302191"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -819,7 +821,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696296"
+    "created_at": "2026-10-17T19:50:18.295910"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -836,7 +838,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696459"
+    "created_at": "2026-10-17T19:50:18.296111"
+  },
+  {
+    "id": "MIT Technology Review_ade5d1d4bfeee099",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review",
+    "published_date": "Fri, 16 Oct 2026 18:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:21.302715"
   },
   {
     "id": "MIT Technology Review_007cf1866bd54a13",
@@ -853,24 +872,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:35.766696"
-  },
-  {
-    "id": "MIT Technology Review_2036d544d51b933a",
-    "title": "This implant can restore sight for patients with macular degeneration",
-    "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
-    "content": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that.",
-    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "source": "MIT Technology Review",
-    "author": "Linda Marsa",
-    "published_date": "Fri, 16 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:35.766790"
+    "created_at": "2026-10-17T19:50:21.302828"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -887,7 +889,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:35.766879"
+    "created_at": "2026-10-17T19:50:21.302999"
   },
   {
     "id": "arXiv AI_7672c1e42260fab7",
@@ -902,7 +904,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.921637"
+    "created_at": "2026-10-17T19:50:29.610181"
   },
   {
     "id": "arXiv AI_82eb5a5458a7e07c",
@@ -917,7 +919,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:43.921917"
+    "created_at": "2026-10-17T19:50:29.610414"
   },
   {
     "id": "Reddit ML_ec5dc3f547779ca0",
@@ -934,24 +936,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.466496"
-  },
-  {
-    "id": "Reddit ML_68c637d2bae868a3",
-    "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
-    "summary": "For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch.",
-    "content": "For the past 4 weeks I’ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
-    "source": "Reddit ML",
-    "author": "/u/Pepegg2",
-    "published_date": "2026-10-16T22:09:10+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.467091"
+    "created_at": "2026-10-17T19:50:34.908249"
   },
   {
     "id": "TechCrunch AI_b97a49869e14e336",
@@ -968,7 +953,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:30.733941"
+    "created_at": "2026-10-17T19:50:16.284230"
   },
   {
     "id": "The Verge AI_192593273b0c06a7",
@@ -983,7 +968,22 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:31.744951"
+    "created_at": "2026-10-17T19:50:17.301957"
+  },
+  {
+    "id": "MIT Technology Review_2036d544d51b933a",
+    "title": "This implant can restore sight for patients with macular degeneration",
+    "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision.",
+    "content": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision.",
+    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "source": "MIT Technology Review",
+    "author": "Linda Marsa",
+    "published_date": "Fri, 16 Oct 2026 09:00:00 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:21.302910"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -998,7 +998,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:35.767010"
+    "created_at": "2026-10-17T19:50:21.303134"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1016,7 +1016,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185762"
+    "created_at": "2026-10-17T19:50:23.694322"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1033,7 +1033,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:40.866857"
+    "created_at": "2026-10-17T19:50:26.429397"
+  },
+  {
+    "id": "OpenAI News_d4db257fcf813715",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:23.693964"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -1050,24 +1067,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:38.185475"
-  },
-  {
-    "id": "Reddit ML_416b9469b29dc4d1",
-    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
-    "summary": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "content": "The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here. Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
-    "source": "Reddit ML",
-    "author": "/u/StingMeleoron",
-    "published_date": "2026-10-16T12:41:41+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.467395"
+    "created_at": "2026-10-17T19:50:23.694068"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1084,7 +1084,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.942463"
+    "created_at": "2026-10-17T19:50:35.560166"
   },
   {
     "id": "Wired AI_38010039191a34ad",
@@ -1101,7 +1101,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:32.696530"
+    "created_at": "2026-10-17T19:50:18.296194"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -1118,7 +1118,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696585"
+    "created_at": "2026-10-17T19:50:18.296250"
   },
   {
     "id": "Wired AI_d42caa245be76250",
@@ -1135,7 +1135,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:32.696693"
+    "created_at": "2026-10-17T19:50:18.296319"
   },
   {
     "id": "Wired AI_8986d62f63014986",
@@ -1152,7 +1152,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T14:38:32.696784"
+    "created_at": "2026-10-17T19:50:18.296403"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1169,7 +1169,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:34.811957"
+    "created_at": "2026-10-17T19:50:20.340943"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1186,7 +1186,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T14:38:34.812117"
+    "created_at": "2026-10-17T19:50:20.341153"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1203,7 +1203,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:34.812177"
+    "created_at": "2026-10-17T19:50:20.341220"
   },
   {
     "id": "MIT Technology Review_60164cafc3f065fc",
@@ -1220,7 +1220,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:35.767124"
+    "created_at": "2026-10-17T19:50:21.303229"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -1237,7 +1237,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T14:38:35.767309"
+    "created_at": "2026-10-17T19:50:21.303408"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1254,7 +1254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:36.906511"
+    "created_at": "2026-10-17T19:50:22.282426"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1271,7 +1271,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:36.906582"
+    "created_at": "2026-10-17T19:50:22.282500"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1288,7 +1288,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:40.866971"
+    "created_at": "2026-10-17T19:50:26.429514"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1303,7 +1303,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:35.767215"
+    "created_at": "2026-10-17T19:50:21.303317"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1321,7 +1321,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.942802"
+    "created_at": "2026-10-17T19:50:35.560469"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1338,7 +1338,24 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.942706"
+    "created_at": "2026-10-17T19:50:35.560376"
+  },
+  {
+    "id": "Lobsters AI_d645a42aa4bf0630",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "Lobsters AI",
+    "author": "youtube.com via Yogthos",
+    "published_date": "Sat, 26 Sep 2026 12:34:14 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "deep learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-17T19:50:35.560534"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1353,6 +1370,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T14:38:49.466366"
+    "created_at": "2026-10-17T19:50:34.908029"
   }
 ]
