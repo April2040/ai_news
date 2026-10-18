@@ -1,25 +1,5 @@
 [
   {
-    "id": "Reddit ML_b0faeeaddb16a842",
-    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-    "summary": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating...",
-    "content": "Hello r/MachineLearning, I wanted to share EpochGo, an open-source, local-first AutoML system built to tackle two major bottlenecks in applied machine learning: 1. Cloud API inference costs and data privacy risks: Traditional agentic ML frameworks rely heavily on cloud APIs (GPT-4), creating...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
-    "source": "Reddit ML",
-    "author": "/u/Grouchy-Excitement28",
-    "published_date": "2026-10-17T14:48:25+00:00",
-    "importance_score": 8.999999999999998,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "machine learning",
-      "ML",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.655514"
-  },
-  {
     "id": "TechCrunch AI_e83692b36015cdfd",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
@@ -36,25 +16,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087165"
-  },
-  {
-    "id": "The Verge AI_fba3f1f13df3d4af",
-    "title": "Websites are closing their doors to AI agents",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
-    "content": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-17T09:00:00-04:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072163"
+    "created_at": "2026-10-18T15:04:57.115121"
   },
   {
     "id": "TechCrunch AI_7776c0d92ecebf6d",
@@ -74,7 +36,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.086967"
+    "created_at": "2026-10-18T15:04:57.115012"
+  },
+  {
+    "id": "The Verge AI_fba3f1f13df3d4af",
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "content": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-17T09:00:00-04:00",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:04:58.141497"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -94,7 +74,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072367"
+    "created_at": "2026-10-18T15:04:58.141594"
   },
   {
     "id": "TechCrunch AI_ab1048b870dd41c9",
@@ -112,7 +92,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087388"
+    "created_at": "2026-10-18T15:04:57.115224"
+  },
+  {
+    "id": "Wired AI_39ea693667032c07",
+    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+    "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+    "content": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Sun, 18 Oct 2026 10:30:00 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:04:59.087276"
   },
   {
     "id": "TechCrunch AI_f071b52a016d02b6",
@@ -130,7 +127,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087272"
+    "created_at": "2026-10-18T15:04:57.115177"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -150,7 +147,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510430"
+    "created_at": "2026-10-18T15:05:04.331734"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -168,7 +165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:06.068200"
+    "created_at": "2026-10-18T15:05:00.123163"
   },
   {
     "id": "Reddit ML_883089d3ddf3baad",
@@ -186,7 +183,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.654984"
+    "created_at": "2026-10-18T15:05:15.835387"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -204,7 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:09.090422"
+    "created_at": "2026-10-18T15:05:03.298619"
   },
   {
     "id": "TechCrunch AI_ecade87f6e3b16c6",
@@ -221,24 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.086862"
-  },
-  {
-    "id": "The Verge AI_46380ef152731307",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-17T11:04:36-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072076"
+    "created_at": "2026-10-18T15:04:57.114915"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -256,7 +236,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510122"
+    "created_at": "2026-10-18T15:05:04.331592"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -274,7 +254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510363"
+    "created_at": "2026-10-18T15:05:04.331704"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -292,7 +272,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510492"
+    "created_at": "2026-10-18T15:05:04.331763"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -310,7 +290,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510615"
+    "created_at": "2026-10-18T15:05:04.331822"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -328,7 +308,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:06.068446"
+    "created_at": "2026-10-18T15:05:00.123279"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -346,42 +326,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:06.068283"
+    "created_at": "2026-10-18T15:05:00.123209"
   },
   {
-    "id": "The Verge AI_9633c7774c21a06b",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "id": "The Verge AI_46380ef152731307",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-16T10:02:40-04:00",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-17T11:04:36-04:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072268"
-  },
-  {
-    "id": "Reddit ML_b146d7fab5435f03",
-    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
-    "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
-    "content": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
-    "source": "Reddit ML",
-    "author": "/u/atronos_kronios",
-    "published_date": "2026-10-18T08:23:02+00:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.655128"
+    "created_at": "2026-10-18T15:04:58.141437"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -398,7 +360,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072443"
+    "created_at": "2026-10-18T15:04:58.141633"
   },
   {
     "id": "The Verge AI_36590fc61c12355e",
@@ -416,7 +378,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072727"
+    "created_at": "2026-10-18T15:04:58.141783"
+  },
+  {
+    "id": "The Verge AI_9633c7774c21a06b",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-16T10:02:40-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:04:58.141554"
   },
   {
     "id": "The Verge AI_3dd1d9395cc9636c",
@@ -433,7 +412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072585"
+    "created_at": "2026-10-18T15:04:58.141709"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -450,7 +429,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082741"
+    "created_at": "2026-10-18T15:04:59.087491"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -467,7 +446,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:07.251896"
+    "created_at": "2026-10-18T15:05:01.264528"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -484,7 +463,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:07.252051"
+    "created_at": "2026-10-18T15:05:01.264613"
+  },
+  {
+    "id": "Reddit ML_b146d7fab5435f03",
+    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+    "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
+    "content": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+    "source": "Reddit ML",
+    "author": "/u/atronos_kronios",
+    "published_date": "2026-10-18T08:23:02+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:15.835497"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -501,7 +498,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:06.068385"
+    "created_at": "2026-10-18T15:05:00.123250"
+  },
+  {
+    "id": "Reddit ML_d80921c9eeba00a2",
+    "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
+    "summary": "asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source.",
+    "content": "asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
+    "source": "Reddit ML",
+    "author": "/u/luxurycashew",
+    "published_date": "2026-10-18T11:49:21+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:15.835598"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -518,7 +530,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510016"
+    "created_at": "2026-10-18T15:05:04.331534"
   },
   {
     "id": "Reddit ML_8fff9f7893b5b541",
@@ -535,7 +547,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.655201"
+    "created_at": "2026-10-18T15:05:15.835636"
   },
   {
     "id": "TechCrunch AI_3d71db2945971013",
@@ -552,7 +564,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087045"
+    "created_at": "2026-10-18T15:04:57.115053"
   },
   {
     "id": "TechCrunch AI_a7d3014b9575462e",
@@ -569,7 +581,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087472"
+    "created_at": "2026-10-18T15:04:57.115263"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -586,24 +598,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082461"
-  },
-  {
-    "id": "Wired AI_d427aec018c56870",
-    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "source": "Wired AI",
-    "author": "Ej Dickson",
-    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082655"
+    "created_at": "2026-10-18T15:04:59.087339"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -620,41 +615,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:08.100557"
-  },
-  {
-    "id": "MIT Technology Review_007cf1866bd54a13",
-    "title": "The Download: failed social media bans, and extending pets’ lives",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-18T10:05:08.100681"
-  },
-  {
-    "id": "TechCrunch AI_b97a49869e14e336",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Fri, 16 Oct 2026 14:26:51 +0000",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:03.087576"
+    "created_at": "2026-10-18T15:05:02.237632"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -671,7 +632,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082562"
+    "created_at": "2026-10-18T15:04:59.087390"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -689,7 +650,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510555"
+    "created_at": "2026-10-18T15:05:04.331793"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -706,7 +667,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510193"
+    "created_at": "2026-10-18T15:05:04.331630"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -723,7 +684,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:10.510273"
+    "created_at": "2026-10-18T15:05:04.331671"
   },
   {
     "id": "The Verge AI_ac07f41a6c666aad",
@@ -740,7 +701,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072655"
+    "created_at": "2026-10-18T15:04:58.141746"
+  },
+  {
+    "id": "Wired AI_d427aec018c56870",
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "content": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "author": "Ej Dickson",
+    "published_date": "Fri, 16 Oct 2026 11:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:04:59.087438"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -757,7 +735,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082819"
+    "created_at": "2026-10-18T15:04:59.087530"
   },
   {
     "id": "Wired AI_38010039191a34ad",
@@ -774,7 +752,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-18T10:05:05.082893"
+    "created_at": "2026-10-18T15:04:59.087567"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -791,41 +769,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.082950"
-  },
-  {
-    "id": "Wired AI_d42caa245be76250",
-    "title": "Men Can’t Stop Faking How Much They Know About AI",
-    "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-    "content": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-    "source": "Wired AI",
-    "author": "Kate Taylor",
-    "published_date": "Wed, 14 Oct 2026 09:30:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:05.083019"
-  },
-  {
-    "id": "Wired AI_8986d62f63014986",
-    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-    "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-    "content": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-    "source": "Wired AI",
-    "author": "David Gilbert",
-    "published_date": "Wed, 14 Oct 2026 09:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-18T10:05:05.083103"
+    "created_at": "2026-10-18T15:04:59.087594"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -842,7 +786,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:07.251970"
+    "created_at": "2026-10-18T15:05:01.264568"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -859,7 +803,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-18T10:05:07.252132"
+    "created_at": "2026-10-18T15:05:01.264653"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -876,7 +820,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:07.252195"
+    "created_at": "2026-10-18T15:05:01.264685"
+  },
+  {
+    "id": "MIT Technology Review_007cf1866bd54a13",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-18T15:05:02.237698"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -893,7 +854,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:08.100964"
+    "created_at": "2026-10-18T15:05:02.237789"
   },
   {
     "id": "MIT Technology Review_60164cafc3f065fc",
@@ -910,7 +871,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:08.101287"
+    "created_at": "2026-10-18T15:05:02.237895"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -927,7 +888,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-18T10:05:08.101514"
+    "created_at": "2026-10-18T15:05:02.237987"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -944,7 +905,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:09.090516"
+    "created_at": "2026-10-18T15:05:03.298673"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -961,7 +922,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:09.090590"
+    "created_at": "2026-10-18T15:05:03.298708"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -978,7 +939,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:13.252006"
+    "created_at": "2026-10-18T15:05:07.302828"
   },
   {
     "id": "Reddit ML_ec5dc3f547779ca0",
@@ -995,7 +956,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.655365"
+    "created_at": "2026-10-18T15:05:15.835699"
+  },
+  {
+    "id": "TechCrunch AI_b97a49869e14e336",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Fri, 16 Oct 2026 14:26:51 +0000",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:04:57.115321"
   },
   {
     "id": "The Verge AI_192593273b0c06a7",
@@ -1010,7 +988,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:04.072513"
+    "created_at": "2026-10-18T15:04:58.141669"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -1025,7 +1003,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:08.100799"
+    "created_at": "2026-10-18T15:05:02.237743"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -1040,7 +1018,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-18T10:05:08.101172"
+    "created_at": "2026-10-18T15:05:02.237847"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1055,7 +1033,25 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:08.101416"
+    "created_at": "2026-10-18T15:05:02.237939"
+  },
+  {
+    "id": "Lobsters AI_dd37a3266947aa05",
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "summary": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
+    "content": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "source": "Lobsters AI",
+    "author": "by dtsdwarak",
+    "published_date": "Wed, 07 Oct 2026 09:12:02 -0500",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:16.437297"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1072,7 +1068,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:13.251896"
+    "created_at": "2026-10-18T15:05:07.302768"
+  },
+  {
+    "id": "Lobsters AI_d039e94785fc452b",
+    "title": "Neural Networks Are Already Clean",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://already-clean.goodfire.com/",
+    "source": "Lobsters AI",
+    "author": "already-clean.goodfire.com via Yogthos",
+    "published_date": "Thu, 15 Oct 2026 17:25:03 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "neural network"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:16.437089"
+  },
+  {
+    "id": "Lobsters AI_3de27b116cdf95ce",
+    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
+    "url": "https://arxiv.org/html/2610.05978v1",
+    "source": "Lobsters AI",
+    "author": "arxiv.org via Yogthos",
+    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:16.437241"
+  },
+  {
+    "id": "Lobsters AI_d645a42aa4bf0630",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "Lobsters AI",
+    "author": "youtube.com via Yogthos",
+    "published_date": "Sat, 26 Sep 2026 12:34:14 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "deep learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T15:05:16.437333"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1087,6 +1134,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T10:05:21.654856"
+    "created_at": "2026-10-18T15:05:15.835307"
   }
 ]
