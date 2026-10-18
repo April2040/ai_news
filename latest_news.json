@@ -8,7 +8,7 @@
     "source": "Reddit ML",
     "author": "/u/Grouchy-Excitement28",
     "published_date": "2026-10-17T14:48:25+00:00",
-    "importance_score": 9.499999999999998,
+    "importance_score": 8.999999999999998,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -17,7 +17,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908393"
+    "created_at": "2026-10-18T02:07:15.330302"
   },
   {
     "id": "TechCrunch AI_e83692b36015cdfd",
@@ -36,27 +36,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.283821"
-  },
-  {
-    "id": "TechCrunch AI_7f804b093dbb1f42",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "content": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
-    "published_date": "Sat, 17 Oct 2026 18:48:08 +0000",
-    "importance_score": 8.5,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.283601"
+    "created_at": "2026-10-18T02:06:56.430041"
   },
   {
     "id": "The Verge AI_fba3f1f13df3d4af",
@@ -74,7 +54,27 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301644"
+    "created_at": "2026-10-18T02:06:57.404299"
+  },
+  {
+    "id": "TechCrunch AI_7776c0d92ecebf6d",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "content": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "author": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
+    "published_date": "Sat, 17 Oct 2026 18:48:08 +0000",
+    "importance_score": 8.0,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:56.429846"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -85,7 +85,7 @@
     "source": "The Verge AI",
     "author": "Stevie Bonifield",
     "published_date": "2026-10-15T18:43:23-04:00",
-    "importance_score": 8.3,
+    "importance_score": 7.8,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -94,25 +94,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301819"
+    "created_at": "2026-10-18T02:06:57.404473"
   },
   {
-    "id": "Ars Technica_1153331823b13c84",
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Fri, 16 Oct 2026 20:59:01 +0000",
-    "importance_score": 7.500000000000001,
+    "id": "Reddit ML_883089d3ddf3baad",
+    "title": "What is wrong with AI writing - ICLR edition [D]",
+    "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
+    "content": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+    "source": "Reddit ML",
+    "author": "/u/bobrodsky",
+    "published_date": "2026-10-17T23:40:03+00:00",
+    "importance_score": 7.5,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:19.265694"
+    "created_at": "2026-10-18T02:07:15.330076"
   },
   {
     "id": "TechCrunch AI_ab1048b870dd41c9",
@@ -130,42 +130,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.284051"
+    "created_at": "2026-10-18T02:06:56.430236"
   },
   {
-    "id": "The Verge AI_46380ef152731307",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-17T11:04:36-04:00",
+    "id": "TechCrunch AI_ecade87f6e3b16c6",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 17 Oct 2026 21:31:32 +0000",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301559"
-  },
-  {
-    "id": "OpenAI News_6ba6d44068dbe62a",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.693892"
+    "created_at": "2026-10-18T02:06:56.429741"
   },
   {
     "id": "TechCrunch AI_f071b52a016d02b6",
@@ -183,7 +165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.283935"
+    "created_at": "2026-10-18T02:06:56.430147"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -203,7 +185,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694201"
+    "created_at": "2026-10-18T02:07:03.846605"
+  },
+  {
+    "id": "Ars Technica_1153331823b13c84",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 16 Oct 2026 20:59:01 +0000",
+    "importance_score": 7.000000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:59.382224"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -221,7 +221,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:22.282329"
+    "created_at": "2026-10-18T02:07:02.530900"
+  },
+  {
+    "id": "The Verge AI_46380ef152731307",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-17T11:04:36-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:57.404218"
+  },
+  {
+    "id": "OpenAI News_6ba6d44068dbe62a",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:07:03.846313"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -239,7 +274,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694138"
+    "created_at": "2026-10-18T02:07:03.846524"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -257,7 +292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694261"
+    "created_at": "2026-10-18T02:07:03.846672"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -275,7 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694382"
+    "created_at": "2026-10-18T02:07:03.846794"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -293,24 +328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:19.265912"
-  },
-  {
-    "id": "The Verge AI_99936deb6c343731",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-    "content": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T18:35:55-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301890"
+    "created_at": "2026-10-18T02:06:59.382440"
   },
   {
     "id": "arXiv AI_553d7c53284280bd",
@@ -327,7 +345,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610046"
+    "created_at": "2026-10-18T02:07:09.968537"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -345,7 +363,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:19.265777"
+    "created_at": "2026-10-18T02:06:59.382306"
   },
   {
     "id": "The Verge AI_9633c7774c21a06b",
@@ -362,58 +380,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301747"
-  },
-  {
-    "id": "The Verge AI_3dd1d9395cc9636c",
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
-    "content": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-15T17:09:33-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.302072"
-  },
-  {
-    "id": "Wired AI_55b2a9155866998a",
-    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-    "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-    "content": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-    "source": "Wired AI",
-    "author": "Brian Barrett, Leah Feiger, Reece Rogers",
-    "published_date": "Thu, 15 Oct 2026 21:18:15 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.295994"
-  },
-  {
-    "id": "Reddit ML_07c7145b0c6a3e15",
-    "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
-    "summary": "Hey r/MachineLearning! We're excited to share ORL (On-Policy Residual Learning), our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality.",
-    "content": "Hey r/MachineLearning! We're excited to share ORL (On-Policy Residual Learning), our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
-    "source": "Reddit ML",
-    "author": "/u/arty_photography",
-    "published_date": "2026-10-16T20:03:32+00:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908772"
+    "created_at": "2026-10-18T02:06:57.404401"
   },
   {
     "id": "arXiv AI_b66310aac7bebfae",
@@ -428,75 +395,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610527"
+    "created_at": "2026-10-18T02:07:09.969075"
   },
   {
-    "id": "Reddit ML_5c2da32bdb5687cf",
-    "title": "EMNLP main presentation[D]",
-    "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
-    "content": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
-    "source": "Reddit ML",
-    "author": "/u/Sorry-Concern-3772",
-    "published_date": "2026-10-17T16:45:33+00:00",
-    "importance_score": 6.0,
+    "id": "The Verge AI_99936deb6c343731",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
+    "content": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-15T18:35:55-04:00",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908150"
-  },
-  {
-    "id": "Reddit ML_8fff9f7893b5b541",
-    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
-    "summary": " submitted by  /u/Civil-Demand555 [link]  [comments]",
-    "content": " submitted by  /u/Civil-Demand555 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
-    "source": "Reddit ML",
-    "author": "/u/Civil-Demand555",
-    "published_date": "2026-10-17T19:41:19+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908450"
-  },
-  {
-    "id": "Reddit ML_146ab05b523ee827",
-    "title": "Learn what's inside AI Agent Interactively in 3D [P]",
-    "summary": "Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent  submitted by  /u/SeveralSeat2176 [link]  [comments]",
-    "content": "Try it here: https://aiengineeringfromscratch.com/inside-an-ai-agent  submitted by  /u/SeveralSeat2176 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
-    "source": "Reddit ML",
-    "author": "/u/SeveralSeat2176",
-    "published_date": "2026-10-17T14:22:57+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908836"
-  },
-  {
-    "id": "Lobsters AI_e905b9829e1a1a6f",
-    "title": "Abolish AI! Manifesto",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
-    "source": "Lobsters AI",
-    "author": "abolish-ai.net via janus",
-    "published_date": "Sat, 17 Oct 2026 13:25:58 -0500",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:35.560101"
+    "created_at": "2026-10-18T02:06:57.404544"
   },
   {
     "id": "The Verge AI_36590fc61c12355e",
@@ -514,7 +430,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.302268"
+    "created_at": "2026-10-18T02:06:57.404867"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -531,7 +447,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.295718"
+    "created_at": "2026-10-18T02:06:58.445380"
   },
   {
     "id": "arXiv AI_41398a8119633ddf",
@@ -549,7 +465,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.609871"
+    "created_at": "2026-10-18T02:07:09.968393"
   },
   {
     "id": "arXiv AI_962ab41b339715c0",
@@ -567,7 +483,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:29.610733"
+    "created_at": "2026-10-18T02:07:09.969283"
   },
   {
     "id": "arXiv AI_ce275fe1f497826a",
@@ -585,24 +501,41 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:29.611102"
+    "created_at": "2026-10-18T02:07:09.969520"
   },
   {
-    "id": "Wired AI_87aa0fefba1f3b13",
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "source": "Wired AI",
-    "author": "Tess Owen, Tim Marchman",
-    "published_date": "Fri, 16 Oct 2026 20:05:08 +0000",
+    "id": "The Verge AI_3dd1d9395cc9636c",
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
+    "content": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-15T17:09:33-04:00",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.295816"
+    "created_at": "2026-10-18T02:06:57.404729"
+  },
+  {
+    "id": "Wired AI_55b2a9155866998a",
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "content": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "source": "Wired AI",
+    "author": "Brian Barrett, Leah Feiger, Reece Rogers",
+    "published_date": "Thu, 15 Oct 2026 21:18:15 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:58.445679"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -619,7 +552,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:20.340870"
+    "created_at": "2026-10-18T02:07:00.520213"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -636,7 +569,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:20.341052"
+    "created_at": "2026-10-18T02:07:00.520366"
   },
   {
     "id": "arXiv AI_fd8dc22545655f4c",
@@ -653,7 +586,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610302"
+    "created_at": "2026-10-18T02:07:09.968849"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -670,7 +603,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:19.265854"
+    "created_at": "2026-10-18T02:06:59.382382"
+  },
+  {
+    "id": "Reddit ML_07c7145b0c6a3e15",
+    "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
+    "summary": "Hey r/MachineLearning! We're excited to share ORL (On-Policy Residual Learning), our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality.",
+    "content": "Hey r/MachineLearning! We're excited to share ORL (On-Policy Residual Learning), our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+    "source": "Reddit ML",
+    "author": "/u/arty_photography",
+    "published_date": "2026-10-16T20:03:32+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:07:15.330819"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -687,7 +637,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.693786"
+    "created_at": "2026-10-18T02:07:03.846209"
   },
   {
     "id": "arXiv AI_b3978926e30828d6",
@@ -702,7 +652,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610632"
+    "created_at": "2026-10-18T02:07:09.969179"
   },
   {
     "id": "arXiv AI_b23a45b3930d71ac",
@@ -719,7 +669,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610854"
+    "created_at": "2026-10-18T02:07:09.969396"
+  },
+  {
+    "id": "Reddit ML_8fff9f7893b5b541",
+    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+    "summary": " submitted by  /u/Civil-Demand555 [link]  [comments]",
+    "content": " submitted by  /u/Civil-Demand555 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+    "source": "Reddit ML",
+    "author": "/u/Civil-Demand555",
+    "published_date": "2026-10-17T19:41:19+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:07:15.330148"
+  },
+  {
+    "id": "Reddit ML_5c2da32bdb5687cf",
+    "title": "EMNLP main presentation[D]",
+    "summary": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
+    "content": "Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+    "source": "Reddit ML",
+    "author": "/u/Sorry-Concern-3772",
+    "published_date": "2026-10-17T16:45:33+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:07:15.330467"
   },
   {
     "id": "TechCrunch AI_3d71db2945971013",
@@ -736,7 +720,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.283693"
+    "created_at": "2026-10-18T02:06:56.429923"
   },
   {
     "id": "TechCrunch AI_a7d3014b9575462e",
@@ -753,58 +737,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.284142"
-  },
-  {
-    "id": "TechCrunch AI_89ae0f687aabc7eb",
-    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-    "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Fri, 16 Oct 2026 12:55:09 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.284351"
-  },
-  {
-    "id": "TechCrunch AI_a2e9910e7c22cd9a",
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "content": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 15 Oct 2026 23:44:56 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-17T19:50:16.284433"
-  },
-  {
-    "id": "The Verge AI_ac07f41a6c666aad",
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T15:57:16-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.302191"
+    "created_at": "2026-10-18T02:06:56.430317"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -821,24 +754,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.295910"
-  },
-  {
-    "id": "Wired AI_bb95dc7fc7870d40",
-    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-    "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-    "content": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 15 Oct 2026 21:00:28 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.296111"
+    "created_at": "2026-10-18T02:06:58.445569"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -855,7 +771,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:21.302715"
+    "created_at": "2026-10-18T02:07:01.436252"
   },
   {
     "id": "MIT Technology Review_007cf1866bd54a13",
@@ -872,7 +788,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:21.302828"
+    "created_at": "2026-10-18T02:07:01.436365"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -889,7 +805,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:21.302999"
+    "created_at": "2026-10-18T02:07:01.436539"
   },
   {
     "id": "arXiv AI_7672c1e42260fab7",
@@ -904,7 +820,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610181"
+    "created_at": "2026-10-18T02:07:09.968722"
   },
   {
     "id": "arXiv AI_82eb5a5458a7e07c",
@@ -919,7 +835,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:29.610414"
+    "created_at": "2026-10-18T02:07:09.968961"
   },
   {
     "id": "Reddit ML_ec5dc3f547779ca0",
@@ -936,7 +852,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908249"
+    "created_at": "2026-10-18T02:07:15.330396"
   },
   {
     "id": "TechCrunch AI_b97a49869e14e336",
@@ -953,22 +869,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:16.284230"
+    "created_at": "2026-10-18T02:06:56.430419"
   },
   {
-    "id": "The Verge AI_192593273b0c06a7",
-    "title": "The tech backlash is now in theaters",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
-    "content": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "source": "The Verge AI",
-    "author": "Charles Pulliam-Moore",
-    "published_date": "2026-10-15T17:39:52-04:00",
+    "id": "Wired AI_87aa0fefba1f3b13",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "author": "Tess Owen, Tim Marchman",
+    "published_date": "Fri, 16 Oct 2026 20:05:08 +0000",
     "importance_score": 5.2,
     "category": "tech",
-    "keywords": [],
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:17.301957"
+    "created_at": "2026-10-18T02:06:58.445479"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -983,7 +901,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:21.302910"
+    "created_at": "2026-10-18T02:07:01.436449"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -998,7 +916,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:21.303134"
+    "created_at": "2026-10-18T02:07:01.436673"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1016,24 +934,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694322"
-  },
-  {
-    "id": "Hugging Face Blog_82ee18ef339cede7",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Fri, 16 Oct 2026 01:44:47 GMT",
-    "importance_score": 5.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:26.429397"
+    "created_at": "2026-10-18T02:07:03.846735"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -1050,7 +951,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.693964"
+    "created_at": "2026-10-18T02:07:03.846382"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -1067,24 +968,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:23.694068"
+    "created_at": "2026-10-18T02:07:03.846460"
   },
   {
-    "id": "Lobsters AI_d039e94785fc452b",
-    "title": "Neural Networks Are Already Clean",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://already-clean.goodfire.com/",
-    "source": "Lobsters AI",
-    "author": "already-clean.goodfire.com via Yogthos",
-    "published_date": "Thu, 15 Oct 2026 17:25:03 -0500",
-    "importance_score": 5.0,
+    "id": "The Verge AI_ac07f41a6c666aad",
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
+    "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
+    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-15T15:57:16-04:00",
+    "importance_score": 4.9,
     "category": "tech",
     "keywords": [
-      "neural network"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:35.560166"
+    "created_at": "2026-10-18T02:06:57.404798"
+  },
+  {
+    "id": "Wired AI_bb95dc7fc7870d40",
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "content": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 15 Oct 2026 21:00:28 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:58.445756"
   },
   {
     "id": "Wired AI_38010039191a34ad",
@@ -1101,7 +1019,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:18.296194"
+    "created_at": "2026-10-18T02:06:58.445826"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -1118,7 +1036,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.296250"
+    "created_at": "2026-10-18T02:06:58.445880"
   },
   {
     "id": "Wired AI_d42caa245be76250",
@@ -1135,7 +1053,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:18.296319"
+    "created_at": "2026-10-18T02:06:58.445946"
   },
   {
     "id": "Wired AI_8986d62f63014986",
@@ -1152,7 +1070,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-17T19:50:18.296403"
+    "created_at": "2026-10-18T02:06:58.446022"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1169,7 +1087,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:20.340943"
+    "created_at": "2026-10-18T02:07:00.520285"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1186,7 +1104,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T19:50:20.341153"
+    "created_at": "2026-10-18T02:07:00.520444"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1203,7 +1121,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:20.341220"
+    "created_at": "2026-10-18T02:07:00.520505"
   },
   {
     "id": "MIT Technology Review_60164cafc3f065fc",
@@ -1220,7 +1138,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:21.303229"
+    "created_at": "2026-10-18T02:07:01.436770"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -1237,7 +1155,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-17T19:50:21.303408"
+    "created_at": "2026-10-18T02:07:01.436950"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1254,7 +1172,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:22.282426"
+    "created_at": "2026-10-18T02:07:02.531048"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1271,7 +1189,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:22.282500"
+    "created_at": "2026-10-18T02:07:02.531167"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -1288,7 +1206,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:26.429514"
+    "created_at": "2026-10-18T02:07:06.619947"
+  },
+  {
+    "id": "The Verge AI_192593273b0c06a7",
+    "title": "The tech backlash is now in theaters",
+    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
+    "content": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
+    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "source": "The Verge AI",
+    "author": "Charles Pulliam-Moore",
+    "published_date": "2026-10-15T17:39:52-04:00",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-18T02:06:57.404651"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1303,59 +1236,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:21.303317"
+    "created_at": "2026-10-18T02:07:01.436857"
   },
   {
-    "id": "Lobsters AI_dd37a3266947aa05",
-    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
-    "summary": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "content": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
-    "source": "Lobsters AI",
-    "author": "by dtsdwarak",
-    "published_date": "Wed, 07 Oct 2026 09:12:02 -0500",
-    "importance_score": 4.7,
+    "id": "Hugging Face Blog_82ee18ef339cede7",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Fri, 16 Oct 2026 01:44:47 GMT",
+    "importance_score": 4.6000000000000005,
     "category": "tech",
     "keywords": [
-      "AI",
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:35.560469"
-  },
-  {
-    "id": "Lobsters AI_3de27b116cdf95ce",
-    "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
-    "summary": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "content": "The paper challenges the assumption that language models need explicit tokenizers to be efficient demonstrating that standard flat Transformers can process raw byte sequences and actually outperform traditional subword models as parameter sizes scale.",
-    "url": "https://arxiv.org/html/2610.05978v1",
-    "source": "Lobsters AI",
-    "author": "arxiv.org via Yogthos",
-    "published_date": "Sat, 10 Oct 2026 17:25:14 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:35.560376"
-  },
-  {
-    "id": "Lobsters AI_d645a42aa4bf0630",
-    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-    "source": "Lobsters AI",
-    "author": "youtube.com via Yogthos",
-    "published_date": "Sat, 26 Sep 2026 12:34:14 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "deep learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:35.560534"
+    "created_at": "2026-10-18T02:07:06.619837"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1370,6 +1268,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-17T19:50:34.908029"
+    "created_at": "2026-10-18T02:07:15.329951"
   }
 ]
