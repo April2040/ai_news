@@ -1,5 +1,23 @@
 [
   {
+    "id": "TechCrunch AI_c5451657ac1a11a3",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "content": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:54.404397"
+  },
+  {
     "id": "TechCrunch AI_e83692b36015cdfd",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
@@ -16,61 +34,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939878"
-  },
-  {
-    "id": "TechCrunch AI_856799924bfd88de",
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "content": "Anthropic said that it will commit 5% of its shares to the fund.",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 18 Oct 2026 20:37:40 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939386"
-  },
-  {
-    "id": "The Verge AI_fba3f1f13df3d4af",
-    "title": "Websites are closing their doors to AI agents",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
-    "content": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-17T09:00:00-04:00",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.944786"
-  },
-  {
-    "id": "MIT Technology Review_f957c9c6525a2906",
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
-    "content": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "source": "MIT Technology Review",
-    "author": "Amit Katwala",
-    "published_date": "Mon, 19 Oct 2026 09:08:05 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.088933"
+    "created_at": "2026-10-19T17:56:54.404726"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -90,7 +54,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.944962"
+    "created_at": "2026-10-19T17:56:55.389546"
   },
   {
     "id": "TechCrunch AI_7776c0d92ecebf6d",
@@ -110,24 +74,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939686"
+    "created_at": "2026-10-19T17:56:54.404605"
   },
   {
-    "id": "Wired AI_b783ea314e0d7a5b",
-    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-    "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "content": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "source": "Wired AI",
-    "author": "Maddy Varner",
-    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
-    "importance_score": 7.1000000000000005,
+    "id": "The Verge AI_fba3f1f13df3d4af",
+    "title": "Websites are closing their doors to AI agents",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "content": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-17T09:00:00-04:00",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901380"
+    "created_at": "2026-10-19T17:56:55.389449"
+  },
+  {
+    "id": "MIT Technology Review_f957c9c6525a2906",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
+    "content": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Technology Review",
+    "author": "Amit Katwala",
+    "published_date": "Mon, 19 Oct 2026 09:08:05 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:59.415663"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -147,25 +130,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334320"
-  },
-  {
-    "id": "TechCrunch AI_ab1048b870dd41c9",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Fri, 16 Oct 2026 16:01:37 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.940091"
+    "created_at": "2026-10-19T17:57:01.605993"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -183,7 +148,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:15.111238"
+    "created_at": "2026-10-19T17:57:00.625090"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -201,7 +166,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334005"
+    "created_at": "2026-10-19T17:57:01.605843"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -219,7 +184,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334258"
+    "created_at": "2026-10-19T17:57:01.605960"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -237,7 +202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334392"
+    "created_at": "2026-10-19T17:57:01.606025"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -255,25 +220,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334512"
+    "created_at": "2026-10-19T17:57:01.606088"
   },
   {
-    "id": "TechCrunch AI_f071b52a016d02b6",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
-    "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Dominic-Madori Davis",
-    "published_date": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "id": "Wired AI_b783ea314e0d7a5b",
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "content": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "author": "Maddy Varner",
+    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
     "importance_score": 6.6000000000000005,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939985"
+    "created_at": "2026-10-19T17:56:56.394649"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -291,7 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:11.964850"
+    "created_at": "2026-10-19T17:56:57.583518"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -309,41 +273,92 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:11.965073"
+    "created_at": "2026-10-19T17:56:57.583657"
   },
   {
-    "id": "MIT Technology Review_75508390b23da3bb",
-    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.",
-    "content": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.",
-    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-    "source": "MIT Technology Review",
-    "author": "James Temple",
-    "published_date": "Mon, 19 Oct 2026 09:22:17 +0000",
+    "id": "TechCrunch AI_d62c62bf284984cf",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "content": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 19 Oct 2026 16:13:22 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.088813"
+    "created_at": "2026-10-19T17:56:54.404339"
   },
   {
-    "id": "MIT Technology Review_15c408cad881afd5",
-    "title": "How far can we push computing?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "source": "MIT Technology Review",
-    "author": "Volkan Gurses",
-    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "id": "The Verge AI_e2ff6f400d4c0984",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-10-19T10:30:00-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.089023"
+    "created_at": "2026-10-19T17:56:55.389214"
+  },
+  {
+    "id": "The Verge AI_b650052d6ebb0bf4",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+    "content": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-19T09:58:41-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:55.389289"
+  },
+  {
+    "id": "The Verge AI_3b4c7c6f6461d91e",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
+    "content": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-10-19T08:00:00-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:55.389342"
+  },
+  {
+    "id": "MIT Technology Review_6216275ad993e7c3",
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Mon, 19 Oct 2026 12:10:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:59.415532"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -361,7 +376,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:11.964935"
+    "created_at": "2026-10-19T17:56:57.583576"
+  },
+  {
+    "id": "TechCrunch AI_c7fb01b0b7d350db",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 19 Oct 2026 12:30:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:54.404450"
   },
   {
     "id": "TechCrunch AI_ecade87f6e3b16c6",
@@ -378,24 +410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939596"
-  },
-  {
-    "id": "The Verge AI_46380ef152731307",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-17T11:04:36-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.944698"
+    "created_at": "2026-10-19T17:56:54.404559"
   },
   {
     "id": "Wired AI_39ea693667032c07",
@@ -412,24 +427,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901455"
+    "created_at": "2026-10-19T17:56:56.394693"
   },
   {
-    "id": "TechCrunch AI_11d8194439d34e3d",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 18 Oct 2026 16:30:00 +0000",
-    "importance_score": 5.9,
+    "id": "Reddit ML_9e4ec52d2c97df6b",
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+    "source": "Reddit ML",
+    "author": "/u/Amazing-Coat5160",
+    "published_date": "2026-10-19T17:50:49+00:00",
+    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939513"
+    "created_at": "2026-10-19T17:57:13.212068"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -446,24 +462,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.945035"
+    "created_at": "2026-10-19T17:56:55.389584"
   },
   {
-    "id": "Reddit ML_3e3e6ef092cdecc4",
-    "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
-    "summary": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it is: 9.",
-    "content": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it is: 9.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
+    "id": "MIT Technology Review_75508390b23da3bb",
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.",
+    "content": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.",
+    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "source": "MIT Technology Review",
+    "author": "James Temple",
+    "published_date": "Mon, 19 Oct 2026 09:22:17 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:59.415601"
+  },
+  {
+    "id": "MIT Technology Review_15c408cad881afd5",
+    "title": "How far can we push computing?",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "source": "MIT Technology Review",
+    "author": "Volkan Gurses",
+    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:59.415713"
+  },
+  {
+    "id": "Reddit ML_03c5a4ce6a524ceb",
+    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
     "source": "Reddit ML",
-    "author": "/u/Working_Hat5120",
-    "published_date": "2026-10-19T05:36:23+00:00",
+    "author": "/u/EvilHackFar",
+    "published_date": "2026-10-19T17:13:35+00:00",
     "importance_score": 5.8,
     "category": "tech",
     "keywords": [
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.617308"
+    "created_at": "2026-10-19T17:57:13.211640"
+  },
+  {
+    "id": "The Verge AI_46380ef152731307",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-17T11:04:36-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:55.389408"
   },
   {
     "id": "The Verge AI_9633c7774c21a06b",
@@ -480,24 +547,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.944889"
-  },
-  {
-    "id": "The Verge AI_3dd1d9395cc9636c",
-    "title": "Trump posts AI-edited photo to brag about White House restoration work",
-    "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
-    "content": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector...",
-    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-15T17:09:33-04:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.945206"
+    "created_at": "2026-10-19T17:56:55.389506"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -514,7 +564,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901811"
+    "created_at": "2026-10-19T17:56:56.394898"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -531,7 +581,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:13.042755"
+    "created_at": "2026-10-19T17:56:58.568042"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -548,7 +598,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:13.042909"
+    "created_at": "2026-10-19T17:56:58.568136"
   },
   {
     "id": "arXiv ML_7596e91149ec085e",
@@ -565,25 +615,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.082396"
-  },
-  {
-    "id": "Reddit ML_f1bdc59095aeea44",
-    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
-    "summary": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.",
-    "content": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
-    "source": "Reddit ML",
-    "author": "/u/howtorewriteaname",
-    "published_date": "2026-10-18T23:52:01+00:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.617474"
+    "created_at": "2026-10-19T17:57:08.508287"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -600,7 +632,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:11.965016"
+    "created_at": "2026-10-19T17:56:57.583626"
   },
   {
     "id": "arXiv ML_2c5d6d9d0239c963",
@@ -617,7 +649,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081371"
+    "created_at": "2026-10-19T17:57:08.507635"
   },
   {
     "id": "arXiv ML_08c1ea980dd24076",
@@ -632,7 +664,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081645"
+    "created_at": "2026-10-19T17:57:08.507815"
   },
   {
     "id": "arXiv ML_984ddd5f581f9be0",
@@ -649,7 +681,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081758"
+    "created_at": "2026-10-19T17:57:08.507888"
   },
   {
     "id": "arXiv ML_9503a34441b1d2f5",
@@ -666,7 +698,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081873"
+    "created_at": "2026-10-19T17:57:08.507958"
   },
   {
     "id": "arXiv ML_b66e7ef1b6421d7c",
@@ -683,7 +715,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081996"
+    "created_at": "2026-10-19T17:57:08.508036"
   },
   {
     "id": "arXiv ML_bfb68d5899005c59",
@@ -700,7 +732,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.082141"
+    "created_at": "2026-10-19T17:57:08.508120"
   },
   {
     "id": "arXiv ML_b7ad28846136c09a",
@@ -717,7 +749,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.082277"
+    "created_at": "2026-10-19T17:57:08.508199"
   },
   {
     "id": "arXiv ML_ad7b566449287c6f",
@@ -734,7 +766,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.082507"
+    "created_at": "2026-10-19T17:57:08.508358"
   },
   {
     "id": "Reddit ML_4a29993055c1fe08",
@@ -751,24 +783,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.616643"
-  },
-  {
-    "id": "Reddit ML_114fa3ced817a336",
-    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
-    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
-    "content": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
-    "source": "Reddit ML",
-    "author": "/u/dwaxe",
-    "published_date": "2026-10-18T20:52:02+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.616996"
+    "created_at": "2026-10-19T17:57:13.211690"
   },
   {
     "id": "Reddit ML_cbd3478c1e677f35",
@@ -785,7 +800,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.617116"
+    "created_at": "2026-10-19T17:57:13.211927"
+  },
+  {
+    "id": "Reddit ML_114fa3ced817a336",
+    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
+    "content": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "source": "Reddit ML",
+    "author": "/u/dwaxe",
+    "published_date": "2026-10-18T20:52:02+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:57:13.211996"
+  },
+  {
+    "id": "TechCrunch AI_61e7250471b9b8e3",
+    "title": "Disney agrees to hire the majority of Character AI’s workforce",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T17:56:54.404521"
   },
   {
     "id": "arXiv ML_620512880cee1491",
@@ -800,7 +849,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:23.081522"
+    "created_at": "2026-10-19T17:57:08.507737"
   },
   {
     "id": "Reddit ML_3843a6218b29aac3",
@@ -817,7 +866,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.616722"
+    "created_at": "2026-10-19T17:57:13.211738"
   },
   {
     "id": "Reddit ML_e486af6b3fa0f172",
@@ -834,24 +883,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.616885"
+    "created_at": "2026-10-19T17:57:13.211850"
   },
   {
-    "id": "Reddit ML_c1a01273e1f54864",
-    "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
-    "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
-    "content": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+    "id": "Reddit ML_3e3e6ef092cdecc4",
+    "title": "SteerTTS: 23M-param English TTS you steer with numbers (pitch, rate, loudness, etc. as z-scores), runs real-time on CPU [P]",
+    "summary": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it is: 9.",
+    "content": "I was looking for small TTS model which is steerable but couldn't find any, specially something I can adjust contextually by providing controls from LLM during a conversation. So I built one. What it is: 9.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9okma/steertts_23mparam_english_tts_you_steer_with/",
     "source": "Reddit ML",
-    "author": "/u/Yossarian_1234",
-    "published_date": "2026-10-18T16:43:58+00:00",
+    "author": "/u/Working_Hat5120",
+    "published_date": "2026-10-19T05:36:23+00:00",
     "importance_score": 5.3,
     "category": "tech",
     "keywords": [
-      "AI"
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.617396"
+    "created_at": "2026-10-19T17:57:13.212172"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -869,7 +918,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334454"
+    "created_at": "2026-10-19T17:57:01.606057"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -886,7 +935,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.333908"
+    "created_at": "2026-10-19T17:57:01.605779"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -903,7 +952,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334080"
+    "created_at": "2026-10-19T17:57:01.605881"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -920,7 +969,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:16.334187"
+    "created_at": "2026-10-19T17:57:01.605925"
   },
   {
     "id": "TechCrunch AI_3d71db2945971013",
@@ -937,41 +986,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.939759"
-  },
-  {
-    "id": "TechCrunch AI_a7d3014b9575462e",
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Fri, 16 Oct 2026 15:33:49 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:08.940199"
-  },
-  {
-    "id": "The Verge AI_ac07f41a6c666aad",
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "content": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites.",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T15:57:16-04:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.945278"
+    "created_at": "2026-10-19T17:56:54.404643"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -988,7 +1003,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901550"
+    "created_at": "2026-10-19T17:56:56.394750"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -1005,7 +1020,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901730"
+    "created_at": "2026-10-19T17:56:56.394852"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -1022,24 +1037,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901883"
-  },
-  {
-    "id": "Wired AI_38010039191a34ad",
-    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "content": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 14 Oct 2026 18:15:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-19T11:33:10.901952"
+    "created_at": "2026-10-19T17:56:56.394940"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1056,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:13.042828"
+    "created_at": "2026-10-19T17:56:58.568086"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1073,7 +1071,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-19T11:33:13.042985"
+    "created_at": "2026-10-19T17:56:58.568182"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1090,7 +1088,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:13.043047"
+    "created_at": "2026-10-19T17:56:58.568214"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -1107,7 +1105,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.089107"
+    "created_at": "2026-10-19T17:56:59.415762"
   },
   {
     "id": "MIT Technology Review_007cf1866bd54a13",
@@ -1124,7 +1122,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-19T11:33:14.089237"
+    "created_at": "2026-10-19T17:56:59.415820"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -1141,24 +1139,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.089400"
-  },
-  {
-    "id": "MIT Technology Review_60164cafc3f065fc",
-    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been",
-    "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 15 Oct 2026 12:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.089596"
+    "created_at": "2026-10-19T17:56:59.415913"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1175,7 +1156,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:15.111336"
+    "created_at": "2026-10-19T17:57:00.625146"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1192,22 +1173,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:15.111407"
-  },
-  {
-    "id": "The Verge AI_192593273b0c06a7",
-    "title": "The tech backlash is now in theaters",
-    "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
-    "content": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality.",
-    "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-    "source": "The Verge AI",
-    "author": "Charles Pulliam-Moore",
-    "published_date": "2026-10-15T17:39:52-04:00",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:09.945103"
+    "created_at": "2026-10-19T17:57:00.625183"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -1224,7 +1190,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:10.901644"
+    "created_at": "2026-10-19T17:56:56.394802"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -1239,7 +1205,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:14.089317"
+    "created_at": "2026-10-19T17:56:59.415866"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -1254,7 +1220,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-19T11:33:14.089505"
+    "created_at": "2026-10-19T17:56:59.415975"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1272,7 +1238,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:28.216562"
+    "created_at": "2026-10-19T17:57:13.713087"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1289,7 +1255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:19.172966"
+    "created_at": "2026-10-19T17:57:04.500888"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1306,7 +1272,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:28.216256"
+    "created_at": "2026-10-19T17:57:13.712872"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1323,24 +1289,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:28.216470"
-  },
-  {
-    "id": "Lobsters AI_d645a42aa4bf0630",
-    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-    "source": "Lobsters AI",
-    "author": "youtube.com via Yogthos",
-    "published_date": "Sat, 26 Sep 2026 12:34:14 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "deep learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:28.216631"
+    "created_at": "2026-10-19T17:57:13.713032"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1355,6 +1304,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T11:33:27.616536"
+    "created_at": "2026-10-19T17:57:13.211558"
   }
 ]
