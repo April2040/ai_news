@@ -1,5 +1,23 @@
 [
   {
+    "id": "TechCrunch AI_856799924bfd88de",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "content": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 18 Oct 2026 20:37:40 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:20.818302"
+  },
+  {
     "id": "TechCrunch AI_e83692b36015cdfd",
     "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still beingrebuilt.",
@@ -16,7 +34,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397389"
+    "created_at": "2026-10-19T02:23:20.818786"
   },
   {
     "id": "The Verge AI_fba3f1f13df3d4af",
@@ -34,7 +52,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.414841"
+    "created_at": "2026-10-19T02:23:21.813264"
   },
   {
     "id": "The Verge AI_168e9cf9b2d87145",
@@ -54,7 +72,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.415043"
+    "created_at": "2026-10-19T02:23:21.813439"
   },
   {
     "id": "TechCrunch AI_7776c0d92ecebf6d",
@@ -74,7 +92,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397203"
+    "created_at": "2026-10-19T02:23:20.818579"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -94,43 +112,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855528"
-  },
-  {
-    "id": "Ars Technica_1153331823b13c84",
-    "title": "OpenAI models hacked a crypto wallet and breached more websites",
-    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Fri, 16 Oct 2026 20:59:01 +0000",
-    "importance_score": 7.000000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:59.475543"
-  },
-  {
-    "id": "Reddit ML_883089d3ddf3baad",
-    "title": "What is wrong with AI writing - ICLR edition [D]",
-    "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
-    "content": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
-    "source": "Reddit ML",
-    "author": "/u/bobrodsky",
-    "published_date": "2026-10-17T23:40:03+00:00",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.023146"
+    "created_at": "2026-10-19T02:23:28.209561"
   },
   {
     "id": "TechCrunch AI_ab1048b870dd41c9",
@@ -148,7 +130,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397583"
+    "created_at": "2026-10-19T02:23:20.819009"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -166,24 +148,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:02.511666"
-  },
-  {
-    "id": "TechCrunch AI_ecade87f6e3b16c6",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 17 Oct 2026 21:31:32 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397113"
+    "created_at": "2026-10-19T02:23:26.824197"
   },
   {
     "id": "Wired AI_39ea693667032c07",
@@ -200,7 +165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406376"
+    "created_at": "2026-10-19T02:23:22.800236"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -218,7 +183,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855248"
+    "created_at": "2026-10-19T02:23:28.209280"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -236,7 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855465"
+    "created_at": "2026-10-19T02:23:28.209498"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -254,7 +219,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855588"
+    "created_at": "2026-10-19T02:23:28.209627"
   },
   {
     "id": "OpenAI News_cae6c69ad8fa75cd",
@@ -272,7 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855709"
+    "created_at": "2026-10-19T02:23:28.209833"
   },
   {
     "id": "TechCrunch AI_f071b52a016d02b6",
@@ -290,7 +255,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397494"
+    "created_at": "2026-10-19T02:23:20.818901"
+  },
+  {
+    "id": "Ars Technica_1153331823b13c84",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 16 Oct 2026 20:59:01 +0000",
+    "importance_score": 6.500000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:23.809544"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -308,24 +291,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:59.475761"
+    "created_at": "2026-10-19T02:23:23.809780"
   },
   {
-    "id": "TechCrunch AI_11d8194439d34e3d",
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 18 Oct 2026 16:30:00 +0000",
-    "importance_score": 6.4,
+    "id": "Reddit ML_883089d3ddf3baad",
+    "title": "What is wrong with AI writing - ICLR edition [D]",
+    "summary": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
+    "content": "I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing. I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this: outperforms the best baseline costing no more at none of six operating points and a permuted...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+    "source": "Reddit ML",
+    "author": "/u/bobrodsky",
+    "published_date": "2026-10-17T23:40:03+00:00",
+    "importance_score": 6.5,
     "category": "tech",
     "keywords": [
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397022"
+    "created_at": "2026-10-19T02:23:40.120103"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -343,7 +327,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:59.475625"
+    "created_at": "2026-10-19T02:23:23.809628"
+  },
+  {
+    "id": "TechCrunch AI_ecade87f6e3b16c6",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "content": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 17 Oct 2026 21:31:32 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:20.818494"
   },
   {
     "id": "The Verge AI_46380ef152731307",
@@ -360,7 +361,94 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.414758"
+    "created_at": "2026-10-19T02:23:21.813180"
+  },
+  {
+    "id": "Reddit ML_f1bdc59095aeea44",
+    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
+    "summary": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.",
+    "content": "I know AI use must be disclosed, and I'm fine with it. However, I'm being careful on not using LLMs to actually check my review (more than prose-wise) and see if it catches something important in the paper that I didn't spot.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
+    "source": "Reddit ML",
+    "author": "/u/howtorewriteaname",
+    "published_date": "2026-10-18T23:52:01+00:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:40.120003"
+  },
+  {
+    "id": "Reddit ML_1977d6d6da55da9b",
+    "title": "Looking to collaborate [R]",
+    "summary": "Anyone in the biomedical and ai/ml research space? I’m looking to connect and collaborate on research projects. Currently pursuing my PhD. Lmk.  submitted by  /u/QuirkySkin-25 [link]  [comments]",
+    "content": "Anyone in the biomedical and ai/ml research space? I’m looking to connect and collaborate on research projects. Currently pursuing my PhD. Lmk.  submitted by  /u/QuirkySkin-25 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/",
+    "source": "Reddit ML",
+    "author": "/u/QuirkySkin-25",
+    "published_date": "2026-10-19T00:48:39+00:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:40.120192"
+  },
+  {
+    "id": "Reddit ML_4a29993055c1fe08",
+    "title": "Conference papers are cooked! [D]",
+    "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "content": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+    "source": "Reddit ML",
+    "author": "/u/Fantastic-Nerve-4056",
+    "published_date": "2026-10-18T22:12:15+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:40.119425"
+  },
+  {
+    "id": "Reddit ML_114fa3ced817a336",
+    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
+    "content": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "source": "Reddit ML",
+    "author": "/u/dwaxe",
+    "published_date": "2026-10-18T20:52:02+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:40.119623"
+  },
+  {
+    "id": "TechCrunch AI_11d8194439d34e3d",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:20.818416"
   },
   {
     "id": "The Verge AI_99936deb6c343731",
@@ -377,41 +465,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.415118"
+    "created_at": "2026-10-19T02:23:21.813509"
   },
   {
-    "id": "Reddit ML_c1a01273e1f54864",
-    "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
-    "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
-    "content": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+    "id": "Reddit ML_e486af6b3fa0f172",
+    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+    "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
+    "content": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
     "source": "Reddit ML",
-    "author": "/u/Yossarian_1234",
-    "published_date": "2026-10-18T16:43:58+00:00",
+    "author": "/u/niceuser45",
+    "published_date": "2026-10-19T01:34:31+00:00",
     "importance_score": 5.8,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.022934"
-  },
-  {
-    "id": "Reddit ML_3843a6218b29aac3",
-    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
-    "summary": " submitted by  /u/ToraxXx [link]  [comments]",
-    "content": " submitted by  /u/ToraxXx [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
-    "source": "Reddit ML",
-    "author": "/u/ToraxXx",
-    "published_date": "2026-10-18T19:34:36+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.023040"
+    "created_at": "2026-10-19T02:23:40.119907"
   },
   {
     "id": "The Verge AI_9633c7774c21a06b",
@@ -428,7 +499,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.414944"
+    "created_at": "2026-10-19T02:23:21.813366"
   },
   {
     "id": "The Verge AI_3dd1d9395cc9636c",
@@ -445,7 +516,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.415256"
+    "created_at": "2026-10-19T02:23:21.813647"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -462,7 +533,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406743"
+    "created_at": "2026-10-19T02:23:22.800613"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -479,7 +550,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:00.515213"
+    "created_at": "2026-10-19T02:23:24.888537"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -496,25 +567,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:00.515366"
-  },
-  {
-    "id": "Reddit ML_b146d7fab5435f03",
-    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
-    "summary": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
-    "content": "I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
-    "source": "Reddit ML",
-    "author": "/u/atronos_kronios",
-    "published_date": "2026-10-18T08:23:02+00:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.023474"
+    "created_at": "2026-10-19T02:23:24.888696"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -531,22 +584,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:59.475703"
-  },
-  {
-    "id": "Reddit ML_2ddac7625e7e723e",
-    "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
-    "summary": "Small case study on poisoning in agent procedural memory, with all data released. Setup: a coding agent learns skills from sessions whose tests passed. One learning session is poisoned (a new file, an unrelated line, or one line fused into the real fix), followed by three clean sessions on the same...",
-    "content": "Small case study on poisoning in agent procedural memory, with all data released. Setup: a coding agent learns skills from sessions whose tests passed. One learning session is poisoned (a new file, an unrelated line, or one line fused into the real fix), followed by three clean sessions on the same...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
-    "source": "Reddit ML",
-    "author": "/u/maa____z",
-    "published_date": "2026-10-18T16:14:59+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.023330"
+    "created_at": "2026-10-19T02:23:23.809703"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -563,24 +601,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406477"
+    "created_at": "2026-10-19T02:23:22.800344"
   },
   {
-    "id": "Wired AI_87aa0fefba1f3b13",
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "source": "Wired AI",
-    "author": "Tess Owen, Tim Marchman",
-    "published_date": "Fri, 16 Oct 2026 20:05:08 +0000",
-    "importance_score": 5.2,
+    "id": "Reddit ML_3843a6218b29aac3",
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "summary": " submitted by  /u/ToraxXx [link]  [comments]",
+    "content": " submitted by  /u/ToraxXx [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+    "source": "Reddit ML",
+    "author": "/u/ToraxXx",
+    "published_date": "2026-10-18T19:34:36+00:00",
+    "importance_score": 5.3,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406574"
+    "created_at": "2026-10-19T02:23:40.119508"
+  },
+  {
+    "id": "Reddit ML_c1a01273e1f54864",
+    "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
+    "summary": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
+    "content": "Accepted at NeurIPS 2026 TLDR: The paper presents a library of synthetic time series generators and augmentations to train time series foundation models, in their case a DeltaProduct based linear RNN. The synthetic data has already been used in Toto-2 and TS-ICL. Arxiv: https://arxiv.org/abs/2510.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+    "source": "Reddit ML",
+    "author": "/u/Yossarian_1234",
+    "published_date": "2026-10-18T16:43:58+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:40.119717"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -598,22 +653,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855650"
-  },
-  {
-    "id": "Reddit ML_d80921c9eeba00a2",
-    "title": "[P] asmsense: 228k stripped x86-64 functions with source-aware labels, and a map of the data we still lack. [P]",
-    "summary": "asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source.",
-    "content": "asmsense is a dataset and a small model (Qwen3-8B + LoRA) for naming and describing functions in stripped binaries. I compiled permissively licensed C projects myself, so every function has its real name and source.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x91a47/p_asmsense_228k_stripped_x8664_functions_with/",
-    "source": "Reddit ML",
-    "author": "/u/luxurycashew",
-    "published_date": "2026-10-18T11:49:21+00:00",
-    "importance_score": 5.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.023639"
+    "created_at": "2026-10-19T02:23:28.209713"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -630,7 +670,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855145"
+    "created_at": "2026-10-19T02:23:28.209183"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -647,7 +687,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855320"
+    "created_at": "2026-10-19T02:23:28.209351"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -664,7 +704,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:03.855399"
+    "created_at": "2026-10-19T02:23:28.209431"
   },
   {
     "id": "TechCrunch AI_3d71db2945971013",
@@ -681,7 +721,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397275"
+    "created_at": "2026-10-19T02:23:20.818651"
   },
   {
     "id": "TechCrunch AI_a7d3014b9575462e",
@@ -698,7 +738,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397678"
+    "created_at": "2026-10-19T02:23:20.819087"
   },
   {
     "id": "The Verge AI_ac07f41a6c666aad",
@@ -715,7 +755,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.415324"
+    "created_at": "2026-10-19T02:23:21.813715"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -732,7 +772,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406662"
+    "created_at": "2026-10-19T02:23:22.800531"
   },
   {
     "id": "Wired AI_bb95dc7fc7870d40",
@@ -749,7 +789,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406817"
+    "created_at": "2026-10-19T02:23:22.800688"
   },
   {
     "id": "Wired AI_38010039191a34ad",
@@ -766,7 +806,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-18T19:50:58.406887"
+    "created_at": "2026-10-19T02:23:22.800777"
   },
   {
     "id": "Wired AI_5a39ee5d26690ac1",
@@ -783,7 +823,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:58.406940"
+    "created_at": "2026-10-19T02:23:22.800841"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -800,7 +840,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:00.515286"
+    "created_at": "2026-10-19T02:23:24.888615"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -817,7 +857,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-18T19:51:00.515441"
+    "created_at": "2026-10-19T02:23:24.888791"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -834,7 +874,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:00.515503"
+    "created_at": "2026-10-19T02:23:24.888859"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -851,7 +891,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:01.415047"
+    "created_at": "2026-10-19T02:23:25.814943"
   },
   {
     "id": "MIT Technology Review_007cf1866bd54a13",
@@ -868,7 +908,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-18T19:51:01.415163"
+    "created_at": "2026-10-19T02:23:25.815056"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -885,7 +925,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:01.415332"
+    "created_at": "2026-10-19T02:23:25.815227"
   },
   {
     "id": "MIT Technology Review_60164cafc3f065fc",
@@ -902,7 +942,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:01.415529"
+    "created_at": "2026-10-19T02:23:25.815428"
   },
   {
     "id": "MIT Technology Review_e9b49e06ff9112ee",
@@ -919,7 +959,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-18T19:51:01.415705"
+    "created_at": "2026-10-19T02:23:25.815606"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -936,7 +976,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:02.511758"
+    "created_at": "2026-10-19T02:23:26.824289"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -953,7 +993,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:02.511826"
+    "created_at": "2026-10-19T02:23:26.824357"
   },
   {
     "id": "Hugging Face Blog_284131e20f12bbe7",
@@ -970,24 +1010,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:06.590800"
-  },
-  {
-    "id": "TechCrunch AI_b97a49869e14e336",
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Fri, 16 Oct 2026 14:26:51 +0000",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:56.397759"
+    "created_at": "2026-10-19T02:23:30.937030"
   },
   {
     "id": "The Verge AI_192593273b0c06a7",
@@ -1002,7 +1025,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:50:57.415185"
+    "created_at": "2026-10-19T02:23:21.813576"
+  },
+  {
+    "id": "Wired AI_87aa0fefba1f3b13",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "content": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "author": "Tess Owen, Tim Marchman",
+    "published_date": "Fri, 16 Oct 2026 20:05:08 +0000",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-19T02:23:22.800441"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -1017,7 +1057,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:01.415244"
+    "created_at": "2026-10-19T02:23:25.815139"
   },
   {
     "id": "MIT Technology Review_c50981818de7b484",
@@ -1032,7 +1072,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-18T19:51:01.415438"
+    "created_at": "2026-10-19T02:23:25.815334"
   },
   {
     "id": "MIT Technology Review_b317baa900926bf8",
@@ -1047,7 +1087,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:01.415614"
+    "created_at": "2026-10-19T02:23:25.815514"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1065,7 +1105,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.759370"
+    "created_at": "2026-10-19T02:23:40.695206"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1082,7 +1122,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:06.590691"
+    "created_at": "2026-10-19T02:23:30.936917"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1099,7 +1139,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.759054"
+    "created_at": "2026-10-19T02:23:40.694895"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1116,7 +1156,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.759274"
+    "created_at": "2026-10-19T02:23:40.695111"
   },
   {
     "id": "Lobsters AI_d645a42aa4bf0630",
@@ -1133,7 +1173,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.759441"
+    "created_at": "2026-10-19T02:23:40.695275"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1148,6 +1188,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-18T19:51:15.022818"
+    "created_at": "2026-10-19T02:23:40.119321"
   }
 ]
