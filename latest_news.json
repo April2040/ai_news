@@ -1,5 +1,44 @@
 [
   {
+    "id": "OpenAI News_9e085918289a7727",
+    "title": "Advancing coding in low‑resource programming languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "importance_score": 9.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:35.771452"
+  },
+  {
+    "id": "TechCrunch AI_ca2f761afe1be2bb",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "content": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Mon, 19 Oct 2026 22:04:28 +0000",
+    "importance_score": 8.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591340"
+  },
+  {
     "id": "TechCrunch AI_a3fa2de74427f84b",
     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
@@ -8,14 +47,49 @@
     "source": "TechCrunch AI",
     "author": "Marina Temkin",
     "published_date": "Mon, 19 Oct 2026 18:37:27 +0000",
-    "importance_score": 8.9,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657429"
+    "created_at": "2026-10-20T02:36:28.591576"
+  },
+  {
+    "id": "TechCrunch AI_400aefd5dc108e53",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "content": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "importance_score": 8.2,
+    "category": "tech",
+    "keywords": [
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591442"
+  },
+  {
+    "id": "TechCrunch AI_90b1e6f90cca1fc2",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "content": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591288"
   },
   {
     "id": "Wired AI_093483b2d4f77972",
@@ -26,88 +100,14 @@
     "source": "Wired AI",
     "author": "Paresh Dave",
     "published_date": "Mon, 19 Oct 2026 19:49:17 +0000",
-    "importance_score": 8.100000000000001,
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.669585"
-  },
-  {
-    "id": "TechCrunch AI_400aefd5dc108e53",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "content": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Mon, 19 Oct 2026 19:28:34 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657152"
-  },
-  {
-    "id": "TechCrunch AI_c5451657ac1a11a3",
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "content": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Mon, 19 Oct 2026 15:37:09 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657571"
-  },
-  {
-    "id": "The Verge AI_168e9cf9b2d87145",
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop...",
-    "content": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-15T18:43:23-04:00",
-    "importance_score": 7.8,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697411"
-  },
-  {
-    "id": "TechCrunch AI_c49e24cad150efa1",
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "content": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Mon, 19 Oct 2026 20:09:24 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657030"
+    "created_at": "2026-10-20T02:36:30.584053"
   },
   {
     "id": "The Verge AI_fba3f1f13df3d4af",
@@ -125,7 +125,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697241"
+    "created_at": "2026-10-20T02:36:29.625740"
   },
   {
     "id": "MIT Technology Review_f957c9c6525a2906",
@@ -143,7 +143,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752723"
+    "created_at": "2026-10-20T02:36:33.551664"
+  },
+  {
+    "id": "TechCrunch AI_fcf29bdd56130bc4",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "content": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 20 Oct 2026 01:27:03 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591202"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -163,24 +180,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087434"
+    "created_at": "2026-10-20T02:36:35.771698"
   },
   {
-    "id": "TechCrunch AI_a041e3e8c8dd6848",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "content": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "id": "TechCrunch AI_c49e24cad150efa1",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "content": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "author": "Julie Bort",
+    "published_date": "Mon, 19 Oct 2026 20:09:24 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657254"
+    "created_at": "2026-10-20T02:36:28.591388"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -198,7 +216,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:59.823658"
+    "created_at": "2026-10-20T02:36:34.676154"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -216,7 +234,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087111"
+    "created_at": "2026-10-20T02:36:35.771554"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -234,7 +252,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087369"
+    "created_at": "2026-10-20T02:36:35.771668"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -252,25 +270,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087502"
-  },
-  {
-    "id": "OpenAI News_cae6c69ad8fa75cd",
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "content": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 14 Oct 2026 07:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087633"
+    "created_at": "2026-10-20T02:36:35.771729"
   },
   {
     "id": "Wired AI_b783ea314e0d7a5b",
@@ -287,25 +287,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.669676"
-  },
-  {
-    "id": "MIT Technology Review_2caaafc83dcc711c",
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
-    "content": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "source": "MIT Technology Review",
-    "author": "Will Douglas Heaven",
-    "published_date": "Mon, 19 Oct 2026 17:45:55 +0000",
-    "importance_score": 6.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752432"
+    "created_at": "2026-10-20T02:36:30.584106"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -323,7 +305,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644141"
+    "created_at": "2026-10-20T02:36:31.554314"
   },
   {
     "id": "Ars Technica_f299a61df57a510c",
@@ -341,92 +323,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644370"
+    "created_at": "2026-10-20T02:36:31.554439"
   },
   {
-    "id": "TechCrunch AI_f3e9ba64e003836e",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "content": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Mon, 19 Oct 2026 18:49:04 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657359"
-  },
-  {
-    "id": "TechCrunch AI_d62c62bf284984cf",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "content": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "id": "TechCrunch AI_a041e3e8c8dd6848",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "content": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
     "source": "TechCrunch AI",
     "author": "Sarah Perez",
-    "published_date": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "published_date": "Mon, 19 Oct 2026 19:00:12 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657499"
+    "created_at": "2026-10-20T02:36:28.591477"
   },
   {
-    "id": "MIT Technology Review_92ca1023280168ae",
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 19 Oct 2026 18:22:47 +0000",
+    "id": "The Verge AI_9e04cff624c49f1f",
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+    "content": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "author": "Elizabeth Lopatto",
+    "published_date": "2026-10-19T17:28:20-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752316"
-  },
-  {
-    "id": "Ars Technica_843cff3688b0a670",
-    "title": "PSA: Patch your Plex media server before someone hacks it",
-    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-    "content": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Mon, 19 Oct 2026 19:39:19 +0000",
-    "importance_score": 6.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644012"
-  },
-  {
-    "id": "Ars Technica_ac3fc9d41f7a94ef",
-    "title": "ReactOS reaches major milestone with NTFS install support",
-    "summary": "ReactOS gains NTFS install support with new driver.",
-    "content": "ReactOS gains NTFS install support with new driver.",
-    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-    "source": "Ars Technica",
-    "author": "Nick Indge",
-    "published_date": "Mon, 19 Oct 2026 18:30:56 +0000",
-    "importance_score": 6.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644078"
+    "sentiment": "negative",
+    "created_at": "2026-10-20T02:36:29.625487"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -444,7 +375,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644238"
+    "created_at": "2026-10-20T02:36:31.554368"
   },
   {
     "id": "Wired AI_39ea693667032c07",
@@ -461,25 +392,76 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.669743"
+    "created_at": "2026-10-20T02:36:30.584142"
   },
   {
-    "id": "Reddit ML_9e4ec52d2c97df6b",
-    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
-    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-    "source": "Reddit ML",
-    "author": "/u/Amazing-Coat5160",
-    "published_date": "2026-10-19T17:50:49+00:00",
-    "importance_score": 6.2,
+    "id": "MIT Technology Review_2caaafc83dcc711c",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
+    "content": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source": "MIT Technology Review",
+    "author": "Will Douglas Heaven",
+    "published_date": "Mon, 19 Oct 2026 17:45:55 +0000",
+    "importance_score": 6.1000000000000005,
     "category": "tech",
     "keywords": [
-      "AI",
-      "ML"
+      "neural network",
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869462"
+    "created_at": "2026-10-20T02:36:33.551505"
+  },
+  {
+    "id": "Lobsters AI_e92ba8b2c1e41980",
+    "title": "What is AI Entryism?",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://olivia.science/entryism/",
+    "source": "Lobsters AI",
+    "author": "olivia.science via th0ma5",
+    "published_date": "Mon, 19 Oct 2026 18:50:36 -0500",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:47.831620"
+  },
+  {
+    "id": "TechCrunch AI_f3e9ba64e003836e",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "content": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591525"
+  },
+  {
+    "id": "TechCrunch AI_d62c62bf284984cf",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "content": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:28.591614"
   },
   {
     "id": "The Verge AI_e2ff6f400d4c0984",
@@ -496,7 +478,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.696868"
+    "created_at": "2026-10-20T02:36:29.625553"
   },
   {
     "id": "The Verge AI_b650052d6ebb0bf4",
@@ -513,7 +495,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.696958"
+    "created_at": "2026-10-20T02:36:29.625598"
   },
   {
     "id": "The Verge AI_3b4c7c6f6461d91e",
@@ -530,24 +512,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697036"
+    "created_at": "2026-10-20T02:36:29.625639"
   },
   {
-    "id": "The Verge AI_99936deb6c343731",
-    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-    "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-    "content": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI.",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-15T18:35:55-04:00",
+    "id": "MIT Technology Review_92ca1023280168ae",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 19 Oct 2026 18:22:47 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697479"
+    "created_at": "2026-10-20T02:36:33.551436"
   },
   {
     "id": "MIT Technology Review_6216275ad993e7c3",
@@ -564,7 +546,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752534"
+    "created_at": "2026-10-20T02:36:33.551561"
   },
   {
     "id": "MIT Technology Review_75508390b23da3bb",
@@ -581,7 +563,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752625"
+    "created_at": "2026-10-20T02:36:33.551610"
   },
   {
     "id": "MIT Technology Review_15c408cad881afd5",
@@ -598,75 +580,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752806"
+    "created_at": "2026-10-20T02:36:33.551708"
   },
   {
-    "id": "Hugging Face Blog_d40a0fbfd3efc56a",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 19 Oct 2026 00:00:00 GMT",
+    "id": "Ars Technica_843cff3688b0a670",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "content": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Mon, 19 Oct 2026 19:39:19 +0000",
     "importance_score": 5.800000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:03.884134"
+    "created_at": "2026-10-20T02:36:31.554241"
   },
   {
-    "id": "Reddit ML_03c5a4ce6a524ceb",
-    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
-    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
-    "source": "Reddit ML",
-    "author": "/u/EvilHackFar",
-    "published_date": "2026-10-19T17:13:35+00:00",
-    "importance_score": 5.8,
+    "id": "Ars Technica_ac3fc9d41f7a94ef",
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "summary": "ReactOS gains NTFS install support with new driver.",
+    "content": "ReactOS gains NTFS install support with new driver.",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source": "Ars Technica",
+    "author": "Nick Indge",
+    "published_date": "Mon, 19 Oct 2026 18:30:56 +0000",
+    "importance_score": 5.800000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869355"
-  },
-  {
-    "id": "Reddit ML_a2d7bb3c5826a960",
-    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-    "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
-    "content": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-    "source": "Reddit ML",
-    "author": "/u/Winter_Mistake_3185",
-    "published_date": "2026-10-19T18:15:18+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869598"
-  },
-  {
-    "id": "TechCrunch AI_c7fb01b0b7d350db",
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Mon, 19 Oct 2026 12:30:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657668"
+    "created_at": "2026-10-20T02:36:31.554280"
   },
   {
     "id": "The Verge AI_46380ef152731307",
@@ -683,7 +631,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697142"
+    "created_at": "2026-10-20T02:36:29.625702"
   },
   {
     "id": "The Verge AI_9633c7774c21a06b",
@@ -700,7 +648,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:54.697341"
+    "created_at": "2026-10-20T02:36:29.625792"
   },
   {
     "id": "Wired AI_55b2a9155866998a",
@@ -717,7 +665,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.670080"
+    "created_at": "2026-10-20T02:36:30.584324"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -734,7 +682,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:57.934748"
+    "created_at": "2026-10-20T02:36:32.758600"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -751,7 +699,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:57.934903"
+    "created_at": "2026-10-20T02:36:32.758686"
   },
   {
     "id": "arXiv ML_7596e91149ec085e",
@@ -768,7 +716,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.811508"
+    "created_at": "2026-10-20T02:36:42.622303"
+  },
+  {
+    "id": "Reddit ML_9e4ec52d2c97df6b",
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+    "source": "Reddit ML",
+    "author": "/u/Amazing-Coat5160",
+    "published_date": "2026-10-19T17:50:49+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:47.159633"
+  },
+  {
+    "id": "Reddit ML_39a17fb121c20ede",
+    "title": "ML on a shoestring? [D]",
+    "summary": "Hi, ML people of Reddit! I have come to ask for some human advice. I am an amateur (as in unpaid) ML researcher working on a personal project to find drug repurposing candidates for my wife, who was Dxed with Stage 4 colon cancer in early 2024.",
+    "content": "Hi, ML people of Reddit! I have come to ask for some human advice. I am an amateur (as in unpaid) ML researcher working on a personal project to find drug repurposing candidates for my wife, who was Dxed with Stage 4 colon cancer in early 2024.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4ony/ml_on_a_shoestring_d/",
+    "source": "Reddit ML",
+    "author": "/u/whafa",
+    "published_date": "2026-10-19T18:23:07+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:47.160064"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -785,7 +769,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:56.644314"
+    "created_at": "2026-10-20T02:36:31.554410"
   },
   {
     "id": "arXiv ML_2c5d6d9d0239c963",
@@ -802,7 +786,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.810496"
+    "created_at": "2026-10-20T02:36:42.621705"
   },
   {
     "id": "arXiv ML_08c1ea980dd24076",
@@ -817,7 +801,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.810762"
+    "created_at": "2026-10-20T02:36:42.621864"
   },
   {
     "id": "arXiv ML_984ddd5f581f9be0",
@@ -834,7 +818,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.810874"
+    "created_at": "2026-10-20T02:36:42.621952"
   },
   {
     "id": "arXiv ML_9503a34441b1d2f5",
@@ -851,7 +835,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.810987"
+    "created_at": "2026-10-20T02:36:42.622017"
   },
   {
     "id": "arXiv ML_b66e7ef1b6421d7c",
@@ -868,7 +852,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.811112"
+    "created_at": "2026-10-20T02:36:42.622089"
   },
   {
     "id": "arXiv ML_bfb68d5899005c59",
@@ -885,7 +869,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.811266"
+    "created_at": "2026-10-20T02:36:42.622164"
   },
   {
     "id": "arXiv ML_b7ad28846136c09a",
@@ -902,7 +886,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.811392"
+    "created_at": "2026-10-20T02:36:42.622235"
   },
   {
     "id": "arXiv ML_ad7b566449287c6f",
@@ -919,24 +903,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.811621"
-  },
-  {
-    "id": "Reddit ML_4a29993055c1fe08",
-    "title": "Conference papers are cooked! [D]",
-    "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
-    "content": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
-    "source": "Reddit ML",
-    "author": "/u/Fantastic-Nerve-4056",
-    "published_date": "2026-10-18T22:12:15+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869676"
+    "created_at": "2026-10-20T02:36:42.622365"
   },
   {
     "id": "Reddit ML_cbd3478c1e677f35",
@@ -953,24 +920,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.870048"
+    "created_at": "2026-10-20T02:36:47.160231"
   },
   {
-    "id": "TechCrunch AI_61e7250471b9b8e3",
-    "title": "Disney agrees to hire the majority of Character AI’s workforce",
-    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "content": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 18 Oct 2026 16:30:00 +0000",
-    "importance_score": 5.4,
+    "id": "Hugging Face Blog_d40a0fbfd3efc56a",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Mon, 19 Oct 2026 00:00:00 GMT",
+    "importance_score": 5.300000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:53.657770"
+    "created_at": "2026-10-20T02:36:38.633132"
   },
   {
     "id": "arXiv ML_620512880cee1491",
@@ -985,24 +952,41 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:07.810640"
+    "created_at": "2026-10-20T02:36:42.621793"
   },
   {
-    "id": "Reddit ML_e486af6b3fa0f172",
-    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
-    "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
-    "content": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+    "id": "Reddit ML_03c5a4ce6a524ceb",
+    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
     "source": "Reddit ML",
-    "author": "/u/niceuser45",
-    "published_date": "2026-10-19T01:34:31+00:00",
+    "author": "/u/EvilHackFar",
+    "published_date": "2026-10-19T17:13:35+00:00",
     "importance_score": 5.3,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869923"
+    "created_at": "2026-10-20T02:36:47.159692"
+  },
+  {
+    "id": "Reddit ML_a2d7bb3c5826a960",
+    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+    "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
+    "content": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+    "source": "Reddit ML",
+    "author": "/u/Winter_Mistake_3185",
+    "published_date": "2026-10-19T18:15:18+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:47.159773"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1020,7 +1004,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087571"
+    "created_at": "2026-10-20T02:36:35.771760"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -1037,7 +1021,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087013"
+    "created_at": "2026-10-20T02:36:35.771511"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -1054,7 +1038,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087211"
+    "created_at": "2026-10-20T02:36:35.771595"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -1071,24 +1055,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:01.087299"
+    "created_at": "2026-10-20T02:36:35.771635"
   },
   {
-    "id": "Reddit ML_114fa3ced817a336",
-    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
-    "summary": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
-    "content": "We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "id": "Reddit ML_4a29993055c1fe08",
+    "title": "Conference papers are cooked! [D]",
+    "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "content": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
     "source": "Reddit ML",
-    "author": "/u/dwaxe",
-    "published_date": "2026-10-18T20:52:02+00:00",
+    "author": "/u/Fantastic-Nerve-4056",
+    "published_date": "2026-10-18T22:12:15+00:00",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.870158"
+    "created_at": "2026-10-20T02:36:47.159817"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -1105,7 +1089,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.669831"
+    "created_at": "2026-10-20T02:36:30.584192"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -1122,7 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.670002"
+    "created_at": "2026-10-20T02:36:30.584283"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1139,7 +1123,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:57.934821"
+    "created_at": "2026-10-20T02:36:32.758640"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1156,7 +1140,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-19T21:55:57.934981"
+    "created_at": "2026-10-20T02:36:32.758725"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1173,7 +1157,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:57.935042"
+    "created_at": "2026-10-20T02:36:32.758757"
   },
   {
     "id": "MIT Technology Review_ade5d1d4bfeee099",
@@ -1190,7 +1174,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.752886"
+    "created_at": "2026-10-20T02:36:33.551752"
   },
   {
     "id": "MIT Technology Review_007cf1866bd54a13",
@@ -1207,7 +1191,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-19T21:55:58.752981"
+    "created_at": "2026-10-20T02:36:33.551803"
   },
   {
     "id": "MIT Technology Review_3f318ba6e45cd2b5",
@@ -1224,7 +1208,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.753140"
+    "created_at": "2026-10-20T02:36:33.551885"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1241,7 +1225,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:59.823749"
+    "created_at": "2026-10-20T02:36:34.676207"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1258,7 +1242,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:59.823817"
+    "created_at": "2026-10-20T02:36:34.676241"
   },
   {
     "id": "Reddit ML_3843a6218b29aac3",
@@ -1275,7 +1259,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869754"
+    "created_at": "2026-10-20T02:36:47.159862"
+  },
+  {
+    "id": "Reddit ML_e486af6b3fa0f172",
+    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+    "summary": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
+    "content": "TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting. I used to work at a reasonably good startup developing and training models.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+    "source": "Reddit ML",
+    "author": "/u/niceuser45",
+    "published_date": "2026-10-19T01:34:31+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T02:36:47.160159"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -1292,7 +1293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:55.669917"
+    "created_at": "2026-10-20T02:36:30.584238"
   },
   {
     "id": "MIT Technology Review_2036d544d51b933a",
@@ -1307,7 +1308,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:55:58.753057"
+    "created_at": "2026-10-20T02:36:33.551843"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1325,7 +1326,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:13.073978"
+    "created_at": "2026-10-20T02:36:47.831848"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1342,7 +1343,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:03.884229"
+    "created_at": "2026-10-20T02:36:38.633170"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1359,7 +1360,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:13.073667"
+    "created_at": "2026-10-20T02:36:47.831661"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1376,7 +1377,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:13.073883"
+    "created_at": "2026-10-20T02:36:47.831797"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1391,6 +1392,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-19T21:56:12.869231"
+    "created_at": "2026-10-20T02:36:47.159552"
   }
 ]
