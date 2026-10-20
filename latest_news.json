@@ -8,7 +8,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Mon, 19 Oct 2026 12:00:00 GMT",
-    "importance_score": 9.1,
+    "importance_score": 8.6,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -17,7 +17,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.700569"
+    "created_at": "2026-10-20T16:01:04.650242"
   },
   {
     "id": "TechCrunch AI_ca2f761afe1be2bb",
@@ -36,43 +36,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271533"
-  },
-  {
-    "id": "TechCrunch AI_a3fa2de74427f84b",
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "content": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Mon, 19 Oct 2026 18:37:27 +0000",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271967"
-  },
-  {
-    "id": "TechCrunch AI_400aefd5dc108e53",
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "content": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Mon, 19 Oct 2026 19:28:34 +0000",
-    "importance_score": 8.2,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271723"
+    "created_at": "2026-10-20T16:00:57.228692"
   },
   {
     "id": "Wired AI_093483b2d4f77972",
@@ -90,7 +54,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233181"
+    "created_at": "2026-10-20T16:00:59.247143"
+  },
+  {
+    "id": "MIT Technology Review_e683c6824277a54b",
+    "title": "The new economics of enterprise AI",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how...",
+    "content": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how...",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "source": "MIT Technology Review",
+    "author": "David Sydow",
+    "published_date": "Tue, 20 Oct 2026 15:20:25 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:01:02.223073"
   },
   {
     "id": "The Verge AI_fba3f1f13df3d4af",
@@ -108,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265662"
+    "created_at": "2026-10-20T16:00:58.255437"
   },
   {
     "id": "TechCrunch AI_90b1e6f90cca1fc2",
@@ -125,7 +106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271439"
+    "created_at": "2026-10-20T16:00:57.228588"
   },
   {
     "id": "OpenAI News_6b056a8c4f3e6869",
@@ -145,7 +126,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.701207"
+    "created_at": "2026-10-20T16:01:04.650694"
+  },
+  {
+    "id": "TechCrunch AI_5bcbfa20c0b07774",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "content": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 20 Oct 2026 13:00:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:57.228202"
   },
   {
     "id": "TechCrunch AI_c49e24cad150efa1",
@@ -163,25 +161,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271622"
-  },
-  {
-    "id": "MIT Technology Review_f957c9c6525a2906",
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
-    "content": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "source": "MIT Technology Review",
-    "author": "Amit Katwala",
-    "published_date": "Mon, 19 Oct 2026 09:08:05 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302858"
+    "created_at": "2026-10-20T16:00:57.228774"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -199,7 +179,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:14.378019"
+    "created_at": "2026-10-20T16:01:03.203420"
   },
   {
     "id": "arXiv AI_b3be8cba28cf725b",
@@ -217,24 +197,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693186"
-  },
-  {
-    "id": "Reddit ML_70b4cb842328e2f4",
-    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-    "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
-    "content": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-    "source": "Reddit ML",
-    "author": "/u/TechDc-1306",
-    "published_date": "2026-10-20T10:00:43+00:00",
-    "importance_score": 6.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.683918"
+    "created_at": "2026-10-20T16:01:10.671287"
   },
   {
     "id": "TechCrunch AI_fcf29bdd56130bc4",
@@ -251,7 +214,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271297"
+    "created_at": "2026-10-20T16:00:57.228473"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -269,7 +232,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.700783"
+    "created_at": "2026-10-20T16:01:04.650427"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -287,7 +250,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.701132"
+    "created_at": "2026-10-20T16:01:04.650634"
   },
   {
     "id": "OpenAI News_40df79f07b1bf3c7",
@@ -305,7 +268,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.701290"
+    "created_at": "2026-10-20T16:01:04.650753"
+  },
+  {
+    "id": "MIT Technology Review_1d436d6d0ff6413f",
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.",
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 20 Oct 2026 12:10:00 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-20T16:01:02.223193"
+  },
+  {
+    "id": "MIT Technology Review_3ed92c8125089364",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
+    "content": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "source": "MIT Technology Review",
+    "author": "TripleTen",
+    "published_date": "Tue, 20 Oct 2026 12:00:00 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:01:02.223294"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -323,25 +322,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.253093"
-  },
-  {
-    "id": "Ars Technica_f299a61df57a510c",
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
-    "content": "The reports of OpenAI agents harming third-party sites keep coming.",
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Tue, 06 Oct 2026 12:21:53 +0000",
-    "importance_score": 6.500000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.253288"
+    "created_at": "2026-10-20T16:01:00.212372"
   },
   {
     "id": "arXiv AI_a222b049968e1b01",
@@ -359,75 +340,92 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693334"
+    "created_at": "2026-10-20T16:01:10.671435"
   },
   {
-    "id": "TechCrunch AI_a041e3e8c8dd6848",
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "content": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "id": "TechCrunch AI_2da9fb7af06213f6",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "content": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "author": "Ivan Mehta",
+    "published_date": "Tue, 20 Oct 2026 14:13:32 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271790"
+    "created_at": "2026-10-20T16:00:57.228011"
   },
   {
-    "id": "MIT Technology Review_9f5cdb2dac7df249",
-    "title": "How to study a swiftly melting climate disaster",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
-    "content": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
-    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-    "source": "MIT Technology Review",
-    "author": "James Temple",
-    "published_date": "Tue, 20 Oct 2026 10:00:00 +0000",
+    "id": "TechCrunch AI_4fdad2f75376c3af",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "content": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch AI",
+    "author": "Kate Park",
+    "published_date": "Tue, 20 Oct 2026 13:07:24 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302194"
+    "created_at": "2026-10-20T16:00:57.228120"
   },
   {
-    "id": "MIT Technology Review_6734fdefcc496f9e",
-    "title": "A visit to Samsung’s massive new semiconductor hub",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
-    "content": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "source": "MIT Technology Review",
-    "author": "Michelle Kim",
-    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
+    "id": "TechCrunch AI_23a83eb72b112daf",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "content": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Tue, 20 Oct 2026 11:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302298"
+    "created_at": "2026-10-20T16:00:57.228278"
   },
   {
-    "id": "MIT Technology Review_5d1a50d97278fa0d",
-    "title": "These startups hope “blended” food will cut our appetite for red meat",
-    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
-    "content": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-    "source": "MIT Technology Review",
-    "author": "Meghan McCarron",
-    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
+    "id": "The Verge AI_f4be42da5ba61b39",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+    "content": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-20T10:18:37-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302396"
+    "created_at": "2026-10-20T16:00:58.254811"
+  },
+  {
+    "id": "The Verge AI_f335efe36f1ffbbc",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
+    "content": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-20T09:06:44-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:58.254923"
   },
   {
     "id": "arXiv AI_bf3ce929f0a71883",
@@ -444,7 +442,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693539"
+    "created_at": "2026-10-20T16:01:10.671638"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -462,7 +460,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.253164"
+    "created_at": "2026-10-20T16:01:00.212442"
   },
   {
     "id": "arXiv ML_ed67d245b3ae8c9c",
@@ -477,7 +475,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632578"
+    "created_at": "2026-10-20T16:01:11.575300"
   },
   {
     "id": "arXiv ML_d46e03e6f69b94fd",
@@ -494,7 +492,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632772"
+    "created_at": "2026-10-20T16:01:11.575502"
+  },
+  {
+    "id": "Reddit ML_70b4cb842328e2f4",
+    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+    "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
+    "content": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+    "source": "Reddit ML",
+    "author": "/u/TechDc-1306",
+    "published_date": "2026-10-20T10:00:43+00:00",
+    "importance_score": 6.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:01:17.618332"
+  },
+  {
+    "id": "TechCrunch AI_06070963a4228a47",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalysts Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.",
+    "content": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalysts Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Tue, 20 Oct 2026 11:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:57.228395"
+  },
+  {
+    "id": "Wired AI_a965b36575316c31",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired AI",
+    "author": "Olivia Snow",
+    "published_date": "Tue, 20 Oct 2026 15:07:43 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:59.247050"
   },
   {
     "id": "Wired AI_b783ea314e0d7a5b",
@@ -511,7 +560,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233271"
+    "created_at": "2026-10-20T16:00:59.247226"
   },
   {
     "id": "MIT Technology Review_2caaafc83dcc711c",
@@ -529,41 +578,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302575"
-  },
-  {
-    "id": "TechCrunch AI_f3e9ba64e003836e",
-    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "content": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Mon, 19 Oct 2026 18:49:04 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.271881"
-  },
-  {
-    "id": "TechCrunch AI_d62c62bf284984cf",
-    "title": "People are using AI to make their smart TVs dumb again",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "content": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Mon, 19 Oct 2026 16:13:22 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:08.272066"
+    "created_at": "2026-10-20T16:01:02.223762"
   },
   {
     "id": "The Verge AI_9e04cff624c49f1f",
@@ -580,58 +595,58 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T10:38:09.265217"
+    "created_at": "2026-10-20T16:00:58.255015"
   },
   {
-    "id": "The Verge AI_e2ff6f400d4c0984",
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-10-19T10:30:00-04:00",
+    "id": "MIT Technology Review_9f5cdb2dac7df249",
+    "title": "How to study a swiftly melting climate disaster",
+    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
+    "content": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
+    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "source": "MIT Technology Review",
+    "author": "James Temple",
+    "published_date": "Tue, 20 Oct 2026 10:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265325"
+    "created_at": "2026-10-20T16:01:02.223389"
   },
   {
-    "id": "The Verge AI_b650052d6ebb0bf4",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-    "content": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-19T09:58:41-04:00",
+    "id": "MIT Technology Review_6734fdefcc496f9e",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
+    "content": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "source": "MIT Technology Review",
+    "author": "Michelle Kim",
+    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265416"
+    "created_at": "2026-10-20T16:01:02.223484"
   },
   {
-    "id": "The Verge AI_3b4c7c6f6461d91e",
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
-    "content": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
-    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-10-19T08:00:00-04:00",
+    "id": "MIT Technology Review_5d1a50d97278fa0d",
+    "title": "These startups hope “blended” food will cut our appetite for red meat",
+    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
+    "content": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+    "source": "MIT Technology Review",
+    "author": "Meghan McCarron",
+    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265490"
+    "created_at": "2026-10-20T16:01:02.223581"
   },
   {
     "id": "MIT Technology Review_92ca1023280168ae",
@@ -648,24 +663,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302475"
-  },
-  {
-    "id": "MIT Technology Review_6216275ad993e7c3",
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-    "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Mon, 19 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302672"
+    "created_at": "2026-10-20T16:01:02.223660"
   },
   {
     "id": "arXiv ML_6f12ca759a8fec0e",
@@ -683,7 +681,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632674"
+    "created_at": "2026-10-20T16:01:11.575400"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -700,7 +698,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.252942"
+    "created_at": "2026-10-20T16:01:00.212245"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -717,24 +715,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.253029"
-  },
-  {
-    "id": "Reddit ML_71c8a786fbefcb07",
-    "title": "I built an open-source unit-record memory engine based on 1959 IBM punched cards to stop 100k-token context replay choking [Short Promo + Live Web Demo] [P]",
-    "summary": "Peace, If you build long-running autonomous agents or pair-programming harnesses, you know the single biggest headache right now: **Session Amnesia.** Whenever an agent restarts or changes tasks, standard frameworks try to reconstruct context by replaying 80,000 to 120,000 tokens of chat...",
-    "content": "Peace, If you build long-running autonomous agents or pair-programming harnesses, you know the single biggest headache right now: **Session Amnesia.** Whenever an agent restarts or changes tasks, standard frameworks try to reconstruct context by replaying 80,000 to 120,000 tokens of chat...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao29y/i_built_an_opensource_unitrecord_memory_engine/",
-    "source": "Reddit ML",
-    "author": "/u/MadBradSmith",
-    "published_date": "2026-10-20T10:01:12+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684337"
+    "created_at": "2026-10-20T16:01:00.212311"
   },
   {
     "id": "The Verge AI_46380ef152731307",
@@ -751,24 +732,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265591"
-  },
-  {
-    "id": "The Verge AI_9633c7774c21a06b",
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "content": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-16T10:02:40-04:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:09.265756"
+    "created_at": "2026-10-20T16:00:58.255369"
   },
   {
     "id": "Wired AI_39ea693667032c07",
@@ -785,24 +749,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233338"
-  },
-  {
-    "id": "Wired AI_55b2a9155866998a",
-    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-    "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-    "content": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-    "source": "Wired AI",
-    "author": "Brian Barrett, Leah Feiger, Reece Rogers",
-    "published_date": "Thu, 15 Oct 2026 21:18:15 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233678"
+    "created_at": "2026-10-20T16:00:59.247288"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -819,7 +766,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:12.327094"
+    "created_at": "2026-10-20T16:01:01.403153"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -836,7 +783,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:12.327249"
+    "created_at": "2026-10-20T16:01:01.403312"
   },
   {
     "id": "arXiv AI_7f6c870fef1395e6",
@@ -854,7 +801,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693418"
+    "created_at": "2026-10-20T16:01:10.671519"
   },
   {
     "id": "arXiv AI_7a60e0487633f31a",
@@ -871,7 +818,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693769"
+    "created_at": "2026-10-20T16:01:10.671866"
   },
   {
     "id": "arXiv AI_bb5ecd3f3fb5b2c1",
@@ -888,7 +835,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T10:38:21.694035"
+    "created_at": "2026-10-20T16:01:10.672142"
   },
   {
     "id": "arXiv AI_e4fa5ca7ddd4802d",
@@ -905,7 +852,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.694255"
+    "created_at": "2026-10-20T16:01:10.672353"
   },
   {
     "id": "arXiv ML_15799affd659a7e5",
@@ -923,7 +870,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632874"
+    "created_at": "2026-10-20T16:01:11.575607"
   },
   {
     "id": "arXiv ML_cc6ca8439a95da3e",
@@ -940,7 +887,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.633035"
+    "created_at": "2026-10-20T16:01:11.575737"
   },
   {
     "id": "Reddit ML_9e4ec52d2c97df6b",
@@ -958,7 +905,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684049"
+    "created_at": "2026-10-20T16:01:17.618451"
   },
   {
     "id": "Ars Technica_c19d9131c486cde0",
@@ -975,7 +922,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:11.253235"
+    "created_at": "2026-10-20T16:01:00.212520"
   },
   {
     "id": "arXiv AI_5d5ea7eded664f14",
@@ -992,7 +939,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693644"
+    "created_at": "2026-10-20T16:01:10.671744"
   },
   {
     "id": "arXiv AI_e64871ebb1837393",
@@ -1009,7 +956,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:21.693898"
+    "created_at": "2026-10-20T16:01:10.672028"
   },
   {
     "id": "arXiv AI_bea04bfc850bb4be",
@@ -1026,7 +973,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T10:38:21.694147"
+    "created_at": "2026-10-20T16:01:10.672246"
   },
   {
     "id": "arXiv ML_14823b936d355c3c",
@@ -1043,7 +990,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T10:38:22.632069"
+    "created_at": "2026-10-20T16:01:11.574723"
   },
   {
     "id": "arXiv ML_8b32621dc307bc3e",
@@ -1058,7 +1005,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632209"
+    "created_at": "2026-10-20T16:01:11.574857"
   },
   {
     "id": "arXiv ML_fbd8d2a8c1da55b8",
@@ -1075,7 +1022,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T10:38:22.632463"
+    "created_at": "2026-10-20T16:01:11.575180"
   },
   {
     "id": "arXiv ML_5cd33dee89a71280",
@@ -1092,7 +1039,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.633162"
+    "created_at": "2026-10-20T16:01:11.575852"
+  },
+  {
+    "id": "The Verge AI_e2ff6f400d4c0984",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-10-19T10:30:00-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:58.255121"
+  },
+  {
+    "id": "The Verge AI_b650052d6ebb0bf4",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+    "content": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-19T09:58:41-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:58.255197"
+  },
+  {
+    "id": "The Verge AI_3b4c7c6f6461d91e",
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
+    "content": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-10-19T08:00:00-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:00:58.255269"
+  },
+  {
+    "id": "MIT Technology Review_6216275ad993e7c3",
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Mon, 19 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-20T16:01:02.223860"
   },
   {
     "id": "MIT Technology Review_75508390b23da3bb",
@@ -1109,24 +1124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302761"
-  },
-  {
-    "id": "MIT Technology Review_15c408cad881afd5",
-    "title": "How far can we push computing?",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-    "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "source": "MIT Technology Review",
-    "author": "Volkan Gurses",
-    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.302941"
+    "created_at": "2026-10-20T16:01:02.223978"
   },
   {
     "id": "Hugging Face Blog_d40a0fbfd3efc56a",
@@ -1143,7 +1141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:18.442090"
+    "created_at": "2026-10-20T16:01:07.368200"
   },
   {
     "id": "arXiv ML_9486cda232c79493",
@@ -1158,7 +1156,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:22.632332"
+    "created_at": "2026-10-20T16:01:11.575039"
   },
   {
     "id": "Reddit ML_03c5a4ce6a524ceb",
@@ -1175,7 +1173,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684146"
+    "created_at": "2026-10-20T16:01:17.618559"
   },
   {
     "id": "Reddit ML_a2d7bb3c5826a960",
@@ -1192,7 +1190,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684473"
+    "created_at": "2026-10-20T16:01:17.618694"
   },
   {
     "id": "OpenAI News_3457b5d8b7914337",
@@ -1210,7 +1208,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.701355"
+    "created_at": "2026-10-20T16:01:04.650814"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -1227,7 +1225,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.700668"
+    "created_at": "2026-10-20T16:01:04.650341"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -1244,7 +1242,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.700869"
+    "created_at": "2026-10-20T16:01:04.650495"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -1261,7 +1259,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:15.701000"
+    "created_at": "2026-10-20T16:01:04.650571"
   },
   {
     "id": "Reddit ML_4a29993055c1fe08",
@@ -1278,7 +1276,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684548"
+    "created_at": "2026-10-20T16:01:17.618771"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -1295,7 +1293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233428"
+    "created_at": "2026-10-20T16:00:59.247377"
   },
   {
     "id": "Wired AI_d427aec018c56870",
@@ -1312,7 +1310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233600"
+    "created_at": "2026-10-20T16:00:59.247545"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1329,7 +1327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:12.327167"
+    "created_at": "2026-10-20T16:01:01.403229"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1346,7 +1344,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-20T10:38:12.327323"
+    "created_at": "2026-10-20T16:01:01.403389"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1363,24 +1361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:12.327386"
-  },
-  {
-    "id": "MIT Technology Review_ade5d1d4bfeee099",
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review",
-    "published_date": "Fri, 16 Oct 2026 18:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:13.303063"
+    "created_at": "2026-10-20T16:01:01.403451"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1397,7 +1378,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:14.378114"
+    "created_at": "2026-10-20T16:01:03.203516"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1414,7 +1395,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:14.378182"
+    "created_at": "2026-10-20T16:01:03.203586"
   },
   {
     "id": "Reddit ML_3843a6218b29aac3",
@@ -1431,7 +1412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684623"
+    "created_at": "2026-10-20T16:01:17.618848"
   },
   {
     "id": "Reddit ML_e486af6b3fa0f172",
@@ -1448,7 +1429,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.684785"
+    "created_at": "2026-10-20T16:01:17.619062"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -1465,7 +1446,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:10.233515"
+    "created_at": "2026-10-20T16:00:59.247462"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1483,7 +1464,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:28.238553"
+    "created_at": "2026-10-20T16:01:18.180787"
   },
   {
     "id": "Hugging Face Blog_82ee18ef339cede7",
@@ -1500,7 +1481,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:18.442159"
+    "created_at": "2026-10-20T16:01:07.368270"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1517,7 +1498,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:28.238241"
+    "created_at": "2026-10-20T16:01:18.180473"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1534,7 +1515,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:28.238458"
+    "created_at": "2026-10-20T16:01:18.180692"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1549,6 +1530,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T10:38:27.683758"
+    "created_at": "2026-10-20T16:01:17.618173"
   }
 ]
