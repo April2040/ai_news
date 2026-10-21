@@ -1,5 +1,25 @@
 [
   {
+    "id": "The Verge AI_02c20eb55753881c",
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through...",
+    "content": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-21T15:53:20-04:00",
+    "importance_score": 9.299999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:03.089827"
+  },
+  {
     "id": "The Verge AI_7095f5f8b166997d",
     "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
     "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.",
@@ -8,7 +28,7 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-10-21T09:57:43-04:00",
-    "importance_score": 9.0,
+    "importance_score": 8.5,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -16,7 +36,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745526"
+    "created_at": "2026-10-21T21:01:03.090089"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -27,31 +47,14 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Wed, 21 Oct 2026 12:00:00 GMT",
-    "importance_score": 8.999999999999998,
+    "importance_score": 8.5,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094534"
-  },
-  {
-    "id": "The Verge AI_99f3c4a5bc322e19",
-    "title": "Conversational Gemini navigation comes to Apple CarPlay",
-    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
-    "content": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
-    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-21T11:00:00-04:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745449"
+    "created_at": "2026-10-21T21:01:09.511960"
   },
   {
     "id": "TechCrunch AI_f680a1d6928c68f1",
@@ -69,7 +72,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.867845"
+    "created_at": "2026-10-21T21:01:02.100703"
   },
   {
     "id": "OpenAI News_ba0bd57bd522acf3",
@@ -90,82 +93,25 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094818"
+    "created_at": "2026-10-21T21:01:09.512284"
   },
   {
-    "id": "Wired AI_ddc55b70124db5bd",
-    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-    "content": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman",
-    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781182"
-  },
-  {
-    "id": "Wired AI_4d6145864ab69692",
-    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-    "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-    "content": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Wed, 21 Oct 2026 10:30:00 +0000",
-    "importance_score": 8.100000000000001,
+    "id": "OpenAI News_5276bd6d6f8e1997",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "summary": "ATT is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "content": "ATT is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "importance_score": 8.200000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781319"
-  },
-  {
-    "id": "OpenAI News_9e085918289a7727",
-    "title": "Advancing coding in low‑resource programming languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 19 Oct 2026 12:00:00 GMT",
-    "importance_score": 8.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.095072"
-  },
-  {
-    "id": "OpenAI News_7890d3215e068794",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "content": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "importance_score": 8.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094677"
+    "created_at": "2026-10-21T21:01:09.511872"
   },
   {
     "id": "TechCrunch AI_cb5b7fe832d683fd",
@@ -183,7 +129,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.867758"
+    "created_at": "2026-10-21T21:01:02.100612"
+  },
+  {
+    "id": "The Verge AI_99f3c4a5bc322e19",
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
+    "content": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-21T11:00:00-04:00",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:03.089988"
   },
   {
     "id": "The Verge AI_c6809d1421d77403",
@@ -200,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745690"
+    "created_at": "2026-10-21T21:01:03.090269"
   },
   {
     "id": "OpenAI News_fd1b5d02a3e7b615",
@@ -218,7 +181,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094742"
+    "created_at": "2026-10-21T21:01:09.512203"
+  },
+  {
+    "id": "OpenAI News_0b810e8465792b44",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "content": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:09.512349"
   },
   {
     "id": "OpenAI News_4f8e524548b0eb04",
@@ -236,43 +217,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094888"
-  },
-  {
-    "id": "TechCrunch AI_9ddf4c4188abd254",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "content": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Tue, 20 Oct 2026 20:35:10 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.868008"
-  },
-  {
-    "id": "TechCrunch AI_600d61db9bf1e322",
-    "title": "ChatGPT now lets you lock your chats",
-    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-    "content": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 20 Oct 2026 18:36:53 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.868153"
+    "created_at": "2026-10-21T21:01:09.512426"
   },
   {
     "id": "The Verge AI_89c10c62c2eeaa8b",
@@ -290,13 +235,85 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745608"
+    "created_at": "2026-10-21T21:01:03.090181"
+  },
+  {
+    "id": "Wired AI_ddc55b70124db5bd",
+    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "content": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman",
+    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:04.080636"
+  },
+  {
+    "id": "Wired AI_4d6145864ab69692",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "content": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Wed, 21 Oct 2026 10:30:00 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:04.080782"
+  },
+  {
+    "id": "OpenAI News_7890d3215e068794",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "content": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 13:00:00 GMT",
+    "importance_score": 7.5,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:09.512136"
+  },
+  {
+    "id": "TechCrunch AI_a352f7a243fc9e26",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "content": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Wed, 21 Oct 2026 20:27:41 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:02.100337"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
     "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-    "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "content": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "content": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
     "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
     "source": "Wired AI",
     "author": "Tom Bristow",
@@ -308,7 +325,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781018"
+    "created_at": "2026-10-21T21:01:04.080467"
+  },
+  {
+    "id": "Hugging Face Blog_ba6c098452e360bc",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 18:26:30 GMT",
+    "importance_score": 7.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "machine learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:12.268328"
   },
   {
     "id": "OpenAI News_dace2182a5b7c1e4",
@@ -326,17 +362,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.095007"
+    "created_at": "2026-10-21T21:01:09.512569"
   },
   {
-    "id": "Wired AI_093483b2d4f77972",
-    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-    "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-    "content": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Mon, 19 Oct 2026 19:49:17 +0000",
+    "id": "TechCrunch AI_9ddf4c4188abd254",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "content": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Tue, 20 Oct 2026 20:35:10 +0000",
     "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
@@ -344,60 +380,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781560"
+    "created_at": "2026-10-21T21:01:02.100883"
   },
   {
-    "id": "Hugging Face Blog_58c053a7f49b9e92",
-    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 12:51:24 GMT",
+    "id": "TechCrunch AI_600d61db9bf1e322",
+    "title": "ChatGPT now lets you lock your chats",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "content": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 20 Oct 2026 18:36:53 +0000",
     "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
-      "AI"
+      "GPT",
+      "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:58.879072"
+    "created_at": "2026-10-21T21:01:02.101111"
   },
   {
-    "id": "Wired AI_3e51f204fe929d28",
-    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-    "content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-    "source": "Wired AI",
-    "author": "Dan Goodin, Ars Technica",
-    "published_date": "Wed, 21 Oct 2026 12:35:00 +0000",
+    "id": "TechCrunch AI_5d8c4c84b72640a5",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "content": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 21 Oct 2026 19:30:00 +0000",
     "importance_score": 7.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781255"
+    "created_at": "2026-10-21T21:01:02.100432"
   },
   {
-    "id": "TechCrunch AI_6c64cd672282752e",
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "content": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Tue, 20 Oct 2026 18:38:24 +0000",
-    "importance_score": 6.9,
+    "id": "The Verge AI_5b4058cb2fcbd850",
+    "title": "Walmart is inviting AI agents to shop for you",
+    "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, []",
+    "content": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-21T15:30:00-04:00",
+    "importance_score": 7.0,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.868084"
+    "created_at": "2026-10-21T21:01:03.089909"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -415,7 +450,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:55.073494"
+    "created_at": "2026-10-21T21:01:08.092405"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -432,24 +467,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:51.743428"
-  },
-  {
-    "id": "The Verge AI_bbf350799729a4a3",
-    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
-    "content": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
-    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-20T14:07:34-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745753"
+    "created_at": "2026-10-21T21:01:05.123767"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -466,7 +484,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:52.801934"
+    "created_at": "2026-10-21T21:01:06.170171"
+  },
+  {
+    "id": "Wired AI_093483b2d4f77972",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "content": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Mon, 19 Oct 2026 19:49:17 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:04.081083"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -483,7 +519,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094615"
+    "created_at": "2026-10-21T21:01:09.512056"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -501,7 +537,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:51.743607"
+    "created_at": "2026-10-21T21:01:05.123960"
   },
   {
     "id": "Hugging Face Blog_8ea256897acd30f3",
@@ -519,24 +555,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:58.879121"
+    "created_at": "2026-10-21T21:01:12.268470"
   },
   {
-    "id": "TechCrunch AI_fd89976398afaa73",
-    "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-    "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "content": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 20 Oct 2026 17:12:48 +0000",
+    "id": "Wired AI_3e51f204fe929d28",
+    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "source": "Wired AI",
+    "author": "Dan Goodin, Ars Technica",
+    "published_date": "Wed, 21 Oct 2026 12:35:00 +0000",
     "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.868262"
+    "created_at": "2026-10-21T21:01:04.080714"
   },
   {
     "id": "arXiv AI_470ce53495314b65",
@@ -553,41 +589,25 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T16:18:01.993566"
+    "created_at": "2026-10-21T21:01:15.413703"
   },
   {
-    "id": "TechCrunch AI_c42da221a237f3a7",
-    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "id": "TechCrunch AI_6c64cd672282752e",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "content": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "source": "TechCrunch AI",
-    "author": "Ram Iyer",
-    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "author": "Julie Bort",
+    "published_date": "Tue, 20 Oct 2026 18:38:24 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.867672"
-  },
-  {
-    "id": "MIT Technology Review_f004230f1df8d04a",
-    "title": "The Download: introducing the Impossible issue",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
-    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 21 Oct 2026 12:10:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:53.759314"
+    "created_at": "2026-10-21T21:01:02.100989"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -605,14 +625,14 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:51.743670"
+    "created_at": "2026-10-21T21:01:05.124029"
   },
   {
-    "id": "Hugging Face Blog_39973ed546a3051b",
+    "id": "Hugging Face Blog_e99987437dd2cefe",
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "summary": "",
     "content": "",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "source": "Hugging Face Blog",
     "author": "",
     "published_date": "Wed, 21 Oct 2026 16:04:43 GMT",
@@ -622,7 +642,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:58.879000"
+    "created_at": "2026-10-21T21:01:12.268404"
   },
   {
     "id": "arXiv ML_ed67d245b3ae8c9c",
@@ -637,7 +657,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.022879"
+    "created_at": "2026-10-21T21:01:16.461377"
   },
   {
     "id": "arXiv ML_d46e03e6f69b94fd",
@@ -654,7 +674,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.023063"
+    "created_at": "2026-10-21T21:01:16.461579"
+  },
+  {
+    "id": "The Verge AI_bbf350799729a4a3",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
+    "content": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-20T14:07:34-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:03.090340"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -671,24 +708,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.780929"
-  },
-  {
-    "id": "Wired AI_a5d5f5bcb17840d6",
-    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "content": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-    "source": "Wired AI",
-    "author": "Matt Burgess, Lily Hay Newman",
-    "published_date": "Wed, 21 Oct 2026 14:26:19 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-21T16:17:50.781098"
+    "created_at": "2026-10-21T21:01:04.080366"
   },
   {
     "id": "OpenAI News_177233a6071680a8",
@@ -706,41 +726,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.094953"
+    "created_at": "2026-10-21T21:01:09.512500"
   },
   {
-    "id": "Lobsters AI_d784734836fa6bfd",
-    "title": "Your AI agent fixed the bug, but what else did it change?",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-    "source": "Lobsters AI",
-    "author": "blog.trailofbits.com via sarciszewski",
-    "published_date": "Wed, 21 Oct 2026 11:07:01 -0500",
+    "id": "Reddit ML_abcd7f8c8c905250",
+    "title": "Noun-verb-conjunction triads [D]",
+    "summary": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one conjunction.",
+    "content": "The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one conjunction.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+    "source": "Reddit ML",
+    "author": "/u/Comfortable_World_69",
+    "published_date": "2026-10-21T17:44:08+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.833233"
+    "created_at": "2026-10-21T21:01:20.762425"
   },
   {
-    "id": "TechCrunch AI_5653a3f5ae55031c",
-    "title": "SpaceX’s AI business is beating expectations",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "content": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "id": "TechCrunch AI_c42da221a237f3a7",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
     "source": "TechCrunch AI",
-    "author": "Tim Fernholz, Kirsten Korosec",
-    "published_date": "Tue, 20 Oct 2026 20:40:41 +0000",
+    "author": "Ram Iyer",
+    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:48.867926"
+    "created_at": "2026-10-21T21:01:02.100534"
   },
   {
     "id": "Wired AI_2ab66c53cca222f9",
@@ -757,41 +777,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781379"
+    "created_at": "2026-10-21T21:01:04.080849"
   },
   {
-    "id": "Wired AI_ba4a0b2f1fb66326",
-    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "source": "Wired AI",
-    "author": "Isabella Ward, Anna Desmarais",
-    "published_date": "Tue, 20 Oct 2026 17:41:58 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781438"
-  },
-  {
-    "id": "MIT Technology Review_fef2424fb5be8450",
-    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
-    "content": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "id": "MIT Technology Review_f004230f1df8d04a",
+    "title": "The Download: introducing the Impossible issue",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
+    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
     "source": "MIT Technology Review",
-    "author": "Jennifer Chu",
-    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 21 Oct 2026 12:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:53.759483"
+    "created_at": "2026-10-21T21:01:07.070513"
   },
   {
     "id": "arXiv AI_8cc6f1969ffe72f1",
@@ -809,7 +812,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.993350"
+    "created_at": "2026-10-21T21:01:15.413475"
   },
   {
     "id": "arXiv ML_6f12ca759a8fec0e",
@@ -827,7 +830,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.022970"
+    "created_at": "2026-10-21T21:01:16.461477"
   },
   {
     "id": "Reddit ML_70b4cb842328e2f4",
@@ -844,7 +847,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232533"
+    "created_at": "2026-10-21T21:01:20.762558"
+  },
+  {
+    "id": "Wired AI_a5d5f5bcb17840d6",
+    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "content": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "source": "Wired AI",
+    "author": "Matt Burgess, Lily Hay Newman",
+    "published_date": "Wed, 21 Oct 2026 14:26:19 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-21T21:01:04.080557"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -861,7 +881,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:52.802004"
+    "created_at": "2026-10-21T21:01:06.170249"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -878,7 +898,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:52.802126"
+    "created_at": "2026-10-21T21:01:06.170390"
   },
   {
     "id": "arXiv AI_0473a04a7edfc101",
@@ -896,7 +916,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.992780"
+    "created_at": "2026-10-21T21:01:15.412857"
   },
   {
     "id": "arXiv AI_fa29ecf0f16bbe93",
@@ -913,7 +933,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.993259"
+    "created_at": "2026-10-21T21:01:15.413379"
   },
   {
     "id": "arXiv AI_b0b11438a5ba9a99",
@@ -930,7 +950,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T16:18:01.993451"
+    "created_at": "2026-10-21T21:01:15.413582"
   },
   {
     "id": "arXiv AI_e545fbbf9e4ac96f",
@@ -947,7 +967,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.993665"
+    "created_at": "2026-10-21T21:01:15.413809"
   },
   {
     "id": "arXiv AI_5cfc1176b3f34fec",
@@ -965,7 +985,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T16:18:01.993768"
+    "created_at": "2026-10-21T21:01:15.413919"
   },
   {
     "id": "arXiv ML_15799affd659a7e5",
@@ -983,7 +1003,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.023177"
+    "created_at": "2026-10-21T21:01:16.461684"
   },
   {
     "id": "arXiv ML_cc6ca8439a95da3e",
@@ -1000,7 +1020,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.023314"
+    "created_at": "2026-10-21T21:01:16.461812"
   },
   {
     "id": "arXiv AI_cd3be5d6cadefd1a",
@@ -1017,7 +1037,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.993012"
+    "created_at": "2026-10-21T21:01:15.413143"
   },
   {
     "id": "arXiv AI_cc5657edd9bb0556",
@@ -1034,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.993121"
+    "created_at": "2026-10-21T21:01:15.413275"
   },
   {
     "id": "arXiv ML_14823b936d355c3c",
@@ -1051,7 +1071,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T16:18:03.022411"
+    "created_at": "2026-10-21T21:01:16.460828"
   },
   {
     "id": "arXiv ML_8b32621dc307bc3e",
@@ -1066,7 +1086,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.022529"
+    "created_at": "2026-10-21T21:01:16.460953"
   },
   {
     "id": "arXiv ML_fbd8d2a8c1da55b8",
@@ -1083,7 +1103,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T16:18:03.022769"
+    "created_at": "2026-10-21T21:01:16.461259"
   },
   {
     "id": "arXiv ML_5cd33dee89a71280",
@@ -1100,7 +1120,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.023421"
+    "created_at": "2026-10-21T21:01:16.461927"
   },
   {
     "id": "Reddit ML_fbb8ba326589ee34",
@@ -1117,7 +1137,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232193"
+    "created_at": "2026-10-21T21:01:20.762025"
+  },
+  {
+    "id": "TechCrunch AI_5653a3f5ae55031c",
+    "title": "SpaceX’s AI business is beating expectations",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "content": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz, Kirsten Korosec",
+    "published_date": "Tue, 20 Oct 2026 20:40:41 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:02.100789"
   },
   {
     "id": "The Verge AI_f4be42da5ba61b39",
@@ -1134,7 +1171,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745822"
+    "created_at": "2026-10-21T21:01:03.090413"
   },
   {
     "id": "The Verge AI_f335efe36f1ffbbc",
@@ -1151,58 +1188,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.745881"
+    "created_at": "2026-10-21T21:01:03.090479"
   },
   {
-    "id": "The Verge AI_9e04cff624c49f1f",
-    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
-    "content": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-    "source": "The Verge AI",
-    "author": "Elizabeth Lopatto",
-    "published_date": "2026-10-19T17:28:20-04:00",
+    "id": "Wired AI_ba4a0b2f1fb66326",
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "source": "Wired AI",
+    "author": "Isabella Ward, Anna Desmarais",
+    "published_date": "Tue, 20 Oct 2026 17:41:58 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "negative",
-    "created_at": "2026-10-21T16:17:49.745949"
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:04.080916"
   },
   {
-    "id": "Ars Technica_843cff3688b0a670",
-    "title": "PSA: Patch your Plex media server before someone hacks it",
-    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-    "content": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Mon, 19 Oct 2026 19:39:19 +0000",
-    "importance_score": 5.300000000000001,
+    "id": "MIT Technology Review_fef2424fb5be8450",
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+    "content": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "source": "MIT Technology Review",
+    "author": "Jennifer Chu",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:51.743503"
-  },
-  {
-    "id": "Ars Technica_ac3fc9d41f7a94ef",
-    "title": "ReactOS reaches major milestone with NTFS install support",
-    "summary": "ReactOS gains NTFS install support with new driver.",
-    "content": "ReactOS gains NTFS install support with new driver.",
-    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-    "source": "Ars Technica",
-    "author": "Nick Indge",
-    "published_date": "Mon, 19 Oct 2026 18:30:56 +0000",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:51.743554"
+    "created_at": "2026-10-21T21:01:07.070687"
   },
   {
     "id": "arXiv AI_7182b4c7f3b21d6a",
@@ -1217,7 +1237,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:01.992895"
+    "created_at": "2026-10-21T21:01:15.412982"
   },
   {
     "id": "arXiv ML_9486cda232c79493",
@@ -1232,7 +1252,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:03.022642"
+    "created_at": "2026-10-21T21:01:16.461109"
   },
   {
     "id": "Reddit ML_a04c18a65446e19f",
@@ -1249,7 +1269,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232407"
+    "created_at": "2026-10-21T21:01:20.762266"
   },
   {
     "id": "Wired AI_a965b36575316c31",
@@ -1266,59 +1286,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:50.781492"
-  },
-  {
-    "id": "Reddit ML_9e4ec52d2c97df6b",
-    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
-    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-    "source": "Reddit ML",
-    "author": "/u/Amazing-Coat5160",
-    "published_date": "2026-10-19T17:50:49+00:00",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232662"
-  },
-  {
-    "id": "OpenAI News_d7f4dda174e9c83c",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "content": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:56.095144"
-  },
-  {
-    "id": "The Verge AI_e2ff6f400d4c0984",
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-10-19T10:30:00-04:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:49.746036"
+    "created_at": "2026-10-21T21:01:04.080979"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1335,7 +1303,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:52.802059"
+    "created_at": "2026-10-21T21:01:06.170314"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1352,7 +1320,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-21T16:17:52.802204"
+    "created_at": "2026-10-21T21:01:06.170462"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1369,7 +1337,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:55.073575"
+    "created_at": "2026-10-21T21:01:08.092497"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1386,7 +1354,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:55.073635"
+    "created_at": "2026-10-21T21:01:08.092565"
+  },
+  {
+    "id": "Ars Technica_843cff3688b0a670",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "content": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Mon, 19 Oct 2026 19:39:19 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:05.123845"
+  },
+  {
+    "id": "Ars Technica_ac3fc9d41f7a94ef",
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "summary": "ReactOS gains NTFS install support with new driver.",
+    "content": "ReactOS gains NTFS install support with new driver.",
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "source": "Ars Technica",
+    "author": "Nick Indge",
+    "published_date": "Mon, 19 Oct 2026 18:30:56 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:05.123902"
   },
   {
     "id": "Hugging Face Blog_d40a0fbfd3efc56a",
@@ -1403,41 +1405,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:17:58.879211"
+    "created_at": "2026-10-21T21:01:12.268553"
   },
   {
-    "id": "Reddit ML_03c5a4ce6a524ceb",
-    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
-    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
-    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+    "id": "Reddit ML_9e4ec52d2c97df6b",
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
     "source": "Reddit ML",
-    "author": "/u/EvilHackFar",
-    "published_date": "2026-10-19T17:13:35+00:00",
-    "importance_score": 4.8,
+    "author": "/u/Amazing-Coat5160",
+    "published_date": "2026-10-19T17:50:49+00:00",
+    "importance_score": 4.7,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232748"
-  },
-  {
-    "id": "Reddit ML_a2d7bb3c5826a960",
-    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
-    "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
-    "content": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
-    "source": "Reddit ML",
-    "author": "/u/Winter_Mistake_3185",
-    "published_date": "2026-10-19T18:15:18+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232872"
+    "created_at": "2026-10-21T21:01:20.762693"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1455,7 +1441,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.833572"
+    "created_at": "2026-10-21T21:01:21.326356"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1472,7 +1458,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.833297"
+    "created_at": "2026-10-21T21:01:21.326027"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1489,7 +1475,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.833490"
+    "created_at": "2026-10-21T21:01:21.326262"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1504,6 +1490,23 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T16:18:07.232056"
+    "created_at": "2026-10-21T21:01:20.761910"
+  },
+  {
+    "id": "Reddit ML_03c5a4ce6a524ceb",
+    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+    "source": "Reddit ML",
+    "author": "/u/EvilHackFar",
+    "published_date": "2026-10-19T17:13:35+00:00",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T21:01:20.762785"
   }
 ]
