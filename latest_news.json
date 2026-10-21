@@ -1,21 +1,21 @@
 [
   {
-    "id": "TechCrunch AI_fdd218f1913428d5",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-    "content": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "id": "TechCrunch AI_f680a1d6928c68f1",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "content": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Tue, 20 Oct 2026 17:55:12 +0000",
-    "importance_score": 8.7,
+    "author": "Julie Bort",
+    "published_date": "Tue, 20 Oct 2026 22:24:02 +0000",
+    "importance_score": 8.8,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713055"
+    "created_at": "2026-10-21T02:30:47.278167"
   },
   {
     "id": "OpenAI News_9e085918289a7727",
@@ -35,7 +35,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972132"
+    "created_at": "2026-10-21T02:30:54.516201"
+  },
+  {
+    "id": "TechCrunch AI_cb5b7fe832d683fd",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "content": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Tue, 20 Oct 2026 23:01:23 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:47.278088"
+  },
+  {
+    "id": "The Verge AI_c6809d1421d77403",
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.",
+    "content": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search.",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-20T18:11:34-04:00",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:48.317945"
   },
   {
     "id": "OpenAI News_4f8e524548b0eb04",
@@ -53,7 +88,25 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972027"
+    "created_at": "2026-10-21T02:30:54.516058"
+  },
+  {
+    "id": "TechCrunch AI_fdd218f1913428d5",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "content": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Tue, 20 Oct 2026 17:55:12 +0000",
+    "importance_score": 8.2,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:47.278421"
   },
   {
     "id": "TechCrunch AI_9ddf4c4188abd254",
@@ -71,7 +124,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.712910"
+    "created_at": "2026-10-21T02:30:47.278284"
+  },
+  {
+    "id": "The Verge AI_89c10c62c2eeaa8b",
+    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+    "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.",
+    "content": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+    "source": "The Verge AI",
+    "author": "Richard Lawler",
+    "published_date": "2026-10-20T19:04:19-04:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:48.317878"
   },
   {
     "id": "TechCrunch AI_600d61db9bf1e322",
@@ -82,14 +153,31 @@
     "source": "TechCrunch AI",
     "author": "Aisha Malik",
     "published_date": "Tue, 20 Oct 2026 18:36:53 +0000",
-    "importance_score": 8.100000000000001,
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
       "GPT",
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713017"
+    "created_at": "2026-10-21T02:30:47.278383"
+  },
+  {
+    "id": "MIT Technology Review_de61c7ba50bda4e5",
+    "title": "A cleaner path to rare earth metals",
+    "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.",
+    "content": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+    "source": "MIT Technology Review",
+    "author": "Kathryn M. O’Neill",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-21T02:30:52.287011"
   },
   {
     "id": "OpenAI News_dace2182a5b7c1e4",
@@ -100,102 +188,14 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Tue, 20 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.7,
+    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972081"
-  },
-  {
-    "id": "MIT Technology Review_e683c6824277a54b",
-    "title": "The new economics of enterprise AI",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how...",
-    "content": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how...",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "source": "MIT Technology Review",
-    "author": "David Sydow",
-    "published_date": "Tue, 20 Oct 2026 15:20:25 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737667"
-  },
-  {
-    "id": "Hugging Face Blog_8ea256897acd30f3",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/allenai/fairstress",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Tue, 20 Oct 2026 16:09:19 GMT",
-    "importance_score": 7.500000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:47.816248"
-  },
-  {
-    "id": "TechCrunch AI_6c64cd672282752e",
-    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "content": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Tue, 20 Oct 2026 18:38:24 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.712963"
-  },
-  {
-    "id": "MIT Technology Review_8c2f3059fd419b12",
-    "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
-    "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026.",
-    "content": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026.",
-    "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-    "source": "MIT Technology Review",
-    "author": "Tereza Pultarova",
-    "published_date": "Tue, 20 Oct 2026 20:07:21 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737591"
-  },
-  {
-    "id": "The Verge AI_bbf350799729a4a3",
-    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
-    "content": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
-    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-20T14:07:34-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751130"
+    "created_at": "2026-10-21T02:30:54.516155"
   },
   {
     "id": "Wired AI_093483b2d4f77972",
@@ -213,44 +213,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.750880"
+    "created_at": "2026-10-21T02:30:49.315683"
   },
   {
-    "id": "OpenAI News_6b056a8c4f3e6869",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "content": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "source": "OpenAI News",
+    "id": "Hugging Face Blog_8ea256897acd30f3",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "Hugging Face Blog",
     "author": "",
-    "published_date": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "importance_score": 7.1,
+    "published_date": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "importance_score": 7.000000000000001,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972393"
+    "created_at": "2026-10-21T02:30:57.403031"
   },
   {
-    "id": "TechCrunch AI_c7e713ed66933634",
-    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "content": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "id": "TechCrunch AI_6c64cd672282752e",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "content": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Tue, 20 Oct 2026 17:12:48 +0000",
-    "importance_score": 7.0,
+    "author": "Julie Bort",
+    "published_date": "Tue, 20 Oct 2026 18:38:24 +0000",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713111"
+    "created_at": "2026-10-21T02:30:47.278336"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -268,7 +267,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:43.782437"
+    "created_at": "2026-10-21T02:30:53.455820"
   },
   {
     "id": "arXiv AI_b3be8cba28cf725b",
@@ -286,7 +285,42 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080248"
+    "created_at": "2026-10-21T02:31:00.697455"
+  },
+  {
+    "id": "The Verge AI_bbf350799729a4a3",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
+    "content": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica.",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-20T14:07:34-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:48.317992"
+  },
+  {
+    "id": "OpenAI News_177233a6071680a8",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "content": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:54.516114"
   },
   {
     "id": "OpenAI News_6ba6d44068dbe62a",
@@ -304,7 +338,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972240"
+    "created_at": "2026-10-21T02:30:54.516294"
   },
   {
     "id": "OpenAI News_b96006d9788c2f76",
@@ -322,7 +356,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972359"
+    "created_at": "2026-10-21T02:30:54.516412"
+  },
+  {
+    "id": "MIT Technology Review_cf2422c504d46f74",
+    "title": "Robotic therapy for stroke patients",
+    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.",
+    "content": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+    "source": "MIT Technology Review",
+    "author": "Anne Wilson",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-21T02:30:52.286894"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -340,7 +392,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:40.682120"
+    "created_at": "2026-10-21T02:30:50.280188"
+  },
+  {
+    "id": "TechCrunch AI_c7e713ed66933634",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "content": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 20 Oct 2026 17:12:48 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:47.278495"
   },
   {
     "id": "arXiv AI_a222b049968e1b01",
@@ -358,7 +427,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080347"
+    "created_at": "2026-10-21T02:31:00.697555"
   },
   {
     "id": "TechCrunch AI_5653a3f5ae55031c",
@@ -375,41 +444,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.712831"
+    "created_at": "2026-10-21T02:30:47.278225"
   },
   {
-    "id": "TechCrunch AI_5bcbfa20c0b07774",
-    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-    "content": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 20 Oct 2026 13:00:00 +0000",
+    "id": "MIT Technology Review_fef2424fb5be8450",
+    "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+    "content": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+    "source": "MIT Technology Review",
+    "author": "Jennifer Chu",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713305"
+    "created_at": "2026-10-21T02:30:52.286741"
   },
   {
-    "id": "Wired AI_ba4a0b2f1fb66326",
-    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "source": "Wired AI",
-    "author": "Isabella Ward, Anna Desmarais",
-    "published_date": "Tue, 20 Oct 2026 17:41:58 +0000",
+    "id": "MIT Technology Review_17562e10703ef14c",
+    "title": "Melt it, spin it, use it again",
+    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
+    "content": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "source": "MIT Technology Review",
+    "author": "Jennifer Chu",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.750769"
+    "created_at": "2026-10-21T02:30:52.286800"
+  },
+  {
+    "id": "MIT Technology Review_d0d4b24bffe6656a",
+    "title": "A reason to eat carbs",
+    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine.",
+    "content": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "source": "MIT Technology Review",
+    "author": "Anne Trafton",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:52.286843"
+  },
+  {
+    "id": "MIT Technology Review_34980c9675807186",
+    "title": "A champion for brain injury patients",
+    "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing.",
+    "content": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+    "source": "MIT Technology Review",
+    "author": "Ari Daniel, PhD ’08",
+    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:52.286961"
   },
   {
     "id": "arXiv AI_bf3ce929f0a71883",
@@ -426,7 +529,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080471"
+    "created_at": "2026-10-21T02:31:00.697678"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -444,7 +547,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:40.682163"
+    "created_at": "2026-10-21T02:30:50.280232"
   },
   {
     "id": "arXiv ML_ed67d245b3ae8c9c",
@@ -459,7 +562,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.879940"
+    "created_at": "2026-10-21T02:31:01.441607"
   },
   {
     "id": "arXiv ML_d46e03e6f69b94fd",
@@ -476,41 +579,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.880061"
+    "created_at": "2026-10-21T02:31:01.441722"
   },
   {
-    "id": "TechCrunch AI_fe2ec4514318c2ad",
-    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "content": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "source": "TechCrunch AI",
-    "author": "Tim De Chant",
-    "published_date": "Tue, 20 Oct 2026 16:00:00 +0000",
-    "importance_score": 6.2,
+    "id": "Reddit ML_70b4cb842328e2f4",
+    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+    "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
+    "content": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+    "source": "Reddit ML",
+    "author": "/u/TechDc-1306",
+    "published_date": "2026-10-20T10:00:43+00:00",
+    "importance_score": 6.3,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713154"
-  },
-  {
-    "id": "Wired AI_a965b36575316c31",
-    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-    "source": "Wired AI",
-    "author": "Olivia Snow",
-    "published_date": "Tue, 20 Oct 2026 15:07:43 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.750823"
+    "created_at": "2026-10-21T02:31:05.905990"
   },
   {
     "id": "Wired AI_b783ea314e0d7a5b",
@@ -527,77 +613,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.750929"
+    "created_at": "2026-10-21T02:30:49.315729"
   },
   {
-    "id": "MIT Technology Review_1d436d6d0ff6413f",
-    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.",
-    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 20 Oct 2026 12:10:00 +0000",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:42.737730"
-  },
-  {
-    "id": "MIT Technology Review_3ed92c8125089364",
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
-    "content": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "source": "MIT Technology Review",
-    "author": "TripleTen",
-    "published_date": "Tue, 20 Oct 2026 12:00:00 +0000",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737798"
-  },
-  {
-    "id": "TechCrunch AI_2da9fb7af06213f6",
-    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-    "content": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Tue, 20 Oct 2026 14:13:32 +0000",
-    "importance_score": 5.9,
+    "id": "Reddit ML_fbb8ba326589ee34",
+    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+    "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
+    "content": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+    "source": "Reddit ML",
+    "author": "/u/OtherwiseFig4505",
+    "published_date": "2026-10-21T01:13:32+00:00",
+    "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713210"
-  },
-  {
-    "id": "TechCrunch AI_4fdad2f75376c3af",
-    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "content": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-    "source": "TechCrunch AI",
-    "author": "Kate Park",
-    "published_date": "Tue, 20 Oct 2026 13:07:24 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:37.713265"
+    "created_at": "2026-10-21T02:31:05.906047"
   },
   {
     "id": "The Verge AI_f4be42da5ba61b39",
@@ -614,7 +647,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751194"
+    "created_at": "2026-10-21T02:30:48.318041"
   },
   {
     "id": "The Verge AI_f335efe36f1ffbbc",
@@ -631,75 +664,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751240"
+    "created_at": "2026-10-21T02:30:48.318082"
   },
   {
-    "id": "The Verge AI_9e04cff624c49f1f",
-    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
-    "content": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-    "source": "The Verge AI",
-    "author": "Elizabeth Lopatto",
-    "published_date": "2026-10-19T17:28:20-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:38.751291"
-  },
-  {
-    "id": "MIT Technology Review_9f5cdb2dac7df249",
-    "title": "How to study a swiftly melting climate disaster",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
-    "content": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
-    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-    "source": "MIT Technology Review",
-    "author": "James Temple",
-    "published_date": "Tue, 20 Oct 2026 10:00:00 +0000",
+    "id": "Wired AI_ba4a0b2f1fb66326",
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "content": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "source": "Wired AI",
+    "author": "Isabella Ward, Anna Desmarais",
+    "published_date": "Tue, 20 Oct 2026 17:41:58 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737855"
-  },
-  {
-    "id": "MIT Technology Review_6734fdefcc496f9e",
-    "title": "A visit to Samsung’s massive new semiconductor hub",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
-    "content": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "source": "MIT Technology Review",
-    "author": "Michelle Kim",
-    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737911"
-  },
-  {
-    "id": "MIT Technology Review_5d1a50d97278fa0d",
-    "title": "These startups hope “blended” food will cut our appetite for red meat",
-    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
-    "content": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-    "source": "MIT Technology Review",
-    "author": "Meghan McCarron",
-    "published_date": "Tue, 20 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.737969"
+    "created_at": "2026-10-21T02:30:49.315580"
   },
   {
     "id": "arXiv ML_6f12ca759a8fec0e",
@@ -717,24 +699,41 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.879999"
+    "created_at": "2026-10-21T02:31:01.441664"
   },
   {
-    "id": "The Verge AI_46380ef152731307",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "content": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages,...",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-17T11:04:36-04:00",
+    "id": "TechCrunch AI_fe2ec4514318c2ad",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "content": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "source": "TechCrunch AI",
+    "author": "Tim De Chant",
+    "published_date": "Tue, 20 Oct 2026 16:00:00 +0000",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751517"
+    "created_at": "2026-10-21T02:30:47.278541"
+  },
+  {
+    "id": "Wired AI_a965b36575316c31",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired AI",
+    "author": "Olivia Snow",
+    "published_date": "Tue, 20 Oct 2026 15:07:43 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:49.315627"
   },
   {
     "id": "Wired AI_39ea693667032c07",
@@ -751,7 +750,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.750965"
+    "created_at": "2026-10-21T02:30:49.315762"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -768,7 +767,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:41.939893"
+    "created_at": "2026-10-21T02:30:51.799181"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -785,7 +784,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:41.939991"
+    "created_at": "2026-10-21T02:30:51.799270"
   },
   {
     "id": "arXiv AI_7f6c870fef1395e6",
@@ -803,7 +802,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080399"
+    "created_at": "2026-10-21T02:31:00.697606"
   },
   {
     "id": "arXiv AI_7a60e0487633f31a",
@@ -820,7 +819,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080607"
+    "created_at": "2026-10-21T02:31:00.697816"
   },
   {
     "id": "arXiv AI_bb5ecd3f3fb5b2c1",
@@ -837,7 +836,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:51.080777"
+    "created_at": "2026-10-21T02:31:00.697968"
   },
   {
     "id": "arXiv AI_e4fa5ca7ddd4802d",
@@ -854,7 +853,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080903"
+    "created_at": "2026-10-21T02:31:00.698127"
   },
   {
     "id": "arXiv ML_15799affd659a7e5",
@@ -872,7 +871,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.880126"
+    "created_at": "2026-10-21T02:31:01.441783"
   },
   {
     "id": "arXiv ML_cc6ca8439a95da3e",
@@ -889,25 +888,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.880205"
-  },
-  {
-    "id": "MIT Technology Review_2caaafc83dcc711c",
-    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
-    "content": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "source": "MIT Technology Review",
-    "author": "Will Douglas Heaven",
-    "published_date": "Mon, 19 Oct 2026 17:45:55 +0000",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.738077"
+    "created_at": "2026-10-21T02:31:01.441866"
   },
   {
     "id": "arXiv AI_5d5ea7eded664f14",
@@ -924,7 +905,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080535"
+    "created_at": "2026-10-21T02:31:00.697741"
   },
   {
     "id": "arXiv AI_e64871ebb1837393",
@@ -941,7 +922,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.080683"
+    "created_at": "2026-10-21T02:31:00.697902"
   },
   {
     "id": "arXiv AI_bea04bfc850bb4be",
@@ -958,7 +939,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:51.080840"
+    "created_at": "2026-10-21T02:31:00.698039"
   },
   {
     "id": "arXiv ML_14823b936d355c3c",
@@ -975,7 +956,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:51.879573"
+    "created_at": "2026-10-21T02:31:01.441307"
   },
   {
     "id": "arXiv ML_8b32621dc307bc3e",
@@ -990,7 +971,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.879658"
+    "created_at": "2026-10-21T02:31:01.441386"
   },
   {
     "id": "arXiv ML_fbd8d2a8c1da55b8",
@@ -1007,7 +988,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-20T20:59:51.879865"
+    "created_at": "2026-10-21T02:31:01.441538"
   },
   {
     "id": "arXiv ML_5cd33dee89a71280",
@@ -1024,7 +1005,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.880275"
+    "created_at": "2026-10-21T02:31:01.441933"
+  },
+  {
+    "id": "The Verge AI_9e04cff624c49f1f",
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+    "content": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "author": "Elizabeth Lopatto",
+    "published_date": "2026-10-19T17:28:20-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-21T02:30:48.318129"
   },
   {
     "id": "The Verge AI_e2ff6f400d4c0984",
@@ -1041,7 +1039,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751359"
+    "created_at": "2026-10-21T02:30:48.318189"
   },
   {
     "id": "The Verge AI_b650052d6ebb0bf4",
@@ -1058,7 +1056,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751407"
+    "created_at": "2026-10-21T02:30:48.318232"
   },
   {
     "id": "The Verge AI_3b4c7c6f6461d91e",
@@ -1075,41 +1073,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:38.751451"
-  },
-  {
-    "id": "MIT Technology Review_92ca1023280168ae",
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. Until recently, you could divide internet users into just two categories: bots and people.",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 19 Oct 2026 18:22:47 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.738018"
-  },
-  {
-    "id": "MIT Technology Review_6216275ad993e7c3",
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-    "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Mon, 19 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:42.738134"
+    "created_at": "2026-10-21T02:30:48.318274"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1126,7 +1090,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:40.682040"
+    "created_at": "2026-10-21T02:30:50.280109"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1143,24 +1107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:40.682081"
-  },
-  {
-    "id": "Hugging Face Blog_d40a0fbfd3efc56a",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 19 Oct 2026 00:00:00 GMT",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:47.816315"
+    "created_at": "2026-10-21T02:30:50.280151"
   },
   {
     "id": "arXiv ML_9486cda232c79493",
@@ -1175,7 +1122,25 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:51.879757"
+    "created_at": "2026-10-21T02:31:01.441459"
+  },
+  {
+    "id": "Reddit ML_9e4ec52d2c97df6b",
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "summary": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "content": "I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast, but actually testing those ideas hasn't.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+    "source": "Reddit ML",
+    "author": "/u/Amazing-Coat5160",
+    "published_date": "2026-10-19T17:50:49+00:00",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.906125"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -1192,7 +1157,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972188"
+    "created_at": "2026-10-21T02:30:54.516250"
   },
   {
     "id": "OpenAI News_d4db257fcf813715",
@@ -1209,7 +1174,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972278"
+    "created_at": "2026-10-21T02:30:54.516334"
   },
   {
     "id": "OpenAI News_da7f8b1d71836c0a",
@@ -1226,7 +1191,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:44.972322"
+    "created_at": "2026-10-21T02:30:54.516376"
   },
   {
     "id": "Wired AI_73edb75850570b2d",
@@ -1243,7 +1208,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.751020"
+    "created_at": "2026-10-21T02:30:49.315813"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1260,7 +1225,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:41.939939"
+    "created_at": "2026-10-21T02:30:51.799223"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1277,7 +1242,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-20T20:59:41.940036"
+    "created_at": "2026-10-21T02:30:51.799310"
   },
   {
     "id": "Google AI Blog_5527b32f5fffcb2d",
@@ -1294,7 +1259,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:41.940072"
+    "created_at": "2026-10-21T02:30:51.799346"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1311,7 +1276,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:43.782498"
+    "created_at": "2026-10-21T02:30:53.455885"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1328,7 +1293,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:43.782538"
+    "created_at": "2026-10-21T02:30:53.455922"
+  },
+  {
+    "id": "Hugging Face Blog_d40a0fbfd3efc56a",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Mon, 19 Oct 2026 00:00:00 GMT",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:30:57.403091"
+  },
+  {
+    "id": "Reddit ML_03c5a4ce6a524ceb",
+    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+    "summary": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "content": "Came across this today and haven't seen it discussed here yet. It's apparently a new type of model (called Maxwell) that sits under a running program and speeds it up on the fly based on what it sees (hardware and data).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+    "source": "Reddit ML",
+    "author": "/u/EvilHackFar",
+    "published_date": "2026-10-19T17:13:35+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.906182"
+  },
+  {
+    "id": "Reddit ML_a2d7bb3c5826a960",
+    "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
+    "summary": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
+    "content": "I'm building a free, code-first series on GPU kernel engineering and just published the intro and roadmap video. It's my own channel, and I'm posting to share the resource and get feedback on the plan, not to sell anything. Video: https://youtu.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
+    "source": "Reddit ML",
+    "author": "/u/Winter_Mistake_3185",
+    "published_date": "2026-10-19T18:15:18+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.906262"
   },
   {
     "id": "Wired AI_87aa0fefba1f3b13",
@@ -1345,7 +1361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:39.751072"
+    "created_at": "2026-10-21T02:30:49.315871"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1363,7 +1379,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:56.937193"
+    "created_at": "2026-10-21T02:31:06.720244"
+  },
+  {
+    "id": "Reddit ML_4a29993055c1fe08",
+    "title": "Conference papers are cooked! [D]",
+    "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "content": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+    "source": "Reddit ML",
+    "author": "/u/Fantastic-Nerve-4056",
+    "published_date": "2026-10-18T22:12:15+00:00",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.906306"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1380,7 +1413,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:56.936971"
+    "created_at": "2026-10-21T02:31:06.720010"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1397,6 +1430,38 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-20T20:59:56.937134"
+    "created_at": "2026-10-21T02:31:06.720186"
+  },
+  {
+    "id": "Reddit ML_2cdaf89c10c250e2",
+    "title": "[D] Self-Promotion Thread",
+    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
+    "content": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
+    "source": "Reddit ML",
+    "author": "/u/AutoModerator",
+    "published_date": "2026-10-02T02:15:05+00:00",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.905880"
+  },
+  {
+    "id": "Reddit ML_3843a6218b29aac3",
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "summary": " submitted by  /u/ToraxXx [link]  [comments]",
+    "content": " submitted by  /u/ToraxXx [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+    "source": "Reddit ML",
+    "author": "/u/ToraxXx",
+    "published_date": "2026-10-18T19:34:36+00:00",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T02:31:05.906352"
   }
 ]
