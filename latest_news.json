@@ -1,43 +1,57 @@
 [
   {
-    "id": "TechCrunch AI_dbbf57af289c75c0",
-    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-    "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "content": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-    "source": "TechCrunch AI",
-    "author": "Dominic-Madori Davis",
-    "published_date": "Tue, 20 Oct 2026 16:20:06 +0000",
-    "importance_score": 8.799999999999999,
+    "id": "The Verge AI_7095f5f8b166997d",
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.",
+    "content": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-21T09:57:43-04:00",
+    "importance_score": 9.0,
     "category": "tech",
     "keywords": [
       "GPT",
-      "ChatGPT",
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522748"
-  },
-  {
-    "id": "OpenAI News_9e085918289a7727",
-    "title": "Advancing coding in low‑resource programming languages",
-    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 19 Oct 2026 12:00:00 GMT",
-    "importance_score": 8.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.825914"
+    "created_at": "2026-10-21T16:17:49.745526"
+  },
+  {
+    "id": "OpenAI News_5e2a484b0a1d0d84",
+    "title": "OpenAI models are coming to Google Cloud",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "importance_score": 8.999999999999998,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:56.094534"
+  },
+  {
+    "id": "The Verge AI_99f3c4a5bc322e19",
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
+    "content": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional...",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-21T11:00:00-04:00",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:49.745449"
   },
   {
     "id": "TechCrunch AI_f680a1d6928c68f1",
@@ -55,7 +69,47 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522250"
+    "created_at": "2026-10-21T16:17:48.867845"
+  },
+  {
+    "id": "OpenAI News_ba0bd57bd522acf3",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "content": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:56.094818"
+  },
+  {
+    "id": "Wired AI_ddc55b70124db5bd",
+    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "content": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman",
+    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:50.781182"
   },
   {
     "id": "Wired AI_4d6145864ab69692",
@@ -73,7 +127,45 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517661"
+    "created_at": "2026-10-21T16:17:50.781319"
+  },
+  {
+    "id": "OpenAI News_9e085918289a7727",
+    "title": "Advancing coding in low‑resource programming languages",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "content": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "importance_score": 8.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:56.095072"
+  },
+  {
+    "id": "OpenAI News_7890d3215e068794",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "content": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 13:00:00 GMT",
+    "importance_score": 8.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:56.094677"
   },
   {
     "id": "TechCrunch AI_cb5b7fe832d683fd",
@@ -91,7 +183,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522138"
+    "created_at": "2026-10-21T16:17:48.867758"
   },
   {
     "id": "The Verge AI_c6809d1421d77403",
@@ -108,7 +200,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539030"
+    "created_at": "2026-10-21T16:17:49.745690"
+  },
+  {
+    "id": "OpenAI News_fd1b5d02a3e7b615",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "content": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 04:50:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:56.094742"
   },
   {
     "id": "OpenAI News_4f8e524548b0eb04",
@@ -126,7 +236,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.825685"
+    "created_at": "2026-10-21T16:17:56.094888"
   },
   {
     "id": "TechCrunch AI_9ddf4c4188abd254",
@@ -144,7 +254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522422"
+    "created_at": "2026-10-21T16:17:48.868008"
   },
   {
     "id": "TechCrunch AI_600d61db9bf1e322",
@@ -162,7 +272,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522574"
+    "created_at": "2026-10-21T16:17:48.868153"
   },
   {
     "id": "The Verge AI_89c10c62c2eeaa8b",
@@ -180,7 +290,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.538934"
+    "created_at": "2026-10-21T16:17:49.745608"
+  },
+  {
+    "id": "Wired AI_b70c5f4bf44e028b",
+    "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+    "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "content": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "source": "Wired AI",
+    "author": "Tom Bristow",
+    "published_date": "Wed, 21 Oct 2026 15:02:15 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:50.781018"
   },
   {
     "id": "OpenAI News_dace2182a5b7c1e4",
@@ -198,7 +326,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.825840"
+    "created_at": "2026-10-21T16:17:56.095007"
   },
   {
     "id": "Wired AI_093483b2d4f77972",
@@ -216,25 +344,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517930"
+    "created_at": "2026-10-21T16:17:50.781560"
   },
   {
-    "id": "Hugging Face Blog_8ea256897acd30f3",
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "id": "Hugging Face Blog_58c053a7f49b9e92",
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
     "summary": "",
     "content": "",
-    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
     "source": "Hugging Face Blog",
     "author": "",
-    "published_date": "Tue, 20 Oct 2026 16:09:19 GMT",
-    "importance_score": 7.000000000000001,
+    "published_date": "Wed, 21 Oct 2026 12:51:24 GMT",
+    "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "NVIDIA",
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:07.646861"
+    "created_at": "2026-10-21T16:17:58.879072"
+  },
+  {
+    "id": "Wired AI_3e51f204fe929d28",
+    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "source": "Wired AI",
+    "author": "Dan Goodin, Ars Technica",
+    "published_date": "Wed, 21 Oct 2026 12:35:00 +0000",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:50.781255"
   },
   {
     "id": "TechCrunch AI_6c64cd672282752e",
@@ -252,7 +397,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522504"
+    "created_at": "2026-10-21T16:17:48.868084"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -270,7 +415,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:03.566894"
+    "created_at": "2026-10-21T16:17:55.073494"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -287,7 +432,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:00.561465"
+    "created_at": "2026-10-21T16:17:51.743428"
   },
   {
     "id": "The Verge AI_bbf350799729a4a3",
@@ -304,7 +449,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539117"
+    "created_at": "2026-10-21T16:17:49.745753"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -321,43 +466,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:01.588210"
+    "created_at": "2026-10-21T16:17:52.801934"
   },
   {
-    "id": "OpenAI News_6ba6d44068dbe62a",
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "content": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "id": "OpenAI News_8e2d28a9d9e37208",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "content": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "importance_score": 6.7,
+    "published_date": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "importance_score": 6.6,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.826056"
-  },
-  {
-    "id": "OpenAI News_b96006d9788c2f76",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "content": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.826261"
+    "created_at": "2026-10-21T16:17:56.094615"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -375,7 +501,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:00.561642"
+    "created_at": "2026-10-21T16:17:51.743607"
+  },
+  {
+    "id": "Hugging Face Blog_8ea256897acd30f3",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "importance_score": 6.500000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:58.879121"
   },
   {
     "id": "TechCrunch AI_fd89976398afaa73",
@@ -392,7 +536,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522650"
+    "created_at": "2026-10-21T16:17:48.868262"
   },
   {
     "id": "arXiv AI_470ce53495314b65",
@@ -409,24 +553,41 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:49:11.189640"
+    "created_at": "2026-10-21T16:18:01.993566"
   },
   {
-    "id": "Wired AI_0ef74fd7eaddfcee",
-    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
-    "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-    "content": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-    "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Wed, 21 Oct 2026 08:30:00 +0000",
+    "id": "TechCrunch AI_c42da221a237f3a7",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "content": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "source": "TechCrunch AI",
+    "author": "Ram Iyer",
+    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517737"
+    "created_at": "2026-10-21T16:17:48.867672"
+  },
+  {
+    "id": "MIT Technology Review_f004230f1df8d04a",
+    "title": "The Download: introducing the Impossible issue",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas.",
+    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 21 Oct 2026 12:10:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:53.759314"
   },
   {
     "id": "Ars Technica_eb1561a498237fe9",
@@ -444,7 +605,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:00.561704"
+    "created_at": "2026-10-21T16:17:51.743670"
+  },
+  {
+    "id": "Hugging Face Blog_39973ed546a3051b",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 16:04:43 GMT",
+    "importance_score": 6.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:58.879000"
   },
   {
     "id": "arXiv ML_ed67d245b3ae8c9c",
@@ -459,7 +637,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.796733"
+    "created_at": "2026-10-21T16:18:03.022879"
   },
   {
     "id": "arXiv ML_d46e03e6f69b94fd",
@@ -476,7 +654,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.796915"
+    "created_at": "2026-10-21T16:18:03.023063"
+  },
+  {
+    "id": "Wired AI_37da13d9d8da9dcc",
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "content": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 21 Oct 2026 16:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:50.780929"
+  },
+  {
+    "id": "Wired AI_a5d5f5bcb17840d6",
+    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "content": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "source": "Wired AI",
+    "author": "Matt Burgess, Lily Hay Newman",
+    "published_date": "Wed, 21 Oct 2026 14:26:19 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-21T16:17:50.781098"
   },
   {
     "id": "OpenAI News_177233a6071680a8",
@@ -494,7 +706,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.825774"
+    "created_at": "2026-10-21T16:17:56.094953"
+  },
+  {
+    "id": "Lobsters AI_d784734836fa6bfd",
+    "title": "Your AI agent fixed the bug, but what else did it change?",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "source": "Lobsters AI",
+    "author": "blog.trailofbits.com via sarciszewski",
+    "published_date": "Wed, 21 Oct 2026 11:07:01 -0500",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:18:07.833233"
   },
   {
     "id": "TechCrunch AI_5653a3f5ae55031c",
@@ -511,41 +740,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:57.522337"
+    "created_at": "2026-10-21T16:17:48.867926"
   },
   {
-    "id": "The Verge AI_f4be42da5ba61b39",
-    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
-    "content": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
-    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-20T10:18:37-04:00",
+    "id": "Wired AI_2ab66c53cca222f9",
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+    "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "content": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Wed, 21 Oct 2026 08:30:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539191"
-  },
-  {
-    "id": "The Verge AI_f335efe36f1ffbbc",
-    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
-    "content": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
-    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-20T09:06:44-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539253"
+    "created_at": "2026-10-21T16:17:50.781379"
   },
   {
     "id": "Wired AI_ba4a0b2f1fb66326",
@@ -562,7 +774,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517801"
+    "created_at": "2026-10-21T16:17:50.781438"
   },
   {
     "id": "MIT Technology Review_fef2424fb5be8450",
@@ -579,24 +791,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:02.514486"
-  },
-  {
-    "id": "MIT Technology Review_17562e10703ef14c",
-    "title": "Melt it, spin it, use it again",
-    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
-    "content": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-    "source": "MIT Technology Review",
-    "author": "Jennifer Chu",
-    "published_date": "Tue, 20 Oct 2026 21:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:02.514578"
+    "created_at": "2026-10-21T16:17:53.759483"
   },
   {
     "id": "arXiv AI_8cc6f1969ffe72f1",
@@ -614,7 +809,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.189432"
+    "created_at": "2026-10-21T16:18:01.993350"
   },
   {
     "id": "arXiv ML_6f12ca759a8fec0e",
@@ -632,7 +827,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.796823"
+    "created_at": "2026-10-21T16:18:03.022970"
   },
   {
     "id": "Reddit ML_70b4cb842328e2f4",
@@ -649,41 +844,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.307820"
-  },
-  {
-    "id": "Wired AI_a965b36575316c31",
-    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-    "source": "Wired AI",
-    "author": "Olivia Snow",
-    "published_date": "Tue, 20 Oct 2026 15:07:43 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517857"
-  },
-  {
-    "id": "Wired AI_39ea693667032c07",
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "content": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Sun, 18 Oct 2026 10:30:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.518048"
+    "created_at": "2026-10-21T16:18:07.232533"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -700,7 +861,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:01.588283"
+    "created_at": "2026-10-21T16:17:52.802004"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -717,7 +878,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:01.588413"
+    "created_at": "2026-10-21T16:17:52.802126"
   },
   {
     "id": "arXiv AI_0473a04a7edfc101",
@@ -735,7 +896,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.188838"
+    "created_at": "2026-10-21T16:18:01.992780"
   },
   {
     "id": "arXiv AI_fa29ecf0f16bbe93",
@@ -752,7 +913,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.189344"
+    "created_at": "2026-10-21T16:18:01.993259"
   },
   {
     "id": "arXiv AI_b0b11438a5ba9a99",
@@ -769,7 +930,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:49:11.189530"
+    "created_at": "2026-10-21T16:18:01.993451"
   },
   {
     "id": "arXiv AI_e545fbbf9e4ac96f",
@@ -786,7 +947,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.189735"
+    "created_at": "2026-10-21T16:18:01.993665"
   },
   {
     "id": "arXiv AI_5cfc1176b3f34fec",
@@ -804,7 +965,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:49:11.189835"
+    "created_at": "2026-10-21T16:18:01.993768"
   },
   {
     "id": "arXiv ML_15799affd659a7e5",
@@ -822,7 +983,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.797010"
+    "created_at": "2026-10-21T16:18:03.023177"
   },
   {
     "id": "arXiv ML_cc6ca8439a95da3e",
@@ -839,24 +1000,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.797157"
-  },
-  {
-    "id": "Wired AI_b783ea314e0d7a5b",
-    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-    "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "content": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "source": "Wired AI",
-    "author": "Maddy Varner",
-    "published_date": "Mon, 19 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.517997"
+    "created_at": "2026-10-21T16:18:03.023314"
   },
   {
     "id": "arXiv AI_cd3be5d6cadefd1a",
@@ -873,7 +1017,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.189081"
+    "created_at": "2026-10-21T16:18:01.993012"
   },
   {
     "id": "arXiv AI_cc5657edd9bb0556",
@@ -890,7 +1034,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.189245"
+    "created_at": "2026-10-21T16:18:01.993121"
   },
   {
     "id": "arXiv ML_14823b936d355c3c",
@@ -907,7 +1051,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:49:11.796258"
+    "created_at": "2026-10-21T16:18:03.022411"
   },
   {
     "id": "arXiv ML_8b32621dc307bc3e",
@@ -922,7 +1066,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.796381"
+    "created_at": "2026-10-21T16:18:03.022529"
   },
   {
     "id": "arXiv ML_fbd8d2a8c1da55b8",
@@ -939,7 +1083,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:49:11.796625"
+    "created_at": "2026-10-21T16:18:03.022769"
   },
   {
     "id": "arXiv ML_5cd33dee89a71280",
@@ -956,7 +1100,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.797266"
+    "created_at": "2026-10-21T16:18:03.023421"
   },
   {
     "id": "Reddit ML_fbb8ba326589ee34",
@@ -973,7 +1117,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.307689"
+    "created_at": "2026-10-21T16:18:07.232193"
+  },
+  {
+    "id": "The Verge AI_f4be42da5ba61b39",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+    "content": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-20T10:18:37-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:49.745822"
+  },
+  {
+    "id": "The Verge AI_f335efe36f1ffbbc",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
+    "content": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap.",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-20T09:06:44-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:49.745881"
   },
   {
     "id": "The Verge AI_9e04cff624c49f1f",
@@ -990,58 +1168,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-21T10:48:58.539324"
-  },
-  {
-    "id": "The Verge AI_e2ff6f400d4c0984",
-    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
-    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-10-19T10:30:00-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539417"
-  },
-  {
-    "id": "The Verge AI_b650052d6ebb0bf4",
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-    "content": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-19T09:58:41-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539482"
-  },
-  {
-    "id": "The Verge AI_3b4c7c6f6461d91e",
-    "title": "Democrats think cracking down on AI could give them an edge",
-    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
-    "content": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee...",
-    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-10-19T08:00:00-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:58.539544"
+    "created_at": "2026-10-21T16:17:49.745949"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1058,7 +1185,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:00.561541"
+    "created_at": "2026-10-21T16:17:51.743503"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1075,7 +1202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:00.561592"
+    "created_at": "2026-10-21T16:17:51.743554"
   },
   {
     "id": "arXiv AI_7182b4c7f3b21d6a",
@@ -1090,7 +1217,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.188961"
+    "created_at": "2026-10-21T16:18:01.992895"
   },
   {
     "id": "arXiv ML_9486cda232c79493",
@@ -1105,7 +1232,41 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:11.796497"
+    "created_at": "2026-10-21T16:18:03.022642"
+  },
+  {
+    "id": "Reddit ML_a04c18a65446e19f",
+    "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+    "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cell takes 256 reads.",
+    "content": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cell takes 256 reads.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+    "source": "Reddit ML",
+    "author": "/u/Connect_Agency_3975",
+    "published_date": "2026-10-21T10:09:55+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:18:07.232407"
+  },
+  {
+    "id": "Wired AI_a965b36575316c31",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "content": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "source": "Wired AI",
+    "author": "Olivia Snow",
+    "published_date": "Tue, 20 Oct 2026 15:07:43 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-21T16:17:50.781492"
   },
   {
     "id": "Reddit ML_9e4ec52d2c97df6b",
@@ -1123,7 +1284,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.307939"
+    "created_at": "2026-10-21T16:18:07.232662"
   },
   {
     "id": "OpenAI News_d7f4dda174e9c83c",
@@ -1140,58 +1301,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.825991"
+    "created_at": "2026-10-21T16:17:56.095144"
   },
   {
-    "id": "OpenAI News_d4db257fcf813715",
-    "title": "Bringing GPT-Rosalind to academic research labs",
-    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "content": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 15 Oct 2026 19:00:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.826135"
-  },
-  {
-    "id": "OpenAI News_da7f8b1d71836c0a",
-    "title": "Teaching students to think and learn through questions",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "content": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 15 Oct 2026 13:00:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:04.826208"
-  },
-  {
-    "id": "Wired AI_73edb75850570b2d",
-    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-    "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "content": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "source": "Wired AI",
-    "author": "Philip Ball",
-    "published_date": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "id": "The Verge AI_e2ff6f400d4c0984",
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "content": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms...",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-10-19T10:30:00-04:00",
     "importance_score": 4.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:48:59.518147"
+    "created_at": "2026-10-21T16:17:49.746036"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1208,7 +1335,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:01.588342"
+    "created_at": "2026-10-21T16:17:52.802059"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1225,7 +1352,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-21T10:49:01.588477"
+    "created_at": "2026-10-21T16:17:52.802204"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1242,7 +1369,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:03.566980"
+    "created_at": "2026-10-21T16:17:55.073575"
   },
   {
     "id": "DeepMind Blog_2f2eea9ff2387c01",
@@ -1259,7 +1386,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:03.567041"
+    "created_at": "2026-10-21T16:17:55.073635"
   },
   {
     "id": "Hugging Face Blog_d40a0fbfd3efc56a",
@@ -1276,7 +1403,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:07.646953"
+    "created_at": "2026-10-21T16:17:58.879211"
   },
   {
     "id": "Reddit ML_03c5a4ce6a524ceb",
@@ -1293,7 +1420,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.308028"
+    "created_at": "2026-10-21T16:18:07.232748"
   },
   {
     "id": "Reddit ML_a2d7bb3c5826a960",
@@ -1310,7 +1437,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.308171"
+    "created_at": "2026-10-21T16:18:07.232872"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1328,24 +1455,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.843246"
-  },
-  {
-    "id": "Reddit ML_4a29993055c1fe08",
-    "title": "Conference papers are cooked! [D]",
-    "summary": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
-    "content": "Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. I would even refrain from accepting them to a workshop, let alone be main venues.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
-    "source": "Reddit ML",
-    "author": "/u/Fantastic-Nerve-4056",
-    "published_date": "2026-10-18T22:12:15+00:00",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.308240"
+    "created_at": "2026-10-21T16:18:07.833572"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1362,7 +1472,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.842907"
+    "created_at": "2026-10-21T16:18:07.833297"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1379,7 +1489,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.843154"
+    "created_at": "2026-10-21T16:18:07.833490"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1394,23 +1504,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.307578"
-  },
-  {
-    "id": "Reddit ML_3843a6218b29aac3",
-    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
-    "summary": " submitted by  /u/ToraxXx [link]  [comments]",
-    "content": " submitted by  /u/ToraxXx [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
-    "source": "Reddit ML",
-    "author": "/u/ToraxXx",
-    "published_date": "2026-10-18T19:34:36+00:00",
-    "importance_score": 4.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-21T10:49:16.308311"
+    "created_at": "2026-10-21T16:18:07.232056"
   }
 ]
