@@ -1,5 +1,41 @@
 [
   {
+    "id": "The Verge AI_31fec179a2a86d9d",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater...",
+    "content": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-22T17:51:25-04:00",
+    "importance_score": 9.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569292"
+  },
+  {
+    "id": "TechCrunch AI_7facadd0b436bf0e",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 22 Oct 2026 22:08:24 +0000",
+    "importance_score": 9.6,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:05.527839"
+  },
+  {
     "id": "The Verge AI_e8c8a0575a0e917f",
     "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
     "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million.",
@@ -8,7 +44,7 @@
     "source": "The Verge AI",
     "author": "Lauren Feiner",
     "published_date": "2026-10-22T11:50:30-04:00",
-    "importance_score": 9.299999999999999,
+    "importance_score": 8.799999999999999,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -17,45 +53,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010776"
-  },
-  {
-    "id": "TechCrunch AI_191465e07fbf369c",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "content": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 22 Oct 2026 16:00:00 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070278"
-  },
-  {
-    "id": "OpenAI News_e3dc2c2d3672a3fa",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "importance_score": 8.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319109"
+    "created_at": "2026-10-23T02:32:06.569971"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -73,25 +71,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319284"
-  },
-  {
-    "id": "TechCrunch AI_7402439126dd7563",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070086"
+    "created_at": "2026-10-23T02:32:13.082321"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -109,25 +89,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319049"
+    "created_at": "2026-10-23T02:32:13.082029"
   },
   {
-    "id": "OpenAI News_0939727ea9afa578",
-    "title": "Broad access through consistent standards",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "importance_score": 7.7,
+    "id": "TechCrunch AI_191465e07fbf369c",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "content": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 22 Oct 2026 16:00:00 +0000",
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
-      "OpenAI",
-      "AI"
+      "GPT",
+      "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319202"
+    "created_at": "2026-10-23T02:32:05.528327"
   },
   {
     "id": "TechCrunch AI_7a5ff1f28eac400a",
@@ -146,127 +126,45 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070393"
+    "created_at": "2026-10-23T02:32:05.528475"
   },
   {
-    "id": "TechCrunch AI_0243eb1297cc386d",
-    "title": "Canva releases its first image generation model",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "id": "OpenAI News_e3dc2c2d3672a3fa",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.6,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:13.082111"
+  },
+  {
+    "id": "TechCrunch AI_7402439126dd7563",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
+    "author": "Tim Fernholz",
     "published_date": "Thu, 22 Oct 2026 19:00:00 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070038"
-  },
-  {
-    "id": "TechCrunch AI_5aa2399f4e5a3906",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "content": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "source": "TechCrunch AI",
-    "author": "Kate Park",
-    "published_date": "Thu, 22 Oct 2026 13:11:13 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070475"
-  },
-  {
-    "id": "The Verge AI_6c9003fd31749543",
-    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-    "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
-    "content": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-22T14:00:00-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Microsoft AI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010604"
-  },
-  {
-    "id": "TechCrunch AI_367a97ce9b1c5d9b",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 22 Oct 2026 19:07:09 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.069978"
-  },
-  {
-    "id": "The Verge AI_6fcf4aad5e4907e7",
-    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
-    "content": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
-    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-22T16:32:05-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010351"
-  },
-  {
-    "id": "The Verge AI_05997250b2c13580",
-    "title": "Meta turns Muse sharing back on",
-    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.",
-    "content": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.",
-    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-22T16:24:04-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010418"
-  },
-  {
-    "id": "The Verge AI_d956dc9236717f56",
-    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-    "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.",
-    "content": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.",
-    "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-    "source": "The Verge AI",
-    "author": "Ellen Thomas",
-    "published_date": "2026-10-22T14:15:00-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010549"
+    "created_at": "2026-10-23T02:32:05.528062"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -284,7 +182,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319159"
+    "created_at": "2026-10-23T02:32:13.082180"
+  },
+  {
+    "id": "OpenAI News_0939727ea9afa578",
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:13.082244"
   },
   {
     "id": "OpenAI News_fd1b5d02a3e7b615",
@@ -302,25 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319428"
-  },
-  {
-    "id": "OpenAI News_7710b07cbef3c958",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "content": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "url": "https://openai.com/index/cloudflare-cyber",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319473"
+    "created_at": "2026-10-23T02:32:13.082517"
   },
   {
     "id": "Wired AI_ddc55b70124db5bd",
@@ -339,41 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991506"
-  },
-  {
-    "id": "TechCrunch AI_726cd35f8764e6e5",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "content": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Thu, 22 Oct 2026 18:43:53 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070161"
-  },
-  {
-    "id": "TechCrunch AI_0f2a8952f08fefee",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "source": "TechCrunch AI",
-    "author": "Zack Whittaker",
-    "published_date": "Thu, 22 Oct 2026 16:47:17 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070208"
+    "created_at": "2026-10-23T02:32:07.529285"
   },
   {
     "id": "OpenAI News_7890d3215e068794",
@@ -391,7 +255,42 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319383"
+    "created_at": "2026-10-23T02:32:13.082454"
+  },
+  {
+    "id": "TechCrunch AI_0243eb1297cc386d",
+    "title": "Canva releases its first image generation model",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:05.527992"
+  },
+  {
+    "id": "The Verge AI_6c9003fd31749543",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+    "content": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-22T14:00:00-04:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Microsoft AI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569742"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -409,25 +308,93 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:24.367104"
+    "created_at": "2026-10-23T02:32:11.969366"
   },
   {
-    "id": "The Verge AI_da3f0139bacda792",
-    "title": "Discord now formats Markdown previews right",
-    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
-    "content": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
-    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-22T14:58:19-04:00",
-    "importance_score": 6.6000000000000005,
+    "id": "TechCrunch AI_367a97ce9b1c5d9b",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010485"
+    "created_at": "2026-10-23T02:32:05.527922"
+  },
+  {
+    "id": "The Verge AI_6fcf4aad5e4907e7",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
+    "content": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns.",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-22T16:32:05-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569380"
+  },
+  {
+    "id": "The Verge AI_05997250b2c13580",
+    "title": "Meta turns Muse sharing back on",
+    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.",
+    "content": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application.",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-22T16:24:04-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569459"
+  },
+  {
+    "id": "The Verge AI_d956dc9236717f56",
+    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+    "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.",
+    "content": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us.",
+    "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+    "source": "The Verge AI",
+    "author": "Ellen Thomas",
+    "published_date": "2026-10-22T14:15:00-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569660"
+  },
+  {
+    "id": "OpenAI News_7710b07cbef3c958",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "content": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:13.082610"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -444,7 +411,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991191"
+    "created_at": "2026-10-23T02:32:07.528891"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -462,24 +429,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:21.083254"
+    "created_at": "2026-10-23T02:32:08.576055"
   },
   {
-    "id": "Wired AI_239a7d01cd66a2da",
-    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Wed, 21 Oct 2026 22:39:50 +0000",
+    "id": "TechCrunch AI_726cd35f8764e6e5",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "content": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Thu, 22 Oct 2026 18:43:53 +0000",
     "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991281"
+    "created_at": "2026-10-23T02:32:05.528167"
+  },
+  {
+    "id": "TechCrunch AI_0f2a8952f08fefee",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "source": "TechCrunch AI",
+    "author": "Zack Whittaker",
+    "published_date": "Thu, 22 Oct 2026 16:47:17 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:05.528239"
   },
   {
     "id": "arXiv AI_114cf71dd9db5c0b",
@@ -494,75 +478,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.257184"
+    "created_at": "2026-10-23T02:32:18.790479"
   },
   {
-    "id": "TechCrunch AI_3a16681099d7d43f",
-    "title": "Spotify’s current AI bet is about being the music service that agents choose",
-    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-    "content": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "id": "TechCrunch AI_95627e96aa693fcf",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Thu, 22 Oct 2026 15:03:58 +0000",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 23 Oct 2026 00:45:37 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070332"
-  },
-  {
-    "id": "TechCrunch AI_c0149f7d37198010",
-    "title": "Nirva raises $33M for a pendant that only listens to you",
-    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-    "content": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Thu, 22 Oct 2026 13:26:52 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:18.070432"
-  },
-  {
-    "id": "The Verge AI_86e1e84273c8a3ac",
-    "title": "Someone hacked the Switch 2 by using an old game and AI",
-    "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.",
-    "content": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.",
-    "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-22T13:21:31-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010657"
-  },
-  {
-    "id": "Wired AI_bba8c3995c877def",
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "content": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer",
-    "published_date": "Thu, 22 Oct 2026 19:56:32 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-22T20:58:19.991113"
+    "created_at": "2026-10-23T02:32:05.527747"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -580,41 +513,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991388"
+    "created_at": "2026-10-23T02:32:07.529130"
   },
   {
-    "id": "MIT Technology Review_3405569cf1aac314",
-    "title": "The Foundations of Scalable AI",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "id": "MIT Technology Review_4e3628850ce3d1d5",
+    "title": "Designing an AI serving harness built to last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
+    "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "source": "MIT Technology Review",
-    "author": "MIT Technology Review Events",
-    "published_date": "Thu, 22 Oct 2026 18:48:04 +0000",
+    "author": "Anand Logani",
+    "published_date": "Thu, 22 Oct 2026 21:17:29 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:23.101409"
+    "created_at": "2026-10-23T02:32:10.649312"
   },
   {
-    "id": "Ars Technica_ead920934e701dcc",
-    "title": "PHP warns it plans to release 2 emergency patches imminently",
-    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-    "content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "id": "Hugging Face Blog_c12a33d3c5b99de8",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Thu, 22 Oct 2026 22:24:34 GMT",
     "importance_score": 6.300000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:21.083126"
+    "created_at": "2026-10-23T02:32:15.791236"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -633,24 +566,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:28.158006"
-  },
-  {
-    "id": "The Verge AI_c8c8e2571777c213",
-    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete.",
-    "content": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete.",
-    "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "source": "The Verge AI",
-    "author": "Andrew Webster",
-    "published_date": "2026-10-22T12:16:15-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.010724"
+    "created_at": "2026-10-23T02:32:15.791327"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -667,7 +583,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:22.258717"
+    "created_at": "2026-10-23T02:32:09.694023"
   },
   {
     "id": "Reddit ML_0efe017abd6b22c3",
@@ -684,7 +600,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.551861"
+    "created_at": "2026-10-23T02:32:24.497540"
+  },
+  {
+    "id": "The Verge AI_da3f0139bacda792",
+    "title": "Discord now formats Markdown previews right",
+    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
+    "content": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
+    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-22T14:58:19-04:00",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569546"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -701,7 +635,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:25.319336"
+    "created_at": "2026-10-23T02:32:13.082388"
+  },
+  {
+    "id": "Wired AI_239a7d01cd66a2da",
+    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Wed, 21 Oct 2026 22:39:50 +0000",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:07.528986"
   },
   {
     "id": "Wired AI_3e51f204fe929d28",
@@ -718,24 +669,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991561"
+    "created_at": "2026-10-23T02:32:07.529359"
   },
   {
-    "id": "Reddit ML_f6812b5dc1f388b6",
-    "title": "ICLR Text Editor [D]",
-    "summary": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I hope not.  submitted by  /u/Whatever_635 [link]  [comments]",
-    "content": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I hope not.  submitted by  /u/Whatever_635 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
-    "source": "Reddit ML",
-    "author": "/u/Whatever_635",
-    "published_date": "2026-10-22T18:07:44+00:00",
-    "importance_score": 6.0,
+    "id": "TechCrunch AI_3a16681099d7d43f",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "content": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Thu, 22 Oct 2026 15:03:58 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552062"
+    "created_at": "2026-10-23T02:32:05.528407"
+  },
+  {
+    "id": "The Verge AI_86e1e84273c8a3ac",
+    "title": "Someone hacked the Switch 2 by using an old game and AI",
+    "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.",
+    "content": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.",
+    "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-22T13:21:31-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569812"
+  },
+  {
+    "id": "Wired AI_bba8c3995c877def",
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "content": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "source": "Wired AI",
+    "author": "Zoë Schiffer",
+    "published_date": "Thu, 22 Oct 2026 19:56:32 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-23T02:32:07.528794"
+  },
+  {
+    "id": "MIT Technology Review_3405569cf1aac314",
+    "title": "The Foundations of Scalable AI",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+    "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Events",
+    "published_date": "Thu, 22 Oct 2026 18:48:04 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:10.649404"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -752,7 +754,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:23.101500"
+    "created_at": "2026-10-23T02:32:10.649508"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -769,7 +771,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:23.101560"
+    "created_at": "2026-10-23T02:32:10.649609"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -786,7 +788,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:23.101641"
+    "created_at": "2026-10-23T02:32:10.649720"
   },
   {
     "id": "arXiv ML_552f3f0457352bb9",
@@ -804,7 +806,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093739"
+    "created_at": "2026-10-23T02:32:19.673630"
   },
   {
     "id": "arXiv ML_e1fd279035451a06",
@@ -822,7 +824,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093910"
+    "created_at": "2026-10-23T02:32:19.673868"
   },
   {
     "id": "arXiv AI_12f8224661324a08",
@@ -841,7 +843,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256658"
+    "created_at": "2026-10-23T02:32:18.789688"
   },
   {
     "id": "arXiv AI_a9b517b575cc640a",
@@ -860,7 +862,41 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256870"
+    "created_at": "2026-10-23T02:32:18.790025"
+  },
+  {
+    "id": "Ars Technica_ead920934e701dcc",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "importance_score": 5.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:08.575872"
+  },
+  {
+    "id": "Reddit ML_a7d6600b1a07a2f4",
+    "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
+    "summary": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc.) broke on fixed vocabularies.",
+    "content": "TL;DR: When Coqui AI shut down, they left XTTS v2 without official training code for the DVAE audio tokenizer and Latent HiFi-GAN vocoder, and fine-tuning new scripts (Arabic, Indic, etc.) broke on fixed vocabularies.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
+    "source": "Reddit ML",
+    "author": "/u/yashubhakt",
+    "published_date": "2026-10-22T21:03:28+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:24.497800"
   },
   {
     "id": "Reddit ML_43858b0a6389cd6a",
@@ -877,7 +913,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552005"
+    "created_at": "2026-10-23T02:32:24.497989"
+  },
+  {
+    "id": "The Verge AI_c8c8e2571777c213",
+    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete.",
+    "content": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete.",
+    "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+    "source": "The Verge AI",
+    "author": "Andrew Webster",
+    "published_date": "2026-10-22T12:16:15-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:06.569898"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -894,7 +947,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:22.258776"
+    "created_at": "2026-10-23T02:32:09.694102"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -911,7 +964,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:22.258891"
+    "created_at": "2026-10-23T02:32:09.694253"
   },
   {
     "id": "arXiv AI_52fa78462280f830",
@@ -929,7 +982,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256737"
+    "created_at": "2026-10-23T02:32:18.789817"
   },
   {
     "id": "arXiv AI_3f288389b9932cee",
@@ -946,7 +999,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.257034"
+    "created_at": "2026-10-23T02:32:18.790260"
   },
   {
     "id": "arXiv AI_ded68324516bf97d",
@@ -963,7 +1016,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.257109"
+    "created_at": "2026-10-23T02:32:18.790374"
   },
   {
     "id": "arXiv ML_443152eeb8f40aea",
@@ -981,7 +1034,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-22T20:58:32.093650"
+    "created_at": "2026-10-23T02:32:19.673476"
   },
   {
     "id": "arXiv ML_b1f58a04ea9815cd",
@@ -999,7 +1052,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.094088"
+    "created_at": "2026-10-23T02:32:19.674110"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1016,7 +1069,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:21.083070"
+    "created_at": "2026-10-23T02:32:08.575796"
   },
   {
     "id": "arXiv AI_532f0641c41c0687",
@@ -1033,7 +1086,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256577"
+    "created_at": "2026-10-23T02:32:18.789505"
   },
   {
     "id": "arXiv AI_4e0dc9e57261ddab",
@@ -1048,7 +1101,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256961"
+    "created_at": "2026-10-23T02:32:18.790150"
   },
   {
     "id": "arXiv ML_c8913ef108a4464b",
@@ -1065,7 +1118,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093345"
+    "created_at": "2026-10-23T02:32:19.673046"
   },
   {
     "id": "arXiv ML_a3b00cf19a8f6f10",
@@ -1082,7 +1135,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093456"
+    "created_at": "2026-10-23T02:32:19.673204"
   },
   {
     "id": "arXiv ML_84e71a5a43e78a1f",
@@ -1099,7 +1152,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093832"
+    "created_at": "2026-10-23T02:32:19.673759"
   },
   {
     "id": "arXiv ML_1fc94c24332b053a",
@@ -1114,7 +1167,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.094000"
+    "created_at": "2026-10-23T02:32:19.673989"
+  },
+  {
+    "id": "Reddit ML_f6812b5dc1f388b6",
+    "title": "ICLR Text Editor [D]",
+    "summary": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I hope not.  submitted by  /u/Whatever_635 [link]  [comments]",
+    "content": "Have you looked at this iclr text detector? [https://opentextdetector.com/](https://opentextdetector.com/)) Do you think this will impact the review process? AI detectors are usually unreliable so I hope not.  submitted by  /u/Whatever_635 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
+    "source": "Reddit ML",
+    "author": "/u/Whatever_635",
+    "published_date": "2026-10-22T18:07:44+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:24.498062"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -1131,7 +1201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:23.101700"
+    "created_at": "2026-10-23T02:32:10.649803"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1148,7 +1218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:28.158069"
+    "created_at": "2026-10-23T02:32:15.791393"
   },
   {
     "id": "arXiv AI_fb2a9d5f7fa5956e",
@@ -1163,7 +1233,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:31.256484"
+    "created_at": "2026-10-23T02:32:18.789368"
   },
   {
     "id": "arXiv AI_b1f040d364498b14",
@@ -1178,7 +1248,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "positive",
-    "created_at": "2026-10-22T20:58:31.256805"
+    "created_at": "2026-10-23T02:32:18.789924"
   },
   {
     "id": "arXiv ML_90ef48d66ab11126",
@@ -1193,7 +1263,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:32.093551"
+    "created_at": "2026-10-23T02:32:19.673340"
   },
   {
     "id": "Reddit ML_4fa4102cd0ede0ef",
@@ -1210,24 +1280,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552217"
-  },
-  {
-    "id": "Reddit ML_70b4cb842328e2f4",
-    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
-    "summary": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
-    "content": "Hey everyone! I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images. The main challenge I'm facing right now is annotation.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
-    "source": "Reddit ML",
-    "author": "/u/TechDc-1306",
-    "published_date": "2026-10-20T10:00:43+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552663"
+    "created_at": "2026-10-23T02:32:24.498271"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1244,7 +1297,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:19.991328"
+    "created_at": "2026-10-23T02:32:07.529050"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1261,24 +1314,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-22T20:58:19.991450"
-  },
-  {
-    "id": "Reddit ML_fbb8ba326589ee34",
-    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
-    "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
-    "content": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
-    "source": "Reddit ML",
-    "author": "/u/OtherwiseFig4505",
-    "published_date": "2026-10-21T01:13:32+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552297"
+    "created_at": "2026-10-23T02:32:07.529210"
   },
   {
     "id": "Reddit ML_abcd7f8c8c905250",
@@ -1295,7 +1331,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552431"
+    "created_at": "2026-10-23T02:32:24.498535"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1312,7 +1348,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:22.258833"
+    "created_at": "2026-10-23T02:32:09.694175"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1329,7 +1365,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-22T20:58:22.258942"
+    "created_at": "2026-10-23T02:32:09.694327"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1346,7 +1382,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:24.367162"
+    "created_at": "2026-10-23T02:32:11.969457"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1363,7 +1399,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:21.083174"
+    "created_at": "2026-10-23T02:32:08.575942"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1380,41 +1416,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:21.083206"
-  },
-  {
-    "id": "Hugging Face Blog_d40a0fbfd3efc56a",
-    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/hf-torchneuron",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 19 Oct 2026 00:00:00 GMT",
-    "importance_score": 4.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:28.158125"
-  },
-  {
-    "id": "Reddit ML_a04c18a65446e19f",
-    "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-    "summary": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cell takes 256 reads.",
-    "content": "TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read noise. Reading every cell takes 256 reads.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-    "source": "Reddit ML",
-    "author": "/u/Connect_Agency_3975",
-    "published_date": "2026-10-21T10:09:55+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.552572"
+    "created_at": "2026-10-23T02:32:08.575997"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1432,7 +1434,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:37.164173"
+    "created_at": "2026-10-23T02:32:24.806008"
+  },
+  {
+    "id": "Reddit ML_fbb8ba326589ee34",
+    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+    "summary": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
+    "content": "Hello, Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+    "source": "Reddit ML",
+    "author": "/u/OtherwiseFig4505",
+    "published_date": "2026-10-21T01:13:32+00:00",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-23T02:32:24.498378"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1449,7 +1468,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:37.163945"
+    "created_at": "2026-10-23T02:32:24.805693"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1466,7 +1485,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:37.164111"
+    "created_at": "2026-10-23T02:32:24.805911"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1481,6 +1500,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-22T20:58:36.551769"
+    "created_at": "2026-10-23T02:32:24.497407"
   }
 ]
