@@ -8,32 +8,14 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-10-22T17:51:25-04:00",
-    "importance_score": 9.2,
+    "importance_score": 8.7,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426798"
-  },
-  {
-    "id": "TechCrunch AI_7facadd0b436bf0e",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Thu, 22 Oct 2026 22:08:24 +0000",
-    "importance_score": 9.1,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433815"
+    "created_at": "2026-10-24T02:30:37.948320"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -51,7 +33,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871566"
+    "created_at": "2026-10-24T02:30:44.427266"
+  },
+  {
+    "id": "TechCrunch AI_7facadd0b436bf0e",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 22 Oct 2026 22:08:24 +0000",
+    "importance_score": 8.600000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.071853"
+  },
+  {
+    "id": "The Verge AI_db3f7fe1547c327f",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-23T17:11:07-04:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.947658"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -62,7 +80,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "importance_score": 8.6,
+    "importance_score": 8.1,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -71,7 +89,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871488"
+    "created_at": "2026-10-24T02:30:44.427186"
+  },
+  {
+    "id": "TechCrunch AI_9f312d10598c6559",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Fri, 23 Oct 2026 23:05:49 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.071424"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -82,34 +118,14 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "importance_score": 8.4,
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871653"
-  },
-  {
-    "id": "OpenAI News_e3dc2c2d3672a3fa",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871781"
+    "created_at": "2026-10-24T02:30:44.427353"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -127,41 +143,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871977"
-  },
-  {
-    "id": "The Verge AI_457a541ecb52ed42",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-23T12:52:55-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426560"
-  },
-  {
-    "id": "The Verge AI_8d75b4da1112d77b",
-    "title": "Meta delays new business terms after publisher pushback on AI scraping",
-    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-    "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-23T10:47:41-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426633"
+    "created_at": "2026-10-24T02:30:44.427732"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -179,43 +161,27 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871718"
+    "created_at": "2026-10-24T02:30:44.427418"
   },
   {
-    "id": "OpenAI News_0939727ea9afa578",
-    "title": "Broad access through consistent standards",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "id": "OpenAI News_e3dc2c2d3672a3fa",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "importance_score": 7.2,
+    "published_date": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.1,
     "category": "tech",
     "keywords": [
+      "GPT",
+      "ChatGPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871905"
-  },
-  {
-    "id": "TechCrunch AI_191465e07fbf369c",
-    "title": "Uber puts all 30,000 employees on ChatGPT Work",
-    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "content": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 22 Oct 2026 16:00:00 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.434298"
+    "created_at": "2026-10-24T02:30:44.427522"
   },
   {
     "id": "TechCrunch AI_7402439126dd7563",
@@ -233,7 +199,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433953"
+    "created_at": "2026-10-24T02:30:37.072031"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -251,7 +217,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:40.661574"
+    "created_at": "2026-10-24T02:30:43.095567"
   },
   {
     "id": "TechCrunch AI_0b624ccc371b2c1a",
@@ -269,7 +235,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433668"
+    "created_at": "2026-10-24T02:30:37.071692"
+  },
+  {
+    "id": "The Verge AI_457a541ecb52ed42",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-23T12:52:55-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.947945"
+  },
+  {
+    "id": "The Verge AI_8d75b4da1112d77b",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
+    "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-23T10:47:41-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.948058"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -287,7 +287,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.871845"
+    "created_at": "2026-10-24T02:30:44.427595"
+  },
+  {
+    "id": "OpenAI News_0939727ea9afa578",
+    "title": "Broad access through consistent standards",
+    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:44.427658"
   },
   {
     "id": "Wired AI_ddc55b70124db5bd",
@@ -306,7 +324,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.424111"
+    "created_at": "2026-10-24T02:30:38.984984"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -324,7 +342,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:37.463012"
+    "created_at": "2026-10-24T02:30:39.944438"
   },
   {
     "id": "TechCrunch AI_0243eb1297cc386d",
@@ -341,24 +359,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.434018"
-  },
-  {
-    "id": "TechCrunch AI_b78b969f73b1c3cc",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433581"
+    "created_at": "2026-10-24T02:30:37.072118"
   },
   {
     "id": "TechCrunch AI_367a97ce9b1c5d9b",
@@ -375,24 +376,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433886"
-  },
-  {
-    "id": "The Verge AI_a0a62bf456487b3e",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-23T15:32:39-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426459"
+    "created_at": "2026-10-24T02:30:37.071954"
   },
   {
     "id": "The Verge AI_6fcf4aad5e4907e7",
@@ -409,7 +393,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426870"
+    "created_at": "2026-10-24T02:30:37.948467"
   },
   {
     "id": "The Verge AI_05997250b2c13580",
@@ -426,7 +410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426939"
+    "created_at": "2026-10-24T02:30:37.948590"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -443,7 +427,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.423714"
+    "created_at": "2026-10-24T02:30:38.984583"
   },
   {
     "id": "TechCrunch AI_726cd35f8764e6e5",
@@ -460,58 +444,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.434138"
-  },
-  {
-    "id": "TechCrunch AI_0f2a8952f08fefee",
-    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "source": "TechCrunch AI",
-    "author": "Zack Whittaker",
-    "published_date": "Thu, 22 Oct 2026 16:47:17 +0000",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.434210"
-  },
-  {
-    "id": "Wired AI_239a7d01cd66a2da",
-    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-    "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Wed, 21 Oct 2026 22:39:50 +0000",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.423810"
-  },
-  {
-    "id": "TechCrunch AI_95627e96aa693fcf",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Fri, 23 Oct 2026 00:45:37 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:34.433746"
+    "created_at": "2026-10-24T02:30:37.072219"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -528,7 +461,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.426704"
+    "created_at": "2026-10-24T02:30:37.948165"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -546,7 +479,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.423954"
+    "created_at": "2026-10-24T02:30:38.984826"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -563,24 +496,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478226"
-  },
-  {
-    "id": "MIT Technology Review_4e3628850ce3d1d5",
-    "title": "Designing an AI serving harness built to last",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
-    "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "source": "MIT Technology Review",
-    "author": "Anand Logani",
-    "published_date": "Thu, 22 Oct 2026 21:17:29 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478367"
+    "created_at": "2026-10-24T02:30:41.973930"
   },
   {
     "id": "arXiv ML_970c53386944068c",
@@ -598,7 +514,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689048"
+    "created_at": "2026-10-24T02:30:51.095247"
   },
   {
     "id": "arXiv ML_7078bb32262f0097",
@@ -616,7 +532,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689448"
+    "created_at": "2026-10-24T02:30:51.095651"
   },
   {
     "id": "arXiv ML_2b2ac1f7ffe83652",
@@ -634,7 +550,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.690045"
+    "created_at": "2026-10-24T02:30:51.096251"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -651,41 +567,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:37.462832"
-  },
-  {
-    "id": "Hugging Face Blog_ee94897e260579b3",
-    "title": "Does Your Model Run on AWS Trainium? Look It Up",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 GMT",
-    "importance_score": 5.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:44.688363"
-  },
-  {
-    "id": "Hugging Face Blog_c12a33d3c5b99de8",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 22:24:34 GMT",
-    "importance_score": 5.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:44.688431"
+    "created_at": "2026-10-24T02:30:39.944254"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -704,22 +586,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:44.688499"
+    "created_at": "2026-10-24T02:30:47.165712"
   },
   {
-    "id": "Reddit ML_9f99f3a4c73a5e3c",
-    "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-    "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
-    "content": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
-    "source": "Reddit ML",
-    "author": "/u/Future-Structure-296",
-    "published_date": "2026-10-23T17:25:52+00:00",
-    "importance_score": 5.8,
+    "id": "TechCrunch AI_b78b969f73b1c3cc",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "importance_score": 5.7,
     "category": "tech",
-    "keywords": [],
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151642"
+    "created_at": "2026-10-24T02:30:37.071566"
+  },
+  {
+    "id": "The Verge AI_a0a62bf456487b3e",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-23T15:32:39-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.947815"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -736,7 +637,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:38.661818"
+    "created_at": "2026-10-24T02:30:41.146025"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -753,7 +654,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:38.661894"
+    "created_at": "2026-10-24T02:30:41.146102"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -770,7 +671,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:38.662044"
+    "created_at": "2026-10-24T02:30:41.146251"
   },
   {
     "id": "arXiv AI_9153d07615279c71",
@@ -787,7 +688,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038264"
+    "created_at": "2026-10-24T02:30:50.229502"
   },
   {
     "id": "arXiv AI_256730f631e6e5b0",
@@ -805,7 +706,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-23T20:47:48.038520"
+    "created_at": "2026-10-24T02:30:50.229761"
   },
   {
     "id": "arXiv AI_47de00a7b4e0cda3",
@@ -823,7 +724,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-23T20:47:48.038644"
+    "created_at": "2026-10-24T02:30:50.229882"
   },
   {
     "id": "arXiv ML_ecefba570352abc3",
@@ -840,7 +741,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-23T20:47:48.689166"
+    "created_at": "2026-10-24T02:30:51.095366"
   },
   {
     "id": "arXiv ML_12a7a631e3dd9b11",
@@ -857,7 +758,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689699"
+    "created_at": "2026-10-24T02:30:51.095903"
   },
   {
     "id": "arXiv ML_c621a7767bb1f2d1",
@@ -875,7 +776,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689937"
+    "created_at": "2026-10-24T02:30:51.096143"
   },
   {
     "id": "Reddit ML_c7c96f90d2001fcd",
@@ -893,25 +794,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151109"
-  },
-  {
-    "id": "The Verge AI_da3f0139bacda792",
-    "title": "Discord now formats Markdown previews right",
-    "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
-    "content": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be...",
-    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-22T14:58:19-04:00",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:35.427020"
+    "created_at": "2026-10-24T02:30:55.697254"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -928,22 +811,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:41.872045"
+    "created_at": "2026-10-24T02:30:44.427799"
   },
   {
-    "id": "Reddit ML_5b43f040695b5d15",
-    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-    "source": "Reddit ML",
-    "author": "/u/mistlab",
-    "published_date": "2026-10-23T15:37:23+00:00",
-    "importance_score": 5.6,
+    "id": "Wired AI_239a7d01cd66a2da",
+    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "content": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Wed, 21 Oct 2026 22:39:50 +0000",
+    "importance_score": 5.5,
     "category": "tech",
-    "keywords": [],
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151417"
+    "created_at": "2026-10-24T02:30:38.984680"
   },
   {
     "id": "Wired AI_3e51f204fe929d28",
@@ -960,7 +845,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.424186"
+    "created_at": "2026-10-24T02:30:38.985062"
   },
   {
     "id": "arXiv AI_0865c5feda0d1540",
@@ -977,7 +862,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.037885"
+    "created_at": "2026-10-24T02:30:50.229095"
   },
   {
     "id": "arXiv AI_0cad621cab3fe3e9",
@@ -994,7 +879,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038007"
+    "created_at": "2026-10-24T02:30:50.229223"
   },
   {
     "id": "arXiv AI_45145f5fa8d6d3b1",
@@ -1011,7 +896,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038129"
+    "created_at": "2026-10-24T02:30:50.229345"
   },
   {
     "id": "arXiv AI_f36f2d285ed2f8df",
@@ -1026,7 +911,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038394"
+    "created_at": "2026-10-24T02:30:50.229635"
   },
   {
     "id": "arXiv AI_c9073255cba5b950",
@@ -1043,7 +928,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038739"
+    "created_at": "2026-10-24T02:30:50.229975"
   },
   {
     "id": "arXiv AI_90e48565dfc2b716",
@@ -1060,7 +945,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038950"
+    "created_at": "2026-10-24T02:30:50.230185"
   },
   {
     "id": "arXiv ML_aed5e8ed64090bce",
@@ -1077,7 +962,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689316"
+    "created_at": "2026-10-24T02:30:51.095519"
   },
   {
     "id": "arXiv ML_95d207600c00c80a",
@@ -1094,7 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689582"
+    "created_at": "2026-10-24T02:30:51.095785"
   },
   {
     "id": "arXiv ML_7527e12ff71de69f",
@@ -1111,7 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.690153"
+    "created_at": "2026-10-24T02:30:51.096359"
   },
   {
     "id": "Reddit ML_ff49d89bc842c881",
@@ -1128,7 +1013,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151191"
+    "created_at": "2026-10-24T02:30:55.697554"
+  },
+  {
+    "id": "TechCrunch AI_95627e96aa693fcf",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Fri, 23 Oct 2026 00:45:37 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:37.071783"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -1145,7 +1047,24 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-23T20:47:36.423620"
+    "created_at": "2026-10-24T02:30:38.984483"
+  },
+  {
+    "id": "MIT Technology Review_4e3628850ce3d1d5",
+    "title": "Designing an AI serving harness built to last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
+    "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Technology Review",
+    "author": "Anand Logani",
+    "published_date": "Thu, 22 Oct 2026 21:17:29 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:41.974049"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1162,7 +1081,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478450"
+    "created_at": "2026-10-24T02:30:41.974130"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -1179,7 +1098,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478550"
+    "created_at": "2026-10-24T02:30:41.974230"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -1196,7 +1115,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478629"
+    "created_at": "2026-10-24T02:30:41.974306"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -1213,7 +1132,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478733"
+    "created_at": "2026-10-24T02:30:41.974407"
+  },
+  {
+    "id": "Hugging Face Blog_ee94897e260579b3",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "importance_score": 5.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:47.165573"
+  },
+  {
+    "id": "Hugging Face Blog_c12a33d3c5b99de8",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "importance_score": 5.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:47.165644"
   },
   {
     "id": "arXiv AI_41ef322c989ed2bd",
@@ -1228,7 +1181,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.038851"
+    "created_at": "2026-10-24T02:30:50.230087"
   },
   {
     "id": "arXiv ML_c3e8cce7cfe34102",
@@ -1243,7 +1196,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:48.689808"
+    "created_at": "2026-10-24T02:30:51.096013"
   },
   {
     "id": "Reddit ML_bfa2706dd21e38ac",
@@ -1258,7 +1211,22 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151513"
+    "created_at": "2026-10-24T02:30:55.697666"
+  },
+  {
+    "id": "Reddit ML_9f99f3a4c73a5e3c",
+    "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+    "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
+    "content": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+    "source": "Reddit ML",
+    "author": "/u/Future-Structure-296",
+    "published_date": "2026-10-23T17:25:52+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:55.697792"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1275,7 +1243,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.715683"
+    "created_at": "2026-10-24T02:30:56.226844"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1292,7 +1260,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:37.462759"
+    "created_at": "2026-10-24T02:30:39.944179"
+  },
+  {
+    "id": "Reddit ML_5b43f040695b5d15",
+    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+    "source": "Reddit ML",
+    "author": "/u/mistlab",
+    "published_date": "2026-10-23T15:37:23+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T02:30:55.697443"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1309,7 +1292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:38.661966"
+    "created_at": "2026-10-24T02:30:41.146172"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1326,7 +1309,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-23T20:47:38.662117"
+    "created_at": "2026-10-24T02:30:41.146324"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -1343,7 +1326,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:39.478814"
+    "created_at": "2026-10-24T02:30:41.974514"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1360,7 +1343,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:40.661664"
+    "created_at": "2026-10-24T02:30:43.095712"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1377,7 +1360,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:37.462901"
+    "created_at": "2026-10-24T02:30:39.944325"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1394,7 +1377,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:37.462955"
+    "created_at": "2026-10-24T02:30:39.944380"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1411,7 +1394,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:44.688563"
+    "created_at": "2026-10-24T02:30:47.165776"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1428,7 +1411,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:36.423874"
+    "created_at": "2026-10-24T02:30:38.984745"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1445,25 +1428,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-23T20:47:36.424036"
-  },
-  {
-    "id": "Lobsters AI_dd37a3266947aa05",
-    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
-    "summary": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "content": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
-    "source": "Lobsters AI",
-    "author": "by dtsdwarak",
-    "published_date": "Wed, 07 Oct 2026 09:12:02 -0500",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.716050"
+    "created_at": "2026-10-24T02:30:38.984907"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1480,7 +1445,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.715757"
+    "created_at": "2026-10-24T02:30:56.226927"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1497,7 +1462,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.715956"
+    "created_at": "2026-10-24T02:30:56.227137"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1512,6 +1477,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-23T20:47:53.151001"
+    "created_at": "2026-10-24T02:30:55.697146"
   }
 ]
