@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.948320"
+    "created_at": "2026-10-24T09:58:54.322143"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -33,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427266"
+    "created_at": "2026-10-24T09:59:00.749617"
   },
   {
     "id": "TechCrunch AI_7facadd0b436bf0e",
@@ -51,25 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071853"
-  },
-  {
-    "id": "The Verge AI_db3f7fe1547c327f",
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
-    "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-23T17:11:07-04:00",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.947658"
+    "created_at": "2026-10-24T09:58:53.303730"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -89,25 +71,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427186"
-  },
-  {
-    "id": "TechCrunch AI_9f312d10598c6559",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Fri, 23 Oct 2026 23:05:49 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071424"
+    "created_at": "2026-10-24T09:59:00.749534"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -125,7 +89,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427353"
+    "created_at": "2026-10-24T09:59:00.749705"
+  },
+  {
+    "id": "The Verge AI_db3f7fe1547c327f",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-23T17:11:07-04:00",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T09:58:54.321684"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -143,25 +125,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427732"
+    "created_at": "2026-10-24T09:59:00.750072"
   },
   {
-    "id": "OpenAI News_de378f1358aae71c",
-    "title": "What FDE means at OpenAI",
-    "summary": "What forward deployed engineering means at OpenAI",
-    "content": "What forward deployed engineering means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 06:00:00 GMT",
-    "importance_score": 7.2,
+    "id": "TechCrunch AI_9f312d10598c6559",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Fri, 23 Oct 2026 23:05:49 +0000",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427418"
+    "created_at": "2026-10-24T09:58:53.303397"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -181,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427522"
+    "created_at": "2026-10-24T09:59:00.749865"
   },
   {
     "id": "TechCrunch AI_7402439126dd7563",
@@ -199,7 +181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.072031"
+    "created_at": "2026-10-24T09:58:53.304000"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -217,25 +199,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:43.095567"
-  },
-  {
-    "id": "TechCrunch AI_0b624ccc371b2c1a",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Fri, 23 Oct 2026 04:00:00 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071692"
+    "created_at": "2026-10-24T09:58:59.433295"
   },
   {
     "id": "The Verge AI_457a541ecb52ed42",
@@ -252,7 +216,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.947945"
+    "created_at": "2026-10-24T09:58:54.321903"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -269,7 +233,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.948058"
+    "created_at": "2026-10-24T09:58:54.321981"
+  },
+  {
+    "id": "OpenAI News_de378f1358aae71c",
+    "title": "What FDE means at OpenAI",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "content": "What forward deployed engineering means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T09:59:00.749770"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -287,7 +269,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427595"
+    "created_at": "2026-10-24T09:59:00.749935"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -305,7 +287,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427658"
+    "created_at": "2026-10-24T09:59:00.749998"
   },
   {
     "id": "Wired AI_ddc55b70124db5bd",
@@ -324,7 +306,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.984984"
+    "created_at": "2026-10-24T09:58:55.289881"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -342,7 +324,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:39.944438"
+    "created_at": "2026-10-24T09:58:56.296941"
   },
   {
     "id": "TechCrunch AI_0243eb1297cc386d",
@@ -359,7 +341,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.072118"
+    "created_at": "2026-10-24T09:58:53.303902"
+  },
+  {
+    "id": "TechCrunch AI_0b624ccc371b2c1a",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "author": "Jagmeet Singh",
+    "published_date": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T09:58:53.303588"
   },
   {
     "id": "TechCrunch AI_367a97ce9b1c5d9b",
@@ -376,7 +376,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071954"
+    "created_at": "2026-10-24T09:58:53.303825"
   },
   {
     "id": "The Verge AI_6fcf4aad5e4907e7",
@@ -393,7 +393,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.948467"
+    "created_at": "2026-10-24T09:58:54.322213"
   },
   {
     "id": "The Verge AI_05997250b2c13580",
@@ -410,7 +410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.948590"
+    "created_at": "2026-10-24T09:58:54.322281"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -427,7 +427,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.984583"
+    "created_at": "2026-10-24T09:58:55.289455"
   },
   {
     "id": "TechCrunch AI_726cd35f8764e6e5",
@@ -444,7 +444,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.072219"
+    "created_at": "2026-10-24T09:58:53.304105"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -461,7 +461,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.948165"
+    "created_at": "2026-10-24T09:58:54.322051"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -479,7 +479,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.984826"
+    "created_at": "2026-10-24T09:58:55.289697"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -496,61 +496,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.973930"
-  },
-  {
-    "id": "arXiv ML_970c53386944068c",
-    "title": "MoEZip: Routing-Aware KV Cache Compression for Sparse Mixture-of-Experts LLMs",
-    "summary": "arXiv:2610.30206v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence...",
-    "content": "arXiv:2610.30206v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) language models scale model capacity efficiently by activating a small subset of parameters per token. However, in long-context inference, memory remains a major bottleneck because the KV cache grows linearly with sequence...",
-    "url": "https://arxiv.org/abs/2610.30206",
-    "source": "arXiv ML",
-    "author": "Minsang Kim, Seungjun Baek",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.9,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.095247"
-  },
-  {
-    "id": "arXiv ML_7078bb32262f0097",
-    "title": "AI Mindmeld: A Latent Interconnect Protocol",
-    "summary": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional...",
-    "content": "arXiv:2610.30215v1 Announce Type: new Abstract: LLMs can act as scientific agents using tools to consult specialists and run experiments. Yet specialist information must enter their context, generally as text, images, audio or video: a bottleneck between models with rich, high-dimensional...",
-    "url": "https://arxiv.org/abs/2610.30215",
-    "source": "arXiv ML",
-    "author": "Siavash Golkar, Jake Kovalic, Shirley Ho",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.9,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.095651"
-  },
-  {
-    "id": "arXiv ML_2b2ac1f7ffe83652",
-    "title": "Automated screening of privacy risks in medical AI",
-    "summary": "arXiv:2610.30229v1 Announce Type: new Abstract: Medical artificial intelligence (AI) models are often shared without their training data, assuming this protects the patients who contributed them.",
-    "content": "arXiv:2610.30229v1 Announce Type: new Abstract: Medical artificial intelligence (AI) models are often shared without their training data, assuming this protects the patients who contributed them.",
-    "url": "https://arxiv.org/abs/2610.30229",
-    "source": "arXiv ML",
-    "author": "Konstantinos Vrettos, Eleftherios Tzanis, Haridimos Kondylakis, Evangelia E. Vassalou, Florence X. Doo, Michail E. Klontzas",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.9,
-    "category": "research",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.096251"
+    "created_at": "2026-10-24T09:58:58.314285"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -567,7 +513,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:39.944254"
+    "created_at": "2026-10-24T09:58:56.296701"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -586,7 +532,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:47.165712"
+    "created_at": "2026-10-24T09:59:03.469158"
   },
   {
     "id": "TechCrunch AI_b78b969f73b1c3cc",
@@ -603,7 +549,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071566"
+    "created_at": "2026-10-24T09:58:53.303512"
   },
   {
     "id": "The Verge AI_a0a62bf456487b3e",
@@ -620,7 +566,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.947815"
+    "created_at": "2026-10-24T09:58:54.321788"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -637,7 +583,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.146025"
+    "created_at": "2026-10-24T09:58:57.370016"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -654,7 +600,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.146102"
+    "created_at": "2026-10-24T09:58:57.370092"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -671,112 +617,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.146251"
-  },
-  {
-    "id": "arXiv AI_9153d07615279c71",
-    "title": "Neural Networks with Differentiable Belief-Function Layers",
-    "summary": "arXiv:2610.30173v1 Announce Type: new Abstract: Yager's 1987 rule of combination $\\boxplus$ was proposed on epistemic grounds: under high conflict, mass should be redistributed to ignorance rather than renormalised onto the class simplex.",
-    "content": "arXiv:2610.30173v1 Announce Type: new Abstract: Yager's 1987 rule of combination $\\boxplus$ was proposed on epistemic grounds: under high conflict, mass should be redistributed to ignorance rather than renormalised onto the class simplex.",
-    "url": "https://arxiv.org/abs/2610.30173",
-    "source": "arXiv AI",
-    "author": "Antonin Sulc",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "neural network"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229502"
-  },
-  {
-    "id": "arXiv AI_256730f631e6e5b0",
-    "title": "Feedback That Backfires in Games: Do LLM Players Repeat the Move They Just Watched Fail?",
-    "summary": "arXiv:2610.30205v1 Announce Type: new Abstract: When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed action.",
-    "content": "arXiv:2610.30205v1 Announce Type: new Abstract: When an LLM agent's move fails, the harness writes the move and the failure message into the transcript and asks again. In tool calling, this record makes small models more likely to repeat the failed action.",
-    "url": "https://arxiv.org/abs/2610.30205",
-    "source": "arXiv AI",
-    "author": "Esmail Gumaan",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-24T02:30:50.229761"
-  },
-  {
-    "id": "arXiv AI_47de00a7b4e0cda3",
-    "title": "Breaking the high-degree barrier in Lehmer's problem with a human-AI discovery loop",
-    "summary": "arXiv:2610.30277v1 Announce Type: new Abstract: While artificial intelligence has made rapid progress in mathematical reasoning, many open problems depend on structure that is revealed only through large-scale computational exploration and analytical synthesis.",
-    "content": "arXiv:2610.30277v1 Announce Type: new Abstract: While artificial intelligence has made rapid progress in mathematical reasoning, many open problems depend on structure that is revealed only through large-scale computational exploration and analytical synthesis.",
-    "url": "https://arxiv.org/abs/2610.30277",
-    "source": "arXiv AI",
-    "author": "Yuri Chervonyi, Sergei Gukov, Thang Luong",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-24T02:30:50.229882"
-  },
-  {
-    "id": "arXiv ML_ecefba570352abc3",
-    "title": "Spectral Uncertainty Decomposition for Sparse Bayesian Learning",
-    "summary": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging.",
-    "content": "arXiv:2610.30207v1 Announce Type: new Abstract: Estimating distributed neural sources from M/EEG measurements is an ill-posed inverse problem where principled uncertainty quantification remains challenging.",
-    "url": "https://arxiv.org/abs/2610.30207",
-    "source": "arXiv ML",
-    "author": "Ismail Huseynov, Stefan Haufe",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-24T02:30:51.095366"
-  },
-  {
-    "id": "arXiv ML_12a7a631e3dd9b11",
-    "title": "How Prompt Style Affects AI Accuracy and Speed in Competitive Programming",
-    "summary": "arXiv:2610.30223v1 Announce Type: new Abstract: Large language models are increasingly used in competitive programming, and their outputs are sensitive to how a prompt is phrased. Prior work has compared prompt strategies for accuracy on competitive programming, but not for runtime speed, and has...",
-    "content": "arXiv:2610.30223v1 Announce Type: new Abstract: Large language models are increasingly used in competitive programming, and their outputs are sensitive to how a prompt is phrased. Prior work has compared prompt strategies for accuracy on competitive programming, but not for runtime speed, and has...",
-    "url": "https://arxiv.org/abs/2610.30223",
-    "source": "arXiv ML",
-    "author": "Saad B. Alarifi, Mohammed A. Alam",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.095903"
-  },
-  {
-    "id": "arXiv ML_c621a7767bb1f2d1",
-    "title": "Benchmarking Model Compression Techniques Across Heterogeneous Edge Platforms: A Predictive Maintenance Use Case for Rotating Machinery",
-    "summary": "arXiv:2610.30228v1 Announce Type: new Abstract: To enable Industry 5.0, where autonomous systems are widely adopted and integrated with people to promote sustainable development in industries, it is imperative to adapt complex deep learning models to operate efficiently on resource-constrained...",
-    "content": "arXiv:2610.30228v1 Announce Type: new Abstract: To enable Industry 5.0, where autonomous systems are widely adopted and integrated with people to promote sustainable development in industries, it is imperative to adapt complex deep learning models to operate efficiently on resource-constrained...",
-    "url": "https://arxiv.org/abs/2610.30228",
-    "source": "arXiv ML",
-    "author": "Matheus Calheira Guimar\\~aes de Oliveira, Marco Aur\\'elio da Silva Cruz, Regis Cardoso, Lucas Cambuim, Rafael Macieira, Arthur Paim, Helaine Neves, Alex Santos, Lilian Guarieiro, Jean Schmith, Prashant Kumar, Erick G. Sperandio Nascimento",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "deep learning",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.096143"
+    "created_at": "2026-10-24T09:58:57.370242"
   },
   {
     "id": "Reddit ML_c7c96f90d2001fcd",
@@ -794,7 +635,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697254"
+    "created_at": "2026-10-24T09:59:11.959681"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -811,7 +652,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:44.427799"
+    "created_at": "2026-10-24T09:59:00.750139"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -828,7 +669,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.984680"
+    "created_at": "2026-10-24T09:58:55.289552"
   },
   {
     "id": "Wired AI_3e51f204fe929d28",
@@ -845,158 +686,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.985062"
-  },
-  {
-    "id": "arXiv AI_0865c5feda0d1540",
-    "title": "The Cost of Saying Hello: An Empirical Study of Handshake Overhead in AI Agent Communication Protocols",
-    "summary": "arXiv:2610.30151v1 Announce Type: new Abstract: Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent.",
-    "content": "arXiv:2610.30151v1 Announce Type: new Abstract: Every interaction between AI agents begins with a handshake: the initiating agent must locate its counterpart, learn what it can do, and establish a session before the first useful message can be sent.",
-    "url": "https://arxiv.org/abs/2610.30151",
-    "source": "arXiv AI",
-    "author": "Pranav Varshney",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229095"
-  },
-  {
-    "id": "arXiv AI_0cad621cab3fe3e9",
-    "title": "MCP vs CLI for AI Agents: A Comparative Analysis of Tool Integration Strategies for Autonomous Systems",
-    "summary": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context...",
-    "content": "arXiv:2610.30157v1 Announce Type: new Abstract: AI agents require interfaces to interact with external systems such as files, APIs, databases, and cloud services. Two competing paradigms have emerged: CLI (Command Line Interface), where agents execute shell commands directly, and MCP (Model Context...",
-    "url": "https://arxiv.org/abs/2610.30157",
-    "source": "arXiv AI",
-    "author": "Arun Malik, Nitish Talasu, Bradley Klemick, Vineet Tushar Trivedi, Prachi Shah, Sanay Devi, Junjie Zhang, Kunal Sonawane",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229223"
-  },
-  {
-    "id": "arXiv AI_45145f5fa8d6d3b1",
-    "title": "Accelerating Wildfire Hazard Mapping Across Canada with an AI Surrogate Modelling Framework",
-    "summary": "arXiv:2610.30170v1 Announce Type: new Abstract: Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use planning, infrastructure protection, and evacuation routing.",
-    "content": "arXiv:2610.30170v1 Announce Type: new Abstract: Canada's increasing wildfire activity requires frequent national hazard mapping to guide proactive mitigation, including fuel management, land-use planning, infrastructure protection, and evacuation routing.",
-    "url": "https://arxiv.org/abs/2610.30170",
-    "source": "arXiv AI",
-    "author": "Hager Radi Abdelwahed, Toluwaleke Olutayo, Chirag Goel, Jana Osea, Aldo Zaimi, Tom Swystun, Sandy Erni, Francisco Emiliano Lopez Saavedra, Yan Boulanger, Ga\\'etan Marceau Caron",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229345"
-  },
-  {
-    "id": "arXiv AI_f36f2d285ed2f8df",
-    "title": "When Stable and Preferred Semantics Agree: A Path-Based Approach",
-    "summary": "arXiv:2610.30176v1 Announce Type: new Abstract: We investigate structural conditions under which preferred and stable semantics agree in abstract argumentation frameworks. Our approach is based on suitably chosen sets of paths in the attack graph and binary relations induced by them.",
-    "content": "arXiv:2610.30176v1 Announce Type: new Abstract: We investigate structural conditions under which preferred and stable semantics agree in abstract argumentation frameworks. Our approach is based on suitably chosen sets of paths in the attack graph and binary relations induced by them.",
-    "url": "https://arxiv.org/abs/2610.30176",
-    "source": "arXiv AI",
-    "author": "Yan Zhang, Kehan Liu",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229635"
-  },
-  {
-    "id": "arXiv AI_c9073255cba5b950",
-    "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
-    "summary": "arXiv:2610.30351v1 Announce Type: new Abstract: Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones.",
-    "content": "arXiv:2610.30351v1 Announce Type: new Abstract: Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones.",
-    "url": "https://arxiv.org/abs/2610.30351",
-    "source": "arXiv AI",
-    "author": "Tien-Phat Nguyen, Truong Nguyen, Thanh-Thien Le, Hoang Phan, Thien Huu Nguyen, Linh Ngo Van, Trung Le",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.229975"
-  },
-  {
-    "id": "arXiv AI_90e48565dfc2b716",
-    "title": "RoleFlow: Self-Evolving Multi-Role Agentic Collaboration via Structural Adaptation",
-    "summary": "arXiv:2610.30429v1 Announce Type: new Abstract: Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements.",
-    "content": "arXiv:2610.30429v1 Announce Type: new Abstract: Large language model (LLM) based multi-agent systems often rely on predefined collaboration structures, limiting their adaptability to evolving task requirements.",
-    "url": "https://arxiv.org/abs/2610.30429",
-    "source": "arXiv AI",
-    "author": "Yi Ge, Pan Wang, Xuehao Cui, Zian Zeng, Xu Hu, Heng Huang, Furong Huang",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.230185"
-  },
-  {
-    "id": "arXiv ML_aed5e8ed64090bce",
-    "title": "Prediction Is Not Calibration: Item Parameter Recovery and Representation Coupling in Knowledge Tracing",
-    "summary": "arXiv:2610.30211v1 Announce Type: new Abstract: Knowledge tracing (KT) models can estimate item parameters through an item response decoder trained solely for next-response prediction, yet predictive accuracy does not guarantee parameter recovery.",
-    "content": "arXiv:2610.30211v1 Announce Type: new Abstract: Knowledge tracing (KT) models can estimate item parameters through an item response decoder trained solely for next-response prediction, yet predictive accuracy does not guarantee parameter recovery.",
-    "url": "https://arxiv.org/abs/2610.30211",
-    "source": "arXiv ML",
-    "author": "Wenrui Yuan, St\\'ephanie M. van den Berg, Johannes Steinr\\\"ucke",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.095519"
-  },
-  {
-    "id": "arXiv ML_95d207600c00c80a",
-    "title": "When Reconstruction Is Not Enough: Doubly Robust Counterfactual and Interventional Mediation Analysis with Learned Multimodal Representations",
-    "summary": "arXiv:2610.30220v1 Announce Type: new Abstract: Learned representations of high-dimensional multimodal health records are increasingly used to adjust for confounding, yet they are usually trained to reconstruct the data rather than preserve the information that causal identification requires.",
-    "content": "arXiv:2610.30220v1 Announce Type: new Abstract: Learned representations of high-dimensional multimodal health records are increasingly used to adjust for confounding, yet they are usually trained to reconstruct the data rather than preserve the information that causal identification requires.",
-    "url": "https://arxiv.org/abs/2610.30220",
-    "source": "arXiv ML",
-    "author": "Cong Cao",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.095785"
-  },
-  {
-    "id": "arXiv ML_7527e12ff71de69f",
-    "title": "Edit, Don't Imitate: Minimal-Edit On-Policy Distillation for Multimodal Reasoning",
-    "summary": "arXiv:2610.30231v1 Announce Type: new Abstract: Visual mathematical reasoning can fail before reasoning begins: when a vision-language model (VLM) misreads a diagram, subsequent reasoning proceeds from false premises.",
-    "content": "arXiv:2610.30231v1 Announce Type: new Abstract: Visual mathematical reasoning can fail before reasoning begins: when a vision-language model (VLM) misreads a diagram, subsequent reasoning proceeds from false premises.",
-    "url": "https://arxiv.org/abs/2610.30231",
-    "source": "arXiv ML",
-    "author": "Wen Ye, Ailin Deng, Zirui Wang, Shixing Yu, Han Zhang, Tian Yun, Nikhil Mehta, Tarun Kalluri, Xuefei Cao, Xuezhe Ma, Hengduo Li",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.096359"
+    "created_at": "2026-10-24T09:58:55.289960"
   },
   {
     "id": "Reddit ML_ff49d89bc842c881",
@@ -1013,7 +703,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697554"
+    "created_at": "2026-10-24T09:59:11.959751"
   },
   {
     "id": "TechCrunch AI_95627e96aa693fcf",
@@ -1030,7 +720,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:37.071783"
+    "created_at": "2026-10-24T09:58:53.303662"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -1047,7 +737,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-24T02:30:38.984483"
+    "created_at": "2026-10-24T09:58:55.289360"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -1064,7 +754,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974049"
+    "created_at": "2026-10-24T09:58:58.314404"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1081,7 +771,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974130"
+    "created_at": "2026-10-24T09:58:58.314486"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -1098,7 +788,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974230"
+    "created_at": "2026-10-24T09:58:58.314586"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -1115,24 +805,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974306"
-  },
-  {
-    "id": "MIT Technology Review_381aa14564b12159",
-    "title": "AI’s hidden storage bill: What inference leaves behind",
-    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-    "content": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "source": "MIT Technology Review",
-    "author": "Tim Rausch",
-    "published_date": "Thu, 22 Oct 2026 08:41:18 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974407"
+    "created_at": "2026-10-24T09:58:58.314664"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1149,7 +822,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:47.165573"
+    "created_at": "2026-10-24T09:59:03.469015"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1166,37 +839,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:47.165644"
-  },
-  {
-    "id": "arXiv AI_41ef322c989ed2bd",
-    "title": "Soft Ontology Priors over Latent Concept Posteriors for Weakly Supervised Neuro-Symbolic Learning",
-    "summary": "arXiv:2610.30391v1 Announce Type: new Abstract: Neuro-symbolic (NeSy) predictors that supervise only the task label suffer from reasoning shortcuts: distinct concept mappings achieve the same maximum likelihood, leaving the recovered concepts unidentifiable and unsafe for downstream reuse.",
-    "content": "arXiv:2610.30391v1 Announce Type: new Abstract: Neuro-symbolic (NeSy) predictors that supervise only the task label suffer from reasoning shortcuts: distinct concept mappings achieve the same maximum likelihood, leaving the recovered concepts unidentifiable and unsafe for downstream reuse.",
-    "url": "https://arxiv.org/abs/2610.30391",
-    "source": "arXiv AI",
-    "author": "Tengwei Song, Robert Hoehndorf",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.3,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:50.230087"
-  },
-  {
-    "id": "arXiv ML_c3e8cce7cfe34102",
-    "title": "GANet: A Lightweight Group Attention Network for Plant Disease Identification on Embedded Systems",
-    "summary": "arXiv:2610.30225v1 Announce Type: new Abstract: Global warming and climate change are major catalysts for plant diseases, significantly affecting food production worldwide. Addressing this issue requires continuous monitoring and early detection of plant diseases.",
-    "content": "arXiv:2610.30225v1 Announce Type: new Abstract: Global warming and climate change are major catalysts for plant diseases, significantly affecting food production worldwide. Addressing this issue requires continuous monitoring and early detection of plant diseases.",
-    "url": "https://arxiv.org/abs/2610.30225",
-    "source": "arXiv ML",
-    "author": "Anubhab Tripathi, Bibek Das, Asfak Ali, Sheli Shinha Chaudhuri",
-    "published_date": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.3,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:51.096013"
+    "created_at": "2026-10-24T09:59:03.469088"
   },
   {
     "id": "Reddit ML_bfa2706dd21e38ac",
@@ -1211,7 +854,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697666"
+    "created_at": "2026-10-24T09:59:11.959911"
   },
   {
     "id": "Reddit ML_9f99f3a4c73a5e3c",
@@ -1226,7 +869,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697792"
+    "created_at": "2026-10-24T09:59:11.960045"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1243,7 +886,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:56.226844"
+    "created_at": "2026-10-24T09:59:12.527070"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1260,7 +903,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:39.944179"
+    "created_at": "2026-10-24T09:58:56.296624"
   },
   {
     "id": "Reddit ML_5b43f040695b5d15",
@@ -1275,7 +918,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697443"
+    "created_at": "2026-10-24T09:59:11.959589"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1292,7 +935,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.146172"
+    "created_at": "2026-10-24T09:58:57.370164"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -1309,7 +952,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-24T02:30:41.146324"
+    "created_at": "2026-10-24T09:58:57.370320"
+  },
+  {
+    "id": "MIT Technology Review_381aa14564b12159",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+    "content": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "source": "MIT Technology Review",
+    "author": "Tim Rausch",
+    "published_date": "Thu, 22 Oct 2026 08:41:18 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T09:58:58.314766"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -1326,7 +986,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:41.974514"
+    "created_at": "2026-10-24T09:58:58.314874"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1343,7 +1003,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:43.095712"
+    "created_at": "2026-10-24T09:58:59.433387"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1360,7 +1020,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:39.944325"
+    "created_at": "2026-10-24T09:58:56.296773"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1377,7 +1037,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:39.944380"
+    "created_at": "2026-10-24T09:58:56.296876"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1394,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:47.165776"
+    "created_at": "2026-10-24T09:59:03.469222"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1411,7 +1071,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:38.984745"
+    "created_at": "2026-10-24T09:58:55.289616"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1428,7 +1088,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-24T02:30:38.984907"
+    "created_at": "2026-10-24T09:58:55.289779"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1445,7 +1105,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:56.226927"
+    "created_at": "2026-10-24T09:59:12.527152"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1462,7 +1122,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:56.227137"
+    "created_at": "2026-10-24T09:59:12.527358"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1477,6 +1137,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T02:30:55.697146"
+    "created_at": "2026-10-24T09:59:11.959367"
   }
 ]
