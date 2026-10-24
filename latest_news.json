@@ -1,5 +1,23 @@
 [
   {
+    "id": "TechCrunch AI_1c875a66b843b051",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:55.206530"
+  },
+  {
     "id": "The Verge AI_31fec179a2a86d9d",
     "title": "Canva’s first AI image model plans designs before generating them",
     "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater...",
@@ -15,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309773"
+    "created_at": "2026-10-24T19:57:56.174993"
   },
   {
     "id": "TechCrunch AI_7facadd0b436bf0e",
@@ -33,7 +51,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334805"
+    "created_at": "2026-10-24T19:57:55.207554"
+  },
+  {
+    "id": "TechCrunch AI_ea19a41aae0d4432",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "content": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:55.206853"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -51,27 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761135"
-  },
-  {
-    "id": "OpenAI News_4980d5329eaa76fd",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "importance_score": 8.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761055"
+    "created_at": "2026-10-24T19:58:02.604367"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -89,7 +106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761225"
+    "created_at": "2026-10-24T19:58:02.604454"
   },
   {
     "id": "The Verge AI_db3f7fe1547c327f",
@@ -107,7 +124,27 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309318"
+    "created_at": "2026-10-24T19:57:56.174540"
+  },
+  {
+    "id": "OpenAI News_4980d5329eaa76fd",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "importance_score": 7.6,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:58:02.604287"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -125,7 +162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761557"
+    "created_at": "2026-10-24T19:58:02.604778"
   },
   {
     "id": "TechCrunch AI_9f312d10598c6559",
@@ -143,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334452"
+    "created_at": "2026-10-24T19:57:55.207111"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -163,25 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761357"
-  },
-  {
-    "id": "TechCrunch AI_7402439126dd7563",
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334969"
+    "created_at": "2026-10-24T19:58:02.604581"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -199,24 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:23.543119"
-  },
-  {
-    "id": "The Verge AI_457a541ecb52ed42",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-23T12:52:55-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309511"
+    "created_at": "2026-10-24T19:58:01.368745"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -234,7 +236,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761291"
+    "created_at": "2026-10-24T19:58:02.604518"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -252,7 +254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761422"
+    "created_at": "2026-10-24T19:58:02.604646"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -270,7 +272,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761484"
+    "created_at": "2026-10-24T19:58:02.604706"
+  },
+  {
+    "id": "The Verge AI_d99a6833a3a17b76",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
+    "content": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-24T14:32:21-04:00",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:56.174452"
   },
   {
     "id": "Wired AI_ddc55b70124db5bd",
@@ -289,7 +309,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319613"
+    "created_at": "2026-10-24T19:57:57.169667"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -307,7 +327,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:20.491584"
+    "created_at": "2026-10-24T19:57:58.528150"
+  },
+  {
+    "id": "TechCrunch AI_61ea5c601fe7b434",
+    "title": "Block’s new voice model sounds eerily human",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "content": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Sat, 24 Oct 2026 16:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:55.206688"
   },
   {
     "id": "TechCrunch AI_646780a825bd135a",
@@ -324,41 +361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334346"
-  },
-  {
-    "id": "TechCrunch AI_0243eb1297cc386d",
-    "title": "Canva releases its first image generation model",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.335036"
-  },
-  {
-    "id": "Wired AI_beaecc78216d5b92",
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "content": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman, Matt Burgess",
-    "published_date": "Sat, 24 Oct 2026 12:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319015"
+    "created_at": "2026-10-24T19:57:55.206954"
   },
   {
     "id": "TechCrunch AI_0b624ccc371b2c1a",
@@ -376,24 +379,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334631"
+    "created_at": "2026-10-24T19:57:55.207342"
   },
   {
-    "id": "TechCrunch AI_367a97ce9b1c5d9b",
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "id": "The Verge AI_457a541ecb52ed42",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-23T12:52:55-04:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334882"
+    "created_at": "2026-10-24T19:57:56.174723"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -410,7 +413,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309588"
+    "created_at": "2026-10-24T19:57:56.174800"
   },
   {
     "id": "The Verge AI_6fcf4aad5e4907e7",
@@ -427,7 +430,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309852"
+    "created_at": "2026-10-24T19:57:56.175067"
   },
   {
     "id": "The Verge AI_05997250b2c13580",
@@ -444,25 +447,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309923"
+    "created_at": "2026-10-24T19:57:56.175137"
   },
   {
-    "id": "Reddit ML_d170d90ec42dd399",
-    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
-    "source": "Reddit ML",
-    "author": "/u/GGAllin43",
-    "published_date": "2026-10-24T09:58:29+00:00",
-    "importance_score": 6.0,
+    "id": "Wired AI_beaecc78216d5b92",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "content": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "AI",
-      "transformer"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.429980"
+    "created_at": "2026-10-24T19:57:57.169090"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -480,7 +482,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319445"
+    "created_at": "2026-10-24T19:57:57.169510"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -497,7 +499,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:20.491396"
+    "created_at": "2026-10-24T19:57:58.527957"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -516,41 +518,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:27.568164"
-  },
-  {
-    "id": "TechCrunch AI_b78b969f73b1c3cc",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334558"
-  },
-  {
-    "id": "The Verge AI_a0a62bf456487b3e",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-23T15:32:39-04:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309422"
+    "created_at": "2026-10-24T19:58:05.336484"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -567,7 +535,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:21.421460"
+    "created_at": "2026-10-24T19:57:59.258502"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -584,7 +552,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:21.421538"
+    "created_at": "2026-10-24T19:57:59.258580"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -601,7 +569,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:21.421692"
+    "created_at": "2026-10-24T19:57:59.258732"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -618,7 +586,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319196"
+    "created_at": "2026-10-24T19:57:57.169269"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -635,7 +603,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:24.761624"
+    "created_at": "2026-10-24T19:58:02.604844"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -652,7 +620,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319291"
+    "created_at": "2026-10-24T19:57:57.169360"
+  },
+  {
+    "id": "Reddit ML_d170d90ec42dd399",
+    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+    "source": "Reddit ML",
+    "author": "/u/GGAllin43",
+    "published_date": "2026-10-24T09:58:29+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:58:18.927448"
   },
   {
     "id": "TechCrunch AI_95627e96aa693fcf",
@@ -669,7 +655,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:17.334703"
+    "created_at": "2026-10-24T19:57:55.207487"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -686,24 +672,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:18.309659"
-  },
-  {
-    "id": "Wired AI_bba8c3995c877def",
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "content": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "source": "Wired AI",
-    "author": "Zoë Schiffer",
-    "published_date": "Thu, 22 Oct 2026 19:56:32 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-24T15:03:19.319106"
+    "created_at": "2026-10-24T19:57:56.174873"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -720,7 +689,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433429"
+    "created_at": "2026-10-24T19:58:00.176690"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -737,24 +706,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433551"
-  },
-  {
-    "id": "MIT Technology Review_3405569cf1aac314",
-    "title": "The Foundations of Scalable AI",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Events",
-    "published_date": "Thu, 22 Oct 2026 18:48:04 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433635"
+    "created_at": "2026-10-24T19:58:00.176815"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -771,7 +723,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:27.568022"
+    "created_at": "2026-10-24T19:58:05.336341"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -788,7 +740,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:27.568094"
+    "created_at": "2026-10-24T19:58:05.336413"
+  },
+  {
+    "id": "TechCrunch AI_b78b969f73b1c3cc",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:55.207270"
+  },
+  {
+    "id": "The Verge AI_a0a62bf456487b3e",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-23T15:32:39-04:00",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:57:56.174638"
   },
   {
     "id": "Reddit ML_c7c96f90d2001fcd",
@@ -806,22 +792,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.429865"
-  },
-  {
-    "id": "Reddit ML_5b43f040695b5d15",
-    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-    "source": "Reddit ML",
-    "author": "/u/mistlab",
-    "published_date": "2026-10-23T15:37:23+00:00",
-    "importance_score": 5.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.429769"
+    "created_at": "2026-10-24T19:58:18.927336"
   },
   {
     "id": "Reddit ML_ff49d89bc842c881",
@@ -838,7 +809,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.430050"
+    "created_at": "2026-10-24T19:58:18.927518"
+  },
+  {
+    "id": "Wired AI_bba8c3995c877def",
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "content": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "source": "Wired AI",
+    "author": "Zoë Schiffer",
+    "published_date": "Thu, 22 Oct 2026 19:56:32 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-24T19:57:57.169180"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -855,7 +843,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:21.421611"
+    "created_at": "2026-10-24T19:57:59.258653"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -872,7 +860,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-24T15:03:21.421790"
+    "created_at": "2026-10-24T19:57:59.258804"
+  },
+  {
+    "id": "MIT Technology Review_3405569cf1aac314",
+    "title": "The Foundations of Scalable AI",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+    "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Events",
+    "published_date": "Thu, 22 Oct 2026 18:48:04 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:58:00.176918"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -889,7 +894,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433743"
+    "created_at": "2026-10-24T19:58:00.177023"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -906,7 +911,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433847"
+    "created_at": "2026-10-24T19:58:00.177102"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -923,7 +928,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.433952"
+    "created_at": "2026-10-24T19:58:00.177203"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -940,7 +945,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:22.434033"
+    "created_at": "2026-10-24T19:58:00.177283"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -957,7 +962,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:23.543218"
+    "created_at": "2026-10-24T19:58:01.368840"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -974,7 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:20.491469"
+    "created_at": "2026-10-24T19:57:58.528032"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -991,7 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:20.491525"
+    "created_at": "2026-10-24T19:57:58.528087"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1008,7 +1013,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:27.568228"
+    "created_at": "2026-10-24T19:58:05.336547"
   },
   {
     "id": "Reddit ML_bfa2706dd21e38ac",
@@ -1023,7 +1028,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.430176"
+    "created_at": "2026-10-24T19:58:18.927644"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1040,7 +1045,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.588585"
+    "created_at": "2026-10-24T19:58:19.546715"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1057,7 +1062,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:19.319354"
+    "created_at": "2026-10-24T19:57:57.169422"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1074,7 +1079,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-24T15:03:19.319538"
+    "created_at": "2026-10-24T19:57:57.169592"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1091,7 +1096,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:20.491320"
+    "created_at": "2026-10-24T19:57:58.527856"
+  },
+  {
+    "id": "Reddit ML_5b43f040695b5d15",
+    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+    "source": "Reddit ML",
+    "author": "/u/mistlab",
+    "published_date": "2026-10-23T15:37:23+00:00",
+    "importance_score": 4.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T19:58:18.927246"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1108,7 +1128,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.588669"
+    "created_at": "2026-10-24T19:58:19.546797"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1125,7 +1145,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.588904"
+    "created_at": "2026-10-24T19:58:19.547036"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1140,6 +1160,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T15:03:36.429518"
+    "created_at": "2026-10-24T19:58:18.927025"
   }
 ]
