@@ -15,25 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.322143"
-  },
-  {
-    "id": "OpenAI News_f7d66257d0c6d8b8",
-    "title": "Securing our frontier model training environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 10:00:00 GMT",
-    "importance_score": 8.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749617"
+    "created_at": "2026-10-24T15:03:18.309773"
   },
   {
     "id": "TechCrunch AI_7facadd0b436bf0e",
@@ -51,7 +33,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303730"
+    "created_at": "2026-10-24T15:03:17.334805"
+  },
+  {
+    "id": "OpenAI News_f7d66257d0c6d8b8",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "importance_score": 8.200000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:24.761135"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -71,7 +71,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749534"
+    "created_at": "2026-10-24T15:03:24.761055"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -89,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749705"
+    "created_at": "2026-10-24T15:03:24.761225"
   },
   {
     "id": "The Verge AI_db3f7fe1547c327f",
@@ -107,7 +107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.321684"
+    "created_at": "2026-10-24T15:03:18.309318"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -125,7 +125,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.750072"
+    "created_at": "2026-10-24T15:03:24.761557"
   },
   {
     "id": "TechCrunch AI_9f312d10598c6559",
@@ -143,7 +143,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303397"
+    "created_at": "2026-10-24T15:03:17.334452"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -163,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749865"
+    "created_at": "2026-10-24T15:03:24.761357"
   },
   {
     "id": "TechCrunch AI_7402439126dd7563",
@@ -181,7 +181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.304000"
+    "created_at": "2026-10-24T15:03:17.334969"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -199,7 +199,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:59.433295"
+    "created_at": "2026-10-24T15:03:23.543119"
   },
   {
     "id": "The Verge AI_457a541ecb52ed42",
@@ -216,24 +216,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.321903"
-  },
-  {
-    "id": "The Verge AI_8d75b4da1112d77b",
-    "title": "Meta delays new business terms after publisher pushback on AI scraping",
-    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-    "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
-    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-23T10:47:41-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.321981"
+    "created_at": "2026-10-24T15:03:18.309511"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -251,7 +234,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749770"
+    "created_at": "2026-10-24T15:03:24.761291"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -269,7 +252,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749935"
+    "created_at": "2026-10-24T15:03:24.761422"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -287,7 +270,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.749998"
+    "created_at": "2026-10-24T15:03:24.761484"
   },
   {
     "id": "Wired AI_ddc55b70124db5bd",
@@ -306,7 +289,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289881"
+    "created_at": "2026-10-24T15:03:19.319613"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -324,7 +307,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:56.296941"
+    "created_at": "2026-10-24T15:03:20.491584"
+  },
+  {
+    "id": "TechCrunch AI_646780a825bd135a",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:17.334346"
   },
   {
     "id": "TechCrunch AI_0243eb1297cc386d",
@@ -341,7 +341,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303902"
+    "created_at": "2026-10-24T15:03:17.335036"
+  },
+  {
+    "id": "Wired AI_beaecc78216d5b92",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "content": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 24 Oct 2026 12:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:19.319015"
   },
   {
     "id": "TechCrunch AI_0b624ccc371b2c1a",
@@ -359,7 +376,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303588"
+    "created_at": "2026-10-24T15:03:17.334631"
   },
   {
     "id": "TechCrunch AI_367a97ce9b1c5d9b",
@@ -376,7 +393,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303825"
+    "created_at": "2026-10-24T15:03:17.334882"
+  },
+  {
+    "id": "The Verge AI_8d75b4da1112d77b",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
+    "content": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company.",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-23T10:47:41-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:18.309588"
   },
   {
     "id": "The Verge AI_6fcf4aad5e4907e7",
@@ -393,7 +427,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.322213"
+    "created_at": "2026-10-24T15:03:18.309852"
   },
   {
     "id": "The Verge AI_05997250b2c13580",
@@ -410,58 +444,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.322281"
+    "created_at": "2026-10-24T15:03:18.309923"
   },
   {
-    "id": "Wired AI_d6f1b4c293073e10",
-    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "content": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Thu, 22 Oct 2026 10:00:00 +0000",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289455"
-  },
-  {
-    "id": "TechCrunch AI_726cd35f8764e6e5",
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "content": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Thu, 22 Oct 2026 18:43:53 +0000",
+    "id": "Reddit ML_d170d90ec42dd399",
+    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+    "source": "Reddit ML",
+    "author": "/u/GGAllin43",
+    "published_date": "2026-10-24T09:58:29+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.304105"
-  },
-  {
-    "id": "The Verge AI_58dde85ef83a6934",
-    "title": "Retro gaming is being overrun with AI",
-    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new...",
-    "content": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-    "source": "The Verge AI",
-    "author": "Andrew Webster",
-    "published_date": "2026-10-23T08:00:00-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.322051"
+    "created_at": "2026-10-24T15:03:36.429980"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -479,24 +480,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289697"
-  },
-  {
-    "id": "MIT Technology Review_aaa9d13a35704f9a",
-    "title": "The Download: testing six tech promises and biotech’s blind spots",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely.",
-    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 23 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314285"
+    "created_at": "2026-10-24T15:03:19.319445"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -513,7 +497,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:56.296701"
+    "created_at": "2026-10-24T15:03:20.491396"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -532,7 +516,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:03.469158"
+    "created_at": "2026-10-24T15:03:27.568164"
   },
   {
     "id": "TechCrunch AI_b78b969f73b1c3cc",
@@ -549,7 +533,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303512"
+    "created_at": "2026-10-24T15:03:17.334558"
   },
   {
     "id": "The Verge AI_a0a62bf456487b3e",
@@ -566,7 +550,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:54.321788"
+    "created_at": "2026-10-24T15:03:18.309422"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -583,7 +567,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:57.370016"
+    "created_at": "2026-10-24T15:03:21.421460"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -600,7 +584,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:57.370092"
+    "created_at": "2026-10-24T15:03:21.421538"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -617,25 +601,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:57.370242"
+    "created_at": "2026-10-24T15:03:21.421692"
   },
   {
-    "id": "Reddit ML_c7c96f90d2001fcd",
-    "title": "Is symbolic ai dead? [D]",
-    "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
-    "content": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-    "source": "Reddit ML",
-    "author": "/u/Velocitank",
-    "published_date": "2026-10-23T13:49:16+00:00",
-    "importance_score": 5.7,
+    "id": "Wired AI_d6f1b4c293073e10",
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "content": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "importance_score": 5.6000000000000005,
     "category": "tech",
     "keywords": [
-      "machine learning",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.959681"
+    "created_at": "2026-10-24T15:03:19.319196"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -652,7 +635,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:00.750139"
+    "created_at": "2026-10-24T15:03:24.761624"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -669,41 +652,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289552"
-  },
-  {
-    "id": "Wired AI_3e51f204fe929d28",
-    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-    "content": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-    "source": "Wired AI",
-    "author": "Dan Goodin, Ars Technica",
-    "published_date": "Wed, 21 Oct 2026 12:35:00 +0000",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289960"
-  },
-  {
-    "id": "Reddit ML_ff49d89bc842c881",
-    "title": "AAAI 2027 phase 2 reviews discussion [D]",
-    "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
-    "content": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-    "source": "Reddit ML",
-    "author": "/u/Away-Cattle7081",
-    "published_date": "2026-10-23T12:58:18+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.959751"
+    "created_at": "2026-10-24T15:03:19.319291"
   },
   {
     "id": "TechCrunch AI_95627e96aa693fcf",
@@ -720,7 +669,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:53.303662"
+    "created_at": "2026-10-24T15:03:17.334703"
+  },
+  {
+    "id": "The Verge AI_58dde85ef83a6934",
+    "title": "Retro gaming is being overrun with AI",
+    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new...",
+    "content": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "source": "The Verge AI",
+    "author": "Andrew Webster",
+    "published_date": "2026-10-23T08:00:00-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:18.309659"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -737,7 +703,24 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-24T09:58:55.289360"
+    "created_at": "2026-10-24T15:03:19.319106"
+  },
+  {
+    "id": "MIT Technology Review_aaa9d13a35704f9a",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely.",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 23 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:22.433429"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -754,7 +737,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314404"
+    "created_at": "2026-10-24T15:03:22.433551"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -771,41 +754,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314486"
-  },
-  {
-    "id": "MIT Technology Review_0202808681749a5a",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.",
-    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 22 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314586"
-  },
-  {
-    "id": "MIT Technology Review_2a5a9200462e6f5a",
-    "title": "Making the case for context-aware AI",
-    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
-    "content": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
-    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Insights",
-    "published_date": "Thu, 22 Oct 2026 10:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314664"
+    "created_at": "2026-10-24T15:03:22.433635"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -822,7 +771,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:03.469015"
+    "created_at": "2026-10-24T15:03:27.568022"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -839,71 +788,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:03.469088"
+    "created_at": "2026-10-24T15:03:27.568094"
   },
   {
-    "id": "Reddit ML_bfa2706dd21e38ac",
-    "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
-    "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv before.",
-    "content": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv before.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
+    "id": "Reddit ML_c7c96f90d2001fcd",
+    "title": "Is symbolic ai dead? [D]",
+    "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
+    "content": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
     "source": "Reddit ML",
-    "author": "/u/richapeee",
-    "published_date": "2026-10-23T11:51:47+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.959911"
-  },
-  {
-    "id": "Reddit ML_9f99f3a4c73a5e3c",
-    "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-    "summary": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
-    "content": "Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already tried YOLO on a couple of in-house datasets earlier.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
-    "source": "Reddit ML",
-    "author": "/u/Future-Structure-296",
-    "published_date": "2026-10-23T17:25:52+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.960045"
-  },
-  {
-    "id": "Lobsters AI_556d270a50436283",
-    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
-    "source": "Lobsters AI",
-    "author": "noyb.eu via kngl",
-    "published_date": "Fri, 23 Oct 2026 08:04:23 -0500",
-    "importance_score": 5.3,
+    "author": "/u/Velocitank",
+    "published_date": "2026-10-23T13:49:16+00:00",
+    "importance_score": 5.2,
     "category": "tech",
     "keywords": [
+      "machine learning",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:12.527070"
-  },
-  {
-    "id": "Ars Technica_213c4ed7066550cb",
-    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-    "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-    "content": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Thu, 22 Oct 2026 11:30:33 +0000",
-    "importance_score": 5.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:56.296624"
+    "created_at": "2026-10-24T15:03:36.429865"
   },
   {
     "id": "Reddit ML_5b43f040695b5d15",
@@ -918,7 +821,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.959589"
+    "created_at": "2026-10-24T15:03:36.429769"
+  },
+  {
+    "id": "Reddit ML_ff49d89bc842c881",
+    "title": "AAAI 2027 phase 2 reviews discussion [D]",
+    "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
+    "content": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+    "source": "Reddit ML",
+    "author": "/u/Away-Cattle7081",
+    "published_date": "2026-10-23T12:58:18+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:36.430050"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -935,7 +855,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:57.370164"
+    "created_at": "2026-10-24T15:03:21.421611"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -952,7 +872,41 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-24T09:58:57.370320"
+    "created_at": "2026-10-24T15:03:21.421790"
+  },
+  {
+    "id": "MIT Technology Review_0202808681749a5a",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.",
+    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 22 Oct 2026 12:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:22.433743"
+  },
+  {
+    "id": "MIT Technology Review_2a5a9200462e6f5a",
+    "title": "Making the case for context-aware AI",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
+    "content": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one.",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Thu, 22 Oct 2026 10:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:22.433847"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -969,7 +923,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314766"
+    "created_at": "2026-10-24T15:03:22.433952"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -986,7 +940,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:58.314874"
+    "created_at": "2026-10-24T15:03:22.434033"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1003,7 +957,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:59.433387"
+    "created_at": "2026-10-24T15:03:23.543218"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1020,7 +974,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:56.296773"
+    "created_at": "2026-10-24T15:03:20.491469"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1037,7 +991,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:56.296876"
+    "created_at": "2026-10-24T15:03:20.491525"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1054,7 +1008,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:03.469222"
+    "created_at": "2026-10-24T15:03:27.568228"
+  },
+  {
+    "id": "Reddit ML_bfa2706dd21e38ac",
+    "title": "How does arXiv prepublishing work with ICLR's double-blind review? [R]",
+    "summary": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv before.",
+    "content": "Hey folks, maybe a really dumb question from an inexperienced PhD student. I recently submitted to ICLR and spotted a bunch of papers that I was already familiar with because I had seen them on arXiv before.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/",
+    "source": "Reddit ML",
+    "author": "/u/richapeee",
+    "published_date": "2026-10-23T11:51:47+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:36.430176"
+  },
+  {
+    "id": "Lobsters AI_556d270a50436283",
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "Lobsters AI",
+    "author": "noyb.eu via kngl",
+    "published_date": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:36.588585"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1071,7 +1057,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:58:55.289616"
+    "created_at": "2026-10-24T15:03:19.319354"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1088,7 +1074,24 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-24T09:58:55.289779"
+    "created_at": "2026-10-24T15:03:19.319538"
+  },
+  {
+    "id": "Ars Technica_213c4ed7066550cb",
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+    "content": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+    "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Thu, 22 Oct 2026 11:30:33 +0000",
+    "importance_score": 4.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-24T15:03:20.491320"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1105,7 +1108,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:12.527152"
+    "created_at": "2026-10-24T15:03:36.588669"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1122,7 +1125,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:12.527358"
+    "created_at": "2026-10-24T15:03:36.588904"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1137,6 +1140,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-24T09:59:11.959367"
+    "created_at": "2026-10-24T15:03:36.429518"
   }
 ]
