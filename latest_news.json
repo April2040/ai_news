@@ -8,14 +8,14 @@
     "source": "TechCrunch AI",
     "author": "Lauren Forristal",
     "published_date": "Sat, 24 Oct 2026 19:00:00 +0000",
-    "importance_score": 8.4,
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286531"
+    "created_at": "2026-10-25T20:08:08.368382"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -33,27 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531441"
-  },
-  {
-    "id": "OpenAI News_4980d5329eaa76fd",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "importance_score": 7.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531396"
+    "created_at": "2026-10-25T20:08:15.556017"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -71,7 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531651"
+    "created_at": "2026-10-25T20:08:15.556239"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -89,7 +69,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531488"
+    "created_at": "2026-10-25T20:08:15.556067"
   },
   {
     "id": "TechCrunch AI_ea19a41aae0d4432",
@@ -108,24 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286619"
-  },
-  {
-    "id": "The Verge AI_bb9b75ef3f378eb3",
-    "title": "Google’s AI search changes upended online publishing",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-25T08:00:00-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.313914"
+    "created_at": "2026-10-25T20:08:08.368470"
   },
   {
     "id": "The Verge AI_db3f7fe1547c327f",
@@ -143,7 +106,27 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314044"
+    "created_at": "2026-10-25T20:08:09.361211"
+  },
+  {
+    "id": "OpenAI News_4980d5329eaa76fd",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "importance_score": 7.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:15.555973"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -163,7 +146,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531551"
+    "created_at": "2026-10-25T20:08:15.556131"
   },
   {
     "id": "TechCrunch AI_9f312d10598c6559",
@@ -181,7 +164,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286701"
+    "created_at": "2026-10-25T20:08:08.368554"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -199,7 +182,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:02.776091"
+    "created_at": "2026-10-25T20:08:14.515515"
+  },
+  {
+    "id": "The Verge AI_bb9b75ef3f378eb3",
+    "title": "Google’s AI search changes upended online publishing",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
+    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-25T08:00:00-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:09.361062"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -217,7 +217,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531520"
+    "created_at": "2026-10-25T20:08:15.556098"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -235,7 +235,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531583"
+    "created_at": "2026-10-25T20:08:15.556163"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -253,7 +253,40 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531612"
+    "created_at": "2026-10-25T20:08:15.556202"
+  },
+  {
+    "id": "TechCrunch AI_abf3f5fe91315afa",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:08.368273"
+  },
+  {
+    "id": "Reddit ML_13592e5d93b65880",
+    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+    "summary": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
+    "content": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+    "source": "Reddit ML",
+    "author": "/u/jatingargiitk",
+    "published_date": "2026-10-25T16:32:44+00:00",
+    "importance_score": 6.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:27.363609"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -271,7 +304,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:59.352504"
+    "created_at": "2026-10-25T20:08:11.403570"
   },
   {
     "id": "TechCrunch AI_c8d714d08158e2b7",
@@ -288,7 +321,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286469"
+    "created_at": "2026-10-25T20:08:08.368326"
   },
   {
     "id": "The Verge AI_16be71032dfb245d",
@@ -299,82 +332,13 @@
     "source": "The Verge AI",
     "author": "Terrence O’Brien",
     "published_date": "2026-10-25T09:25:32-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.313855"
-  },
-  {
-    "id": "Wired AI_c575147229207f9d",
-    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-    "source": "Wired AI",
-    "author": "Molly Taft",
-    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269232"
-  },
-  {
-    "id": "The Verge AI_457a541ecb52ed42",
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-23T12:52:55-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314141"
-  },
-  {
-    "id": "The Verge AI_d99a6833a3a17b76",
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
-    "content": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-24T14:32:21-04:00",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314002"
-  },
-  {
-    "id": "TechCrunch AI_61ea5c601fe7b434",
-    "title": "Block’s new voice model sounds eerily human",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "content": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Sat, 24 Oct 2026 16:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286570"
+    "created_at": "2026-10-25T20:08:09.360998"
   },
   {
     "id": "The Verge AI_5aa5cda331e8f8c6",
@@ -391,7 +355,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.313959"
+    "created_at": "2026-10-25T20:08:09.361107"
+  },
+  {
+    "id": "Wired AI_c575147229207f9d",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "author": "Molly Taft",
+    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:10.347657"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -409,7 +390,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269488"
+    "created_at": "2026-10-25T20:08:10.347923"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -426,7 +407,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:59.352414"
+    "created_at": "2026-10-25T20:08:11.403470"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -445,7 +426,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:06.422521"
+    "created_at": "2026-10-25T20:08:18.470816"
   },
   {
     "id": "Reddit ML_3309ec19fc9a86c7",
@@ -462,7 +443,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038260"
+    "created_at": "2026-10-25T20:08:27.363737"
   },
   {
     "id": "TechCrunch AI_0b624ccc371b2c1a",
@@ -480,7 +461,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286802"
+    "created_at": "2026-10-25T20:08:08.368664"
+  },
+  {
+    "id": "The Verge AI_457a541ecb52ed42",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "content": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for...",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-23T12:52:55-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:09.361313"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -497,7 +495,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314177"
+    "created_at": "2026-10-25T20:08:09.361351"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -514,7 +512,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:00.365567"
+    "created_at": "2026-10-25T20:08:12.572589"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -531,7 +529,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:00.365614"
+    "created_at": "2026-10-25T20:08:12.572633"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -548,7 +546,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:00.365698"
+    "created_at": "2026-10-25T20:08:12.572715"
+  },
+  {
+    "id": "The Verge AI_d99a6833a3a17b76",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
+    "content": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-24T14:32:21-04:00",
+    "importance_score": 5.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:09.361153"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -565,7 +581,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269367"
+    "created_at": "2026-10-25T20:08:10.347795"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -582,7 +598,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:03.531683"
+    "created_at": "2026-10-25T20:08:15.556272"
+  },
+  {
+    "id": "Reddit ML_99926e482c39a846",
+    "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+    "summary": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
+    "content": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+    "source": "Reddit ML",
+    "author": "/u/Humble-Shopping-9495",
+    "published_date": "2026-10-25T18:35:21+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:27.363665"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -599,7 +630,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269417"
+    "created_at": "2026-10-25T20:08:10.347847"
   },
   {
     "id": "Reddit ML_c4dfe34b19a9b354",
@@ -616,7 +647,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038176"
+    "created_at": "2026-10-25T20:08:27.363549"
+  },
+  {
+    "id": "TechCrunch AI_61ea5c601fe7b434",
+    "title": "Block’s new voice model sounds eerily human",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "content": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Sat, 24 Oct 2026 16:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:08.368421"
   },
   {
     "id": "TechCrunch AI_646780a825bd135a",
@@ -633,7 +681,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286657"
+    "created_at": "2026-10-25T20:08:08.368510"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -650,41 +698,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269278"
-  },
-  {
-    "id": "TechCrunch AI_b78b969f73b1c3cc",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286752"
-  },
-  {
-    "id": "The Verge AI_a0a62bf456487b3e",
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-23T15:32:39-04:00",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314095"
+    "created_at": "2026-10-25T20:08:10.347702"
   },
   {
     "id": "Reddit ML_d170d90ec42dd399",
@@ -702,24 +716,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038331"
-  },
-  {
-    "id": "TechCrunch AI_95627e96aa693fcf",
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "content": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Fri, 23 Oct 2026 00:45:37 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:56.286839"
+    "created_at": "2026-10-25T20:08:27.363918"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -736,7 +733,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:57.314222"
+    "created_at": "2026-10-25T20:08:09.361389"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -753,7 +750,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T15:14:58.269321"
+    "created_at": "2026-10-25T20:08:10.347747"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -770,7 +767,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:00.365653"
+    "created_at": "2026-10-25T20:08:12.572672"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -787,7 +784,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-25T15:15:00.365753"
+    "created_at": "2026-10-25T20:08:12.572755"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -804,7 +801,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328631"
+    "created_at": "2026-10-25T20:08:13.381899"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -821,7 +818,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328700"
+    "created_at": "2026-10-25T20:08:13.381971"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -838,7 +835,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328746"
+    "created_at": "2026-10-25T20:08:13.382020"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -855,7 +852,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328802"
+    "created_at": "2026-10-25T20:08:13.382077"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -872,7 +869,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328841"
+    "created_at": "2026-10-25T20:08:13.382120"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -889,7 +886,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328895"
+    "created_at": "2026-10-25T20:08:13.382188"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -906,7 +903,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:01.328936"
+    "created_at": "2026-10-25T20:08:13.382234"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -923,7 +920,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:02.776143"
+    "created_at": "2026-10-25T20:08:14.515569"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -940,7 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:59.352451"
+    "created_at": "2026-10-25T20:08:11.403511"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -957,7 +954,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:59.352477"
+    "created_at": "2026-10-25T20:08:11.403540"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -974,7 +971,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:06.422450"
+    "created_at": "2026-10-25T20:08:18.470739"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -991,7 +988,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:06.422486"
+    "created_at": "2026-10-25T20:08:18.470779"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1008,7 +1005,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:06.422551"
+    "created_at": "2026-10-25T20:08:18.470849"
+  },
+  {
+    "id": "TechCrunch AI_b78b969f73b1c3cc",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "content": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup...",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Fri, 23 Oct 2026 19:06:23 +0000",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:08.368626"
+  },
+  {
+    "id": "The Verge AI_a0a62bf456487b3e",
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "content": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-23T15:32:39-04:00",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:09.361265"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1025,7 +1056,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:58.269448"
+    "created_at": "2026-10-25T20:08:10.347880"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1042,7 +1073,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T15:14:58.269530"
+    "created_at": "2026-10-25T20:08:10.347968"
   },
   {
     "id": "Reddit ML_c7c96f90d2001fcd",
@@ -1060,7 +1091,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038491"
+    "created_at": "2026-10-25T20:08:27.363963"
   },
   {
     "id": "Lobsters AI_dd37a3266947aa05",
@@ -1078,7 +1109,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.420818"
+    "created_at": "2026-10-25T20:08:27.450210"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1095,39 +1126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:14:59.352372"
-  },
-  {
-    "id": "Reddit ML_5b43f040695b5d15",
-    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-    "source": "Reddit ML",
-    "author": "/u/mistlab",
-    "published_date": "2026-10-23T15:37:23+00:00",
-    "importance_score": 4.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038446"
-  },
-  {
-    "id": "Reddit ML_ff49d89bc842c881",
-    "title": "AAAI 2027 phase 2 reviews discussion [D]",
-    "summary": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
-    "content": "AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews!  submitted by  /u/Away-Cattle7081 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-    "source": "Reddit ML",
-    "author": "/u/Away-Cattle7081",
-    "published_date": "2026-10-23T12:58:18+00:00",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038542"
+    "created_at": "2026-10-25T20:08:11.403426"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1144,7 +1143,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.420624"
+    "created_at": "2026-10-25T20:08:27.450030"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1161,7 +1160,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.420766"
+    "created_at": "2026-10-25T20:08:27.450150"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1176,6 +1175,21 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T15:15:15.038125"
+    "created_at": "2026-10-25T20:08:27.363499"
+  },
+  {
+    "id": "Reddit ML_5b43f040695b5d15",
+    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+    "summary": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "content": "TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Reinforcement Learning (RL) in a multi-armed bandit setting.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+    "source": "Reddit ML",
+    "author": "/u/mistlab",
+    "published_date": "2026-10-23T15:37:23+00:00",
+    "importance_score": 4.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T20:08:27.363854"
   }
 ]
