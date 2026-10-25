@@ -15,25 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170092"
-  },
-  {
-    "id": "OpenAI News_f7d66257d0c6d8b8",
-    "title": "Securing our frontier model training environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 10:00:00 GMT",
-    "importance_score": 8.200000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389476"
+    "created_at": "2026-10-25T10:23:00.244055"
   },
   {
     "id": "The Verge AI_31fec179a2a86d9d",
@@ -51,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139546"
+    "created_at": "2026-10-25T10:23:01.209141"
   },
   {
     "id": "TechCrunch AI_7facadd0b436bf0e",
@@ -69,7 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170571"
+    "created_at": "2026-10-25T10:23:00.244804"
   },
   {
     "id": "TechCrunch AI_ea19a41aae0d4432",
@@ -88,7 +70,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170232"
+    "created_at": "2026-10-25T10:23:00.244261"
+  },
+  {
+    "id": "OpenAI News_f7d66257d0c6d8b8",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:07.527106"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -108,7 +108,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389416"
+    "created_at": "2026-10-25T10:23:07.527044"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -126,7 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389757"
+    "created_at": "2026-10-25T10:23:07.527418"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -144,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389540"
+    "created_at": "2026-10-25T10:23:07.527175"
   },
   {
     "id": "The Verge AI_db3f7fe1547c327f",
@@ -162,7 +162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139256"
+    "created_at": "2026-10-25T10:23:01.208835"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -182,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389627"
+    "created_at": "2026-10-25T10:23:07.527263"
   },
   {
     "id": "TechCrunch AI_9f312d10598c6559",
@@ -200,7 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170345"
+    "created_at": "2026-10-25T10:23:00.244461"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -218,7 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:48.167216"
+    "created_at": "2026-10-25T10:23:06.447715"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -236,7 +236,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389584"
+    "created_at": "2026-10-25T10:23:07.527218"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -254,7 +254,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389668"
+    "created_at": "2026-10-25T10:23:07.527306"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -272,26 +272,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389708"
-  },
-  {
-    "id": "Wired AI_ddc55b70124db5bd",
-    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-    "content": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman",
-    "published_date": "Wed, 21 Oct 2026 14:00:00 +0000",
-    "importance_score": 6.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158612"
+    "created_at": "2026-10-25T10:23:07.527350"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -309,42 +290,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:45.162857"
+    "created_at": "2026-10-25T10:23:03.253601"
   },
   {
-    "id": "The Verge AI_5aa5cda331e8f8c6",
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-24T17:29:12-04:00",
+    "id": "Wired AI_c575147229207f9d",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "author": "Molly Taft",
+    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139129"
+    "created_at": "2026-10-25T10:23:02.250333"
   },
   {
-    "id": "TechCrunch AI_0b624ccc371b2c1a",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Fri, 23 Oct 2026 04:00:00 +0000",
-    "importance_score": 6.2,
+    "id": "Reddit ML_3309ec19fc9a86c7",
+    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+    "summary": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
+    "content": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+    "source": "Reddit ML",
+    "author": "/u/Mrs-Grumpy23",
+    "published_date": "2026-10-25T05:31:19+00:00",
+    "importance_score": 6.3,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170457"
+    "created_at": "2026-10-25T10:23:18.958771"
   },
   {
     "id": "The Verge AI_457a541ecb52ed42",
@@ -361,7 +341,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139384"
+    "created_at": "2026-10-25T10:23:01.208969"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -378,7 +358,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139432"
+    "created_at": "2026-10-25T10:23:01.209020"
   },
   {
     "id": "The Verge AI_d99a6833a3a17b76",
@@ -396,7 +376,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139197"
+    "created_at": "2026-10-25T10:23:01.208771"
+  },
+  {
+    "id": "Reddit ML_c4dfe34b19a9b354",
+    "title": "ICLR 2027 is still handing out desk rejects [N]",
+    "summary": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
+    "content": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+    "source": "Reddit ML",
+    "author": "/u/Temporary_Switch_339",
+    "published_date": "2026-10-25T05:35:36+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:18.958668"
   },
   {
     "id": "TechCrunch AI_61ea5c601fe7b434",
@@ -413,7 +410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170160"
+    "created_at": "2026-10-25T10:23:00.244154"
   },
   {
     "id": "TechCrunch AI_646780a825bd135a",
@@ -430,7 +427,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170285"
+    "created_at": "2026-10-25T10:23:00.244342"
+  },
+  {
+    "id": "The Verge AI_5aa5cda331e8f8c6",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-24T17:29:12-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:01.208700"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -447,7 +461,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158198"
+    "created_at": "2026-10-25T10:23:02.250405"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -465,7 +479,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158501"
+    "created_at": "2026-10-25T10:23:02.250702"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -482,7 +496,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:45.162729"
+    "created_at": "2026-10-25T10:23:03.253471"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -501,7 +515,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:52.307593"
+    "created_at": "2026-10-25T10:23:10.415817"
+  },
+  {
+    "id": "TechCrunch AI_0b624ccc371b2c1a",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "author": "Jagmeet Singh",
+    "published_date": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:00.244639"
   },
   {
     "id": "The Verge AI_6fcf4aad5e4907e7",
@@ -518,7 +550,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139593"
+    "created_at": "2026-10-25T10:23:01.209190"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -535,7 +567,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:46.247738"
+    "created_at": "2026-10-25T10:23:04.488887"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -552,7 +584,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:46.247794"
+    "created_at": "2026-10-25T10:23:04.488946"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -569,7 +601,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:46.247899"
+    "created_at": "2026-10-25T10:23:04.489052"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -586,7 +618,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158332"
+    "created_at": "2026-10-25T10:23:02.250533"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -603,7 +635,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:49.389805"
+    "created_at": "2026-10-25T10:23:07.527466"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -620,25 +652,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158399"
-  },
-  {
-    "id": "Reddit ML_d170d90ec42dd399",
-    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
-    "source": "Reddit ML",
-    "author": "/u/GGAllin43",
-    "published_date": "2026-10-24T09:58:29+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:05.813294"
+    "created_at": "2026-10-25T10:23:02.250601"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -655,7 +669,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139479"
+    "created_at": "2026-10-25T10:23:01.209072"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -672,7 +686,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.257837"
+    "created_at": "2026-10-25T10:23:05.274377"
   },
   {
     "id": "TechCrunch AI_b78b969f73b1c3cc",
@@ -689,7 +703,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170411"
+    "created_at": "2026-10-25T10:23:00.244566"
   },
   {
     "id": "The Verge AI_a0a62bf456487b3e",
@@ -706,7 +720,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:43.139325"
+    "created_at": "2026-10-25T10:23:01.208907"
   },
   {
     "id": "Reddit ML_c7c96f90d2001fcd",
@@ -724,7 +738,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:05.813510"
+    "created_at": "2026-10-25T10:23:18.959082"
+  },
+  {
+    "id": "Reddit ML_d170d90ec42dd399",
+    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+    "source": "Reddit ML",
+    "author": "/u/GGAllin43",
+    "published_date": "2026-10-24T09:58:29+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:18.958867"
   },
   {
     "id": "Reddit ML_ff49d89bc842c881",
@@ -741,7 +773,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:05.813573"
+    "created_at": "2026-10-25T10:23:18.959151"
   },
   {
     "id": "TechCrunch AI_95627e96aa693fcf",
@@ -758,7 +790,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:42.170524"
+    "created_at": "2026-10-25T10:23:00.244733"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -775,7 +807,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T02:17:44.158265"
+    "created_at": "2026-10-25T10:23:02.250468"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -792,7 +824,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:46.247844"
+    "created_at": "2026-10-25T10:23:04.488996"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -809,7 +841,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-25T02:17:46.247949"
+    "created_at": "2026-10-25T10:23:04.489103"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -826,7 +858,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.257929"
+    "created_at": "2026-10-25T10:23:05.274478"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -843,7 +875,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.258000"
+    "created_at": "2026-10-25T10:23:05.274542"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -860,7 +892,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.258074"
+    "created_at": "2026-10-25T10:23:05.274617"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -877,7 +909,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.258127"
+    "created_at": "2026-10-25T10:23:05.274678"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -894,7 +926,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.258200"
+    "created_at": "2026-10-25T10:23:05.274758"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -911,7 +943,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:47.258255"
+    "created_at": "2026-10-25T10:23:05.274819"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -928,7 +960,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:48.167282"
+    "created_at": "2026-10-25T10:23:06.447784"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -945,7 +977,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:45.162779"
+    "created_at": "2026-10-25T10:23:03.253522"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -962,7 +994,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:45.162815"
+    "created_at": "2026-10-25T10:23:03.253559"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -979,7 +1011,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:52.307497"
+    "created_at": "2026-10-25T10:23:10.415719"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -996,7 +1028,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:52.307547"
+    "created_at": "2026-10-25T10:23:10.415770"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1013,24 +1045,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:52.307633"
-  },
-  {
-    "id": "Lobsters AI_556d270a50436283",
-    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
-    "source": "Lobsters AI",
-    "author": "noyb.eu via kngl",
-    "published_date": "Fri, 23 Oct 2026 08:04:23 -0500",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:06.443304"
+    "created_at": "2026-10-25T10:23:10.415858"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1047,7 +1062,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:44.158440"
+    "created_at": "2026-10-25T10:23:02.250644"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1064,7 +1079,25 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T02:17:44.158558"
+    "created_at": "2026-10-25T10:23:02.250762"
+  },
+  {
+    "id": "Lobsters AI_dd37a3266947aa05",
+    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+    "summary": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
+    "content": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
+    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+    "source": "Lobsters AI",
+    "author": "by dtsdwarak",
+    "published_date": "Wed, 07 Oct 2026 09:12:02 -0500",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-25T10:23:19.528166"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1081,7 +1114,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:17:45.162671"
+    "created_at": "2026-10-25T10:23:03.253413"
   },
   {
     "id": "Reddit ML_5b43f040695b5d15",
@@ -1096,7 +1129,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:05.813448"
+    "created_at": "2026-10-25T10:23:18.959019"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1113,7 +1146,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:06.443363"
+    "created_at": "2026-10-25T10:23:19.527899"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1130,7 +1163,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:06.443528"
+    "created_at": "2026-10-25T10:23:19.528084"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1145,6 +1178,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T02:18:05.813179"
+    "created_at": "2026-10-25T10:23:18.958601"
   }
 ]
