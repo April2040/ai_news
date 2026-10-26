@@ -8,70 +8,52 @@
     "source": "TechCrunch AI",
     "author": "Rebecca Bellan",
     "published_date": "Mon, 26 Oct 2026 14:35:22 +0000",
-    "importance_score": 8.6,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656085"
-  },
-  {
-    "id": "The Verge AI_c29293a8801f44c2",
-    "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-    "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.",
-    "content": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-26T09:32:49-04:00",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670420"
-  },
-  {
-    "id": "The Verge AI_a4a039c28ad6056f",
-    "title": "Can AI help solve the COBOL code crisis?",
-    "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution.",
-    "content": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-26T09:15:00-04:00",
     "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:02.305859"
+  },
+  {
+    "id": "OpenAI News_3e19a31d5418a75f",
+    "title": "ChatGPT’s expanding world of work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "content": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 10:00:00 GMT",
+    "importance_score": 8.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670460"
+    "created_at": "2026-10-26T22:05:09.541476"
   },
   {
-    "id": "TechCrunch AI_1c875a66b843b051",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "id": "The Verge AI_2dc0f427e79d0718",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-10-26T17:45:31-04:00",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656258"
+    "created_at": "2026-10-26T22:05:03.332748"
   },
   {
     "id": "The Verge AI_aff1907b9f021fb1",
@@ -89,17 +71,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670305"
+    "created_at": "2026-10-26T22:05:03.332874"
   },
   {
-    "id": "Wired AI_6d9fd7515efbf6ab",
-    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "content": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "id": "Wired AI_00c49c7708db568f",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
     "source": "Wired AI",
-    "author": "Brian Barrett",
-    "published_date": "Mon, 26 Oct 2026 16:01:55 +0000",
+    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
+    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
@@ -107,17 +89,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673109"
+    "created_at": "2026-10-26T22:05:04.382613"
   },
   {
-    "id": "Wired AI_9a0bacc995e9a2c0",
-    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "content": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "source": "Wired AI",
-    "author": "Joel Khalili, Kate Taylor",
-    "published_date": "Mon, 26 Oct 2026 14:50:47 +0000",
+    "id": "MIT Technology Review_de76e95e872b4c55",
+    "title": "Will the real Anthropic please stand up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Technology Review",
+    "author": "Will Douglas Heaven",
+    "published_date": "Mon, 26 Oct 2026 17:45:43 +0000",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
@@ -125,7 +107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673159"
+    "created_at": "2026-10-26T22:05:07.315629"
   },
   {
     "id": "OpenAI News_aff2b5e3fdc3a62f",
@@ -144,7 +126,63 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883785"
+    "created_at": "2026-10-26T22:05:09.541515"
+  },
+  {
+    "id": "The Verge AI_c29293a8801f44c2",
+    "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+    "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.",
+    "content": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-26T09:32:49-04:00",
+    "importance_score": 7.8,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:03.333004"
+  },
+  {
+    "id": "OpenAI News_4f69a31c7ebc3bc4",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "content": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:09.541552"
+  },
+  {
+    "id": "OpenAI News_17cd0140732d97ed",
+    "title": "Working with academic communities to build scientific understanding",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:09.541598"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -162,42 +200,79 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883868"
+    "created_at": "2026-10-26T22:05:09.541703"
   },
   {
-    "id": "The Verge AI_58c53bef2c8ea9a7",
-    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-    "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton...",
-    "content": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton...",
-    "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+    "id": "The Verge AI_a4a039c28ad6056f",
+    "title": "Can AI help solve the COBOL code crisis?",
+    "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution.",
+    "content": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
     "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-10-26T10:00:00-04:00",
+    "author": "Robert Hart",
+    "published_date": "2026-10-26T09:15:00-04:00",
     "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670366"
-  },
-  {
-    "id": "OpenAI News_5e2a484b0a1d0d84",
-    "title": "OpenAI models are coming to Google Cloud",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "content": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 12:00:00 GMT",
-    "importance_score": 7.5,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.884089"
+    "created_at": "2026-10-26T22:05:03.333045"
+  },
+  {
+    "id": "TechCrunch AI_1c875a66b843b051",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "author": "Lauren Forristal",
+    "published_date": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:02.306101"
+  },
+  {
+    "id": "Wired AI_6d9fd7515efbf6ab",
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "content": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "source": "Wired AI",
+    "author": "Brian Barrett",
+    "published_date": "Mon, 26 Oct 2026 16:01:55 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:04.382663"
+  },
+  {
+    "id": "Wired AI_9a0bacc995e9a2c0",
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "content": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "source": "Wired AI",
+    "author": "Joel Khalili, Kate Taylor",
+    "published_date": "Mon, 26 Oct 2026 14:50:47 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:04.382709"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -215,7 +290,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883914"
+    "created_at": "2026-10-26T22:05:09.541748"
   },
   {
     "id": "arXiv AI_e00e8e952ce3c706",
@@ -233,24 +308,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859342"
+    "created_at": "2026-10-26T22:05:15.519077"
   },
   {
-    "id": "MIT Technology Review_92ee7dec2b0e93df",
-    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 26 Oct 2026 12:40:00 +0000",
+    "id": "The Verge AI_58c53bef2c8ea9a7",
+    "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+    "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton...",
+    "content": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton...",
+    "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-10-26T10:00:00-04:00",
     "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.651832"
+    "created_at": "2026-10-26T22:05:03.332948"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -270,33 +345,13 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883833"
-  },
-  {
-    "id": "OpenAI News_e3dc2c2d3672a3fa",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "content": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883974"
+    "created_at": "2026-10-26T22:05:09.541670"
   },
   {
     "id": "TechCrunch AI_0d2de1413e003aaa",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
-    "content": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "content": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "source": "TechCrunch AI",
     "author": "Aditya Mehta",
@@ -307,24 +362,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656027"
-  },
-  {
-    "id": "TechCrunch AI_f002c4ee96be59cb",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 25 Oct 2026 21:31:16 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656130"
+    "created_at": "2026-10-26T22:05:02.305798"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -342,7 +380,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:41.830255"
+    "created_at": "2026-10-26T22:05:08.487139"
   },
   {
     "id": "TechCrunch AI_ea19a41aae0d4432",
@@ -361,61 +399,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656355"
-  },
-  {
-    "id": "OpenAI News_de378f1358aae71c",
-    "title": "What FDE means at OpenAI",
-    "summary": "What forward deployed engineering means at OpenAI",
-    "content": "What forward deployed engineering means at OpenAI",
-    "url": "https://openai.com/index/forward-deployed-engineering-means",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 22 Oct 2026 06:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.883943"
-  },
-  {
-    "id": "OpenAI News_5276bd6d6f8e1997",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "summary": "ATT is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "content": "ATT is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "url": "https://openai.com/index/att-legal",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.884006"
-  },
-  {
-    "id": "OpenAI News_0939727ea9afa578",
-    "title": "Broad access through consistent standards",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "content": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:42.884052"
+    "created_at": "2026-10-26T22:05:02.306213"
   },
   {
     "id": "arXiv ML_7a770f0ed8f292ba",
@@ -433,7 +417,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678669"
+    "created_at": "2026-10-26T22:05:16.345177"
+  },
+  {
+    "id": "MIT Technology Review_92ee7dec2b0e93df",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
+    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 26 Oct 2026 12:40:00 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:07.315704"
   },
   {
     "id": "MIT Technology Review_62c61224c2c3e669",
@@ -450,7 +451,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-26T17:53:40.651886"
+    "created_at": "2026-10-26T22:05:07.315752"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -468,7 +469,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:38.659431"
+    "created_at": "2026-10-26T22:05:05.295245"
   },
   {
     "id": "arXiv ML_c8f071e4b7160e5a",
@@ -485,7 +486,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678368"
+    "created_at": "2026-10-26T22:05:16.344857"
+  },
+  {
+    "id": "TechCrunch AI_f002c4ee96be59cb",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 25 Oct 2026 21:31:16 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:02.305926"
   },
   {
     "id": "The Verge AI_32ec2d1605953ff4",
@@ -502,24 +520,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670249"
-  },
-  {
-    "id": "Google AI Blog_99d906738a8dfba5",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "content": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "source": "Google AI Blog",
-    "author": "Ronit Levavi Morad",
-    "published_date": "Mon, 26 Oct 2026 16:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:39.788239"
+    "created_at": "2026-10-26T22:05:03.332821"
   },
   {
     "id": "arXiv AI_54c5c33fde03be98",
@@ -537,7 +538,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859526"
+    "created_at": "2026-10-26T22:05:15.519270"
   },
   {
     "id": "The Verge AI_bb9b75ef3f378eb3",
@@ -554,7 +555,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670544"
+    "created_at": "2026-10-26T22:05:03.333133"
+  },
+  {
+    "id": "OpenAI News_62287482a6f297a5",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "content": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 13:45:00 GMT",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:09.541416"
+  },
+  {
+    "id": "OpenAI News_a5a309e923c3e531",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "content": "Bringing fast and capable computer use to everyone",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:09.541627"
   },
   {
     "id": "arXiv ML_82dd8647d8c7d064",
@@ -569,7 +604,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678191"
+    "created_at": "2026-10-26T22:05:16.344673"
   },
   {
     "id": "Reddit ML_cf479e10acaabce1",
@@ -586,7 +621,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.278748"
+    "created_at": "2026-10-26T22:05:21.755999"
   },
   {
     "id": "Wired AI_b8b880bda42b699a",
@@ -603,7 +638,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673196"
+    "created_at": "2026-10-26T22:05:04.382745"
+  },
+  {
+    "id": "Google AI Blog_99d906738a8dfba5",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+    "content": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "source": "Google AI Blog",
+    "author": "Ronit Levavi Morad",
+    "published_date": "Mon, 26 Oct 2026 16:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:06.535106"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -620,7 +672,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:38.659338"
+    "created_at": "2026-10-26T22:05:05.295145"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -639,7 +691,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:45.745213"
+    "created_at": "2026-10-26T22:05:12.423235"
   },
   {
     "id": "Reddit ML_8c232f21c2332d52",
@@ -654,7 +706,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.278863"
+    "created_at": "2026-10-26T22:05:21.756114"
   },
   {
     "id": "Wired AI_e1e2ea4d53d9e079",
@@ -671,7 +723,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673240"
+    "created_at": "2026-10-26T22:05:04.382791"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -688,7 +740,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:39.788300"
+    "created_at": "2026-10-26T22:05:06.535170"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -705,7 +757,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:39.788339"
+    "created_at": "2026-10-26T22:05:06.535208"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -722,7 +774,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:39.788410"
+    "created_at": "2026-10-26T22:05:06.535281"
   },
   {
     "id": "arXiv AI_ce60440f4cdc7a00",
@@ -739,7 +791,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859405"
+    "created_at": "2026-10-26T22:05:15.519142"
   },
   {
     "id": "arXiv AI_1105ac012c32590e",
@@ -757,7 +809,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859590"
+    "created_at": "2026-10-26T22:05:15.519337"
   },
   {
     "id": "arXiv ML_2383490838e40091",
@@ -774,7 +826,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678247"
+    "created_at": "2026-10-26T22:05:16.344732"
   },
   {
     "id": "arXiv ML_2d5e8e5eaf8d44c3",
@@ -792,7 +844,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678309"
+    "created_at": "2026-10-26T22:05:16.344796"
   },
   {
     "id": "arXiv ML_4d32b85a88ece473",
@@ -809,7 +861,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678545"
+    "created_at": "2026-10-26T22:05:16.345048"
   },
   {
     "id": "TechCrunch AI_abf3f5fe91315afa",
@@ -827,25 +879,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656180"
-  },
-  {
-    "id": "The Verge AI_d99a6833a3a17b76",
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
-    "content": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-24T14:32:21-04:00",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670619"
+    "created_at": "2026-10-26T22:05:02.305982"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -862,7 +896,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673395"
+    "created_at": "2026-10-26T22:05:04.382960"
+  },
+  {
+    "id": "Reddit ML_82c7b5c6ed4976e7",
+    "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]",
+    "summary": "I've been building a predictive coding (PC) engine from scratch in C++20, with a thin Python layer on top, and just cut the first public release. Posting here for feedback and because I haven't seen many from-scratch PC implementations with real kernel-level optimization work behind them.",
+    "content": "I've been building a predictive coding (PC) engine from scratch in C++20, with a thin Python layer on top, and just cut the first public release. Posting here for feedback and because I haven't seen many from-scratch PC implementations with real kernel-level optimization work behind them.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/",
+    "source": "Reddit ML",
+    "author": "/u/Important-Home4431",
+    "published_date": "2026-10-26T19:34:57+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:21.756272"
   },
   {
     "id": "Reddit ML_13592e5d93b65880",
@@ -877,7 +926,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.279078"
+    "created_at": "2026-10-26T22:05:21.756476"
   },
   {
     "id": "arXiv AI_618b006d1c5b3d47",
@@ -892,7 +941,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859083"
+    "created_at": "2026-10-26T22:05:15.518801"
   },
   {
     "id": "arXiv AI_1da9cdb274354a4d",
@@ -907,7 +956,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859134"
+    "created_at": "2026-10-26T22:05:15.518855"
   },
   {
     "id": "arXiv AI_7f85e7a40991a96c",
@@ -922,7 +971,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859211"
+    "created_at": "2026-10-26T22:05:15.518942"
   },
   {
     "id": "arXiv AI_a2bb972d34c1bcef",
@@ -939,7 +988,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859281"
+    "created_at": "2026-10-26T22:05:15.519016"
   },
   {
     "id": "arXiv AI_6d6cd39715c8211a",
@@ -956,7 +1005,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.859470"
+    "created_at": "2026-10-26T22:05:15.519211"
   },
   {
     "id": "arXiv ML_8d5de4ed13400590",
@@ -971,7 +1020,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678114"
+    "created_at": "2026-10-26T22:05:16.344589"
   },
   {
     "id": "arXiv ML_ba84739bb5bf85b9",
@@ -988,7 +1037,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678489"
+    "created_at": "2026-10-26T22:05:16.344991"
   },
   {
     "id": "arXiv ML_905732610e1eaa3b",
@@ -1005,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678603"
+    "created_at": "2026-10-26T22:05:16.345110"
   },
   {
     "id": "Reddit ML_92fb8419ff228df7",
@@ -1023,7 +1072,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.278973"
+    "created_at": "2026-10-26T22:05:21.756383"
   },
   {
     "id": "TechCrunch AI_c8d714d08158e2b7",
@@ -1040,7 +1089,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656215"
+    "created_at": "2026-10-26T22:05:02.306020"
   },
   {
     "id": "The Verge AI_16be71032dfb245d",
@@ -1057,24 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670499"
-  },
-  {
-    "id": "The Verge AI_5aa5cda331e8f8c6",
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-24T17:29:12-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:36.670581"
+    "created_at": "2026-10-26T22:05:03.333086"
   },
   {
     "id": "Wired AI_c575147229207f9d",
@@ -1091,7 +1123,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673282"
+    "created_at": "2026-10-26T22:05:04.382833"
   },
   {
     "id": "arXiv AI_47aef0769689a3a8",
@@ -1106,7 +1138,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:48.858993"
+    "created_at": "2026-10-26T22:05:15.518712"
   },
   {
     "id": "arXiv ML_e36225a39d25c0fe",
@@ -1121,7 +1153,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:49.678430"
+    "created_at": "2026-10-26T22:05:16.344930"
   },
   {
     "id": "Reddit ML_3309ec19fc9a86c7",
@@ -1138,22 +1170,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.279151"
-  },
-  {
-    "id": "Reddit ML_99926e482c39a846",
-    "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-    "summary": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
-    "content": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-    "source": "Reddit ML",
-    "author": "/u/Humble-Shopping-9495",
-    "published_date": "2026-10-25T18:35:21+00:00",
-    "importance_score": 5.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.279215"
+    "created_at": "2026-10-26T22:05:21.756550"
   },
   {
     "id": "Reddit ML_c4dfe34b19a9b354",
@@ -1170,13 +1187,30 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.279009"
+    "created_at": "2026-10-26T22:05:21.756418"
+  },
+  {
+    "id": "TechCrunch AI_201b57783314b900",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "content": "The moment you realize the internet is \"held together by glue and dreams.\"",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 24 Oct 2026 20:15:33 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T22:05:02.306054"
   },
   {
     "id": "TechCrunch AI_61ea5c601fe7b434",
     "title": "Block’s new voice model sounds eerily human",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "content": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
+    "content": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "source": "TechCrunch AI",
     "author": "Ivan Mehta",
@@ -1187,24 +1221,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656292"
+    "created_at": "2026-10-26T22:05:02.306162"
   },
   {
-    "id": "TechCrunch AI_646780a825bd135a",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "id": "The Verge AI_5aa5cda331e8f8c6",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-24T17:29:12-04:00",
     "importance_score": 4.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:35.656394"
+    "created_at": "2026-10-26T22:05:03.333172"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -1221,7 +1255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:37.673314"
+    "created_at": "2026-10-26T22:05:04.382866"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -1238,7 +1272,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-26T17:53:37.673351"
+    "created_at": "2026-10-26T22:05:04.382906"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1255,7 +1289,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:39.788370"
+    "created_at": "2026-10-26T22:05:06.535241"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1272,7 +1306,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.651946"
+    "created_at": "2026-10-26T22:05:07.315809"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -1289,7 +1323,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.652008"
+    "created_at": "2026-10-26T22:05:07.315872"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1306,7 +1340,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.652071"
+    "created_at": "2026-10-26T22:05:07.315926"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -1323,7 +1357,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.652125"
+    "created_at": "2026-10-26T22:05:07.315981"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -1340,24 +1374,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.652166"
-  },
-  {
-    "id": "MIT Technology Review_381aa14564b12159",
-    "title": "AI’s hidden storage bill: What inference leaves behind",
-    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-    "content": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "source": "MIT Technology Review",
-    "author": "Tim Rausch",
-    "published_date": "Thu, 22 Oct 2026 08:41:18 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:40.652221"
+    "created_at": "2026-10-26T22:05:07.316023"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1374,7 +1391,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:41.830305"
+    "created_at": "2026-10-26T22:05:08.487193"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1391,7 +1408,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:38.659375"
+    "created_at": "2026-10-26T22:05:05.295185"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1408,7 +1425,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:38.659402"
+    "created_at": "2026-10-26T22:05:05.295214"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1425,7 +1442,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:45.745140"
+    "created_at": "2026-10-26T22:05:12.423154"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1442,7 +1459,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:45.745178"
+    "created_at": "2026-10-26T22:05:12.423198"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1459,7 +1476,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:45.745244"
+    "created_at": "2026-10-26T22:05:12.423269"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1476,7 +1493,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:38.659295"
+    "created_at": "2026-10-26T22:05:05.295096"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1493,7 +1510,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.783678"
+    "created_at": "2026-10-26T22:05:22.391262"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1510,7 +1527,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.783830"
+    "created_at": "2026-10-26T22:05:22.391412"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1525,7 +1542,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.278664"
+    "created_at": "2026-10-26T22:05:21.755899"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1542,6 +1559,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T17:53:54.783631"
+    "created_at": "2026-10-26T22:05:22.391211"
   }
 ]
