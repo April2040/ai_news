@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919158"
+    "created_at": "2026-10-26T11:51:31.837547"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -33,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100726"
+    "created_at": "2026-10-26T11:51:39.107342"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -51,24 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.101009"
-  },
-  {
-    "id": "TechCrunch AI_f002c4ee96be59cb",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 25 Oct 2026 21:31:16 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.918959"
+    "created_at": "2026-10-26T11:51:39.107625"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -86,7 +69,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100792"
+    "created_at": "2026-10-26T11:51:39.107408"
   },
   {
     "id": "TechCrunch AI_ea19a41aae0d4432",
@@ -105,7 +88,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919266"
+    "created_at": "2026-10-26T11:51:31.837656"
+  },
+  {
+    "id": "arXiv AI_e00e8e952ce3c706",
+    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+    "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.",
+    "content": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.",
+    "url": "https://arxiv.org/abs/2610.31882",
+    "source": "arXiv AI",
+    "author": "Tristan Liang, Aravind Nagulu",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 7.2,
+    "category": "research",
+    "keywords": [
+      "Claude",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956747"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -125,7 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100668"
+    "created_at": "2026-10-26T11:51:39.107283"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -145,7 +146,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100879"
+    "created_at": "2026-10-26T11:51:39.107493"
+  },
+  {
+    "id": "TechCrunch AI_f002c4ee96be59cb",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 25 Oct 2026 21:31:16 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:31.837346"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -163,7 +181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:13.868197"
+    "created_at": "2026-10-26T11:51:38.008662"
   },
   {
     "id": "The Verge AI_bb9b75ef3f378eb3",
@@ -180,7 +198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828069"
+    "created_at": "2026-10-26T11:51:32.805875"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -198,7 +216,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100836"
+    "created_at": "2026-10-26T11:51:39.107451"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -216,7 +234,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100920"
+    "created_at": "2026-10-26T11:51:39.107535"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -234,7 +252,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.100959"
+    "created_at": "2026-10-26T11:51:39.107575"
+  },
+  {
+    "id": "arXiv ML_7a770f0ed8f292ba",
+    "title": "Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability",
+    "summary": "arXiv:2610.31733v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring aims to detect potentially harmful behaviors in large language models (LLMs) from their CoTs. Intervention-based evaluations measure this property by asking whether a monitor can detect the role of an intervention...",
+    "content": "arXiv:2610.31733v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring aims to detect potentially harmful behaviors in large language models (LLMs) from their CoTs. Intervention-based evaluations measure this property by asking whether a monitor can detect the role of an intervention...",
+    "url": "https://arxiv.org/abs/2610.31733",
+    "source": "arXiv ML",
+    "author": "Qiang Fu, Xinyue Li, Andre Wibisono, Arman Cohan",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.7,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875560"
   },
   {
     "id": "The Verge AI_db3f7fe1547c327f",
@@ -252,24 +288,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828232"
-  },
-  {
-    "id": "Reddit ML_0e26cb994d7cb9f1",
-    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
-    "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
-    "content": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
-    "source": "Reddit ML",
-    "author": "/u/GapNew4766",
-    "published_date": "2026-10-25T22:57:33+00:00",
-    "importance_score": 6.6,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-26T02:18:26.585036"
+    "created_at": "2026-10-26T11:51:32.806076"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -287,7 +306,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:10.821736"
+    "created_at": "2026-10-26T11:51:34.838513"
+  },
+  {
+    "id": "arXiv ML_c8f071e4b7160e5a",
+    "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
+    "summary": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering.",
+    "content": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering.",
+    "url": "https://arxiv.org/abs/2610.31721",
+    "source": "arXiv ML",
+    "author": "Ricardo Luna Gutierrez, Vineet Gundecha, Rahman Ejaz, Varchas Gopalaswamy, Riccardo Betti, Sahand Ghorbanpour, Aarne Lees, Soumyendu Sarkar",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875171"
   },
   {
     "id": "TechCrunch AI_9f312d10598c6559",
@@ -305,7 +341,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919389"
+    "created_at": "2026-10-26T11:51:31.837779"
+  },
+  {
+    "id": "Wired AI_b8b880bda42b699a",
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "content": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "source": "Wired AI",
+    "author": "Kate Knibbs",
+    "published_date": "Mon, 26 Oct 2026 09:30:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:33.845543"
+  },
+  {
+    "id": "arXiv AI_54c5c33fde03be98",
+    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+    "summary": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms.",
+    "content": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms.",
+    "url": "https://arxiv.org/abs/2610.31937",
+    "source": "arXiv AI",
+    "author": "Yuqing Huang, Jack Ji, Jithin Pradeep, Sagarika Suresh, Jekaterina Novikova",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.4,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956986"
+  },
+  {
+    "id": "Wired AI_e1e2ea4d53d9e079",
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "content": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "source": "Wired AI",
+    "author": "Jessica Lipsky",
+    "published_date": "Mon, 26 Oct 2026 09:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:33.845615"
   },
   {
     "id": "TechCrunch AI_abf3f5fe91315afa",
@@ -323,7 +411,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919044"
+    "created_at": "2026-10-26T11:51:31.837431"
   },
   {
     "id": "Reddit ML_13592e5d93b65880",
@@ -338,7 +426,57 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.584717"
+    "created_at": "2026-10-26T11:51:50.663608"
+  },
+  {
+    "id": "Reddit ML_0e26cb994d7cb9f1",
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
+    "content": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+    "source": "Reddit ML",
+    "author": "/u/GapNew4766",
+    "published_date": "2026-10-25T22:57:33+00:00",
+    "importance_score": 6.1,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-26T11:51:50.663914"
+  },
+  {
+    "id": "arXiv ML_82dd8647d8c7d064",
+    "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
+    "summary": "arXiv:2610.31704v1 Announce Type: new Abstract: Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and manufactured components without causing damage.",
+    "content": "arXiv:2610.31704v1 Announce Type: new Abstract: Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and manufactured components without causing damage.",
+    "url": "https://arxiv.org/abs/2610.31704",
+    "source": "arXiv ML",
+    "author": "Ashiqur Rahmana, Venkata Devesh Reddy Seethi, Zachary Kral, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.0,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.874926"
+  },
+  {
+    "id": "Reddit ML_92fb8419ff228df7",
+    "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
+    "summary": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
+    "content": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
+    "source": "Reddit ML",
+    "author": "/u/Virtual-Message-9739",
+    "published_date": "2026-10-26T07:48:07+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:50.663486"
   },
   {
     "id": "TechCrunch AI_c8d714d08158e2b7",
@@ -355,7 +493,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919095"
+    "created_at": "2026-10-26T11:51:31.837483"
   },
   {
     "id": "The Verge AI_16be71032dfb245d",
@@ -372,42 +510,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.827993"
-  },
-  {
-    "id": "Wired AI_c575147229207f9d",
-    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-    "source": "Wired AI",
-    "author": "Molly Taft",
-    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845471"
-  },
-  {
-    "id": "Wired AI_b70c5f4bf44e028b",
-    "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-    "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "content": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-    "source": "Wired AI",
-    "author": "Tom Bristow",
-    "published_date": "Wed, 21 Oct 2026 15:02:15 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845810"
+    "created_at": "2026-10-26T11:51:32.805798"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -424,7 +527,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:10.821606"
+    "created_at": "2026-10-26T11:51:34.838386"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -443,24 +546,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:17.952286"
-  },
-  {
-    "id": "Reddit ML_3309ec19fc9a86c7",
-    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-    "summary": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
-    "content": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-    "source": "Reddit ML",
-    "author": "/u/Mrs-Grumpy23",
-    "published_date": "2026-10-25T05:31:19+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.584885"
+    "created_at": "2026-10-26T11:51:41.971838"
   },
   {
     "id": "The Verge AI_457a541ecb52ed42",
@@ -477,7 +563,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828361"
+    "created_at": "2026-10-26T11:51:32.806203"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -494,7 +580,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828408"
+    "created_at": "2026-10-26T11:51:32.806250"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -511,7 +597,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:11.993842"
+    "created_at": "2026-10-26T11:51:36.106785"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -528,7 +614,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:11.993898"
+    "created_at": "2026-10-26T11:51:36.106841"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -545,7 +631,94 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:11.994004"
+    "created_at": "2026-10-26T11:51:36.106947"
+  },
+  {
+    "id": "arXiv AI_ce60440f4cdc7a00",
+    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+    "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior.",
+    "content": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior.",
+    "url": "https://arxiv.org/abs/2610.31916",
+    "source": "arXiv AI",
+    "author": "Deekshith Marla, Kushagra Bhatnagar",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956829"
+  },
+  {
+    "id": "arXiv AI_1105ac012c32590e",
+    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+    "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions.",
+    "content": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions.",
+    "url": "https://arxiv.org/abs/2610.31971",
+    "source": "arXiv AI",
+    "author": "Amit Sarker, Moumita Choudhury, Saaduddin Mahmud, Shlomo Zilberstein",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.957079"
+  },
+  {
+    "id": "arXiv ML_2383490838e40091",
+    "title": "Does LeWorldModel Preserve Local Action Geometry?",
+    "summary": "arXiv:2610.31716v1 Announce Type: new Abstract: We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales.",
+    "content": "arXiv:2610.31716v1 Announce Type: new Abstract: We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales.",
+    "url": "https://arxiv.org/abs/2610.31716",
+    "source": "arXiv ML",
+    "author": "Vasil Vasilev, Siddharth Nayak",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875011"
+  },
+  {
+    "id": "arXiv ML_2d5e8e5eaf8d44c3",
+    "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
+    "summary": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges.",
+    "content": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges.",
+    "url": "https://arxiv.org/abs/2610.31718",
+    "source": "arXiv ML",
+    "author": "Dennis Heijmans, H. \\c{C}a\\u{g}r{\\i} Bilgi, Rui Wang, Kubilay Atasu",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875094"
+  },
+  {
+    "id": "arXiv ML_4d32b85a88ece473",
+    "title": "When and How Does Muon Precondition? The Role of Structured Gradient Noise",
+    "summary": "arXiv:2610.31728v1 Announce Type: new Abstract: Muon has become a popular optimizer for large language model training, yet its theoretical foundations remain poorly understood. In this work, we study how gradient noise geometry shapes Muon's preconditioning benefits.",
+    "content": "arXiv:2610.31728v1 Announce Type: new Abstract: Muon has become a popular optimizer for large language model training, yet its theoretical foundations remain poorly understood. In this work, we study how gradient noise geometry shapes Muon's preconditioning benefits.",
+    "url": "https://arxiv.org/abs/2610.31728",
+    "source": "arXiv ML",
+    "author": "Xiaoran Chen, Binghui Li, Liwei Wang, Pinyan Lu",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875399"
   },
   {
     "id": "The Verge AI_d99a6833a3a17b76",
@@ -563,7 +736,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828179"
+    "created_at": "2026-10-26T11:51:32.805987"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -580,7 +753,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845650"
+    "created_at": "2026-10-26T11:51:33.845844"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -597,7 +770,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:15.101052"
+    "created_at": "2026-10-26T11:51:39.107668"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -614,24 +787,135 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845716"
+    "created_at": "2026-10-26T11:51:33.845909"
   },
   {
-    "id": "Reddit ML_c4dfe34b19a9b354",
-    "title": "ICLR 2027 is still handing out desk rejects [N]",
-    "summary": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
-    "content": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
-    "source": "Reddit ML",
-    "author": "/u/Temporary_Switch_339",
-    "published_date": "2026-10-25T05:35:36+00:00",
+    "id": "arXiv AI_618b006d1c5b3d47",
+    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+    "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting.",
+    "content": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting.",
+    "url": "https://arxiv.org/abs/2610.31789",
+    "source": "arXiv AI",
+    "author": "Hariharan Devarajan, Neeraj Rajesh, Aniruddha Marathe, Nikoli Dryden, Kin Ng, Michela Taufer",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
-    "category": "tech",
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956425"
+  },
+  {
+    "id": "arXiv AI_1da9cdb274354a4d",
+    "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+    "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes.",
+    "content": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes.",
+    "url": "https://arxiv.org/abs/2610.31808",
+    "source": "arXiv AI",
+    "author": "Xinyi Vicky Xiang, Catherine Qingyun Wang, Paula Cort\\'es Lemos",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956490"
+  },
+  {
+    "id": "arXiv AI_7f85e7a40991a96c",
+    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+    "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a...",
+    "content": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a...",
+    "url": "https://arxiv.org/abs/2610.31810",
+    "source": "arXiv AI",
+    "author": "Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956583"
+  },
+  {
+    "id": "arXiv AI_a2bb972d34c1bcef",
+    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+    "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited...",
+    "content": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited...",
+    "url": "https://arxiv.org/abs/2610.31846",
+    "source": "arXiv AI",
+    "author": "Yuval Kansal, Karen Ullrich, Polina Kirichenko, Ilia Kulikov, Niraj K. Jha, Mohammad Pezeshki, Mark Ibrahim",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.584634"
+    "created_at": "2026-10-26T11:51:44.956673"
+  },
+  {
+    "id": "arXiv AI_6d6cd39715c8211a",
+    "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+    "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation.",
+    "content": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation.",
+    "url": "https://arxiv.org/abs/2610.31918",
+    "source": "arXiv AI",
+    "author": "Ya Gao, Zhengtao Zou, Pekka Marttinen",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956913"
+  },
+  {
+    "id": "arXiv ML_8d5de4ed13400590",
+    "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
+    "summary": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment.",
+    "content": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment.",
+    "url": "https://arxiv.org/abs/2610.31702",
+    "source": "arXiv ML",
+    "author": "Yuanzhe Peng, Jie Xu",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.874828"
+  },
+  {
+    "id": "arXiv ML_ba84739bb5bf85b9",
+    "title": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
+    "summary": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial...",
+    "content": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial...",
+    "url": "https://arxiv.org/abs/2610.31726",
+    "source": "arXiv ML",
+    "author": "Ash Simmons, George De Ath, Richard M. Everson",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875326"
+  },
+  {
+    "id": "arXiv ML_905732610e1eaa3b",
+    "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
+    "summary": "arXiv:2610.31731v1 Announce Type: new Abstract: Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio.",
+    "content": "arXiv:2610.31731v1 Announce Type: new Abstract: Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio.",
+    "url": "https://arxiv.org/abs/2610.31731",
+    "source": "arXiv ML",
+    "author": "Pan Wang, Lipeng Ke, Huajun Ying, Pritish Mohapatra, Rohan Sarkar, Suresh Lakhani, Sankar Venkataraman, Jingtong Hu",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875476"
   },
   {
     "id": "TechCrunch AI_61ea5c601fe7b434",
@@ -648,7 +932,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919205"
+    "created_at": "2026-10-26T11:51:31.837593"
   },
   {
     "id": "TechCrunch AI_646780a825bd135a",
@@ -665,7 +949,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919314"
+    "created_at": "2026-10-26T11:51:31.837703"
   },
   {
     "id": "The Verge AI_5aa5cda331e8f8c6",
@@ -682,7 +966,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828124"
+    "created_at": "2026-10-26T11:51:32.805930"
+  },
+  {
+    "id": "Wired AI_c575147229207f9d",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "author": "Molly Taft",
+    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:33.845689"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -699,7 +1000,54 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845527"
+    "created_at": "2026-10-26T11:51:33.845732"
+  },
+  {
+    "id": "arXiv AI_47aef0769689a3a8",
+    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+    "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions.",
+    "content": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions.",
+    "url": "https://arxiv.org/abs/2610.31701",
+    "source": "arXiv AI",
+    "author": "Nan Wang, Mitchell Turiel",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:44.956319"
+  },
+  {
+    "id": "arXiv ML_e36225a39d25c0fe",
+    "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems",
+    "summary": "arXiv:2610.31722v1 Announce Type: new Abstract: Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling.",
+    "content": "arXiv:2610.31722v1 Announce Type: new Abstract: Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling.",
+    "url": "https://arxiv.org/abs/2610.31722",
+    "source": "arXiv ML",
+    "author": "Yixiang Tang, Fagui Liu, Guoxiang Zhong, Xi Yao, C. L. Philip Chen",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:45.875251"
+  },
+  {
+    "id": "Reddit ML_3309ec19fc9a86c7",
+    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+    "summary": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
+    "content": "been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory are pretty wild. instead of using append-only prompt stacking or external rag pipelines, memt-1.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+    "source": "Reddit ML",
+    "author": "/u/Mrs-Grumpy23",
+    "published_date": "2026-10-25T05:31:19+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T11:51:50.663698"
   },
   {
     "id": "Reddit ML_99926e482c39a846",
@@ -714,25 +1062,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.584792"
+    "created_at": "2026-10-26T11:51:50.663769"
   },
   {
-    "id": "Reddit ML_d170d90ec42dd399",
-    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-    "summary": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "content": "I wanted to see how far you can get making a pretrained symbolic music model listen to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the Anticipatory Music Transformer (Thickstun et al., music-medium-800k) plays a second piano.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+    "id": "Reddit ML_c4dfe34b19a9b354",
+    "title": "ICLR 2027 is still handing out desk rejects [N]",
+    "summary": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
+    "content": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
     "source": "Reddit ML",
-    "author": "/u/GGAllin43",
-    "published_date": "2026-10-24T09:58:29+00:00",
+    "author": "/u/Temporary_Switch_339",
+    "published_date": "2026-10-25T05:35:36+00:00",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
-      "AI",
-      "transformer"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.585268"
+    "created_at": "2026-10-26T11:51:50.663534"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -749,7 +1096,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828467"
+    "created_at": "2026-10-26T11:51:32.806297"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -766,7 +1113,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-26T02:18:09.845585"
+    "created_at": "2026-10-26T11:51:33.845786"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -783,7 +1130,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:11.993949"
+    "created_at": "2026-10-26T11:51:36.106891"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -800,7 +1147,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-26T02:18:11.994055"
+    "created_at": "2026-10-26T11:51:36.107008"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -817,7 +1164,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.855663"
+    "created_at": "2026-10-26T11:51:36.899972"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -834,7 +1181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.855757"
+    "created_at": "2026-10-26T11:51:36.900076"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -851,7 +1198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.855813"
+    "created_at": "2026-10-26T11:51:36.900134"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -868,7 +1215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.855888"
+    "created_at": "2026-10-26T11:51:36.900206"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -885,7 +1232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.855940"
+    "created_at": "2026-10-26T11:51:36.900259"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -902,7 +1249,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.856013"
+    "created_at": "2026-10-26T11:51:36.900334"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -919,7 +1266,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:12.856070"
+    "created_at": "2026-10-26T11:51:36.900389"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -936,7 +1283,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:13.868264"
+    "created_at": "2026-10-26T11:51:38.008728"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -953,7 +1300,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:10.821659"
+    "created_at": "2026-10-26T11:51:34.838434"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -970,7 +1317,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:10.821697"
+    "created_at": "2026-10-26T11:51:34.838470"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -987,7 +1334,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:17.952190"
+    "created_at": "2026-10-26T11:51:41.971741"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1004,7 +1351,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:17.952240"
+    "created_at": "2026-10-26T11:51:41.971792"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1021,7 +1368,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:17.952327"
+    "created_at": "2026-10-26T11:51:41.971880"
   },
   {
     "id": "TechCrunch AI_b78b969f73b1c3cc",
@@ -1038,7 +1385,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:07.919479"
+    "created_at": "2026-10-26T11:51:31.837849"
   },
   {
     "id": "The Verge AI_a0a62bf456487b3e",
@@ -1055,7 +1402,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:08.828299"
+    "created_at": "2026-10-26T11:51:32.806146"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1072,24 +1419,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:09.845755"
-  },
-  {
-    "id": "Wired AI_a5d5f5bcb17840d6",
-    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "content": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-    "source": "Wired AI",
-    "author": "Matt Burgess, Lily Hay Newman",
-    "published_date": "Wed, 21 Oct 2026 14:26:19 +0000",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-26T02:18:09.845865"
+    "created_at": "2026-10-26T11:51:33.845949"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1106,7 +1436,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:10.821553"
+    "created_at": "2026-10-26T11:51:34.838330"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1123,7 +1453,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:27.118704"
+    "created_at": "2026-10-26T11:51:51.807075"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1140,7 +1470,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:27.118870"
+    "created_at": "2026-10-26T11:51:51.807244"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1155,7 +1485,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.584568"
+    "created_at": "2026-10-26T11:51:50.663319"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1172,7 +1502,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:27.118646"
+    "created_at": "2026-10-26T11:51:51.807016"
   },
   {
     "id": "Reddit ML_5b43f040695b5d15",
@@ -1187,6 +1517,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-26T02:18:26.585186"
+    "created_at": "2026-10-26T11:51:50.664069"
   }
 ]
