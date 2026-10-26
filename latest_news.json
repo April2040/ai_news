@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368382"
+    "created_at": "2026-10-26T02:18:07.919158"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -33,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556017"
+    "created_at": "2026-10-26T02:18:15.100726"
   },
   {
     "id": "OpenAI News_5e2a484b0a1d0d84",
@@ -51,7 +51,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556239"
+    "created_at": "2026-10-26T02:18:15.101009"
+  },
+  {
+    "id": "TechCrunch AI_f002c4ee96be59cb",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 25 Oct 2026 21:31:16 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:07.918959"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -69,7 +86,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556067"
+    "created_at": "2026-10-26T02:18:15.100792"
   },
   {
     "id": "TechCrunch AI_ea19a41aae0d4432",
@@ -88,25 +105,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368470"
-  },
-  {
-    "id": "The Verge AI_db3f7fe1547c327f",
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
-    "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-23T17:11:07-04:00",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361211"
+    "created_at": "2026-10-26T02:18:07.919266"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -126,7 +125,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.555973"
+    "created_at": "2026-10-26T02:18:15.100668"
   },
   {
     "id": "OpenAI News_e3dc2c2d3672a3fa",
@@ -146,25 +145,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556131"
-  },
-  {
-    "id": "TechCrunch AI_9f312d10598c6559",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Fri, 23 Oct 2026 23:05:49 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368554"
+    "created_at": "2026-10-26T02:18:15.100879"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -182,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:14.515515"
+    "created_at": "2026-10-26T02:18:13.868197"
   },
   {
     "id": "The Verge AI_bb9b75ef3f378eb3",
@@ -199,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361062"
+    "created_at": "2026-10-26T02:18:08.828069"
   },
   {
     "id": "OpenAI News_de378f1358aae71c",
@@ -217,7 +198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556098"
+    "created_at": "2026-10-26T02:18:15.100836"
   },
   {
     "id": "OpenAI News_5276bd6d6f8e1997",
@@ -235,7 +216,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556163"
+    "created_at": "2026-10-26T02:18:15.100920"
   },
   {
     "id": "OpenAI News_0939727ea9afa578",
@@ -253,40 +234,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556202"
+    "created_at": "2026-10-26T02:18:15.100959"
   },
   {
-    "id": "TechCrunch AI_abf3f5fe91315afa",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "id": "The Verge AI_db3f7fe1547c327f",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "content": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-23T17:11:07-04:00",
     "importance_score": 6.6000000000000005,
     "category": "tech",
     "keywords": [
-      "artificial intelligence",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368273"
+    "created_at": "2026-10-26T02:18:08.828232"
   },
   {
-    "id": "Reddit ML_13592e5d93b65880",
-    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-    "summary": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
-    "content": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+    "id": "Reddit ML_0e26cb994d7cb9f1",
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "summary": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
+    "content": "everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
     "source": "Reddit ML",
-    "author": "/u/jatingargiitk",
-    "published_date": "2026-10-25T16:32:44+00:00",
+    "author": "/u/GapNew4766",
+    "published_date": "2026-10-25T22:57:33+00:00",
     "importance_score": 6.6,
     "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363609"
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-26T02:18:26.585036"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -304,7 +287,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:11.403570"
+    "created_at": "2026-10-26T02:18:10.821736"
+  },
+  {
+    "id": "TechCrunch AI_9f312d10598c6559",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "content": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Fri, 23 Oct 2026 23:05:49 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:07.919389"
+  },
+  {
+    "id": "TechCrunch AI_abf3f5fe91315afa",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:07.919044"
+  },
+  {
+    "id": "Reddit ML_13592e5d93b65880",
+    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+    "summary": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
+    "content": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+    "source": "Reddit ML",
+    "author": "/u/jatingargiitk",
+    "published_date": "2026-10-25T16:32:44+00:00",
+    "importance_score": 6.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:26.584717"
   },
   {
     "id": "TechCrunch AI_c8d714d08158e2b7",
@@ -315,13 +349,13 @@
     "source": "TechCrunch AI",
     "author": "Lauren Forristal",
     "published_date": "Sun, 25 Oct 2026 14:10:00 +0000",
-    "importance_score": 6.4,
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368326"
+    "created_at": "2026-10-26T02:18:07.919095"
   },
   {
     "id": "The Verge AI_16be71032dfb245d",
@@ -338,24 +372,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.360998"
-  },
-  {
-    "id": "The Verge AI_5aa5cda331e8f8c6",
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-24T17:29:12-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361107"
+    "created_at": "2026-10-26T02:18:08.827993"
   },
   {
     "id": "Wired AI_c575147229207f9d",
@@ -372,7 +389,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347657"
+    "created_at": "2026-10-26T02:18:09.845471"
   },
   {
     "id": "Wired AI_b70c5f4bf44e028b",
@@ -390,7 +407,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347923"
+    "created_at": "2026-10-26T02:18:09.845810"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -407,7 +424,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:11.403470"
+    "created_at": "2026-10-26T02:18:10.821606"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -426,7 +443,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:18.470816"
+    "created_at": "2026-10-26T02:18:17.952286"
   },
   {
     "id": "Reddit ML_3309ec19fc9a86c7",
@@ -443,25 +460,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363737"
-  },
-  {
-    "id": "TechCrunch AI_0b624ccc371b2c1a",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "content": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Fri, 23 Oct 2026 04:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368664"
+    "created_at": "2026-10-26T02:18:26.584885"
   },
   {
     "id": "The Verge AI_457a541ecb52ed42",
@@ -478,7 +477,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361313"
+    "created_at": "2026-10-26T02:18:08.828361"
   },
   {
     "id": "The Verge AI_8d75b4da1112d77b",
@@ -495,7 +494,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361351"
+    "created_at": "2026-10-26T02:18:08.828408"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -512,7 +511,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:12.572589"
+    "created_at": "2026-10-26T02:18:11.993842"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -529,7 +528,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:12.572633"
+    "created_at": "2026-10-26T02:18:11.993898"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -546,7 +545,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:12.572715"
+    "created_at": "2026-10-26T02:18:11.994004"
   },
   {
     "id": "The Verge AI_d99a6833a3a17b76",
@@ -564,7 +563,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361153"
+    "created_at": "2026-10-26T02:18:08.828179"
   },
   {
     "id": "Wired AI_d6f1b4c293073e10",
@@ -581,7 +580,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347795"
+    "created_at": "2026-10-26T02:18:09.845650"
   },
   {
     "id": "OpenAI News_8e2d28a9d9e37208",
@@ -598,22 +597,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:15.556272"
-  },
-  {
-    "id": "Reddit ML_99926e482c39a846",
-    "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
-    "summary": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
-    "content": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
-    "source": "Reddit ML",
-    "author": "/u/Humble-Shopping-9495",
-    "published_date": "2026-10-25T18:35:21+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363665"
+    "created_at": "2026-10-26T02:18:15.101052"
   },
   {
     "id": "Wired AI_239a7d01cd66a2da",
@@ -630,7 +614,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347847"
+    "created_at": "2026-10-26T02:18:09.845716"
   },
   {
     "id": "Reddit ML_c4dfe34b19a9b354",
@@ -647,7 +631,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363549"
+    "created_at": "2026-10-26T02:18:26.584634"
   },
   {
     "id": "TechCrunch AI_61ea5c601fe7b434",
@@ -664,7 +648,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368421"
+    "created_at": "2026-10-26T02:18:07.919205"
   },
   {
     "id": "TechCrunch AI_646780a825bd135a",
@@ -681,7 +665,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368510"
+    "created_at": "2026-10-26T02:18:07.919314"
+  },
+  {
+    "id": "The Verge AI_5aa5cda331e8f8c6",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "content": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-24T17:29:12-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:08.828124"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -698,7 +699,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347702"
+    "created_at": "2026-10-26T02:18:09.845527"
+  },
+  {
+    "id": "Reddit ML_99926e482c39a846",
+    "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+    "summary": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
+    "content": "I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common examples. I'm curious about the data side of the process.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+    "source": "Reddit ML",
+    "author": "/u/Humble-Shopping-9495",
+    "published_date": "2026-10-25T18:35:21+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:26.584792"
   },
   {
     "id": "Reddit ML_d170d90ec42dd399",
@@ -716,7 +732,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363918"
+    "created_at": "2026-10-26T02:18:26.585268"
   },
   {
     "id": "The Verge AI_58dde85ef83a6934",
@@ -733,7 +749,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361389"
+    "created_at": "2026-10-26T02:18:08.828467"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -750,7 +766,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T20:08:10.347747"
+    "created_at": "2026-10-26T02:18:09.845585"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -767,7 +783,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:12.572672"
+    "created_at": "2026-10-26T02:18:11.993949"
   },
   {
     "id": "Google AI Blog_b7fc15ccf752113f",
@@ -784,7 +800,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-25T20:08:12.572755"
+    "created_at": "2026-10-26T02:18:11.994055"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -801,7 +817,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.381899"
+    "created_at": "2026-10-26T02:18:12.855663"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -818,7 +834,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.381971"
+    "created_at": "2026-10-26T02:18:12.855757"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -835,7 +851,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.382020"
+    "created_at": "2026-10-26T02:18:12.855813"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -852,7 +868,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.382077"
+    "created_at": "2026-10-26T02:18:12.855888"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -869,7 +885,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.382120"
+    "created_at": "2026-10-26T02:18:12.855940"
   },
   {
     "id": "MIT Technology Review_381aa14564b12159",
@@ -886,7 +902,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.382188"
+    "created_at": "2026-10-26T02:18:12.856013"
   },
   {
     "id": "MIT Technology Review_f004230f1df8d04a",
@@ -903,7 +919,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:13.382234"
+    "created_at": "2026-10-26T02:18:12.856070"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -920,7 +936,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:14.515569"
+    "created_at": "2026-10-26T02:18:13.868264"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -937,7 +953,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:11.403511"
+    "created_at": "2026-10-26T02:18:10.821659"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -954,7 +970,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:11.403540"
+    "created_at": "2026-10-26T02:18:10.821697"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -971,7 +987,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:18.470739"
+    "created_at": "2026-10-26T02:18:17.952190"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -988,7 +1004,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:18.470779"
+    "created_at": "2026-10-26T02:18:17.952240"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1005,7 +1021,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:18.470849"
+    "created_at": "2026-10-26T02:18:17.952327"
   },
   {
     "id": "TechCrunch AI_b78b969f73b1c3cc",
@@ -1022,7 +1038,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:08.368626"
+    "created_at": "2026-10-26T02:18:07.919479"
   },
   {
     "id": "The Verge AI_a0a62bf456487b3e",
@@ -1039,7 +1055,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:09.361265"
+    "created_at": "2026-10-26T02:18:08.828299"
   },
   {
     "id": "Wired AI_37da13d9d8da9dcc",
@@ -1056,7 +1072,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:10.347880"
+    "created_at": "2026-10-26T02:18:09.845755"
   },
   {
     "id": "Wired AI_a5d5f5bcb17840d6",
@@ -1073,43 +1089,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-25T20:08:10.347968"
-  },
-  {
-    "id": "Reddit ML_c7c96f90d2001fcd",
-    "title": "Is symbolic ai dead? [D]",
-    "summary": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
-    "content": "New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-    "source": "Reddit ML",
-    "author": "/u/Velocitank",
-    "published_date": "2026-10-23T13:49:16+00:00",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "machine learning",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363963"
-  },
-  {
-    "id": "Lobsters AI_dd37a3266947aa05",
-    "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
-    "summary": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "content": "Assuming I have been on hibernation since 2018-19 time frame, which materials - books, MOOC courses and YT channels would be recommended for me to get started with understanding all the current progress on AI/ML.",
-    "url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
-    "source": "Lobsters AI",
-    "author": "by dtsdwarak",
-    "published_date": "Wed, 07 Oct 2026 09:12:02 -0500",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.450210"
+    "created_at": "2026-10-26T02:18:09.845865"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1126,7 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:11.403426"
+    "created_at": "2026-10-26T02:18:10.821553"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1143,7 +1123,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.450030"
+    "created_at": "2026-10-26T02:18:27.118704"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1160,7 +1140,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.450150"
+    "created_at": "2026-10-26T02:18:27.118870"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1175,7 +1155,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363499"
+    "created_at": "2026-10-26T02:18:26.584568"
+  },
+  {
+    "id": "Lobsters AI_556d270a50436283",
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "Lobsters AI",
+    "author": "noyb.eu via kngl",
+    "published_date": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-26T02:18:27.118646"
   },
   {
     "id": "Reddit ML_5b43f040695b5d15",
@@ -1190,6 +1187,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-25T20:08:27.363854"
+    "created_at": "2026-10-26T02:18:26.585186"
   }
 ]
