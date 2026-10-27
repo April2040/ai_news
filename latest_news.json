@@ -1,41 +1,21 @@
 [
   {
-    "id": "The Verge AI_7f98f3c87d6a195d",
-    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-    "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
-    "content": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
-    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "id": "The Verge AI_7e4aa5ccf78d0ddf",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
+    "content": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
     "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-27T09:50:51-04:00",
-    "importance_score": 8.899999999999999,
+    "author": "Robert Hart",
+    "published_date": "2026-10-27T16:48:58-04:00",
+    "importance_score": 9.3,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804848"
-  },
-  {
-    "id": "Wired AI_db8f63318a30049f",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
-    "importance_score": 8.5,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798421"
+    "sentiment": "positive",
+    "created_at": "2026-10-27T21:35:10.761186"
   },
   {
     "id": "The Verge AI_45b041495efd863f",
@@ -52,7 +32,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804791"
+    "created_at": "2026-10-27T21:35:10.761403"
+  },
+  {
+    "id": "The Verge AI_7f98f3c87d6a195d",
+    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
+    "content": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
+    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-27T09:50:51-04:00",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:10.761448"
   },
   {
     "id": "Wired AI_980a780899ef825b",
@@ -71,25 +69,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798593"
-  },
-  {
-    "id": "TechCrunch AI_bdffc3bcf1cb0378",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 27 Oct 2026 14:59:09 +0000",
-    "importance_score": 8.2,
-    "category": "tech",
-    "keywords": [
-      "Meta AI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900013"
+    "created_at": "2026-10-27T21:35:11.796776"
   },
   {
     "id": "The Verge AI_fecc1a2cbcded565",
@@ -107,7 +87,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804906"
+    "created_at": "2026-10-27T21:35:10.761495"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -127,7 +107,45 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071459"
+    "created_at": "2026-10-27T21:35:16.982066"
+  },
+  {
+    "id": "Wired AI_db8f63318a30049f",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "source": "Wired AI",
+    "author": "Isabella Ward",
+    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
+    "importance_score": 8.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:11.796693"
+  },
+  {
+    "id": "TechCrunch AI_78b7d503875d4984",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 27 Oct 2026 17:08:08 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786753"
   },
   {
     "id": "The Verge AI_8d7c0938290948fa",
@@ -145,35 +163,53 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804638"
+    "created_at": "2026-10-27T21:35:10.761295"
   },
   {
-    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
+    "id": "Wired AI_7045581ab8ff6c4f",
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Tue, 27 Oct 2026 19:39:04 +0000",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827154"
+    "sentiment": "positive",
+    "created_at": "2026-10-27T21:35:11.796622"
   },
   {
-    "id": "OpenAI News_f7d66257d0c6d8b8",
-    "title": "Securing our frontier model training environment",
-    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "content": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "id": "TechCrunch AI_bdffc3bcf1cb0378",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 27 Oct 2026 14:59:09 +0000",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "Meta AI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786858"
+  },
+  {
+    "id": "OpenAI News_cc5f9f3c3915dc2c",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "url": "https://openai.com/index/check-point-daybreak",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 GMT",
     "importance_score": 7.7,
     "category": "tech",
     "keywords": [
@@ -181,7 +217,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071907"
+    "created_at": "2026-10-27T21:35:16.982119"
   },
   {
     "id": "TechCrunch AI_d15094931db51b86",
@@ -199,7 +235,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900228"
+    "created_at": "2026-10-27T21:35:09.787025"
   },
   {
     "id": "OpenAI News_3e19a31d5418a75f",
@@ -219,7 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071697"
+    "created_at": "2026-10-27T21:35:16.982292"
   },
   {
     "id": "The Verge AI_2dc0f427e79d0718",
@@ -237,53 +273,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804954"
+    "created_at": "2026-10-27T21:35:10.761534"
   },
   {
-    "id": "The Verge AI_aff1907b9f021fb1",
-    "title": "Five weird details from Anthropic’s IPO filing",
-    "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.",
-    "content": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-26T13:10:23-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.805079"
-  },
-  {
-    "id": "Wired AI_00c49c7708db568f",
-    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "source": "Wired AI",
-    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
-    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798700"
-  },
-  {
-    "id": "MIT Technology Review_de76e95e872b4c55",
-    "title": "Will the real Anthropic please stand up",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
     "source": "MIT Technology Review",
-    "author": "Will Douglas Heaven",
-    "published_date": "Mon, 26 Oct 2026 17:45:43 +0000",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
@@ -291,7 +291,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827307"
+    "created_at": "2026-10-27T21:35:14.768617"
   },
   {
     "id": "OpenAI News_aff2b5e3fdc3a62f",
@@ -310,25 +310,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071740"
-  },
-  {
-    "id": "TechCrunch AI_5849e8bb506ae6ee",
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "content": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900133"
+    "created_at": "2026-10-27T21:35:16.982327"
   },
   {
     "id": "OpenAI News_17cd0140732d97ed",
@@ -346,7 +328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071582"
+    "created_at": "2026-10-27T21:35:16.982211"
   },
   {
     "id": "OpenAI News_4f69a31c7ebc3bc4",
@@ -364,7 +346,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071782"
+    "created_at": "2026-10-27T21:35:16.982362"
   },
   {
     "id": "arXiv AI_e00e8e952ce3c706",
@@ -382,7 +364,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910853"
+    "created_at": "2026-10-27T21:35:22.938530"
   },
   {
     "id": "Reddit ML_acad72aad478a687",
@@ -399,7 +381,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648567"
+    "created_at": "2026-10-27T21:35:28.402514"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -419,7 +401,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071865"
+    "created_at": "2026-10-27T21:35:16.982429"
+  },
+  {
+    "id": "TechCrunch AI_5b61e8618be5032a",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 27 Oct 2026 16:30:57 +0000",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786811"
   },
   {
     "id": "Reddit ML_8406103088168afb",
@@ -437,7 +436,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648336"
+    "created_at": "2026-10-27T21:35:28.402429"
   },
   {
     "id": "Reddit ML_0ed0a9f51facf141",
@@ -455,13 +454,30 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648674"
+    "created_at": "2026-10-27T21:35:28.402820"
+  },
+  {
+    "id": "TechCrunch AI_46a54ba885dfb0f3",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch AI",
+    "author": "Dominic-Madori Davis",
+    "published_date": "Tue, 27 Oct 2026 18:55:35 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786696"
   },
   {
     "id": "TechCrunch AI_5d9fdb37497d6008",
     "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-    "content": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+    "content": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
     "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
     "source": "TechCrunch AI",
     "author": "Jagmeet Singh",
@@ -473,7 +489,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900183"
+    "created_at": "2026-10-27T21:35:09.786972"
+  },
+  {
+    "id": "Wired AI_00c49c7708db568f",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "source": "Wired AI",
+    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
+    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:11.796820"
   },
   {
     "id": "Wired AI_6d9fd7515efbf6ab",
@@ -491,7 +525,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798780"
+    "created_at": "2026-10-27T21:35:11.796858"
   },
   {
     "id": "Wired AI_9a0bacc995e9a2c0",
@@ -509,7 +543,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798860"
+    "created_at": "2026-10-27T21:35:11.796898"
+  },
+  {
+    "id": "MIT Technology Review_de76e95e872b4c55",
+    "title": "Will the real Anthropic please stand up",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Technology Review",
+    "author": "Will Douglas Heaven",
+    "published_date": "Mon, 26 Oct 2026 17:45:43 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:14.768760"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -527,7 +579,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:02.982510"
+    "created_at": "2026-10-27T21:35:15.936567"
+  },
+  {
+    "id": "TechCrunch AI_5849e8bb506ae6ee",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "content": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786934"
   },
   {
     "id": "arXiv ML_7a770f0ed8f292ba",
@@ -545,7 +615,25 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859763"
+    "created_at": "2026-10-27T21:35:23.776409"
+  },
+  {
+    "id": "The Verge AI_f31a825a5b07c81d",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "author": "Charles Pulliam-Moore",
+    "published_date": "2026-10-27T13:30:00-04:00",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:10.761240"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -563,7 +651,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:59.812808"
+    "created_at": "2026-10-27T21:35:12.788357"
   },
   {
     "id": "arXiv ML_c8f071e4b7160e5a",
@@ -580,7 +668,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859342"
+    "created_at": "2026-10-27T21:35:23.776089"
   },
   {
     "id": "The Verge AI_34ee1869a20697ea",
@@ -597,7 +685,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.804720"
+    "created_at": "2026-10-27T21:35:10.761349"
   },
   {
     "id": "arXiv AI_54c5c33fde03be98",
@@ -615,24 +703,25 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.911095"
+    "created_at": "2026-10-27T21:35:22.938745"
   },
   {
-    "id": "TechCrunch AI_f7e5bfcd3bf04a7d",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "content": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "id": "Reddit ML_3ab76c80a24d4143",
+    "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+    "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
+    "content": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+    "source": "Reddit ML",
+    "author": "/u/ifaposto",
+    "published_date": "2026-10-27T19:20:08+00:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900081"
+    "created_at": "2026-10-27T21:35:28.402364"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -650,7 +739,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827248"
+    "created_at": "2026-10-27T21:35:14.768708"
   },
   {
     "id": "MIT Technology Review_92ee7dec2b0e93df",
@@ -667,7 +756,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827378"
+    "created_at": "2026-10-27T21:35:14.768819"
   },
   {
     "id": "MIT Technology Review_62c61224c2c3e669",
@@ -684,7 +773,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-27T17:01:01.827431"
+    "created_at": "2026-10-27T21:35:14.768865"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -701,7 +790,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071519"
+    "created_at": "2026-10-27T21:35:16.982159"
   },
   {
     "id": "arXiv ML_82dd8647d8c7d064",
@@ -716,41 +805,76 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859107"
+    "created_at": "2026-10-27T21:35:23.775898"
   },
   {
-    "id": "Reddit ML_94384e1a9915f809",
-    "title": "What to do with my paper, for MLsys conference? [R]",
-    "summary": "For my master’s thesis I built an accelerator for diffusion-based action generation in robotics policies. Offline, it looks great: the median absolute deviation between the accelerated output and the original model’s output is extremely small, so I concluded it reproduces the model’s behavior...",
-    "content": "For my master’s thesis I built an accelerator for diffusion-based action generation in robotics policies. Offline, it looks great: the median absolute deviation between the accelerated output and the original model’s output is extremely small, so I concluded it reproduces the model’s behavior...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xguzyz/what_to_do_with_my_paper_for_mlsys_conference_r/",
+    "id": "Reddit ML_92946fd31c48bf47",
+    "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+    "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
+    "content": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
     "source": "Reddit ML",
-    "author": "/u/Significant_Bee_2025",
-    "published_date": "2026-10-27T15:05:38+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648790"
-  },
-  {
-    "id": "Reddit ML_d7c2740008211f40",
-    "title": "I built a PyTorch optimizer for large GPU workloads — looking for feedback[P]",
-    "summary": "Hey, I've been working on a PyTorch optimizer called ApexW and figured I'd share it here to get some feedback from people who know more about this stuff than I do. The main goal is to reduce optimizer-state memory usage and see how much faster I can make optimizer steps on larger GPU workloads.",
-    "content": "Hey, I've been working on a PyTorch optimizer called ApexW and figured I'd share it here to get some feedback from people who know more about this stuff than I do. The main goal is to reduce optimizer-state memory usage and see how much faster I can make optimizer steps on larger GPU workloads.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgqtxp/i_built_a_pytorch_optimizer_for_large_gpu/",
-    "source": "Reddit ML",
-    "author": "/u/Ready_Parking_5435",
-    "published_date": "2026-10-27T12:11:26+00:00",
+    "author": "/u/dsmirza",
+    "published_date": "2026-10-27T19:55:31+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648964"
+    "created_at": "2026-10-27T21:35:28.402283"
+  },
+  {
+    "id": "Reddit ML_edf6d8858f9ddbf1",
+    "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
+    "summary": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
+    "content": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
+    "source": "Reddit ML",
+    "author": "/u/ifaposto",
+    "published_date": "2026-10-27T18:16:08+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:28.402578"
+  },
+  {
+    "id": "Reddit ML_65ccd112335a5480",
+    "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
+    "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
+    "content": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+    "source": "Reddit ML",
+    "author": "/u/BedFalse6021",
+    "published_date": "2026-10-27T20:13:07+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:28.402748"
+  },
+  {
+    "id": "Lobsters AI_25a29eb9b28ea2c0",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "Lobsters AI",
+    "author": "projectzero.google via ni5arga",
+    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:28.876346"
   },
   {
     "id": "TechCrunch AI_efb29a09574ffcdc",
@@ -767,41 +891,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900303"
-  },
-  {
-    "id": "TechCrunch AI_0d2de1413e003aaa",
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "content": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Mon, 26 Oct 2026 16:46:36 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:56.900356"
-  },
-  {
-    "id": "The Verge AI_32ec2d1605953ff4",
-    "title": "The RealReal won’t let AI agents hog designer clothing",
-    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve...",
-    "content": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve...",
-    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "source": "The Verge AI",
-    "author": "Mia Sato",
-    "published_date": "2026-10-26T13:30:55-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:57.805020"
+    "created_at": "2026-10-27T21:35:09.787085"
   },
   {
     "id": "Wired AI_780dedb6eb7d7332",
@@ -818,7 +908,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798514"
+    "created_at": "2026-10-27T21:35:11.796736"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -835,7 +925,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:59.812677"
+    "created_at": "2026-10-27T21:35:12.788255"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -854,7 +944,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:06.968163"
+    "created_at": "2026-10-27T21:35:19.865945"
+  },
+  {
+    "id": "TechCrunch AI_f7e5bfcd3bf04a7d",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "content": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T21:35:09.786898"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -871,7 +978,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.056535"
+    "created_at": "2026-10-27T21:35:13.943443"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -888,7 +995,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.056584"
+    "created_at": "2026-10-27T21:35:13.943482"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -905,7 +1012,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.056695"
+    "created_at": "2026-10-27T21:35:13.943560"
   },
   {
     "id": "arXiv AI_ce60440f4cdc7a00",
@@ -922,7 +1029,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910935"
+    "created_at": "2026-10-27T21:35:22.938599"
   },
   {
     "id": "arXiv AI_1105ac012c32590e",
@@ -940,7 +1047,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.911180"
+    "created_at": "2026-10-27T21:35:22.938816"
   },
   {
     "id": "arXiv ML_2383490838e40091",
@@ -957,7 +1064,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859183"
+    "created_at": "2026-10-27T21:35:23.775960"
   },
   {
     "id": "arXiv ML_2d5e8e5eaf8d44c3",
@@ -975,7 +1082,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859265"
+    "created_at": "2026-10-27T21:35:23.776025"
   },
   {
     "id": "arXiv ML_4d32b85a88ece473",
@@ -992,7 +1099,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859581"
+    "created_at": "2026-10-27T21:35:23.776275"
   },
   {
     "id": "OpenAI News_62287482a6f297a5",
@@ -1009,7 +1116,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071644"
+    "created_at": "2026-10-27T21:35:16.982250"
   },
   {
     "id": "OpenAI News_a5a309e923c3e531",
@@ -1026,7 +1133,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:04.071815"
+    "created_at": "2026-10-27T21:35:16.982389"
   },
   {
     "id": "arXiv AI_618b006d1c5b3d47",
@@ -1041,7 +1148,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910504"
+    "created_at": "2026-10-27T21:35:22.938249"
   },
   {
     "id": "arXiv AI_1da9cdb274354a4d",
@@ -1056,7 +1163,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910572"
+    "created_at": "2026-10-27T21:35:22.938307"
   },
   {
     "id": "arXiv AI_7f85e7a40991a96c",
@@ -1071,7 +1178,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910682"
+    "created_at": "2026-10-27T21:35:22.938389"
   },
   {
     "id": "arXiv AI_a2bb972d34c1bcef",
@@ -1088,7 +1195,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910775"
+    "created_at": "2026-10-27T21:35:22.938467"
   },
   {
     "id": "arXiv AI_6d6cd39715c8211a",
@@ -1105,7 +1212,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.911020"
+    "created_at": "2026-10-27T21:35:22.938682"
   },
   {
     "id": "arXiv ML_8d5de4ed13400590",
@@ -1120,7 +1227,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859005"
+    "created_at": "2026-10-27T21:35:23.775812"
   },
   {
     "id": "arXiv ML_ba84739bb5bf85b9",
@@ -1137,7 +1244,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859508"
+    "created_at": "2026-10-27T21:35:23.776217"
   },
   {
     "id": "arXiv ML_905732610e1eaa3b",
@@ -1154,7 +1261,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859674"
+    "created_at": "2026-10-27T21:35:23.776337"
   },
   {
     "id": "Reddit ML_808d5121e8273c1e",
@@ -1171,24 +1278,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648455"
+    "created_at": "2026-10-27T21:35:28.402678"
   },
   {
-    "id": "Reddit ML_cf479e10acaabce1",
-    "title": "Fitting a 4D Mandelbulb with KS3 vs MLP [R]",
-    "summary": "For the past year I have been studying using a fast K-dim hermite spline manifold algorithm, called K-Splanifolds or KS, for general purpose fast regression. In this video I show the third version, KS3, compared to MLP and older KS versions fitting a 4D mandelbulb via gradient descent on random...",
-    "content": "For the past year I have been studying using a fast K-dim hermite spline manifold algorithm, called K-Splanifolds or KS, for general purpose fast regression. In this video I show the third version, KS3, compared to MLP and older KS versions fitting a 4D mandelbulb via gradient descent on random...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xg36lw/fitting_a_4d_mandelbulb_with_ks3_vs_mlp_r/",
-    "source": "Reddit ML",
-    "author": "/u/1ncehost",
-    "published_date": "2026-10-26T17:22:39+00:00",
-    "importance_score": 5.5,
+    "id": "The Verge AI_32ec2d1605953ff4",
+    "title": "The RealReal won’t let AI agents hog designer clothing",
+    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve...",
+    "content": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve...",
+    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+    "source": "The Verge AI",
+    "author": "Mia Sato",
+    "published_date": "2026-10-26T13:30:55-04:00",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.649044"
+    "created_at": "2026-10-27T21:35:10.761585"
   },
   {
     "id": "Wired AI_b8b880bda42b699a",
@@ -1205,7 +1312,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798921"
+    "created_at": "2026-10-27T21:35:11.796933"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1222,7 +1329,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.056459"
+    "created_at": "2026-10-27T21:35:13.943376"
   },
   {
     "id": "arXiv AI_47aef0769689a3a8",
@@ -1237,7 +1344,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:09.910395"
+    "created_at": "2026-10-27T21:35:22.938152"
   },
   {
     "id": "arXiv ML_e36225a39d25c0fe",
@@ -1252,24 +1359,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:10.859425"
-  },
-  {
-    "id": "Reddit ML_e571a30e3e76acb1",
-    "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
-    "summary": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/ ) . Session 1 is a setup session.",
-    "content": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/ ) . Session 1 is a setup session.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
-    "source": "Reddit ML",
-    "author": "/u/Winter_Mistake_3185",
-    "published_date": "2026-10-27T04:12:34+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.649192"
+    "created_at": "2026-10-27T21:35:23.776156"
   },
   {
     "id": "Wired AI_e1e2ea4d53d9e079",
@@ -1286,7 +1376,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.798988"
+    "created_at": "2026-10-27T21:35:11.796979"
   },
   {
     "id": "Wired AI_c575147229207f9d",
@@ -1303,24 +1393,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.799041"
-  },
-  {
-    "id": "Wired AI_beaecc78216d5b92",
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "content": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman, Matt Burgess",
-    "published_date": "Sat, 24 Oct 2026 12:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:58.799080"
+    "created_at": "2026-10-27T21:35:11.797024"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1337,7 +1410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.056641"
+    "created_at": "2026-10-27T21:35:13.943516"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1354,7 +1427,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827500"
+    "created_at": "2026-10-27T21:35:14.768922"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -1371,7 +1444,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827575"
+    "created_at": "2026-10-27T21:35:14.768984"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1388,7 +1461,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:01.827650"
+    "created_at": "2026-10-27T21:35:14.769028"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1405,7 +1478,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:02.982577"
+    "created_at": "2026-10-27T21:35:15.936622"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1422,7 +1495,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:59.812731"
+    "created_at": "2026-10-27T21:35:12.788296"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1439,7 +1512,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:59.812767"
+    "created_at": "2026-10-27T21:35:12.788326"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1456,7 +1529,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:06.968063"
+    "created_at": "2026-10-27T21:35:19.865859"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1473,7 +1546,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:06.968115"
+    "created_at": "2026-10-27T21:35:19.865905"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1490,7 +1563,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:06.968205"
+    "created_at": "2026-10-27T21:35:19.865979"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1507,7 +1580,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:00:59.812617"
+    "created_at": "2026-10-27T21:35:12.788206"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1524,7 +1597,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:21.368114"
+    "created_at": "2026-10-27T21:35:28.876447"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1541,7 +1614,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:21.368292"
+    "created_at": "2026-10-27T21:35:28.876604"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1556,7 +1629,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:20.648235"
+    "created_at": "2026-10-27T21:35:28.402118"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1573,6 +1646,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T17:01:21.368056"
+    "created_at": "2026-10-27T21:35:28.876405"
   }
 ]
