@@ -1,5 +1,24 @@
 [
   {
+    "id": "Wired AI_980a780899ef825b",
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "content": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Tue, 27 Oct 2026 09:30:00 +0000",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:23.230732"
+  },
+  {
     "id": "The Verge AI_fecc1a2cbcded565",
     "title": "OpenAI announces three big science discoveries and a new way to work with academics",
     "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
@@ -8,32 +27,14 @@
     "source": "The Verge AI",
     "author": "Richard Lawler",
     "published_date": "2026-10-26T19:34:58-04:00",
-    "importance_score": 8.7,
+    "importance_score": 8.2,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529097"
-  },
-  {
-    "id": "TechCrunch AI_d15094931db51b86",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 02:00:00 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571311"
+    "created_at": "2026-10-27T11:15:22.195371"
   },
   {
     "id": "TechCrunch AI_13a227c338c54a0e",
@@ -51,82 +52,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571610"
-  },
-  {
-    "id": "OpenAI News_3e19a31d5418a75f",
-    "title": "ChatGPT’s expanding world of work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "content": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "importance_score": 8.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921157"
-  },
-  {
-    "id": "The Verge AI_2dc0f427e79d0718",
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-10-26T17:45:31-04:00",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529184"
-  },
-  {
-    "id": "Wired AI_00c49c7708db568f",
-    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-    "source": "Wired AI",
-    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
-    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526153"
-  },
-  {
-    "id": "OpenAI News_aff2b5e3fdc3a62f",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "content": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "importance_score": 7.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921254"
+    "created_at": "2026-10-27T11:15:21.253616"
   },
   {
     "id": "The Verge AI_c29293a8801f44c2",
@@ -146,7 +72,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529748"
+    "created_at": "2026-10-27T11:15:22.195723"
   },
   {
     "id": "OpenAI News_17cd0140732d97ed",
@@ -164,25 +90,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921013"
-  },
-  {
-    "id": "OpenAI News_4f69a31c7ebc3bc4",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "content": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921327"
+    "created_at": "2026-10-27T11:15:28.508595"
   },
   {
     "id": "OpenAI News_f7d66257d0c6d8b8",
@@ -200,7 +108,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921517"
+    "created_at": "2026-10-27T11:15:28.508904"
+  },
+  {
+    "id": "TechCrunch AI_d15094931db51b86",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 27 Oct 2026 02:00:00 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:21.253368"
   },
   {
     "id": "The Verge AI_a4a039c28ad6056f",
@@ -218,25 +144,45 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529854"
+    "created_at": "2026-10-27T11:15:22.195770"
   },
   {
-    "id": "Reddit ML_0ed0a9f51facf141",
-    "title": "What is the value proposition of \"RL environment\" companies? [D]",
-    "summary": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
-    "content": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
-    "source": "Reddit ML",
-    "author": "/u/arnavneedshelp",
-    "published_date": "2026-10-27T02:37:13+00:00",
-    "importance_score": 7.5,
+    "id": "OpenAI News_3e19a31d5418a75f",
+    "title": "ChatGPT’s expanding world of work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "content": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 10:00:00 GMT",
+    "importance_score": 7.6,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.548981"
+    "created_at": "2026-10-27T11:15:28.508698"
+  },
+  {
+    "id": "Reddit ML_8406103088168afb",
+    "title": "Papers with Code is now open-source [P]",
+    "summary": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working with my buddies Claude and Codex on creating a website that tracks trending AI research, benchmarks...",
+    "content": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working with my buddies Claude and Codex on creating a website that tracks trending AI research, benchmarks...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
+    "source": "Reddit ML",
+    "author": "/u/NielsRogge",
+    "published_date": "2026-10-27T09:54:44+00:00",
+    "importance_score": 7.5,
+    "category": "tech",
+    "keywords": [
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:41.220189"
   },
   {
     "id": "TechCrunch AI_1c875a66b843b051",
@@ -254,7 +200,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.572019"
+    "created_at": "2026-10-27T11:15:21.253910"
+  },
+  {
+    "id": "The Verge AI_2dc0f427e79d0718",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-10-26T17:45:31-04:00",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:22.195430"
   },
   {
     "id": "The Verge AI_aff1907b9f021fb1",
@@ -272,7 +236,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529488"
+    "created_at": "2026-10-27T11:15:22.195579"
+  },
+  {
+    "id": "Wired AI_00c49c7708db568f",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "source": "Wired AI",
+    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
+    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:23.230791"
   },
   {
     "id": "Wired AI_6d9fd7515efbf6ab",
@@ -290,7 +272,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526272"
+    "created_at": "2026-10-27T11:15:23.230842"
   },
   {
     "id": "Wired AI_9a0bacc995e9a2c0",
@@ -308,7 +290,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526360"
+    "created_at": "2026-10-27T11:15:23.230894"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -326,7 +308,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.609809"
+    "created_at": "2026-10-27T11:15:26.273515"
   },
   {
     "id": "OpenAI News_81412041d19ebddf",
@@ -344,7 +326,44 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921595"
+    "created_at": "2026-10-27T11:15:28.508959"
+  },
+  {
+    "id": "OpenAI News_aff2b5e3fdc3a62f",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "content": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.3999999999999995,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:28.508741"
+  },
+  {
+    "id": "OpenAI News_4f69a31c7ebc3bc4",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "content": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:28.508783"
   },
   {
     "id": "arXiv AI_e00e8e952ce3c706",
@@ -354,7 +373,7 @@
     "url": "https://arxiv.org/abs/2610.31882",
     "source": "arXiv AI",
     "author": "Tristan Liang, Aravind Nagulu",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 7.2,
     "category": "research",
     "keywords": [
@@ -362,7 +381,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.687075"
+    "created_at": "2026-10-27T11:15:34.375945"
   },
   {
     "id": "The Verge AI_58c53bef2c8ea9a7",
@@ -379,7 +398,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529613"
+    "created_at": "2026-10-27T11:15:22.195653"
   },
   {
     "id": "OpenAI News_4980d5329eaa76fd",
@@ -399,7 +418,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921455"
+    "created_at": "2026-10-27T11:15:28.508864"
+  },
+  {
+    "id": "Reddit ML_0ed0a9f51facf141",
+    "title": "What is the value proposition of \"RL environment\" companies? [D]",
+    "summary": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
+    "content": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+    "source": "Reddit ML",
+    "author": "/u/arnavneedshelp",
+    "published_date": "2026-10-27T02:37:13+00:00",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:41.220282"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -417,7 +454,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:07.558586"
+    "created_at": "2026-10-27T11:15:27.204823"
   },
   {
     "id": "arXiv ML_7a770f0ed8f292ba",
@@ -427,7 +464,7 @@
     "url": "https://arxiv.org/abs/2610.31733",
     "source": "arXiv ML",
     "author": "Qiang Fu, Xinyue Li, Andre Wibisono, Arman Cohan",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.7,
     "category": "research",
     "keywords": [
@@ -435,7 +472,25 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594984"
+    "created_at": "2026-10-27T11:15:35.271006"
+  },
+  {
+    "id": "MIT Technology Review_a3bad5f4bffec687",
+    "title": "How solid-state transformers could help power the AI boom",
+    "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.",
+    "content": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.",
+    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "source": "MIT Technology Review",
+    "author": "Casey Crownhart",
+    "published_date": "Tue, 27 Oct 2026 09:00:00 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:26.273448"
   },
   {
     "id": "MIT Technology Review_92ee7dec2b0e93df",
@@ -452,24 +507,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.609918"
-  },
-  {
-    "id": "MIT Technology Review_62c61224c2c3e669",
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along.",
-    "content": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along.",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "source": "MIT Technology Review",
-    "author": "Sam Hiner, Emma Leiken",
-    "published_date": "Mon, 26 Oct 2026 09:01:00 +0000",
-    "importance_score": 6.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-27T02:54:06.609999"
+    "created_at": "2026-10-27T11:15:26.273603"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -487,24 +525,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:04.642033"
-  },
-  {
-    "id": "OpenAI News_c759af5f325d25b1",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.920919"
+    "created_at": "2026-10-27T11:15:24.229751"
   },
   {
     "id": "arXiv ML_c8f071e4b7160e5a",
@@ -514,31 +535,14 @@
     "url": "https://arxiv.org/abs/2610.31721",
     "source": "arXiv ML",
     "author": "Ricardo Luna Gutierrez, Vineet Gundecha, Rahman Ejaz, Varchas Gopalaswamy, Riccardo Betti, Sahand Ghorbanpour, Aarne Lees, Soumyendu Sarkar",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594424"
-  },
-  {
-    "id": "TechCrunch AI_efb29a09574ffcdc",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "content": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Tue, 27 Oct 2026 01:12:21 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571440"
+    "created_at": "2026-10-27T11:15:35.270623"
   },
   {
     "id": "TechCrunch AI_0d2de1413e003aaa",
@@ -555,7 +559,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571532"
+    "created_at": "2026-10-27T11:15:21.253525"
   },
   {
     "id": "TechCrunch AI_f002c4ee96be59cb",
@@ -572,7 +576,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571690"
+    "created_at": "2026-10-27T11:15:21.253676"
+  },
+  {
+    "id": "Wired AI_780dedb6eb7d7332",
+    "title": "AI Agents Are Media’s New Favorite Audience",
+    "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "content": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "source": "Wired AI",
+    "author": "Kate Taylor",
+    "published_date": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:23.230671"
   },
   {
     "id": "arXiv AI_54c5c33fde03be98",
@@ -582,7 +603,7 @@
     "url": "https://arxiv.org/abs/2610.31937",
     "source": "arXiv AI",
     "author": "Yuqing Huang, Jack Ji, Jithin Pradeep, Sagarika Suresh, Jekaterina Novikova",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.4,
     "category": "research",
     "keywords": [
@@ -590,24 +611,41 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.687455"
+    "created_at": "2026-10-27T11:15:34.376192"
   },
   {
-    "id": "The Verge AI_bb9b75ef3f378eb3",
-    "title": "Google’s AI search changes upended online publishing",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-25T08:00:00-04:00",
-    "importance_score": 6.2,
+    "id": "MIT Technology Review_62c61224c2c3e669",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along.",
+    "content": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along.",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source": "MIT Technology Review",
+    "author": "Sam Hiner, Emma Leiken",
+    "published_date": "Mon, 26 Oct 2026 09:01:00 +0000",
+    "importance_score": 6.1000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
+    "sentiment": "positive",
+    "created_at": "2026-10-27T11:15:26.273659"
+  },
+  {
+    "id": "OpenAI News_c759af5f325d25b1",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.530039"
+    "created_at": "2026-10-27T11:15:28.508508"
   },
   {
     "id": "OpenAI News_62287482a6f297a5",
@@ -624,7 +662,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921084"
+    "created_at": "2026-10-27T11:15:28.508647"
   },
   {
     "id": "arXiv ML_82dd8647d8c7d064",
@@ -634,29 +672,29 @@
     "url": "https://arxiv.org/abs/2610.31704",
     "source": "arXiv ML",
     "author": "Ashiqur Rahmana, Venkata Devesh Reddy Seethi, Zachary Kral, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.0,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594064"
+    "created_at": "2026-10-27T11:15:35.270374"
   },
   {
-    "id": "Reddit ML_808d5121e8273c1e",
-    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
-    "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "content": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
-    "source": "Reddit ML",
-    "author": "/u/Adventurous_Marroon",
-    "published_date": "2026-10-27T00:06:43+00:00",
-    "importance_score": 6.0,
+    "id": "TechCrunch AI_efb29a09574ffcdc",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "content": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.548848"
+    "created_at": "2026-10-27T11:15:21.253460"
   },
   {
     "id": "The Verge AI_32ec2d1605953ff4",
@@ -673,24 +711,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529370"
-  },
-  {
-    "id": "Wired AI_b8b880bda42b699a",
-    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-    "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-    "content": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-    "source": "Wired AI",
-    "author": "Kate Knibbs",
-    "published_date": "Mon, 26 Oct 2026 09:30:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526427"
+    "created_at": "2026-10-27T11:15:22.195503"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -707,7 +728,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:05.644472"
+    "created_at": "2026-10-27T11:15:25.504426"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -724,7 +745,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:04.641852"
+    "created_at": "2026-10-27T11:15:24.229618"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -743,24 +764,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:11.726776"
-  },
-  {
-    "id": "Wired AI_e1e2ea4d53d9e079",
-    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-    "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-    "content": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-    "source": "Wired AI",
-    "author": "Jessica Lipsky",
-    "published_date": "Mon, 26 Oct 2026 09:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526510"
+    "created_at": "2026-10-27T11:15:31.371811"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -777,7 +781,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:05.644594"
+    "created_at": "2026-10-27T11:15:25.504504"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -794,7 +798,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:05.644689"
+    "created_at": "2026-10-27T11:15:25.504567"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -811,7 +815,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:05.644835"
+    "created_at": "2026-10-27T11:15:25.504663"
   },
   {
     "id": "arXiv AI_ce60440f4cdc7a00",
@@ -821,14 +825,14 @@
     "url": "https://arxiv.org/abs/2610.31916",
     "source": "arXiv AI",
     "author": "Deekshith Marla, Kushagra Bhatnagar",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.687189"
+    "created_at": "2026-10-27T11:15:34.376029"
   },
   {
     "id": "arXiv AI_1105ac012c32590e",
@@ -838,7 +842,7 @@
     "url": "https://arxiv.org/abs/2610.31971",
     "source": "arXiv AI",
     "author": "Amit Sarker, Moumita Choudhury, Saaduddin Mahmud, Shlomo Zilberstein",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
@@ -846,7 +850,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.687571"
+    "created_at": "2026-10-27T11:15:34.376277"
   },
   {
     "id": "arXiv ML_2383490838e40091",
@@ -856,14 +860,14 @@
     "url": "https://arxiv.org/abs/2610.31716",
     "source": "arXiv ML",
     "author": "Vasil Vasilev, Siddharth Nayak",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594171"
+    "created_at": "2026-10-27T11:15:35.270447"
   },
   {
     "id": "arXiv ML_2d5e8e5eaf8d44c3",
@@ -873,7 +877,7 @@
     "url": "https://arxiv.org/abs/2610.31718",
     "source": "arXiv ML",
     "author": "Dennis Heijmans, H. \\c{C}a\\u{g}r{\\i} Bilgi, Rui Wang, Kubilay Atasu",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
@@ -881,7 +885,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594311"
+    "created_at": "2026-10-27T11:15:35.270526"
   },
   {
     "id": "arXiv ML_4d32b85a88ece473",
@@ -891,14 +895,14 @@
     "url": "https://arxiv.org/abs/2610.31728",
     "source": "arXiv ML",
     "author": "Xiaoran Chen, Binghui Li, Liwei Wang, Pinyan Lu",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594752"
+    "created_at": "2026-10-27T11:15:35.270848"
   },
   {
     "id": "TechCrunch AI_abf3f5fe91315afa",
@@ -916,39 +920,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571784"
-  },
-  {
-    "id": "Wired AI_d6f1b4c293073e10",
-    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "content": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-    "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Thu, 22 Oct 2026 10:00:00 +0000",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526806"
-  },
-  {
-    "id": "Reddit ML_13592e5d93b65880",
-    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-    "summary": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
-    "content": "Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context window. the team reports 80.9 on Terminal-Bench 2.1 versus 73.0 for Qwen3.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
-    "source": "Reddit ML",
-    "author": "/u/jatingargiitk",
-    "published_date": "2026-10-25T16:32:44+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549894"
+    "created_at": "2026-10-27T11:15:21.253743"
   },
   {
     "id": "OpenAI News_a5a309e923c3e531",
@@ -965,7 +937,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:08.921383"
+    "created_at": "2026-10-27T11:15:28.508817"
   },
   {
     "id": "arXiv AI_618b006d1c5b3d47",
@@ -975,12 +947,12 @@
     "url": "https://arxiv.org/abs/2610.31789",
     "source": "arXiv AI",
     "author": "Hariharan Devarajan, Neeraj Rajesh, Aniruddha Marathe, Nikoli Dryden, Kin Ng, Michela Taufer",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.686593"
+    "created_at": "2026-10-27T11:15:34.375608"
   },
   {
     "id": "arXiv AI_1da9cdb274354a4d",
@@ -990,12 +962,12 @@
     "url": "https://arxiv.org/abs/2610.31808",
     "source": "arXiv AI",
     "author": "Xinyi Vicky Xiang, Catherine Qingyun Wang, Paula Cort\\'es Lemos",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.686699"
+    "created_at": "2026-10-27T11:15:34.375677"
   },
   {
     "id": "arXiv AI_7f85e7a40991a96c",
@@ -1005,12 +977,12 @@
     "url": "https://arxiv.org/abs/2610.31810",
     "source": "arXiv AI",
     "author": "Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.686841"
+    "created_at": "2026-10-27T11:15:34.375775"
   },
   {
     "id": "arXiv AI_a2bb972d34c1bcef",
@@ -1020,14 +992,14 @@
     "url": "https://arxiv.org/abs/2610.31846",
     "source": "arXiv AI",
     "author": "Yuval Kansal, Karen Ullrich, Polina Kirichenko, Ilia Kulikov, Niraj K. Jha, Mohammad Pezeshki, Mark Ibrahim",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.686968"
+    "created_at": "2026-10-27T11:15:34.375866"
   },
   {
     "id": "arXiv AI_6d6cd39715c8211a",
@@ -1037,14 +1009,14 @@
     "url": "https://arxiv.org/abs/2610.31918",
     "source": "arXiv AI",
     "author": "Ya Gao, Zhengtao Zou, Pekka Marttinen",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.687346"
+    "created_at": "2026-10-27T11:15:34.376117"
   },
   {
     "id": "arXiv ML_8d5de4ed13400590",
@@ -1054,12 +1026,12 @@
     "url": "https://arxiv.org/abs/2610.31702",
     "source": "arXiv ML",
     "author": "Yuanzhe Peng, Jie Xu",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.593930"
+    "created_at": "2026-10-27T11:15:35.270278"
   },
   {
     "id": "arXiv ML_ba84739bb5bf85b9",
@@ -1069,14 +1041,14 @@
     "url": "https://arxiv.org/abs/2610.31726",
     "source": "arXiv ML",
     "author": "Ash Simmons, George De Ath, Richard M. Everson",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594647"
+    "created_at": "2026-10-27T11:15:35.270778"
   },
   {
     "id": "arXiv ML_905732610e1eaa3b",
@@ -1086,14 +1058,31 @@
     "url": "https://arxiv.org/abs/2610.31731",
     "source": "arXiv ML",
     "author": "Pan Wang, Lipeng Ke, Huajun Ying, Pritish Mohapatra, Rohan Sarkar, Suresh Lakhani, Sankar Venkataraman, Jingtong Hu",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594864"
+    "created_at": "2026-10-27T11:15:35.270923"
+  },
+  {
+    "id": "Reddit ML_808d5121e8273c1e",
+    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
+    "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
+    "content": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+    "source": "Reddit ML",
+    "author": "/u/Adventurous_Marroon",
+    "published_date": "2026-10-27T00:06:43+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:41.220107"
   },
   {
     "id": "Reddit ML_cf479e10acaabce1",
@@ -1110,25 +1099,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549092"
-  },
-  {
-    "id": "Reddit ML_92fb8419ff228df7",
-    "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
-    "summary": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
-    "content": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
-    "source": "Reddit ML",
-    "author": "/u/Virtual-Message-9739",
-    "published_date": "2026-10-26T07:48:07+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549731"
+    "created_at": "2026-10-27T11:15:41.220516"
   },
   {
     "id": "TechCrunch AI_c8d714d08158e2b7",
@@ -1145,7 +1116,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571854"
+    "created_at": "2026-10-27T11:15:21.253787"
   },
   {
     "id": "The Verge AI_16be71032dfb245d",
@@ -1162,24 +1133,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:02.529929"
+    "created_at": "2026-10-27T11:15:22.195818"
   },
   {
-    "id": "Wired AI_c575147229207f9d",
-    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "id": "Wired AI_b8b880bda42b699a",
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "content": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
     "source": "Wired AI",
-    "author": "Molly Taft",
-    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
+    "author": "Kate Knibbs",
+    "published_date": "Mon, 26 Oct 2026 09:30:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526589"
+    "created_at": "2026-10-27T11:15:23.230935"
   },
   {
     "id": "arXiv AI_47aef0769689a3a8",
@@ -1189,12 +1160,12 @@
     "url": "https://arxiv.org/abs/2610.31701",
     "source": "arXiv AI",
     "author": "Nan Wang, Mitchell Turiel",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.3,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:14.686443"
+    "created_at": "2026-10-27T11:15:34.375485"
   },
   {
     "id": "arXiv ML_e36225a39d25c0fe",
@@ -1204,12 +1175,29 @@
     "url": "https://arxiv.org/abs/2610.31722",
     "source": "arXiv ML",
     "author": "Yixiang Tang, Fagui Liu, Guoxiang Zhong, Xi Yao, C. L. Philip Chen",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 -0400",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.3,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:15.594540"
+    "created_at": "2026-10-27T11:15:35.270705"
+  },
+  {
+    "id": "Reddit ML_e571a30e3e76acb1",
+    "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
+    "summary": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/ ) . Session 1 is a setup session.",
+    "content": "I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/ ) . Session 1 is a setup session.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
+    "source": "Reddit ML",
+    "author": "/u/Winter_Mistake_3185",
+    "published_date": "2026-10-27T04:12:34+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:41.220438"
   },
   {
     "id": "Reddit ML_8c232f21c2332d52",
@@ -1224,7 +1212,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549292"
+    "created_at": "2026-10-27T11:15:41.220668"
+  },
+  {
+    "id": "Wired AI_e1e2ea4d53d9e079",
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "content": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "source": "Wired AI",
+    "author": "Jessica Lipsky",
+    "published_date": "Mon, 26 Oct 2026 09:00:00 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:23.230990"
   },
   {
     "id": "Reddit ML_82c7b5c6ed4976e7",
@@ -1239,24 +1244,25 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549548"
+    "created_at": "2026-10-27T11:15:41.220857"
   },
   {
-    "id": "Reddit ML_c4dfe34b19a9b354",
-    "title": "ICLR 2027 is still handing out desk rejects [N]",
-    "summary": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
-    "content": "Thank you for your efforts in protecting the community from AI slop.  submitted by  /u/Temporary_Switch_339 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+    "id": "Reddit ML_92fb8419ff228df7",
+    "title": "PBT doesn’t make grokking faster, but it can escape a hyperparameter range where nothing groks [P]",
+    "summary": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
+    "content": "I ran Population Based Training over learning rate and weight decay on grokking (modular addition mod 97, 35% train split, small MLP, 20 members, 20k steps, full batch). Results vs a grid (equal compute, 3 seeds): the best fixed cell reached 95% val acc in 317 ± 29 steps; PBT took 2667 ± 2244.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfqhfc/pbt_doesnt_make_grokking_faster_but_it_can_escape/",
     "source": "Reddit ML",
-    "author": "/u/Temporary_Switch_339",
-    "published_date": "2026-10-25T05:35:36+00:00",
+    "author": "/u/Virtual-Message-9739",
+    "published_date": "2026-10-26T07:48:07+00:00",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.549794"
+    "created_at": "2026-10-27T11:15:41.221000"
   },
   {
     "id": "TechCrunch AI_201b57783314b900",
@@ -1273,7 +1279,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:01.571936"
+    "created_at": "2026-10-27T11:15:21.253850"
+  },
+  {
+    "id": "Wired AI_c575147229207f9d",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "content": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "author": "Molly Taft",
+    "published_date": "Sun, 25 Oct 2026 10:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-27T11:15:23.231041"
   },
   {
     "id": "Wired AI_beaecc78216d5b92",
@@ -1290,7 +1313,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:03.526650"
+    "created_at": "2026-10-27T11:15:23.231080"
   },
   {
     "id": "Wired AI_bba8c3995c877def",
@@ -1307,7 +1330,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-27T02:54:03.526724"
+    "created_at": "2026-10-27T11:15:23.231128"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1324,7 +1347,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:05.644756"
+    "created_at": "2026-10-27T11:15:25.504610"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1341,7 +1364,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.610099"
+    "created_at": "2026-10-27T11:15:26.273731"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -1358,7 +1381,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.610203"
+    "created_at": "2026-10-27T11:15:26.273807"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1375,7 +1398,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.610315"
+    "created_at": "2026-10-27T11:15:26.273857"
   },
   {
     "id": "MIT Technology Review_0202808681749a5a",
@@ -1392,7 +1415,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.610413"
+    "created_at": "2026-10-27T11:15:26.273925"
   },
   {
     "id": "MIT Technology Review_2a5a9200462e6f5a",
@@ -1409,7 +1432,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:06.610487"
+    "created_at": "2026-10-27T11:15:26.273975"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1426,7 +1449,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:07.558679"
+    "created_at": "2026-10-27T11:15:27.204889"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1443,7 +1466,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:04.641921"
+    "created_at": "2026-10-27T11:15:24.229669"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1460,7 +1483,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:04.641976"
+    "created_at": "2026-10-27T11:15:24.229710"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1477,7 +1500,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:11.726636"
+    "created_at": "2026-10-27T11:15:31.371713"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1494,7 +1517,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:11.726707"
+    "created_at": "2026-10-27T11:15:31.371764"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1511,7 +1534,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:11.726841"
+    "created_at": "2026-10-27T11:15:31.371853"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1528,7 +1551,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:04.641777"
+    "created_at": "2026-10-27T11:15:24.229544"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1545,7 +1568,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:21.963939"
+    "created_at": "2026-10-27T11:15:40.906267"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1562,7 +1585,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:21.964155"
+    "created_at": "2026-10-27T11:15:40.906428"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1577,7 +1600,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:24.548674"
+    "created_at": "2026-10-27T11:15:41.219971"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1594,6 +1617,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T02:54:21.963857"
+    "created_at": "2026-10-27T11:15:40.906210"
   }
 ]
