@@ -8,31 +8,14 @@
     "source": "The Verge AI",
     "author": "Robert Hart",
     "published_date": "2026-10-27T16:48:58-04:00",
-    "importance_score": 9.3,
+    "importance_score": 8.8,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-27T21:35:10.761186"
-  },
-  {
-    "id": "The Verge AI_45b041495efd863f",
-    "title": "Google’s next Genie AI model generates more realistic experiences",
-    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
-    "content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
-    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-27T12:00:00-04:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761403"
+    "created_at": "2026-10-28T03:01:31.360534"
   },
   {
     "id": "The Verge AI_7f98f3c87d6a195d",
@@ -50,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761448"
+    "created_at": "2026-10-28T03:01:31.360800"
   },
   {
     "id": "Wired AI_980a780899ef825b",
@@ -69,25 +52,27 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796776"
+    "created_at": "2026-10-28T03:01:32.377652"
   },
   {
-    "id": "The Verge AI_fecc1a2cbcded565",
-    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
-    "content": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "source": "The Verge AI",
-    "author": "Richard Lawler",
-    "published_date": "2026-10-26T19:34:58-04:00",
-    "importance_score": 8.2,
+    "id": "TechCrunch AI_6dfafa6e49fa449f",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch AI",
+    "author": "Aditya Mehta",
+    "published_date": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "importance_score": 8.3,
     "category": "tech",
     "keywords": [
+      "GPT",
+      "ChatGPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761495"
+    "created_at": "2026-10-28T03:01:30.440605"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -107,7 +92,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982066"
+    "created_at": "2026-10-28T03:01:37.607823"
   },
   {
     "id": "Wired AI_db8f63318a30049f",
@@ -127,61 +112,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796693"
+    "created_at": "2026-10-28T03:01:32.377566"
   },
   {
-    "id": "TechCrunch AI_78b7d503875d4984",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 17:08:08 +0000",
+    "id": "The Verge AI_45b041495efd863f",
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
+    "content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-10-27T12:00:00-04:00",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:31.360754"
+  },
+  {
+    "id": "OpenAI News_3762019482ac7504",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "importance_score": 7.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786753"
-  },
-  {
-    "id": "The Verge AI_8d7c0938290948fa",
-    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
-    "content": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-27T12:51:22-04:00",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761295"
-  },
-  {
-    "id": "Wired AI_7045581ab8ff6c4f",
-    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Tue, 27 Oct 2026 19:39:04 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-27T21:35:11.796622"
+    "created_at": "2026-10-28T03:01:37.607771"
   },
   {
     "id": "TechCrunch AI_bdffc3bcf1cb0378",
@@ -199,17 +166,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786858"
+    "created_at": "2026-10-28T03:01:30.441048"
   },
   {
-    "id": "OpenAI News_cc5f9f3c3915dc2c",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "url": "https://openai.com/index/check-point-daybreak",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 GMT",
+    "id": "The Verge AI_fecc1a2cbcded565",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
+    "content": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "source": "The Verge AI",
+    "author": "Richard Lawler",
+    "published_date": "2026-10-26T19:34:58-04:00",
     "importance_score": 7.7,
     "category": "tech",
     "keywords": [
@@ -217,25 +184,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982119"
-  },
-  {
-    "id": "TechCrunch AI_d15094931db51b86",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "content": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 02:00:00 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.787025"
+    "created_at": "2026-10-28T03:01:31.360848"
   },
   {
     "id": "OpenAI News_3e19a31d5418a75f",
@@ -255,17 +204,35 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982292"
+    "created_at": "2026-10-28T03:01:37.608017"
   },
   {
-    "id": "The Verge AI_2dc0f427e79d0718",
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "id": "TechCrunch AI_78b7d503875d4984",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 27 Oct 2026 17:08:08 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:30.440908"
+  },
+  {
+    "id": "The Verge AI_8d7c0938290948fa",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+    "content": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
     "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-10-26T17:45:31-04:00",
+    "author": "Robert Hart",
+    "published_date": "2026-10-27T12:51:22-04:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
@@ -273,7 +240,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761534"
+    "created_at": "2026-10-28T03:01:31.360645"
+  },
+  {
+    "id": "Wired AI_7045581ab8ff6c4f",
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Tue, 27 Oct 2026 19:39:04 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-28T03:01:32.377507"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -291,7 +276,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768617"
+    "created_at": "2026-10-28T03:01:35.363632"
   },
   {
     "id": "OpenAI News_aff2b5e3fdc3a62f",
@@ -310,7 +295,25 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982327"
+    "created_at": "2026-10-28T03:01:37.608050"
+  },
+  {
+    "id": "OpenAI News_cc5f9f3c3915dc2c",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:37.607862"
   },
   {
     "id": "OpenAI News_17cd0140732d97ed",
@@ -328,7 +331,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982211"
+    "created_at": "2026-10-28T03:01:37.607941"
   },
   {
     "id": "OpenAI News_4f69a31c7ebc3bc4",
@@ -346,79 +349,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982362"
-  },
-  {
-    "id": "arXiv AI_e00e8e952ce3c706",
-    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-    "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.",
-    "content": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.",
-    "url": "https://arxiv.org/abs/2610.31882",
-    "source": "arXiv AI",
-    "author": "Tristan Liang, Aravind Nagulu",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 7.2,
-    "category": "research",
-    "keywords": [
-      "Claude",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938530"
-  },
-  {
-    "id": "Reddit ML_acad72aad478a687",
-    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-    "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
-    "content": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
-    "source": "Reddit ML",
-    "author": "/u/FaeriaManic",
-    "published_date": "2026-10-27T16:09:42+00:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402514"
-  },
-  {
-    "id": "OpenAI News_4980d5329eaa76fd",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "content": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 23 Oct 2026 17:00:00 GMT",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982429"
-  },
-  {
-    "id": "TechCrunch AI_5b61e8618be5032a",
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 27 Oct 2026 16:30:57 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786811"
+    "created_at": "2026-10-28T03:01:37.608084"
   },
   {
     "id": "Reddit ML_8406103088168afb",
@@ -436,60 +367,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402429"
+    "created_at": "2026-10-28T03:01:54.370585"
   },
   {
-    "id": "Reddit ML_0ed0a9f51facf141",
-    "title": "What is the value proposition of \"RL environment\" companies? [D]",
-    "summary": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
-    "content": "Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
-    "source": "Reddit ML",
-    "author": "/u/arnavneedshelp",
-    "published_date": "2026-10-27T02:37:13+00:00",
-    "importance_score": 7.0,
+    "id": "The Verge AI_2dc0f427e79d0718",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-10-26T17:45:31-04:00",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402820"
-  },
-  {
-    "id": "TechCrunch AI_46a54ba885dfb0f3",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "source": "TechCrunch AI",
-    "author": "Dominic-Madori Davis",
-    "published_date": "Tue, 27 Oct 2026 18:55:35 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786696"
-  },
-  {
-    "id": "TechCrunch AI_5d9fdb37497d6008",
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-    "content": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Tue, 27 Oct 2026 11:00:00 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786972"
+    "created_at": "2026-10-28T03:01:31.360888"
   },
   {
     "id": "Wired AI_00c49c7708db568f",
@@ -507,7 +403,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796820"
+    "created_at": "2026-10-28T03:01:32.377696"
   },
   {
     "id": "Wired AI_6d9fd7515efbf6ab",
@@ -525,7 +421,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796858"
+    "created_at": "2026-10-28T03:01:32.377732"
   },
   {
     "id": "Wired AI_9a0bacc995e9a2c0",
@@ -543,7 +439,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796898"
+    "created_at": "2026-10-28T03:01:32.377771"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -561,7 +457,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768760"
+    "created_at": "2026-10-28T03:01:35.363760"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -579,34 +475,16 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:15.936567"
+    "created_at": "2026-10-28T03:01:36.478095"
   },
   {
-    "id": "TechCrunch AI_5849e8bb506ae6ee",
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "content": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786934"
-  },
-  {
-    "id": "arXiv ML_7a770f0ed8f292ba",
-    "title": "Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability",
-    "summary": "arXiv:2610.31733v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring aims to detect potentially harmful behaviors in large language models (LLMs) from their CoTs. Intervention-based evaluations measure this property by asking whether a monitor can detect the role of an intervention...",
-    "content": "arXiv:2610.31733v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring aims to detect potentially harmful behaviors in large language models (LLMs) from their CoTs. Intervention-based evaluations measure this property by asking whether a monitor can detect the role of an intervention...",
-    "url": "https://arxiv.org/abs/2610.31733",
-    "source": "arXiv ML",
-    "author": "Qiang Fu, Xinyue Li, Andre Wibisono, Arman Cohan",
+    "id": "arXiv AI_9baf376fc9e91007",
+    "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+    "summary": "arXiv:2610.33180v1 Announce Type: new Abstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in alignment faking, where they pursue a hidden goal, but conceal this behaviour when...",
+    "content": "arXiv:2610.33180v1 Announce Type: new Abstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in alignment faking, where they pursue a hidden goal, but conceal this behaviour when...",
+    "url": "https://arxiv.org/abs/2610.33180",
+    "source": "arXiv AI",
+    "author": "Ardy Haroen, Florian Lorkowski, Samuel Nellessen, Felix Hofst\\\"atter",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.7,
     "category": "research",
@@ -615,25 +493,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776409"
+    "created_at": "2026-10-28T03:01:43.611136"
   },
   {
-    "id": "The Verge AI_f31a825a5b07c81d",
-    "title": "VisionQuest is what happens when AI really goes rogue",
-    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-    "source": "The Verge AI",
-    "author": "Charles Pulliam-Moore",
-    "published_date": "2026-10-27T13:30:00-04:00",
-    "importance_score": 6.6000000000000005,
+    "id": "Reddit ML_acad72aad478a687",
+    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+    "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
+    "content": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+    "source": "Reddit ML",
+    "author": "/u/FaeriaManic",
+    "published_date": "2026-10-27T16:09:42+00:00",
+    "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "artificial intelligence",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761240"
+    "created_at": "2026-10-28T03:01:54.370669"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -651,77 +528,157 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:12.788357"
+    "created_at": "2026-10-28T03:01:33.352471"
   },
   {
-    "id": "arXiv ML_c8f071e4b7160e5a",
-    "title": "End-to-End Differentiable Diffusion Conditioning for Physics-Informed Optimization",
-    "summary": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering.",
-    "content": "arXiv:2610.31721v1 Announce Type: new Abstract: Optimizing high-dimensional physical systems under expensive evaluations and complex constraints is a central challenge in science and engineering.",
-    "url": "https://arxiv.org/abs/2610.31721",
-    "source": "arXiv ML",
-    "author": "Ricardo Luna Gutierrez, Vineet Gundecha, Rahman Ejaz, Varchas Gopalaswamy, Riccardo Betti, Sahand Ghorbanpour, Aarne Lees, Soumyendu Sarkar",
+    "id": "TechCrunch AI_5b61e8618be5032a",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 27 Oct 2026 16:30:57 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:30.440986"
+  },
+  {
+    "id": "arXiv AI_7cff64277ab06056",
+    "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+    "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded...",
+    "content": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a deployment is a failure rate under a declared distribution of contexts, bounded...",
+    "url": "https://arxiv.org/abs/2610.33112",
+    "source": "arXiv AI",
+    "author": "John deVadoss",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 6.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776089"
+    "sentiment": "negative",
+    "created_at": "2026-10-28T03:01:43.610931"
   },
   {
-    "id": "The Verge AI_34ee1869a20697ea",
-    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
-    "content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-27T12:14:18-04:00",
+    "id": "TechCrunch AI_1e7e71ec238b2a81",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-28T03:01:30.440696"
+  },
+  {
+    "id": "TechCrunch AI_46a54ba885dfb0f3",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch AI",
+    "author": "Dominic-Madori Davis",
+    "published_date": "Tue, 27 Oct 2026 18:55:35 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761349"
+    "created_at": "2026-10-28T03:01:30.440847"
   },
   {
-    "id": "arXiv AI_54c5c33fde03be98",
-    "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-    "summary": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms.",
-    "content": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms.",
-    "url": "https://arxiv.org/abs/2610.31937",
+    "id": "arXiv AI_1ce306dfe29e82ea",
+    "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+    "summary": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g.",
+    "content": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g.",
+    "url": "https://arxiv.org/abs/2610.33103",
     "source": "arXiv AI",
-    "author": "Yuqing Huang, Jack Ji, Jithin Pradeep, Sagarika Suresh, Jekaterina Novikova",
+    "author": "Adi Tarabeih",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.4,
+    "importance_score": 6.3,
     "category": "research",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938745"
+    "created_at": "2026-10-28T03:01:43.610777"
   },
   {
-    "id": "Reddit ML_3ab76c80a24d4143",
-    "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-    "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
-    "content": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
-    "source": "Reddit ML",
-    "author": "/u/ifaposto",
-    "published_date": "2026-10-27T19:20:08+00:00",
+    "id": "arXiv ML_4cfb76a96f9f1741",
+    "title": "Can Language Models Learn While They Think? Testing Gradient Adaptation Across Architectures",
+    "summary": "arXiv:2610.33025v1 Announce Type: new Abstract: Letting a language model take gradient steps on the text it is reading, known as dynamic evaluation, lowers its loss on the rest of the document.",
+    "content": "arXiv:2610.33025v1 Announce Type: new Abstract: Letting a language model take gradient steps on the text it is reading, known as dynamic evaluation, lowers its loss on the rest of the document.",
+    "url": "https://arxiv.org/abs/2610.33025",
+    "source": "arXiv ML",
+    "author": "Surya Saka",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:44.500030"
+  },
+  {
+    "id": "arXiv ML_244a8ac3b9c60893",
+    "title": "How Much Fresh Data Should CTR Recalibration Use? A Temporal Evaluation of Post-hoc Calibration",
+    "summary": "arXiv:2610.33168v1 Announce Type: new Abstract: Offline evaluation of click-through rate (CTR) models still defaults to random splits, although deployed models score future traffic and downstream systems consume calibrated probabilities. On Avazu (40.",
+    "content": "arXiv:2610.33168v1 Announce Type: new Abstract: Offline evaluation of click-through rate (CTR) models still defaults to random splits, although deployed models score future traffic and downstream systems consume calibrated probabilities. On Avazu (40.",
+    "url": "https://arxiv.org/abs/2610.33168",
+    "source": "arXiv ML",
+    "author": "Rui Liu",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:44.500481"
+  },
+  {
+    "id": "TechCrunch AI_6fe9b078d506b996",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "source": "TechCrunch AI",
+    "author": "Zack Whittaker",
+    "published_date": "Tue, 27 Oct 2026 21:44:34 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI",
-      "transformer"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402364"
+    "created_at": "2026-10-28T03:01:30.440778"
+  },
+  {
+    "id": "The Verge AI_f31a825a5b07c81d",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "author": "Charles Pulliam-Moore",
+    "published_date": "2026-10-27T13:30:00-04:00",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:31.360589"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -739,7 +696,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768708"
+    "created_at": "2026-10-28T03:01:35.363712"
   },
   {
     "id": "MIT Technology Review_92ee7dec2b0e93df",
@@ -756,7 +713,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768819"
+    "created_at": "2026-10-28T03:01:35.363818"
   },
   {
     "id": "MIT Technology Review_62c61224c2c3e669",
@@ -773,125 +730,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-27T21:35:14.768865"
+    "created_at": "2026-10-28T03:01:35.363862"
   },
   {
-    "id": "OpenAI News_c759af5f325d25b1",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982159"
-  },
-  {
-    "id": "arXiv ML_82dd8647d8c7d064",
-    "title": "The Path to NDE 4.0: A Review of Algorithms, Techniques, and Strategies for Autonomous Inspection",
-    "summary": "arXiv:2610.31704v1 Announce Type: new Abstract: Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and manufactured components without causing damage.",
-    "content": "arXiv:2610.31704v1 Announce Type: new Abstract: Non-Destructive Inspection (NDI) is a cornerstone of modern quality assurance, critical for ensuring the safety and reliability of infrastructure and manufactured components without causing damage.",
-    "url": "https://arxiv.org/abs/2610.31704",
-    "source": "arXiv ML",
-    "author": "Ashiqur Rahmana, Venkata Devesh Reddy Seethi, Zachary Kral, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.775898"
-  },
-  {
-    "id": "Reddit ML_92946fd31c48bf47",
-    "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-    "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
-    "content": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-    "source": "Reddit ML",
-    "author": "/u/dsmirza",
-    "published_date": "2026-10-27T19:55:31+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402283"
-  },
-  {
-    "id": "Reddit ML_edf6d8858f9ddbf1",
-    "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
-    "summary": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
-    "content": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
-    "source": "Reddit ML",
-    "author": "/u/ifaposto",
-    "published_date": "2026-10-27T18:16:08+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402578"
-  },
-  {
-    "id": "Reddit ML_65ccd112335a5480",
-    "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-    "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
-    "content": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
-    "source": "Reddit ML",
-    "author": "/u/BedFalse6021",
-    "published_date": "2026-10-27T20:13:07+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402748"
-  },
-  {
-    "id": "Lobsters AI_25a29eb9b28ea2c0",
-    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-    "source": "Lobsters AI",
-    "author": "projectzero.google via ni5arga",
-    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.876346"
-  },
-  {
-    "id": "TechCrunch AI_efb29a09574ffcdc",
-    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "content": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "id": "The Verge AI_34ee1869a20697ea",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
+    "content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-27T12:14:18-04:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.787085"
+    "created_at": "2026-10-28T03:01:31.360699"
   },
   {
     "id": "Wired AI_780dedb6eb7d7332",
@@ -908,7 +764,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796736"
+    "created_at": "2026-10-28T03:01:32.377610"
+  },
+  {
+    "id": "arXiv ML_71606b4a320ed832",
+    "title": "Lower expected Fisher rank implies better PAC generalization",
+    "summary": "arXiv:2610.33208v1 Announce Type: new Abstract: Deep learning architectures tend to generalize well to unseen data, but explaining this capability is still an open area of research. Under the assumption of i.i.d.",
+    "content": "arXiv:2610.33208v1 Announce Type: new Abstract: Deep learning architectures tend to generalize well to unseen data, but explaining this capability is still an open area of research. Under the assumption of i.i.d.",
+    "url": "https://arxiv.org/abs/2610.33208",
+    "source": "arXiv ML",
+    "author": "Marco Miani, Albert Kj{\\o}ller Jacobsen, Albert Lopez i Serrano, S{\\o}ren Hauberg, Georgios Arvanitidis",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "deep learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:44.500537"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -925,7 +799,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:12.788255"
+    "created_at": "2026-10-28T03:01:33.352364"
   },
   {
     "id": "Hugging Face Blog_ba6c098452e360bc",
@@ -944,24 +818,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:19.865945"
-  },
-  {
-    "id": "TechCrunch AI_f7e5bfcd3bf04a7d",
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "content": "The new standard, WebAI, is designed to work with a variety of AI models.",
-    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Tue, 27 Oct 2026 13:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:09.786898"
+    "created_at": "2026-10-28T03:01:40.510723"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -978,7 +835,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:13.943443"
+    "created_at": "2026-10-28T03:01:34.493274"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -995,7 +852,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:13.943482"
+    "created_at": "2026-10-28T03:01:34.493314"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -1012,16 +869,16 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:13.943560"
+    "created_at": "2026-10-28T03:01:34.493388"
   },
   {
-    "id": "arXiv AI_ce60440f4cdc7a00",
-    "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-    "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior.",
-    "content": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior.",
-    "url": "https://arxiv.org/abs/2610.31916",
+    "id": "arXiv AI_24839becdf3ad560",
+    "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+    "summary": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power.",
+    "content": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power.",
+    "url": "https://arxiv.org/abs/2610.33096",
     "source": "arXiv AI",
-    "author": "Deekshith Marla, Kushagra Bhatnagar",
+    "author": "Ricardo Luna Gutierrez, Vineet Gundecha, Rahman Ejaz, Varchas Gopalaswamy, Riccardo Betti, Sahand Ghorbanpour, Aarne Lees, Soumyendu Sarkar",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
@@ -1029,16 +886,68 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938599"
+    "created_at": "2026-10-28T03:01:43.610610"
   },
   {
-    "id": "arXiv AI_1105ac012c32590e",
-    "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-    "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions.",
-    "content": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions.",
-    "url": "https://arxiv.org/abs/2610.31971",
+    "id": "arXiv AI_350c4c4345ffcbcf",
+    "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+    "summary": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication.",
+    "content": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication.",
+    "url": "https://arxiv.org/abs/2610.33105",
     "source": "arXiv AI",
-    "author": "Amit Sarker, Moumita Choudhury, Saaduddin Mahmud, Shlomo Zilberstein",
+    "author": "A. Cunha Jr, C. Nataraj, L. M. Lorenzo, H. Panetto, A. Scotti, J. V. C. Vargas",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:43.610847"
+  },
+  {
+    "id": "arXiv AI_d117dc4bee25fff3",
+    "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+    "summary": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all.",
+    "content": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all.",
+    "url": "https://arxiv.org/abs/2610.33138",
+    "source": "arXiv AI",
+    "author": "Fabrizio Russo, Giuseppe Mazzotta, Carmine Dodaro, Francesco Ricca, Francesca Toni",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:43.610994"
+  },
+  {
+    "id": "arXiv AI_ab73046b7f42253e",
+    "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+    "summary": "arXiv:2610.33178v2 Announce Type: new Abstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a bug fix may all be pending on the same machine at once.",
+    "content": "arXiv:2610.33178v2 Announce Type: new Abstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a bug fix may all be pending on the same machine at once.",
+    "url": "https://arxiv.org/abs/2610.33178",
+    "source": "arXiv AI",
+    "author": "Erle Zhu, Genrui Zhang, Keyang Hu, Mingyu Su, Hongning Wang",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:43.611063"
+  },
+  {
+    "id": "arXiv ML_049156de694c8999",
+    "title": "Lessons from Luck: Do LLM-Written Lessons Carry Chance into an Agent's Next Decision?",
+    "summary": "arXiv:2610.33029v1 Announce Type: new Abstract: Self-improving agents write lessons from the outcomes of their runs; when outcomes are noisy, a lesson can carry chance into later decisions. We measure one link of this chain in a registered study.",
+    "content": "arXiv:2610.33029v1 Announce Type: new Abstract: Self-improving agents write lessons from the outcomes of their runs; when outcomes are noisy, a lesson can carry chance into later decisions. We measure one link of this chain in a registered study.",
+    "url": "https://arxiv.org/abs/2610.33029",
+    "source": "arXiv ML",
+    "author": "Kazuki Nakayashiki",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
@@ -1047,16 +956,16 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938816"
+    "created_at": "2026-10-28T03:01:44.500114"
   },
   {
-    "id": "arXiv ML_2383490838e40091",
-    "title": "Does LeWorldModel Preserve Local Action Geometry?",
-    "summary": "arXiv:2610.31716v1 Announce Type: new Abstract: We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales.",
-    "content": "arXiv:2610.31716v1 Announce Type: new Abstract: We examine how closely pretrained LeWorldModel (LeWM) reproduces the effects of small action changes. Using matched simulator and model responses, we measure action sensitivity with Gram matrices at three perturbation scales.",
-    "url": "https://arxiv.org/abs/2610.31716",
+    "id": "arXiv ML_ca9f5a61d64c9687",
+    "title": "Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift",
+    "summary": "arXiv:2610.33126v1 Announce Type: new Abstract: Data stream classification under concept drift and class imbalance requires models to adapt continuously while maintaining strong minority-class performance.",
+    "content": "arXiv:2610.33126v1 Announce Type: new Abstract: Data stream classification under concept drift and class imbalance requires models to adapt continuously while maintaining strong minority-class performance.",
+    "url": "https://arxiv.org/abs/2610.33126",
     "source": "arXiv ML",
-    "author": "Vasil Vasilev, Siddharth Nayak",
+    "author": "Tobias Callies (University of the Bundeswehr Munich), Eirini Ntoutsi (University of the Bundeswehr Munich), Arthur Zimek (University of Southern Denmark)",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
@@ -1064,34 +973,33 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.775960"
+    "created_at": "2026-10-28T03:01:44.500247"
   },
   {
-    "id": "arXiv ML_2d5e8e5eaf8d44c3",
-    "title": "Towards Adversarially Robust Multigraph Neural Networks for Financial Crime Analysis",
-    "summary": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges.",
-    "content": "arXiv:2610.31718v1 Announce Type: new Abstract: Financial transaction networks are naturally represented as multigraphs, where repeated transactions between the same pair of accounts are modeled as distinct edges.",
-    "url": "https://arxiv.org/abs/2610.31718",
+    "id": "arXiv ML_8f5863dbbf639a13",
+    "title": "Physics Informed Neural Networks for Solving the Drift-Diffusion Equations",
+    "summary": "arXiv:2610.33133v1 Announce Type: new Abstract: The drift-diffusion equations are the fundamental building block for the modeling, design, and optimization of modern semiconductor devices.",
+    "content": "arXiv:2610.33133v1 Announce Type: new Abstract: The drift-diffusion equations are the fundamental building block for the modeling, design, and optimization of modern semiconductor devices.",
+    "url": "https://arxiv.org/abs/2610.33133",
     "source": "arXiv ML",
-    "author": "Dennis Heijmans, H. \\c{C}a\\u{g}r{\\i} Bilgi, Rui Wang, Kubilay Atasu",
+    "author": "Luke Ragan, Matteo G. C. Alasio, Enrico Bellotti, Luca Dal Negro",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
-      "neural network",
-      "AI"
+      "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776025"
+    "created_at": "2026-10-28T03:01:44.500319"
   },
   {
-    "id": "arXiv ML_4d32b85a88ece473",
-    "title": "When and How Does Muon Precondition? The Role of Structured Gradient Noise",
-    "summary": "arXiv:2610.31728v1 Announce Type: new Abstract: Muon has become a popular optimizer for large language model training, yet its theoretical foundations remain poorly understood. In this work, we study how gradient noise geometry shapes Muon's preconditioning benefits.",
-    "content": "arXiv:2610.31728v1 Announce Type: new Abstract: Muon has become a popular optimizer for large language model training, yet its theoretical foundations remain poorly understood. In this work, we study how gradient noise geometry shapes Muon's preconditioning benefits.",
-    "url": "https://arxiv.org/abs/2610.31728",
+    "id": "arXiv ML_a94aca5f50705acf",
+    "title": "Model-agnostic predictability quantification of multivariable time series",
+    "summary": "arXiv:2610.33209v1 Announce Type: new Abstract: Multivariable time series forecasting plays an important role in various domains, where predictions depend on complex interactions among covariates. Forecasting models are commonly evaluated across numerous benchmark datasets.",
+    "content": "arXiv:2610.33209v1 Announce Type: new Abstract: Multivariable time series forecasting plays an important role in various domains, where predictions depend on complex interactions among covariates. Forecasting models are commonly evaluated across numerous benchmark datasets.",
+    "url": "https://arxiv.org/abs/2610.33209",
     "source": "arXiv ML",
-    "author": "Xiaoran Chen, Binghui Li, Liwei Wang, Pinyan Lu",
+    "author": "Yuxuan Shu, Vasileios Lampos",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
@@ -1099,7 +1007,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776275"
+    "created_at": "2026-10-28T03:01:44.500600"
+  },
+  {
+    "id": "Reddit ML_3ab76c80a24d4143",
+    "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+    "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
+    "content": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+    "source": "Reddit ML",
+    "author": "/u/ifaposto",
+    "published_date": "2026-10-27T19:20:08+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:54.370522"
+  },
+  {
+    "id": "OpenAI News_c759af5f325d25b1",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:37.607897"
   },
   {
     "id": "OpenAI News_62287482a6f297a5",
@@ -1116,95 +1059,16 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982250"
+    "created_at": "2026-10-28T03:01:37.607978"
   },
   {
-    "id": "OpenAI News_a5a309e923c3e531",
-    "title": "Introducing GPT-6.1 Terra",
-    "summary": "Bringing fast and capable computer use to everyone",
-    "content": "Bringing fast and capable computer use to everyone",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 00:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:16.982389"
-  },
-  {
-    "id": "arXiv AI_618b006d1c5b3d47",
-    "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-    "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting.",
-    "content": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting.",
-    "url": "https://arxiv.org/abs/2610.31789",
+    "id": "arXiv AI_5a7827d480626f38",
+    "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+    "summary": "arXiv:2610.33205v1 Announce Type: new Abstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for reliability and human oversight.",
+    "content": "arXiv:2610.33205v1 Announce Type: new Abstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for reliability and human oversight.",
+    "url": "https://arxiv.org/abs/2610.33205",
     "source": "arXiv AI",
-    "author": "Hariharan Devarajan, Neeraj Rajesh, Aniruddha Marathe, Nikoli Dryden, Kin Ng, Michela Taufer",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938249"
-  },
-  {
-    "id": "arXiv AI_1da9cdb274354a4d",
-    "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-    "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes.",
-    "content": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes.",
-    "url": "https://arxiv.org/abs/2610.31808",
-    "source": "arXiv AI",
-    "author": "Xinyi Vicky Xiang, Catherine Qingyun Wang, Paula Cort\\'es Lemos",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938307"
-  },
-  {
-    "id": "arXiv AI_7f85e7a40991a96c",
-    "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-    "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a...",
-    "content": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a...",
-    "url": "https://arxiv.org/abs/2610.31810",
-    "source": "arXiv AI",
-    "author": "Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938389"
-  },
-  {
-    "id": "arXiv AI_a2bb972d34c1bcef",
-    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-    "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited...",
-    "content": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited...",
-    "url": "https://arxiv.org/abs/2610.31846",
-    "source": "arXiv AI",
-    "author": "Yuval Kansal, Karen Ullrich, Polina Kirichenko, Ilia Kulikov, Niraj K. Jha, Mohammad Pezeshki, Mark Ibrahim",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938467"
-  },
-  {
-    "id": "arXiv AI_6d6cd39715c8211a",
-    "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-    "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation.",
-    "content": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation.",
-    "url": "https://arxiv.org/abs/2610.31918",
-    "source": "arXiv AI",
-    "author": "Ya Gao, Zhengtao Zou, Pekka Marttinen",
+    "author": "Cheng Tang, Kun Wang, Yaxuan Yang, Shiyu Wang, Allan Cohen, Rachael Eriksen Brown, Chandra Hawley Orrill",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
@@ -1212,73 +1076,93 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938682"
+    "created_at": "2026-10-28T03:01:43.611269"
   },
   {
-    "id": "arXiv ML_8d5de4ed13400590",
-    "title": "Collaborative In-Context Learning for Indoor Radio Map Estimation",
-    "summary": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment.",
-    "content": "arXiv:2610.31702v1 Announce Type: new Abstract: Indoor radio map estimation (RME) is essential for wireless applications such as coverage planning, localization, and network deployment.",
-    "url": "https://arxiv.org/abs/2610.31702",
+    "id": "arXiv ML_66e89ee0e5bedad3",
+    "title": "Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation",
+    "summary": "arXiv:2610.33024v1 Announce Type: new Abstract: Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters. Its effectiveness depends on whether models can successfully act on the guidance provided by their harnesses.",
+    "content": "arXiv:2610.33024v1 Announce Type: new Abstract: Harness self-evolution offers a practical route for LLM agents to improve from execution experience without updating model parameters. Its effectiveness depends on whether models can successfully act on the guidance provided by their harnesses.",
+    "url": "https://arxiv.org/abs/2610.33024",
     "source": "arXiv ML",
-    "author": "Yuanzhe Peng, Jie Xu",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.775812"
-  },
-  {
-    "id": "arXiv ML_ba84739bb5bf85b9",
-    "title": "Cognitively Constrained Partners for Zero-Shot Coordination in Real-Time Partitioned Control",
-    "summary": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial...",
-    "content": "arXiv:2610.31726v1 Announce Type: new Abstract: Effective human-machine teaming requires agents that coordinate with unpredictable human partners. Reinforcement learning from live human feedback or large behavioural datasets is expensive, while purely simulated training overfits to artificial...",
-    "url": "https://arxiv.org/abs/2610.31726",
-    "source": "arXiv ML",
-    "author": "Ash Simmons, George De Ath, Richard M. Everson",
+    "author": "Zhihao Yang, Haojin Wang, Juncheng Wu, Kuan Zhang, Yukun Chen, Run Luo, Yaojie Lu, Yuyin Zhou, Lu Wang, Xianpei Han",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
-      "AI"
+      "LLM"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776217"
+    "sentiment": "positive",
+    "created_at": "2026-10-28T03:01:44.499934"
   },
   {
-    "id": "arXiv ML_905732610e1eaa3b",
-    "title": "ConsMSA: Semantic Distribution Consistency Learning for Multimodal Sentiment Analysis",
-    "summary": "arXiv:2610.31731v1 Announce Type: new Abstract: Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio.",
-    "content": "arXiv:2610.31731v1 Announce Type: new Abstract: Multimodal sentiment analysis (MSA) aims to predict human sentiments by integrating signals from different modalities such as text, video, and audio.",
-    "url": "https://arxiv.org/abs/2610.31731",
-    "source": "arXiv ML",
-    "author": "Pan Wang, Lipeng Ke, Huajun Ying, Pritish Mohapatra, Rohan Sarkar, Suresh Lakhani, Sankar Venkataraman, Jingtong Hu",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776337"
-  },
-  {
-    "id": "Reddit ML_808d5121e8273c1e",
-    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
-    "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "content": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+    "id": "Reddit ML_92946fd31c48bf47",
+    "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
+    "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
+    "content": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
     "source": "Reddit ML",
-    "author": "/u/Adventurous_Marroon",
-    "published_date": "2026-10-27T00:06:43+00:00",
+    "author": "/u/dsmirza",
+    "published_date": "2026-10-27T19:55:31+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402678"
+    "created_at": "2026-10-28T03:01:54.370433"
+  },
+  {
+    "id": "Reddit ML_65ccd112335a5480",
+    "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
+    "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
+    "content": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+    "source": "Reddit ML",
+    "author": "/u/BedFalse6021",
+    "published_date": "2026-10-27T20:13:07+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:54.370739"
+  },
+  {
+    "id": "Reddit ML_edf6d8858f9ddbf1",
+    "title": "Self-distillation with an EMA teacher at scale: ZeRO-3 + PEFT [P]",
+    "summary": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
+    "content": "Self-distillation methods usually rely on an Exponential Moving Average (EMA) teachers to get synced and stable critics. However, this doesn't scale well for large models since holding both teacher and student (trained) on GPU increases latency, zero3 communication, etc.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh083s/selfdistillation_with_an_ema_teacher_at_scale/",
+    "source": "Reddit ML",
+    "author": "/u/ifaposto",
+    "published_date": "2026-10-27T18:16:08+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:54.370894"
+  },
+  {
+    "id": "Lobsters AI_25a29eb9b28ea2c0",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "Lobsters AI",
+    "author": "projectzero.google via ni5arga",
+    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:54.906044"
   },
   {
     "id": "The Verge AI_32ec2d1605953ff4",
@@ -1295,7 +1179,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:10.761585"
+    "created_at": "2026-10-28T03:01:31.360939"
   },
   {
     "id": "Wired AI_b8b880bda42b699a",
@@ -1312,7 +1196,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796933"
+    "created_at": "2026-10-28T03:01:32.377804"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1329,37 +1213,67 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:13.943376"
+    "created_at": "2026-10-28T03:01:34.493208"
   },
   {
-    "id": "arXiv AI_47aef0769689a3a8",
-    "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-    "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions.",
-    "content": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions.",
-    "url": "https://arxiv.org/abs/2610.31701",
+    "id": "arXiv AI_e1de244885647499",
+    "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+    "summary": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack...",
+    "content": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either qualitative frameworks that are hard to scale or computational methods that lack...",
+    "url": "https://arxiv.org/abs/2610.33097",
     "source": "arXiv AI",
-    "author": "Nan Wang, Mitchell Turiel",
+    "author": "Gabriella Bollici, Stefano De Giorgis, Wouter Van Atteveldt, Filip Ilievski",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.3,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:22.938152"
+    "created_at": "2026-10-28T03:01:43.610700"
   },
   {
-    "id": "arXiv ML_e36225a39d25c0fe",
-    "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems",
-    "summary": "arXiv:2610.31722v1 Announce Type: new Abstract: Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling.",
-    "content": "arXiv:2610.31722v1 Announce Type: new Abstract: Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling.",
-    "url": "https://arxiv.org/abs/2610.31722",
-    "source": "arXiv ML",
-    "author": "Yixiang Tang, Fagui Liu, Guoxiang Zhong, Xi Yao, C. L. Philip Chen",
+    "id": "arXiv AI_5873080e027cd556",
+    "title": "Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing",
+    "summary": "arXiv:2610.33200v1 Announce Type: new Abstract: Current sign language recognition and translation benchmarks are commonly collected in controlled settings using fixed or studio-style cameras, particularly limiting their ability to reflect how signers communicate in everyday mobile scenarios.",
+    "content": "arXiv:2610.33200v1 Announce Type: new Abstract: Current sign language recognition and translation benchmarks are commonly collected in controlled settings using fixed or studio-style cameras, particularly limiting their ability to reflect how signers communicate in everyday mobile scenarios.",
+    "url": "https://arxiv.org/abs/2610.33200",
+    "source": "arXiv AI",
+    "author": "Ahmed Abul Hasanaath, Murtadha Aljubran, Sarah Alyami, Muhammad Haris Khan, Hamzah Luqman",
     "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
     "importance_score": 5.3,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:23.776156"
+    "created_at": "2026-10-28T03:01:43.611208"
+  },
+  {
+    "id": "arXiv ML_f6f71f67c04ab4b9",
+    "title": "Feature Scaling Beats Architecture Choice in Offline Respiratory Screening for Low-Resource Clinics",
+    "summary": "arXiv:2610.33030v1 Announce Type: new Abstract: Deep models are the usual choice for respiratory sound classification, but in clinics without GPUs or connectivity that choice carries a cost.",
+    "content": "arXiv:2610.33030v1 Announce Type: new Abstract: Deep models are the usual choice for respiratory sound classification, but in clinics without GPUs or connectivity that choice carries a cost.",
+    "url": "https://arxiv.org/abs/2610.33030",
+    "source": "arXiv ML",
+    "author": "Abubakar Chilala, Cleophas Kadima, Innocent Anyaele, Victor Olufemi",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:44.500189"
+  },
+  {
+    "id": "arXiv ML_d21ae3243fcbe7fa",
+    "title": "Neural-DISCO: Source-Conditioned Counterfactual Editing of Neural Population Activity",
+    "summary": "arXiv:2610.33145v1 Announce Type: new Abstract: Understanding how neural activity encodes behavioral and sensory variables is a key challenge in systems neuroscience. This requires models that go beyond predicting activity from labels and instead support source-conditioned counterfactual editing:...",
+    "content": "arXiv:2610.33145v1 Announce Type: new Abstract: Understanding how neural activity encodes behavioral and sensory variables is a key challenge in systems neuroscience. This requires models that go beyond predicting activity from labels and instead support source-conditioned counterfactual editing:...",
+    "url": "https://arxiv.org/abs/2610.33145",
+    "source": "arXiv ML",
+    "author": "Nico Policzer, James Ho, Joseph Soo, Xin Tang",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:44.500393"
   },
   {
     "id": "Wired AI_e1e2ea4d53d9e079",
@@ -1376,7 +1290,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.796979"
+    "created_at": "2026-10-28T03:01:32.377847"
+  },
+  {
+    "id": "OpenAI News_a5a309e923c3e531",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "content": "Bringing fast and capable computer use to everyone",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:37.608111"
+  },
+  {
+    "id": "Reddit ML_808d5121e8273c1e",
+    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
+    "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
+    "content": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
+    "source": "Reddit ML",
+    "author": "/u/Adventurous_Marroon",
+    "published_date": "2026-10-27T00:06:43+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T03:01:54.370833"
   },
   {
     "id": "Wired AI_c575147229207f9d",
@@ -1393,7 +1341,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:11.797024"
+    "created_at": "2026-10-28T03:01:32.377889"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1410,7 +1358,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:13.943516"
+    "created_at": "2026-10-28T03:01:34.493347"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1427,7 +1375,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768922"
+    "created_at": "2026-10-28T03:01:35.363917"
   },
   {
     "id": "MIT Technology Review_4e3628850ce3d1d5",
@@ -1444,7 +1392,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.768984"
+    "created_at": "2026-10-28T03:01:35.363978"
   },
   {
     "id": "MIT Technology Review_3405569cf1aac314",
@@ -1461,7 +1409,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:14.769028"
+    "created_at": "2026-10-28T03:01:35.364021"
   },
   {
     "id": "DeepMind Blog_ed586998a51ec4bf",
@@ -1478,7 +1426,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:15.936622"
+    "created_at": "2026-10-28T03:01:36.478148"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1495,7 +1443,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:12.788296"
+    "created_at": "2026-10-28T03:01:33.352403"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1512,7 +1460,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:12.788326"
+    "created_at": "2026-10-28T03:01:33.352431"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1529,7 +1477,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:19.865859"
+    "created_at": "2026-10-28T03:01:40.510643"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1546,7 +1494,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:19.865905"
+    "created_at": "2026-10-28T03:01:40.510686"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1563,7 +1511,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:19.865979"
+    "created_at": "2026-10-28T03:01:40.510755"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1580,7 +1528,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:12.788206"
+    "created_at": "2026-10-28T03:01:33.352317"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1597,7 +1545,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.876447"
+    "created_at": "2026-10-28T03:01:54.906139"
   },
   {
     "id": "Lobsters AI_3de27b116cdf95ce",
@@ -1614,7 +1562,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.876604"
+    "created_at": "2026-10-28T03:01:54.906294"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1629,7 +1577,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.402118"
+    "created_at": "2026-10-28T03:01:54.370261"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1646,6 +1594,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-27T21:35:28.876405"
+    "created_at": "2026-10-28T03:01:54.906099"
   }
 ]
