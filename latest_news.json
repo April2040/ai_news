@@ -15,7 +15,42 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T11:49:10.599940"
+    "created_at": "2026-10-28T17:37:44.117013"
+  },
+  {
+    "id": "TechCrunch AI_f183112edef4ff54",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:43.113059"
+  },
+  {
+    "id": "TechCrunch AI_3ff5c9147cfdb41c",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "content": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:43.113244"
   },
   {
     "id": "OpenAI News_519c4c96b8adf466",
@@ -26,7 +61,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "importance_score": 8.6,
+    "importance_score": 8.1,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -35,79 +70,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.940749"
-  },
-  {
-    "id": "The Verge AI_7f98f3c87d6a195d",
-    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-    "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
-    "content": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.",
-    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-27T09:50:51-04:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600361"
-  },
-  {
-    "id": "The Verge AI_d566e374a83fbf08",
-    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-    "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
-    "content": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-28T07:27:30-04:00",
-    "importance_score": 8.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.599856"
-  },
-  {
-    "id": "Wired AI_db8f63318a30049f",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
-    "importance_score": 8.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.508960"
-  },
-  {
-    "id": "The Verge AI_45b041495efd863f",
-    "title": "Google’s next Genie AI model generates more realistic experiences",
-    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
-    "content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
-    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-10-27T12:00:00-04:00",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600282"
+    "created_at": "2026-10-28T17:37:50.422865"
   },
   {
     "id": "Wired AI_980a780899ef825b",
@@ -126,26 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.509098"
-  },
-  {
-    "id": "OpenAI News_3762019482ac7504",
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "url": "https://openai.com/index/retell-ai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 27 Oct 2026 15:00:00 GMT",
-    "importance_score": 7.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.940839"
+    "created_at": "2026-10-28T17:37:45.098662"
   },
   {
     "id": "TechCrunch AI_6dfafa6e49fa449f",
@@ -165,43 +109,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.547865"
+    "created_at": "2026-10-28T17:37:43.113312"
   },
   {
-    "id": "TechCrunch AI_bdffc3bcf1cb0378",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 27 Oct 2026 14:59:09 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "Meta AI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.548357"
-  },
-  {
-    "id": "The Verge AI_fecc1a2cbcded565",
-    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
-    "content": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "id": "The Verge AI_d566e374a83fbf08",
+    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+    "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
+    "content": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
     "source": "The Verge AI",
-    "author": "Richard Lawler",
-    "published_date": "2026-10-26T19:34:58-04:00",
+    "author": "Robert Hart",
+    "published_date": "2026-10-28T07:27:30-04:00",
     "importance_score": 7.7,
     "category": "tech",
     "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600439"
+    "created_at": "2026-10-28T17:37:44.116964"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -221,43 +146,44 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.940909"
+    "created_at": "2026-10-28T17:37:50.423029"
   },
   {
-    "id": "TechCrunch AI_78b7d503875d4984",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 27 Oct 2026 17:08:08 +0000",
-    "importance_score": 7.4,
+    "id": "Wired AI_db8f63318a30049f",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "source": "Wired AI",
+    "author": "Isabella Ward",
+    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
+    "importance_score": 7.5,
     "category": "tech",
     "keywords": [
+      "GPT",
+      "ChatGPT",
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.548194"
+    "created_at": "2026-10-28T17:37:45.098564"
   },
   {
-    "id": "The Verge AI_8d7c0938290948fa",
-    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
-    "content": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "id": "The Verge AI_45b041495efd863f",
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
+    "content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
     "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-27T12:51:22-04:00",
+    "author": "Jay Peters",
+    "published_date": "2026-10-27T12:00:00-04:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
-      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600101"
+    "created_at": "2026-10-28T17:37:44.117248"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -275,25 +201,43 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T11:49:11.508881"
+    "created_at": "2026-10-28T17:37:45.098507"
   },
   {
-    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
-    "importance_score": 7.4,
+    "id": "OpenAI News_3762019482ac7504",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "importance_score": 7.3999999999999995,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "GPT",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568176"
+    "created_at": "2026-10-28T17:37:50.422982"
+  },
+  {
+    "id": "The Verge AI_36eb6486acdf58ed",
+    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
+    "content": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
+    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-28T12:15:30-04:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:44.116850"
   },
   {
     "id": "OpenAI News_cc5f9f3c3915dc2c",
@@ -311,25 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.940975"
-  },
-  {
-    "id": "OpenAI News_17cd0140732d97ed",
-    "title": "Working with academic communities to build scientific understanding",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941121"
+    "created_at": "2026-10-28T17:37:50.423074"
   },
   {
     "id": "OpenAI News_3e19a31d5418a75f",
@@ -349,17 +275,34 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941258"
+    "created_at": "2026-10-28T17:37:50.423264"
   },
   {
-    "id": "The Verge AI_2dc0f427e79d0718",
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "content": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "id": "The Verge AI_77ca38f80f126224",
+    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
     "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-10-26T17:45:31-04:00",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-28T13:00:00-04:00",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:44.116784"
+  },
+  {
+    "id": "The Verge AI_8d7c0938290948fa",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+    "content": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-27T12:51:22-04:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -367,7 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600507"
+    "created_at": "2026-10-28T17:37:44.117122"
   },
   {
     "id": "Wired AI_00c49c7708db568f",
@@ -385,17 +328,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.509172"
+    "created_at": "2026-10-28T17:37:45.098715"
   },
   {
-    "id": "Wired AI_6d9fd7515efbf6ab",
-    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "content": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-    "source": "Wired AI",
-    "author": "Brian Barrett",
-    "published_date": "Mon, 26 Oct 2026 16:01:55 +0000",
+    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -403,25 +346,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.509239"
-  },
-  {
-    "id": "Wired AI_9a0bacc995e9a2c0",
-    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "content": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "source": "Wired AI",
-    "author": "Joel Khalili, Kate Taylor",
-    "published_date": "Mon, 26 Oct 2026 14:50:47 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.509309"
+    "created_at": "2026-10-28T17:37:48.108393"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -439,7 +364,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568382"
+    "created_at": "2026-10-28T17:37:48.108542"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -457,7 +382,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:15.727671"
+    "created_at": "2026-10-28T17:37:49.457975"
   },
   {
     "id": "OpenAI News_aff2b5e3fdc3a62f",
@@ -476,17 +401,17 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941321"
+    "created_at": "2026-10-28T17:37:50.423306"
   },
   {
-    "id": "OpenAI News_4f69a31c7ebc3bc4",
-    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "content": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "id": "OpenAI News_17cd0140732d97ed",
+    "title": "Working with academic communities to build scientific understanding",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "published_date": "Mon, 26 Oct 2026 14:30:00 GMT",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
@@ -494,24 +419,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941384"
+    "created_at": "2026-10-28T17:37:50.423171"
   },
   {
-    "id": "Reddit ML_acad72aad478a687",
-    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
-    "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
-    "content": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+    "id": "Reddit ML_a43d99dd933cf5c6",
+    "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
+    "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a...",
+    "content": "I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
     "source": "Reddit ML",
-    "author": "/u/FaeriaManic",
-    "published_date": "2026-10-27T16:09:42+00:00",
+    "author": "/u/Jay299792458",
+    "published_date": "2026-10-28T13:11:49+00:00",
     "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:38:06.990626"
+  },
+  {
+    "id": "Reddit ML_d6e1a70013a45e58",
+    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+    "summary": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
+    "content": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+    "source": "Reddit ML",
+    "author": "/u/JeanMichelRanu",
+    "published_date": "2026-10-28T13:34:01+00:00",
+    "importance_score": 6.6,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.101019"
+    "created_at": "2026-10-28T17:38:06.990020"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -529,24 +472,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:12.819368"
-  },
-  {
-    "id": "TechCrunch AI_5b61e8618be5032a",
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 27 Oct 2026 16:30:57 +0000",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.548283"
+    "created_at": "2026-10-28T17:37:46.128993"
   },
   {
     "id": "arXiv ML_b09a9452ab219c6e",
@@ -563,128 +489,181 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.678720"
+    "created_at": "2026-10-28T17:37:57.199468"
   },
   {
-    "id": "Reddit ML_8406103088168afb",
-    "title": "Papers with Code is now open-source [P]",
-    "summary": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working with my buddies Claude and Codex on creating a website that tracks trending AI research, benchmarks...",
-    "content": "Papers with Code is now open-source with an Apache 2.0-license. The goal is to collaboratively create the best paper interface with the community! Over the past couple of months, I've been working with my buddies Claude and Codex on creating a website that tracks trending AI research, benchmarks...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/",
-    "source": "Reddit ML",
-    "author": "/u/NielsRogge",
-    "published_date": "2026-10-27T09:54:44+00:00",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.100880"
-  },
-  {
-    "id": "TechCrunch AI_46a54ba885dfb0f3",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "id": "TechCrunch AI_b17081e06c0e171b",
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
     "source": "TechCrunch AI",
-    "author": "Dominic-Madori Davis",
-    "published_date": "Tue, 27 Oct 2026 18:55:35 +0000",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.548124"
+    "created_at": "2026-10-28T17:37:43.112991"
   },
   {
-    "id": "Wired AI_38cad5ea8e57bc87",
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-    "source": "Wired AI",
-    "author": "Jake Bittle",
-    "published_date": "Wed, 28 Oct 2026 08:30:00 +0000",
+    "id": "TechCrunch AI_d52289e1944b3974",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Wed, 28 Oct 2026 15:53:52 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.508713"
+    "created_at": "2026-10-28T17:37:43.113111"
   },
   {
-    "id": "Wired AI_c40e2c3f7ad5bcc1",
-    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "content": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Wed, 28 Oct 2026 06:00:00 +0000",
+    "id": "TechCrunch AI_772aeb21efd234d2",
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "content": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source": "TechCrunch AI",
+    "author": "Kate Park",
+    "published_date": "Wed, 28 Oct 2026 15:41:18 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.508795"
+    "created_at": "2026-10-28T17:37:43.113173"
   },
   {
-    "id": "Wired AI_546b4df3422e98bd",
-    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-    "content": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "id": "The Verge AI_3c7d568f74c7e155",
+    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
+    "content": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-28T10:44:00-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:44.116905"
+  },
+  {
+    "id": "Wired AI_6d9fd7515efbf6ab",
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "content": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
     "source": "Wired AI",
-    "author": "Adam Morgan",
-    "published_date": "Wed, 28 Oct 2026 10:15:00 +0000",
+    "author": "Brian Barrett",
+    "published_date": "Mon, 26 Oct 2026 16:01:55 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:45.098760"
+  },
+  {
+    "id": "Wired AI_9a0bacc995e9a2c0",
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "content": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "source": "Wired AI",
+    "author": "Joel Khalili, Kate Taylor",
+    "published_date": "Mon, 26 Oct 2026 14:50:47 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:45.098810"
+  },
+  {
+    "id": "MIT Technology Review_cbd86f32c767ff67",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 28 Oct 2026 12:10:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:48.108272"
+  },
+  {
+    "id": "MIT Technology Review_144fa02036bab822",
+    "title": "Pairing industrial AI autonomy and human control",
+    "summary": "",
+    "content": "",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Wed, 28 Oct 2026 12:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:48.108320"
+  },
+  {
+    "id": "Reddit ML_8cdf72d4ab588fae",
+    "title": "How do you start with Agentic AI for a specific use case? [D]",
+    "summary": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
+    "content": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+    "source": "Reddit ML",
+    "author": "/u/ade17_in",
+    "published_date": "2026-10-28T16:20:21+00:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.508632"
+    "created_at": "2026-10-28T17:38:06.990393"
   },
   {
-    "id": "The Verge AI_f31a825a5b07c81d",
-    "title": "VisionQuest is what happens when AI really goes rogue",
-    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-    "source": "The Verge AI",
-    "author": "Charles Pulliam-Moore",
-    "published_date": "2026-10-27T13:30:00-04:00",
-    "importance_score": 6.1000000000000005,
+    "id": "Reddit ML_51464a2f580d95f9",
+    "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+    "summary": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm. This made me wonder about something similar in machine learning.",
+    "content": "In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm. This made me wonder about something similar in machine learning.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+    "source": "Reddit ML",
+    "author": "/u/Hope999991",
+    "published_date": "2026-10-28T16:42:51+00:00",
+    "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "artificial intelligence",
+      "machine learning",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600014"
-  },
-  {
-    "id": "MIT Technology Review_92ee7dec2b0e93df",
-    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 26 Oct 2026 12:40:00 +0000",
-    "importance_score": 6.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568481"
+    "sentiment": "negative",
+    "created_at": "2026-10-28T17:38:06.990542"
   },
   {
     "id": "TechCrunch AI_1e7e71ec238b2a81",
@@ -701,24 +680,41 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T11:49:09.547956"
+    "created_at": "2026-10-28T17:37:43.113359"
   },
   {
-    "id": "The Verge AI_34ee1869a20697ea",
-    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
-    "content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-27T12:14:18-04:00",
+    "id": "Wired AI_38cad5ea8e57bc87",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "source": "Wired AI",
+    "author": "Jake Bittle",
+    "published_date": "Wed, 28 Oct 2026 08:30:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:10.600192"
+    "created_at": "2026-10-28T17:37:45.098373"
+  },
+  {
+    "id": "Wired AI_c40e2c3f7ad5bcc1",
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "content": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Wed, 28 Oct 2026 06:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:45.098442"
   },
   {
     "id": "arXiv AI_e1c77a0d86244c36",
@@ -736,26 +732,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870477"
-  },
-  {
-    "id": "Reddit ML_bd3681f64a6af750",
-    "title": "I built this, feedback welcome [P]",
-    "summary": "It's a 50 hour course for beginners in AI/ML (obviously it's fully free). Starts out with linear algebra, derivatives, statistics and then linear regression, neural networks and backpropagation etc... kinoml.tech  submitted by  /u/dlohbbvct [link]  [comments]",
-    "content": "It's a 50 hour course for beginners in AI/ML (obviously it's fully free). Starts out with linear algebra, derivatives, statistics and then linear regression, neural networks and backpropagation etc... kinoml.tech  submitted by  /u/dlohbbvct [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgzbik/i_built_this_feedback_welcome_p/",
-    "source": "Reddit ML",
-    "author": "/u/dlohbbvct",
-    "published_date": "2026-10-27T17:43:25+00:00",
-    "importance_score": 5.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.101371"
+    "created_at": "2026-10-28T17:37:56.343150"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -772,26 +749,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:12.819190"
+    "created_at": "2026-10-28T17:37:46.128874"
   },
   {
-    "id": "Hugging Face Blog_ba6c098452e360bc",
-    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 18:26:30 GMT",
-    "importance_score": 5.800000000000001,
+    "id": "Reddit ML_eaf2707170c69474",
+    "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+    "summary": "https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) with Stephen “Cas” Casper, Assistant Professor of Public Policy at the Harvard...",
+    "content": "https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) with Stephen “Cas” Casper, Assistant Professor of Public Policy at the Harvard...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+    "source": "Reddit ML",
+    "author": "/u/NeuralNomad87",
+    "published_date": "2026-10-28T14:30:25+00:00",
+    "importance_score": 5.8,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
-      "machine learning",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:19.683787"
+    "created_at": "2026-10-28T17:38:06.989723"
+  },
+  {
+    "id": "Reddit ML_2e3b7b043c6ecf86",
+    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+    "source": "Reddit ML",
+    "author": "/u/cloud_kj",
+    "published_date": "2026-10-28T17:17:59+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:38:06.990323"
   },
   {
     "id": "TechCrunch AI_6fe9b078d506b996",
@@ -808,7 +800,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:09.548045"
+    "created_at": "2026-10-28T17:37:43.113448"
+  },
+  {
+    "id": "Wired AI_546b4df3422e98bd",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "content": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "source": "Wired AI",
+    "author": "Adam Morgan",
+    "published_date": "Wed, 28 Oct 2026 10:15:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:45.098312"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -825,7 +834,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:13.709094"
+    "created_at": "2026-10-28T17:37:47.347334"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -842,7 +851,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:13.709162"
+    "created_at": "2026-10-28T17:37:47.347382"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -859,7 +868,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:13.709302"
+    "created_at": "2026-10-28T17:37:47.347491"
   },
   {
     "id": "arXiv AI_e8e77022fe6022d2",
@@ -876,7 +885,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-28T11:49:22.869466"
+    "created_at": "2026-10-28T17:37:56.342443"
   },
   {
     "id": "arXiv AI_946a0d329ba0f298",
@@ -894,7 +903,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.869627"
+    "created_at": "2026-10-28T17:37:56.342547"
   },
   {
     "id": "arXiv ML_3c519690e0cbc691",
@@ -911,7 +920,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679206"
+    "created_at": "2026-10-28T17:37:57.199832"
   },
   {
     "id": "arXiv ML_a93880ed0e8b2f78",
@@ -928,7 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679590"
+    "created_at": "2026-10-28T17:37:57.200095"
   },
   {
     "id": "arXiv ML_78bef09c91486ad8",
@@ -946,7 +955,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679711"
+    "created_at": "2026-10-28T17:37:57.200180"
   },
   {
     "id": "Reddit ML_3ab76c80a24d4143",
@@ -964,7 +973,25 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.100772"
+    "created_at": "2026-10-28T17:38:06.990714"
+  },
+  {
+    "id": "The Verge AI_f31a825a5b07c81d",
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "author": "Charles Pulliam-Moore",
+    "published_date": "2026-10-27T13:30:00-04:00",
+    "importance_score": 5.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:44.117062"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -982,7 +1009,24 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568296"
+    "created_at": "2026-10-28T17:37:48.108485"
+  },
+  {
+    "id": "MIT Technology Review_92ee7dec2b0e93df",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
+    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 26 Oct 2026 12:40:00 +0000",
+    "importance_score": 5.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:48.108613"
   },
   {
     "id": "MIT Technology Review_62c61224c2c3e669",
@@ -999,7 +1043,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T11:49:14.568587"
+    "created_at": "2026-10-28T17:37:48.108664"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -1016,24 +1060,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941036"
-  },
-  {
-    "id": "OpenAI News_62287482a6f297a5",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "content": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:16.941188"
+    "created_at": "2026-10-28T17:37:50.423116"
   },
   {
     "id": "arXiv AI_0d3362189ee8a52f",
@@ -1048,7 +1075,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.869759"
+    "created_at": "2026-10-28T17:37:56.342642"
   },
   {
     "id": "arXiv AI_da25d548b2e6b21b",
@@ -1065,7 +1092,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870001"
+    "created_at": "2026-10-28T17:37:56.342810"
   },
   {
     "id": "arXiv AI_959b6e9f6c73d97f",
@@ -1082,7 +1109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870121"
+    "created_at": "2026-10-28T17:37:56.342898"
   },
   {
     "id": "arXiv AI_d882fdaaefbbcf38",
@@ -1097,7 +1124,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870255"
+    "created_at": "2026-10-28T17:37:56.342994"
   },
   {
     "id": "arXiv AI_287470da508ea63e",
@@ -1114,7 +1141,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870626"
+    "created_at": "2026-10-28T17:37:56.343238"
   },
   {
     "id": "arXiv ML_3d7c51f0076493f8",
@@ -1131,7 +1158,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.678855"
+    "created_at": "2026-10-28T17:37:57.199578"
   },
   {
     "id": "arXiv ML_cebc6ac705c059d0",
@@ -1148,7 +1175,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.678990"
+    "created_at": "2026-10-28T17:37:57.199679"
   },
   {
     "id": "arXiv ML_cb9f372c65edc5c5",
@@ -1163,7 +1190,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679098"
+    "created_at": "2026-10-28T17:37:57.199755"
   },
   {
     "id": "arXiv ML_9e68e32d2ec7fd64",
@@ -1180,7 +1207,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679341"
+    "created_at": "2026-10-28T17:37:57.199933"
   },
   {
     "id": "arXiv ML_ce6b90be8719c833",
@@ -1197,7 +1224,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:23.679450"
+    "created_at": "2026-10-28T17:37:57.200012"
   },
   {
     "id": "Reddit ML_92946fd31c48bf47",
@@ -1214,25 +1241,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.100648"
+    "created_at": "2026-10-28T17:38:06.990190"
   },
   {
-    "id": "Reddit ML_65ccd112335a5480",
-    "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
-    "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
-    "content": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+    "id": "Reddit ML_003a1df1f18f08c2",
+    "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
+    "summary": "Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes.  submitted by  /u/perone [link]  [comments]",
+    "content": "Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes.  submitted by  /u/perone [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
     "source": "Reddit ML",
-    "author": "/u/BedFalse6021",
-    "published_date": "2026-10-27T20:13:07+00:00",
+    "author": "/u/perone",
+    "published_date": "2026-10-28T10:41:27+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "transformer"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.101143"
+    "created_at": "2026-10-28T17:38:06.990457"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1249,7 +1275,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:35.005022"
+    "created_at": "2026-10-28T17:38:07.572403"
+  },
+  {
+    "id": "The Verge AI_34ee1869a20697ea",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
+    "content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-27T12:14:18-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:44.117186"
   },
   {
     "id": "Wired AI_780dedb6eb7d7332",
@@ -1266,24 +1309,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:11.509030"
-  },
-  {
-    "id": "Google AI Blog_99d906738a8dfba5",
-    "title": "Our newest AI Quest: Mapping the human brain",
-    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "content": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "source": "Google AI Blog",
-    "author": "Ronit Levavi Morad",
-    "published_date": "Mon, 26 Oct 2026 16:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:13.708995"
+    "created_at": "2026-10-28T17:37:45.098611"
   },
   {
     "id": "arXiv AI_da1288f4a4e27465",
@@ -1298,7 +1324,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.869874"
+    "created_at": "2026-10-28T17:37:56.342721"
   },
   {
     "id": "arXiv AI_63c0b793afbc8dda",
@@ -1313,24 +1339,41 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:22.870360"
+    "created_at": "2026-10-28T17:37:56.343068"
   },
   {
-    "id": "Reddit ML_808d5121e8273c1e",
-    "title": "How to do method research when I feel I have no guidance on doing it? [D]",
-    "summary": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "content": "I am a 3rd year PhD student in a small lab working on ML in healthcare. My PI is new (we have no PhD graduates yet - lab is 4 years old). I want to publish in a top ML conference (I know its necessary for an ML researcher job).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgdl42/how_to_do_method_research_when_i_feel_i_have_no/",
-    "source": "Reddit ML",
-    "author": "/u/Adventurous_Marroon",
-    "published_date": "2026-10-27T00:06:43+00:00",
+    "id": "OpenAI News_62287482a6f297a5",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "content": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 13:45:00 GMT",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
-      "ML"
+      "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.101298"
+    "created_at": "2026-10-28T17:37:50.423214"
+  },
+  {
+    "id": "Google AI Blog_99d906738a8dfba5",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+    "content": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "source": "Google AI Blog",
+    "author": "Ronit Levavi Morad",
+    "published_date": "Mon, 26 Oct 2026 16:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-28T17:37:47.347255"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1347,7 +1390,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:13.709226"
+    "created_at": "2026-10-28T17:37:47.347436"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1364,58 +1407,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568693"
-  },
-  {
-    "id": "MIT Technology Review_4e3628850ce3d1d5",
-    "title": "Designing an AI serving harness built to last",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
-    "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "source": "MIT Technology Review",
-    "author": "Anand Logani",
-    "published_date": "Thu, 22 Oct 2026 21:17:29 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568806"
-  },
-  {
-    "id": "MIT Technology Review_3405569cf1aac314",
-    "title": "The Foundations of Scalable AI",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Reviews EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Events",
-    "published_date": "Thu, 22 Oct 2026 18:48:04 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:14.568881"
-  },
-  {
-    "id": "DeepMind Blog_ed586998a51ec4bf",
-    "title": "Introducing SynthID Bio",
-    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "source": "DeepMind Blog",
-    "author": "",
-    "published_date": "Wed, 30 Sep 2026 15:03:07 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:15.727762"
+    "created_at": "2026-10-28T17:37:48.108733"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1432,7 +1424,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:12.819258"
+    "created_at": "2026-10-28T17:37:46.128921"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1449,7 +1441,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:12.819311"
+    "created_at": "2026-10-28T17:37:46.128956"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1466,7 +1458,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:19.683647"
+    "created_at": "2026-10-28T17:37:53.197360"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1483,7 +1475,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:19.683718"
+    "created_at": "2026-10-28T17:37:53.197424"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1500,7 +1492,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:19.683849"
+    "created_at": "2026-10-28T17:37:53.197476"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1517,7 +1509,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:12.819117"
+    "created_at": "2026-10-28T17:37:46.128816"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1534,7 +1526,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:35.005180"
+    "created_at": "2026-10-28T17:38:07.572531"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1549,7 +1541,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:34.100388"
+    "created_at": "2026-10-28T17:38:06.989804"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1566,6 +1558,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T11:49:35.005108"
+    "created_at": "2026-10-28T17:38:07.572479"
   }
 ]
