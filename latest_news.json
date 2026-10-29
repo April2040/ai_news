@@ -8,14 +8,14 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-10-28T16:03:00-04:00",
-    "importance_score": 9.2,
+    "importance_score": 8.7,
     "category": "tech",
     "keywords": [
       "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452448"
+    "created_at": "2026-10-29T22:21:15.697229"
   },
   {
     "id": "The Verge AI_f2985db385bd507d",
@@ -26,32 +26,31 @@
     "source": "The Verge AI",
     "author": "Nilay Patel",
     "published_date": "2026-10-29T10:00:00-04:00",
-    "importance_score": 9.1,
+    "importance_score": 8.6,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452101"
+    "created_at": "2026-10-29T22:21:15.696873"
   },
   {
-    "id": "TechCrunch AI_11cc87a2178db509",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Wed, 28 Oct 2026 21:34:30 +0000",
+    "id": "The Verge AI_7b80c8f3ebbf71e8",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-29T14:45:31-04:00",
     "importance_score": 8.4,
     "category": "tech",
     "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.795134"
+    "created_at": "2026-10-29T22:21:15.696565"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -69,7 +68,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-29T17:57:05.439474"
+    "created_at": "2026-10-29T22:21:19.772007"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -87,7 +86,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892488"
+    "created_at": "2026-10-29T22:21:22.099814"
+  },
+  {
+    "id": "TechCrunch AI_426f7b2af12891e5",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "content": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Thu, 29 Oct 2026 19:14:36 +0000",
+    "importance_score": 8.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:14.629899"
+  },
+  {
+    "id": "TechCrunch AI_0687ef12932904ba",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "content": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:14.629781"
   },
   {
     "id": "TechCrunch AI_7c6350961628e27a",
@@ -97,49 +131,32 @@
     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
-    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "published_date": "Thu, 29 Oct 2026 17:00:00 +0000",
     "importance_score": 8.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794887"
+    "created_at": "2026-10-29T22:21:14.630048"
   },
   {
-    "id": "TechCrunch AI_cc0b1e154365c749",
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "content": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Thu, 29 Oct 2026 16:21:00 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794742"
-  },
-  {
-    "id": "TechCrunch AI_4c85b21afdbed404",
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "content": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 29 Oct 2026 14:35:26 +0000",
+    "id": "Wired AI_350ede127ed3dd7c",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "source": "Wired AI",
+    "author": "Vittoria Elliott",
+    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
     "importance_score": 7.7,
     "category": "tech",
     "keywords": [
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794817"
+    "created_at": "2026-10-29T22:21:16.631101"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -157,7 +174,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892594"
+    "created_at": "2026-10-29T22:21:22.099918"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -175,7 +192,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892668"
+    "created_at": "2026-10-29T22:21:22.099990"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -195,7 +212,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892737"
+    "created_at": "2026-10-29T22:21:22.100057"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -215,7 +232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892869"
+    "created_at": "2026-10-29T22:21:22.100188"
   },
   {
     "id": "TechCrunch AI_84037c9a880436a3",
@@ -233,24 +250,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794648"
+    "created_at": "2026-10-29T22:21:14.630136"
   },
   {
-    "id": "The Verge AI_bb8717c6296bfae7",
-    "title": "Microsoft’s AI future has fewer jobs",
-    "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
-    "content": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-    "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-29T12:00:00-04:00",
+    "id": "TechCrunch AI_cc0b1e154365c749",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "content": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Thu, 29 Oct 2026 16:21:00 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:14.630247"
+  },
+  {
+    "id": "TechCrunch AI_4c85b21afdbed404",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "content": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 29 Oct 2026 14:35:26 +0000",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.451916"
+    "created_at": "2026-10-29T22:21:14.630316"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -270,24 +305,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.893006"
+    "created_at": "2026-10-29T22:21:22.100331"
   },
   {
-    "id": "Wired AI_035908bdd0c66de3",
-    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-    "content": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "id": "TechCrunch AI_535955198226aebf",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 29 Oct 2026 20:08:31 +0000",
     "importance_score": 7.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403420"
+    "created_at": "2026-10-29T22:21:14.629620"
   },
   {
     "id": "Wired AI_db8f63318a30049f",
@@ -307,25 +342,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.404015"
-  },
-  {
-    "id": "Wired AI_7045581ab8ff6c4f",
-    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Tue, 27 Oct 2026 19:39:04 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-29T17:57:02.403941"
+    "created_at": "2026-10-29T22:21:16.631815"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -343,7 +360,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:06.746359"
+    "created_at": "2026-10-29T22:21:20.724066"
   },
   {
     "id": "OpenAI News_3762019482ac7504",
@@ -362,41 +379,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892942"
+    "created_at": "2026-10-29T22:21:22.100260"
   },
   {
-    "id": "TechCrunch AI_2de1dbcab1346ad6",
-    "title": "Google expands AI Search ads globally as core ad growth slows",
-    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "content": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Wed, 28 Oct 2026 21:48:37 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.795041"
-  },
-  {
-    "id": "The Verge AI_696e155e30cd8461",
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "id": "The Verge AI_bb8717c6296bfae7",
+    "title": "Microsoft’s AI future has fewer jobs",
+    "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
+    "content": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
     "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T14:36:26-04:00",
+    "author": "Tom Warren",
+    "published_date": "2026-10-29T12:00:00-04:00",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452518"
+    "created_at": "2026-10-29T22:21:15.696663"
   },
   {
     "id": "OpenAI News_cc5f9f3c3915dc2c",
@@ -414,7 +414,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.893071"
+    "created_at": "2026-10-29T22:21:22.100395"
   },
   {
     "id": "Reddit ML_07f85fcf5d6a46f8",
@@ -431,7 +431,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157142"
+    "created_at": "2026-10-29T22:21:33.430223"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -449,7 +449,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:03.463640"
+    "created_at": "2026-10-29T22:21:17.718954"
+  },
+  {
+    "id": "Wired AI_035908bdd0c66de3",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "content": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:16.631273"
+  },
+  {
+    "id": "TechCrunch AI_078716dc29a8ed4b",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "source": "TechCrunch AI",
+    "author": "Kirsten Korosec",
+    "published_date": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:14.629705"
   },
   {
     "id": "TechCrunch AI_3dfa37e12db35452",
@@ -466,75 +500,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794529"
+    "created_at": "2026-10-29T22:21:14.629977"
   },
   {
-    "id": "TechCrunch AI_e8fb5d8b96cd4425",
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "content": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Thu, 29 Oct 2026 13:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:00.794953"
-  },
-  {
-    "id": "The Verge AI_79fe8b23a7a6f9b2",
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
-    "content": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-29T10:39:37-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452007"
-  },
-  {
-    "id": "Wired AI_3f869c9512c5cd6d",
-    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-    "summary": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "content": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "id": "Wired AI_7045581ab8ff6c4f",
+    "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+    "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "content": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+    "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
     "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "author": "Emily Mullin",
+    "published_date": "Tue, 27 Oct 2026 19:39:04 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "Anthropic",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403327"
-  },
-  {
-    "id": "MIT Technology Review_e39df0beece7ef11",
-    "title": "The Download: AI agent tracking and climate feedback loops",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
-    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 29 Oct 2026 12:10:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439362"
+    "sentiment": "positive",
+    "created_at": "2026-10-29T22:21:16.631738"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -552,7 +536,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439865"
+    "created_at": "2026-10-29T22:21:19.772361"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -570,24 +554,93 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.440052"
+    "created_at": "2026-10-29T22:21:19.772541"
   },
   {
-    "id": "The Verge AI_77ca38f80f126224",
-    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "id": "The Verge AI_696e155e30cd8461",
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
+    "content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
+    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
     "source": "The Verge AI",
     "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T13:00:00-04:00",
+    "published_date": "2026-10-28T14:36:26-04:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:15.697300"
+  },
+  {
+    "id": "Reddit ML_1a037e9c06f6d31a",
+    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+    "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "content": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+    "source": "Reddit ML",
+    "author": "/u/Rodriguez909",
+    "published_date": "2026-10-29T20:46:25+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:33.430331"
+  },
+  {
+    "id": "Reddit ML_4b916eb7d4083dbe",
+    "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+    "summary": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
+    "content": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+    "source": "Reddit ML",
+    "author": "/u/Straight-Coach-7105",
+    "published_date": "2026-10-29T20:04:55+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452637"
+    "created_at": "2026-10-29T22:21:33.430592"
+  },
+  {
+    "id": "TechCrunch AI_e8fb5d8b96cd4425",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "content": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:14.630379"
+  },
+  {
+    "id": "The Verge AI_79fe8b23a7a6f9b2",
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
+    "content": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-29T10:39:37-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:15.696758"
   },
   {
     "id": "The Verge AI_6d0cbb2c23d99cc5",
@@ -604,7 +657,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452196"
+    "created_at": "2026-10-29T22:21:15.696972"
   },
   {
     "id": "The Verge AI_566857867e001c67",
@@ -621,24 +674,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452283"
+    "created_at": "2026-10-29T22:21:15.697059"
   },
   {
-    "id": "The Verge AI_aa24c3a15a3f768e",
-    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
-    "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have...",
-    "content": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have...",
-    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-10-28T17:34:04-04:00",
+    "id": "Wired AI_3f869c9512c5cd6d",
+    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "summary": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "content": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 29 Oct 2026 15:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:01.452356"
+    "created_at": "2026-10-29T22:21:16.631192"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -655,24 +708,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403500"
+    "created_at": "2026-10-29T22:21:16.631349"
   },
   {
-    "id": "MIT Technology Review_7fbb76851893e19d",
-    "title": "Creating AI value with enterprise context",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "id": "MIT Technology Review_e39df0beece7ef11",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "source": "MIT Technology Review",
-    "author": "MIT Technology Review Insights",
-    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 29 Oct 2026 12:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439610"
+    "created_at": "2026-10-29T22:21:19.771898"
   },
   {
     "id": "arXiv AI_e1c77a0d86244c36",
@@ -690,7 +743,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801692"
+    "created_at": "2026-10-29T22:21:27.923014"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -707,7 +760,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:03.463426"
+    "created_at": "2026-10-29T22:21:17.718740"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -724,39 +777,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:10.621427"
-  },
-  {
-    "id": "Reddit ML_c95b31af54d72fc5",
-    "title": "Old-school classifiers are still generally better than Jev [P]",
-    "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
-    "content": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-    "source": "Reddit ML",
-    "author": "/u/csinva",
-    "published_date": "2026-10-29T14:13:05+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.156712"
-  },
-  {
-    "id": "Wired AI_5798fa71517fbdc5",
-    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-29T17:57:02.403633"
+    "created_at": "2026-10-29T22:21:24.894117"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -773,7 +794,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:04.624380"
+    "created_at": "2026-10-29T22:21:18.771346"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -790,7 +811,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:04.624450"
+    "created_at": "2026-10-29T22:21:18.771417"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -807,7 +828,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:04.624617"
+    "created_at": "2026-10-29T22:21:18.771557"
   },
   {
     "id": "arXiv AI_e8e77022fe6022d2",
@@ -824,7 +845,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-29T17:57:13.800679"
+    "created_at": "2026-10-29T22:21:27.921997"
   },
   {
     "id": "arXiv AI_946a0d329ba0f298",
@@ -842,7 +863,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.800814"
+    "created_at": "2026-10-29T22:21:27.922129"
   },
   {
     "id": "Reddit ML_d6e1a70013a45e58",
@@ -859,7 +880,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157727"
+    "created_at": "2026-10-29T22:21:33.430865"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -876,7 +897,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.892803"
+    "created_at": "2026-10-29T22:21:22.100122"
   },
   {
     "id": "arXiv AI_0d3362189ee8a52f",
@@ -891,7 +912,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.800940"
+    "created_at": "2026-10-29T22:21:27.922256"
   },
   {
     "id": "arXiv AI_da25d548b2e6b21b",
@@ -908,7 +929,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801172"
+    "created_at": "2026-10-29T22:21:27.922493"
   },
   {
     "id": "arXiv AI_959b6e9f6c73d97f",
@@ -925,7 +946,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801291"
+    "created_at": "2026-10-29T22:21:27.922612"
   },
   {
     "id": "arXiv AI_d882fdaaefbbcf38",
@@ -940,7 +961,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801422"
+    "created_at": "2026-10-29T22:21:27.922746"
   },
   {
     "id": "arXiv AI_287470da508ea63e",
@@ -957,7 +978,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801820"
+    "created_at": "2026-10-29T22:21:27.923140"
   },
   {
     "id": "Reddit ML_e85d9301fc3050df",
@@ -974,7 +995,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.156885"
+    "created_at": "2026-10-29T22:21:33.430041"
   },
   {
     "id": "Reddit ML_cc5d9c58966d76f4",
@@ -991,24 +1012,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157344"
+    "created_at": "2026-10-29T22:21:33.430481"
   },
   {
-    "id": "Reddit ML_15d574ef002dae52",
-    "title": "A (lukewarm) defense of Minsky and Papert [D]",
-    "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
-    "content": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
-    "source": "Reddit ML",
-    "author": "/u/Seretur99",
-    "published_date": "2026-10-29T10:20:46+00:00",
-    "importance_score": 5.5,
+    "id": "The Verge AI_aa24c3a15a3f768e",
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have...",
+    "content": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have...",
+    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-10-28T17:34:04-04:00",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157806"
+    "created_at": "2026-10-29T22:21:15.697130"
   },
   {
     "id": "Wired AI_38cad5ea8e57bc87",
@@ -1025,7 +1046,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403789"
+    "created_at": "2026-10-29T22:21:16.631581"
   },
   {
     "id": "Wired AI_c40e2c3f7ad5bcc1",
@@ -1042,7 +1063,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403860"
+    "created_at": "2026-10-29T22:21:16.631650"
+  },
+  {
+    "id": "MIT Technology Review_7fbb76851893e19d",
+    "title": "Creating AI value with enterprise context",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:19.772117"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1059,7 +1097,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439713"
+    "created_at": "2026-10-29T22:21:19.772215"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1076,7 +1114,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439768"
+    "created_at": "2026-10-29T22:21:19.772268"
   },
   {
     "id": "arXiv AI_da1288f4a4e27465",
@@ -1091,7 +1129,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801048"
+    "created_at": "2026-10-29T22:21:27.922367"
   },
   {
     "id": "arXiv AI_63c0b793afbc8dda",
@@ -1106,7 +1144,39 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:13.801526"
+    "created_at": "2026-10-29T22:21:27.922885"
+  },
+  {
+    "id": "Reddit ML_c95b31af54d72fc5",
+    "title": "Old-school classifiers are still generally better than Jev [P]",
+    "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "content": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+    "source": "Reddit ML",
+    "author": "/u/csinva",
+    "published_date": "2026-10-29T14:13:05+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:33.429869"
+  },
+  {
+    "id": "Wired AI_5798fa71517fbdc5",
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-29T22:21:16.631434"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1123,7 +1193,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.403720"
+    "created_at": "2026-10-29T22:21:16.631513"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -1141,7 +1211,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:05.439971"
+    "created_at": "2026-10-29T22:21:19.772463"
   },
   {
     "id": "Reddit ML_24354a76856459e7",
@@ -1156,7 +1226,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157234"
+    "created_at": "2026-10-29T22:21:33.430412"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -1173,41 +1243,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:07.893133"
-  },
-  {
-    "id": "Lobsters AI_25a29eb9b28ea2c0",
-    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-    "source": "Lobsters AI",
-    "author": "projectzero.google via ni5arga",
-    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.752117"
-  },
-  {
-    "id": "Wired AI_780dedb6eb7d7332",
-    "title": "AI Agents Are Media’s New Favorite Audience",
-    "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "content": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-    "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-    "source": "Wired AI",
-    "author": "Kate Taylor",
-    "published_date": "Tue, 27 Oct 2026 11:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:02.404081"
+    "created_at": "2026-10-29T22:21:22.100456"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1224,7 +1260,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:04.624278"
+    "created_at": "2026-10-29T22:21:18.771245"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1241,7 +1277,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:04.624512"
+    "created_at": "2026-10-29T22:21:18.771480"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1258,7 +1294,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:03.463498"
+    "created_at": "2026-10-29T22:21:17.718811"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1275,7 +1311,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:03.463576"
+    "created_at": "2026-10-29T22:21:17.718891"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1292,7 +1328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:10.621523"
+    "created_at": "2026-10-29T22:21:24.894215"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1309,24 +1345,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:10.621608"
-  },
-  {
-    "id": "Reddit ML_2e3b7b043c6ecf86",
-    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-    "source": "Reddit ML",
-    "author": "/u/cloud_kj",
-    "published_date": "2026-10-28T17:17:59+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.157979"
+    "created_at": "2026-10-29T22:21:24.894275"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1343,7 +1362,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:03.463349"
+    "created_at": "2026-10-29T22:21:17.718664"
+  },
+  {
+    "id": "Lobsters AI_25a29eb9b28ea2c0",
+    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "source": "Lobsters AI",
+    "author": "projectzero.google via ni5arga",
+    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T22:21:34.349559"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1360,7 +1396,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.752275"
+    "created_at": "2026-10-29T22:21:34.349726"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1375,7 +1411,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.156519"
+    "created_at": "2026-10-29T22:21:33.429685"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1392,6 +1428,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T17:57:19.752203"
+    "created_at": "2026-10-29T22:21:34.349651"
   }
 ]
