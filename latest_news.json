@@ -15,25 +15,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253322"
+    "created_at": "2026-10-29T17:57:01.452448"
   },
   {
-    "id": "MIT Technology Review_67331b84062522a3",
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-    "content": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "source": "MIT Technology Review",
-    "author": "Madhulika Srikumar, Claire Leibowicz",
-    "published_date": "Thu, 29 Oct 2026 10:11:12 +0000",
-    "importance_score": 8.8,
+    "id": "The Verge AI_f2985db385bd507d",
+    "title": "Anthropic is asking Wall Street to believe in AGI",
+    "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start []",
+    "content": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start []",
+    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-10-29T10:00:00-04:00",
+    "importance_score": 9.1,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Anthropic",
       "AI"
     ],
-    "sentiment": "positive",
-    "created_at": "2026-10-29T11:57:20.220701"
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:01.452101"
   },
   {
     "id": "TechCrunch AI_11cc87a2178db509",
@@ -51,25 +51,131 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.255842"
+    "created_at": "2026-10-29T17:57:00.795134"
   },
   {
-    "id": "TechCrunch AI_74e338d7efeb6748",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "content": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Wed, 28 Oct 2026 19:19:58 +0000",
-    "importance_score": 8.4,
+    "id": "MIT Technology Review_67331b84062522a3",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+    "content": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Technology Review",
+    "author": "Madhulika Srikumar, Claire Leibowicz",
+    "published_date": "Thu, 29 Oct 2026 10:11:12 +0000",
+    "importance_score": 8.3,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-29T17:57:05.439474"
+  },
+  {
+    "id": "OpenAI News_44239d6ace0040bd",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "importance_score": 8.200000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.255996"
+    "created_at": "2026-10-29T17:57:07.892488"
+  },
+  {
+    "id": "TechCrunch AI_7c6350961628e27a",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "importance_score": 8.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:00.794887"
+  },
+  {
+    "id": "TechCrunch AI_cc0b1e154365c749",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "content": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Thu, 29 Oct 2026 16:21:00 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:00.794742"
+  },
+  {
+    "id": "TechCrunch AI_4c85b21afdbed404",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "content": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 29 Oct 2026 14:35:26 +0000",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:00.794817"
+  },
+  {
+    "id": "OpenAI News_39daa6748600be19",
+    "title": "How we detect frontier model misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:07.892594"
+  },
+  {
+    "id": "OpenAI News_5d12b8529a7b5346",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "content": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:07.892668"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -80,7 +186,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Wed, 28 Oct 2026 13:15:00 GMT",
-    "importance_score": 8.1,
+    "importance_score": 7.6,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -89,24 +195,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.683842"
-  },
-  {
-    "id": "TechCrunch AI_f183112edef4ff54",
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.256193"
+    "created_at": "2026-10-29T17:57:07.892737"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -126,82 +215,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.683999"
+    "created_at": "2026-10-29T17:57:07.892869"
   },
   {
-    "id": "Wired AI_db8f63318a30049f",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
-    "importance_score": 7.5,
+    "id": "TechCrunch AI_84037c9a880436a3",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "content": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 29 Oct 2026 16:42:32 +0000",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202566"
+    "created_at": "2026-10-29T17:57:00.794648"
   },
   {
-    "id": "Wired AI_980a780899ef825b",
-    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-    "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-    "content": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Tue, 27 Oct 2026 09:30:00 +0000",
-    "importance_score": 7.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202741"
-  },
-  {
-    "id": "OpenAI News_3762019482ac7504",
-    "title": "Retell uses OpenAI models to help power 100M monthly calls",
-    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-    "url": "https://openai.com/index/retell-ai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 27 Oct 2026 15:00:00 GMT",
-    "importance_score": 7.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684076"
-  },
-  {
-    "id": "The Verge AI_d566e374a83fbf08",
-    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-    "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
-    "content": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "id": "The Verge AI_bb8717c6296bfae7",
+    "title": "Microsoft’s AI future has fewer jobs",
+    "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
+    "content": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
     "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-28T07:27:30-04:00",
+    "author": "Tom Warren",
+    "published_date": "2026-10-29T12:00:00-04:00",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253751"
+    "created_at": "2026-10-29T17:57:01.451916"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -221,18 +270,35 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684142"
+    "created_at": "2026-10-29T17:57:07.893006"
   },
   {
-    "id": "OpenAI News_3e19a31d5418a75f",
-    "title": "ChatGPT’s expanding world of work",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "content": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "importance_score": 7.1,
+    "id": "Wired AI_035908bdd0c66de3",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "content": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:02.403420"
+  },
+  {
+    "id": "Wired AI_db8f63318a30049f",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "source": "Wired AI",
+    "author": "Isabella Ward",
+    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
+    "importance_score": 7.0,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -241,7 +307,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684497"
+    "created_at": "2026-10-29T17:57:02.404015"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -259,25 +325,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-29T11:57:17.202484"
-  },
-  {
-    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
-    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.221083"
+    "created_at": "2026-10-29T17:57:02.403941"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -295,7 +343,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:21.244329"
+    "created_at": "2026-10-29T17:57:06.746359"
+  },
+  {
+    "id": "OpenAI News_3762019482ac7504",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "content": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "url": "https://openai.com/index/retell-ai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "importance_score": 6.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:07.892942"
   },
   {
     "id": "TechCrunch AI_2de1dbcab1346ad6",
@@ -312,24 +379,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.255740"
-  },
-  {
-    "id": "TechCrunch AI_33092aefe2695758",
-    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Wed, 28 Oct 2026 21:25:30 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.255925"
+    "created_at": "2026-10-29T17:57:00.795041"
   },
   {
     "id": "The Verge AI_696e155e30cd8461",
@@ -346,24 +396,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253398"
-  },
-  {
-    "id": "The Verge AI_36eb6486acdf58ed",
-    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
-    "content": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
-    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-28T12:15:30-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253574"
+    "created_at": "2026-10-29T17:57:01.452518"
   },
   {
     "id": "OpenAI News_cc5f9f3c3915dc2c",
@@ -381,25 +414,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684208"
+    "created_at": "2026-10-29T17:57:07.893071"
   },
   {
-    "id": "OpenAI News_17cd0140732d97ed",
-    "title": "Working with academic communities to build scientific understanding",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "content": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 14:30:00 GMT",
-    "importance_score": 6.7,
+    "id": "Reddit ML_07f85fcf5d6a46f8",
+    "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+    "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
+    "content": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
+    "source": "Reddit ML",
+    "author": "/u/Code_MasterCody",
+    "published_date": "2026-10-29T17:53:52+00:00",
+    "importance_score": 6.6,
     "category": "tech",
     "keywords": [
-      "OpenAI",
-      "AI"
+      "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684357"
+    "created_at": "2026-10-29T17:57:19.157142"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -417,68 +449,102 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:18.180130"
+    "created_at": "2026-10-29T17:57:03.463640"
   },
   {
-    "id": "The Verge AI_77ca38f80f126224",
-    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T13:00:00-04:00",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253498"
-  },
-  {
-    "id": "The Verge AI_6d0cbb2c23d99cc5",
-    "title": "AI has come for Arizona’s water",
-    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-    "content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "source": "The Verge AI",
-    "author": "Gaby Del Valle",
-    "published_date": "2026-10-29T06:00:04-04:00",
+    "id": "TechCrunch AI_3dfa37e12db35452",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "content": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 29 Oct 2026 17:54:38 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253042"
+    "created_at": "2026-10-29T17:57:00.794529"
   },
   {
-    "id": "Wired AI_0de43302b4cbbc81",
-    "title": "I Gave My Blood to the AI Death Clock",
-    "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "content": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Thu, 29 Oct 2026 10:00:00 +0000",
+    "id": "TechCrunch AI_e8fb5d8b96cd4425",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "content": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 29 Oct 2026 13:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202062"
+    "created_at": "2026-10-29T17:57:00.794953"
   },
   {
-    "id": "Wired AI_00c49c7708db568f",
-    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
-    "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "content": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
-    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "id": "The Verge AI_79fe8b23a7a6f9b2",
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
+    "content": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-10-29T10:39:37-04:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:01.452007"
+  },
+  {
+    "id": "Wired AI_3f869c9512c5cd6d",
+    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "summary": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "content": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
     "source": "Wired AI",
-    "author": "Lauren Goode, Caroline Haskins, Kate Taylor",
-    "published_date": "Mon, 26 Oct 2026 21:27:15 +0000",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:02.403327"
+  },
+  {
+    "id": "MIT Technology Review_e39df0beece7ef11",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 29 Oct 2026 12:10:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:05.439362"
+  },
+  {
+    "id": "MIT Technology Review_b8fa6f0c88b09e9c",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 27 Oct 2026 12:10:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
@@ -486,7 +552,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202825"
+    "created_at": "2026-10-29T17:57:05.439865"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -504,109 +570,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.221268"
+    "created_at": "2026-10-29T17:57:05.440052"
   },
   {
-    "id": "Reddit ML_d6e1a70013a45e58",
-    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-    "summary": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
-    "content": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-    "source": "Reddit ML",
-    "author": "/u/JeanMichelRanu",
-    "published_date": "2026-10-28T13:34:01+00:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.884405"
-  },
-  {
-    "id": "Reddit ML_79f09c75af0ed5e6",
-    "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
-    "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.",
-    "content": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
-    "source": "Reddit ML",
-    "author": "/u/SignificantZebra5883",
-    "published_date": "2026-10-28T22:04:32+00:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.885383"
-  },
-  {
-    "id": "Reddit ML_e85d9301fc3050df",
-    "title": "Leaving a job to pursue a PhD [D]",
-    "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "content": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-    "source": "Reddit ML",
-    "author": "/u/Ok-Hunter-7702",
-    "published_date": "2026-10-29T09:28:28+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.883900"
-  },
-  {
-    "id": "Reddit ML_15d574ef002dae52",
-    "title": "A (lukewarm) defense of Minsky and Papert [D]",
-    "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
-    "content": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
-    "source": "Reddit ML",
-    "author": "/u/Seretur99",
-    "published_date": "2026-10-29T10:20:46+00:00",
+    "id": "The Verge AI_77ca38f80f126224",
+    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-28T13:00:00-04:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.884131"
+    "created_at": "2026-10-29T17:57:01.452637"
   },
   {
-    "id": "TechCrunch AI_b17081e06c0e171b",
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "id": "The Verge AI_6d0cbb2c23d99cc5",
+    "title": "AI has come for Arizona’s water",
+    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+    "content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "source": "The Verge AI",
+    "author": "Gaby Del Valle",
+    "published_date": "2026-10-29T06:00:04-04:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.256119"
-  },
-  {
-    "id": "TechCrunch AI_d52289e1944b3974",
-    "title": "AI execs may be too out of touch to build for the general public",
-    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-    "content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Wed, 28 Oct 2026 15:53:52 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:15.256260"
+    "created_at": "2026-10-29T17:57:01.452196"
   },
   {
     "id": "The Verge AI_566857867e001c67",
@@ -623,7 +621,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253145"
+    "created_at": "2026-10-29T17:57:01.452283"
   },
   {
     "id": "The Verge AI_aa24c3a15a3f768e",
@@ -640,24 +638,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253225"
+    "created_at": "2026-10-29T17:57:01.452356"
   },
   {
-    "id": "The Verge AI_3c7d568f74c7e155",
-    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-    "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
-    "content": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-28T10:44:00-04:00",
+    "id": "Wired AI_0de43302b4cbbc81",
+    "title": "I Gave My Blood to the AI Death Clock",
+    "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "content": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "source": "Wired AI",
+    "author": "Jason Parham",
+    "published_date": "Thu, 29 Oct 2026 10:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:16.253643"
+    "created_at": "2026-10-29T17:57:02.403500"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -674,41 +672,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.220828"
-  },
-  {
-    "id": "MIT Technology Review_cbd86f32c767ff67",
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
-    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 28 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.220931"
-  },
-  {
-    "id": "MIT Technology Review_144fa02036bab822",
-    "title": "Pairing industrial AI autonomy and human control",
-    "summary": "",
-    "content": "",
-    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Insights",
-    "published_date": "Wed, 28 Oct 2026 12:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.220987"
+    "created_at": "2026-10-29T17:57:05.439610"
   },
   {
     "id": "arXiv AI_e1c77a0d86244c36",
@@ -726,7 +690,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453973"
+    "created_at": "2026-10-29T17:57:13.801692"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -743,7 +707,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:18.179943"
+    "created_at": "2026-10-29T17:57:03.463426"
+  },
+  {
+    "id": "Hugging Face Blog_ca4d59fe90372dd2",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "importance_score": 5.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:10.621427"
+  },
+  {
+    "id": "Reddit ML_c95b31af54d72fc5",
+    "title": "Old-school classifiers are still generally better than Jev [P]",
+    "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "content": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+    "source": "Reddit ML",
+    "author": "/u/csinva",
+    "published_date": "2026-10-29T14:13:05+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:19.156712"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -760,7 +756,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-29T11:57:17.202162"
+    "created_at": "2026-10-29T17:57:02.403633"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -777,7 +773,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:19.305096"
+    "created_at": "2026-10-29T17:57:04.624380"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -794,7 +790,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:19.305173"
+    "created_at": "2026-10-29T17:57:04.624450"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -811,7 +807,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:19.305318"
+    "created_at": "2026-10-29T17:57:04.624617"
   },
   {
     "id": "arXiv AI_e8e77022fe6022d2",
@@ -828,7 +824,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-29T11:57:28.452945"
+    "created_at": "2026-10-29T17:57:13.800679"
   },
   {
     "id": "arXiv AI_946a0d329ba0f298",
@@ -846,39 +842,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453079"
+    "created_at": "2026-10-29T17:57:13.800814"
   },
   {
-    "id": "MIT Technology Review_92ee7dec2b0e93df",
-    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the...",
-    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 26 Oct 2026 12:40:00 +0000",
-    "importance_score": 5.6000000000000005,
+    "id": "Reddit ML_d6e1a70013a45e58",
+    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+    "summary": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
+    "content": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+    "source": "Reddit ML",
+    "author": "/u/JeanMichelRanu",
+    "published_date": "2026-10-28T13:34:01+00:00",
+    "importance_score": 5.6,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.221363"
-  },
-  {
-    "id": "Reddit ML_24354a76856459e7",
-    "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-    "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
-    "content": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
-    "source": "Reddit ML",
-    "author": "/u/subhashg547",
-    "published_date": "2026-10-29T08:51:23+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.883985"
+    "created_at": "2026-10-29T17:57:19.157727"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -895,7 +876,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.683926"
+    "created_at": "2026-10-29T17:57:07.892803"
   },
   {
     "id": "arXiv AI_0d3362189ee8a52f",
@@ -910,7 +891,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453210"
+    "created_at": "2026-10-29T17:57:13.800940"
   },
   {
     "id": "arXiv AI_da25d548b2e6b21b",
@@ -927,7 +908,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453457"
+    "created_at": "2026-10-29T17:57:13.801172"
   },
   {
     "id": "arXiv AI_959b6e9f6c73d97f",
@@ -944,7 +925,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453577"
+    "created_at": "2026-10-29T17:57:13.801291"
   },
   {
     "id": "arXiv AI_d882fdaaefbbcf38",
@@ -959,7 +940,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453737"
+    "created_at": "2026-10-29T17:57:13.801422"
   },
   {
     "id": "arXiv AI_287470da508ea63e",
@@ -976,7 +957,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.454100"
+    "created_at": "2026-10-29T17:57:13.801820"
+  },
+  {
+    "id": "Reddit ML_e85d9301fc3050df",
+    "title": "Leaving a job to pursue a PhD [D]",
+    "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
+    "content": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+    "source": "Reddit ML",
+    "author": "/u/Ok-Hunter-7702",
+    "published_date": "2026-10-29T09:28:28+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:19.156885"
   },
   {
     "id": "Reddit ML_cc5d9c58966d76f4",
@@ -993,7 +991,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.884057"
+    "created_at": "2026-10-29T17:57:19.157344"
+  },
+  {
+    "id": "Reddit ML_15d574ef002dae52",
+    "title": "A (lukewarm) defense of Minsky and Papert [D]",
+    "summary": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
+    "content": "TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts?  submitted by  /u/Seretur99 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/",
+    "source": "Reddit ML",
+    "author": "/u/Seretur99",
+    "published_date": "2026-10-29T10:20:46+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:19.157806"
   },
   {
     "id": "Wired AI_38cad5ea8e57bc87",
@@ -1010,7 +1025,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202322"
+    "created_at": "2026-10-29T17:57:02.403789"
   },
   {
     "id": "Wired AI_c40e2c3f7ad5bcc1",
@@ -1027,7 +1042,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202398"
+    "created_at": "2026-10-29T17:57:02.403860"
+  },
+  {
+    "id": "MIT Technology Review_cbd86f32c767ff67",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 28 Oct 2026 12:10:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:05.439713"
+  },
+  {
+    "id": "MIT Technology Review_144fa02036bab822",
+    "title": "Pairing industrial AI autonomy and human control",
+    "summary": "",
+    "content": "",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Wed, 28 Oct 2026 12:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:05.439768"
   },
   {
     "id": "arXiv AI_da1288f4a4e27465",
@@ -1042,7 +1091,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453330"
+    "created_at": "2026-10-29T17:57:13.801048"
   },
   {
     "id": "arXiv AI_63c0b793afbc8dda",
@@ -1057,41 +1106,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:28.453854"
-  },
-  {
-    "id": "Reddit ML_eaf2707170c69474",
-    "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-    "summary": "https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) with Stephen “Cas” Casper, Assistant Professor of Public Policy at the Harvard...",
-    "content": "https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/ r/ArtificialInteligence We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) with Stephen “Cas” Casper, Assistant Professor of Public Policy at the Harvard...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-    "source": "Reddit ML",
-    "author": "/u/NeuralNomad87",
-    "published_date": "2026-10-28T14:30:25+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.883571"
-  },
-  {
-    "id": "Reddit ML_2e3b7b043c6ecf86",
-    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-    "source": "Reddit ML",
-    "author": "/u/cloud_kj",
-    "published_date": "2026-10-28T17:17:59+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.884581"
+    "created_at": "2026-10-29T17:57:13.801526"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1108,7 +1123,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202249"
+    "created_at": "2026-10-29T17:57:02.403720"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -1126,7 +1141,22 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:20.221188"
+    "created_at": "2026-10-29T17:57:05.439971"
+  },
+  {
+    "id": "Reddit ML_24354a76856459e7",
+    "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+    "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
+    "content": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+    "source": "Reddit ML",
+    "author": "/u/subhashg547",
+    "published_date": "2026-10-29T08:51:23+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T17:57:19.157234"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -1143,41 +1173,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684278"
-  },
-  {
-    "id": "OpenAI News_62287482a6f297a5",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "content": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:22.684424"
-  },
-  {
-    "id": "Reddit ML_92946fd31c48bf47",
-    "title": "The Paper Reviewing Process is Now in Critical Condition [D]",
-    "summary": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
-    "content": "TL;DR: AI written reviews, and AI-writing in papers I was going to give this a title An Obituary of the Review Process, but in the interest of not sounding too defeatist, I will just say Critical Condition because of AI writing, both on the author side and the reviewer side.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh2wzt/the_paper_reviewing_process_is_now_in_critical/",
-    "source": "Reddit ML",
-    "author": "/u/dsmirza",
-    "published_date": "2026-10-27T19:55:31+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.884818"
+    "created_at": "2026-10-29T17:57:07.893133"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1194,7 +1190,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:34.473137"
+    "created_at": "2026-10-29T17:57:19.752117"
   },
   {
     "id": "Wired AI_780dedb6eb7d7332",
@@ -1211,7 +1207,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:17.202638"
+    "created_at": "2026-10-29T17:57:02.404081"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1228,7 +1224,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:19.304993"
+    "created_at": "2026-10-29T17:57:04.624278"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1245,7 +1241,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:19.305240"
+    "created_at": "2026-10-29T17:57:04.624512"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1262,7 +1258,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:18.180015"
+    "created_at": "2026-10-29T17:57:03.463498"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1279,7 +1275,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:18.180071"
+    "created_at": "2026-10-29T17:57:03.463576"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1296,7 +1292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:25.368759"
+    "created_at": "2026-10-29T17:57:10.621523"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1313,24 +1309,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:25.368832"
+    "created_at": "2026-10-29T17:57:10.621608"
   },
   {
-    "id": "Hugging Face Blog_e99987437dd2cefe",
-    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Wed, 21 Oct 2026 16:04:43 GMT",
-    "importance_score": 4.800000000000001,
+    "id": "Reddit ML_2e3b7b043c6ecf86",
+    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+    "source": "Reddit ML",
+    "author": "/u/cloud_kj",
+    "published_date": "2026-10-28T17:17:59+00:00",
+    "importance_score": 4.8,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:25.368905"
+    "created_at": "2026-10-29T17:57:19.157979"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1347,7 +1343,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:18.179864"
+    "created_at": "2026-10-29T17:57:03.463349"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1364,7 +1360,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:34.473299"
+    "created_at": "2026-10-29T17:57:19.752275"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1379,7 +1375,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:33.883715"
+    "created_at": "2026-10-29T17:57:19.156519"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1396,6 +1392,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T11:57:34.473224"
+    "created_at": "2026-10-29T17:57:19.752203"
   }
 ]
