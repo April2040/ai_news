@@ -8,14 +8,14 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-10-28T16:03:00-04:00",
-    "importance_score": 9.7,
+    "importance_score": 9.2,
     "category": "tech",
     "keywords": [
       "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496539"
+    "created_at": "2026-10-29T03:29:01.095525"
   },
   {
     "id": "TechCrunch AI_11cc87a2178db509",
@@ -33,7 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458069"
+    "created_at": "2026-10-29T03:29:00.126049"
   },
   {
     "id": "TechCrunch AI_74e338d7efeb6748",
@@ -44,31 +44,14 @@
     "source": "TechCrunch AI",
     "author": "Tim Fernholz",
     "published_date": "Wed, 28 Oct 2026 19:19:58 +0000",
-    "importance_score": 8.899999999999999,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458230"
-  },
-  {
-    "id": "TechCrunch AI_f183112edef4ff54",
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458425"
+    "created_at": "2026-10-29T03:29:00.126184"
   },
   {
     "id": "The Verge AI_7e4aa5ccf78d0ddf",
@@ -86,7 +69,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T21:59:31.497046"
+    "created_at": "2026-10-29T03:29:01.095950"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -106,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.851700"
+    "created_at": "2026-10-29T03:29:07.583126"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -126,7 +109,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.851853"
+    "created_at": "2026-10-29T03:29:07.583263"
+  },
+  {
+    "id": "TechCrunch AI_f183112edef4ff54",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:00.126361"
   },
   {
     "id": "Wired AI_980a780899ef825b",
@@ -145,7 +145,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494628"
+    "created_at": "2026-10-29T03:29:02.182093"
   },
   {
     "id": "The Verge AI_d566e374a83fbf08",
@@ -162,7 +162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496954"
+    "created_at": "2026-10-29T03:29:01.095888"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -182,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.851994"
+    "created_at": "2026-10-29T03:29:07.583387"
   },
   {
     "id": "Wired AI_db8f63318a30049f",
@@ -202,7 +202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494482"
+    "created_at": "2026-10-29T03:29:02.181972"
   },
   {
     "id": "OpenAI News_3762019482ac7504",
@@ -221,7 +221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.851929"
+    "created_at": "2026-10-29T03:29:07.583330"
   },
   {
     "id": "TechCrunch AI_2de1dbcab1346ad6",
@@ -238,76 +238,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.457951"
-  },
-  {
-    "id": "TechCrunch AI_0e8c9c75271e7785",
-    "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Wed, 28 Oct 2026 21:25:30 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458158"
-  },
-  {
-    "id": "The Verge AI_696e155e30cd8461",
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T14:36:26-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496617"
-  },
-  {
-    "id": "The Verge AI_36eb6486acdf58ed",
-    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
-    "content": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
-    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-28T12:15:30-04:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496796"
-  },
-  {
-    "id": "OpenAI News_cc5f9f3c3915dc2c",
-    "title": "How Check Point accelerates vulnerability research with Daybreak",
-    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-    "url": "https://openai.com/index/check-point-daybreak",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 27 Oct 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.852091"
+    "created_at": "2026-10-29T03:29:00.125959"
   },
   {
     "id": "OpenAI News_3e19a31d5418a75f",
@@ -327,24 +258,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.852375"
-  },
-  {
-    "id": "The Verge AI_77ca38f80f126224",
-    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
-    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T13:00:00-04:00",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496719"
+    "created_at": "2026-10-29T03:29:07.583706"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -362,7 +276,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T21:59:32.494402"
+    "created_at": "2026-10-29T03:29:02.181898"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -380,7 +294,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.391866"
+    "created_at": "2026-10-29T03:29:05.181709"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -398,7 +312,76 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:36.726161"
+    "created_at": "2026-10-29T03:29:06.497258"
+  },
+  {
+    "id": "TechCrunch AI_33092aefe2695758",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Wed, 28 Oct 2026 21:25:30 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:00.126123"
+  },
+  {
+    "id": "The Verge AI_696e155e30cd8461",
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
+    "content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
+    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-28T14:36:26-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:01.095592"
+  },
+  {
+    "id": "The Verge AI_36eb6486acdf58ed",
+    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
+    "content": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with...",
+    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-28T12:15:30-04:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:01.095744"
+  },
+  {
+    "id": "OpenAI News_cc5f9f3c3915dc2c",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "content": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 27 Oct 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:07.583462"
   },
   {
     "id": "OpenAI News_17cd0140732d97ed",
@@ -416,7 +399,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.852236"
+    "created_at": "2026-10-29T03:29:07.583585"
+  },
+  {
+    "id": "Reddit ML_79f09c75af0ed5e6",
+    "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+    "summary": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.",
+    "content": "TLDR: training my first general law model and unsure what to do with my data PRE-PS: it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun. I’m building a Polish legal model using Qwen3.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+    "source": "Reddit ML",
+    "author": "/u/SignificantZebra5883",
+    "published_date": "2026-10-28T22:04:32+00:00",
+    "importance_score": 6.6,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:18.732240"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -434,7 +434,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:33.469968"
+    "created_at": "2026-10-29T03:29:03.132670"
+  },
+  {
+    "id": "The Verge AI_77ca38f80f126224",
+    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding.",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-10-28T13:00:00-04:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:01.095676"
   },
   {
     "id": "arXiv ML_b09a9452ab219c6e",
@@ -451,24 +468,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.587631"
+    "created_at": "2026-10-29T03:29:14.259633"
   },
   {
-    "id": "TechCrunch AI_b17081e06c0e171b",
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "id": "The Verge AI_566857867e001c67",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+    "content": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-28T19:05:39-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458351"
+    "created_at": "2026-10-29T03:29:01.095334"
   },
   {
     "id": "The Verge AI_aa24c3a15a3f768e",
@@ -485,7 +502,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496430"
+    "created_at": "2026-10-29T03:29:01.095429"
   },
   {
     "id": "Wired AI_00c49c7708db568f",
@@ -503,7 +520,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494702"
+    "created_at": "2026-10-29T03:29:02.182161"
   },
   {
     "id": "Wired AI_6d9fd7515efbf6ab",
@@ -521,24 +538,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494770"
-  },
-  {
-    "id": "MIT Technology Review_7fbb76851893e19d",
-    "title": "Creating AI value with enterprise context",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Insights",
-    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.391595"
+    "created_at": "2026-10-29T03:29:02.182222"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -556,60 +556,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.392081"
-  },
-  {
-    "id": "Wired AI_5798fa71517fbdc5",
-    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-28T21:59:32.494069"
-  },
-  {
-    "id": "Reddit ML_8cdf72d4ab588fae",
-    "title": "How do you start with Agentic AI for a specific use case? [D]",
-    "summary": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
-    "content": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
-    "source": "Reddit ML",
-    "author": "/u/ade17_in",
-    "published_date": "2026-10-28T16:20:21+00:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047682"
-  },
-  {
-    "id": "Reddit ML_a43d99dd933cf5c6",
-    "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
-    "summary": "I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a...",
-    "content": "I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too. It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
-    "source": "Reddit ML",
-    "author": "/u/Jay299792458",
-    "published_date": "2026-10-28T13:11:49+00:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047795"
+    "created_at": "2026-10-29T03:29:05.181876"
   },
   {
     "id": "Reddit ML_d6e1a70013a45e58",
@@ -626,7 +573,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.046989"
+    "created_at": "2026-10-29T03:29:18.731188"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -643,25 +590,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.851780"
+    "created_at": "2026-10-29T03:29:07.583201"
   },
   {
-    "id": "Reddit ML_6a2fb1566745d943",
-    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-    "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL.",
-    "content": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+    "id": "Reddit ML_cc5d9c58966d76f4",
+    "title": "any fun casual podcasts? [D]",
+    "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
+    "content": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
     "source": "Reddit ML",
-    "author": "/u/jhzyu",
-    "published_date": "2026-10-28T17:52:10+00:00",
+    "author": "/u/Upstairs-Cry-9233",
+    "published_date": "2026-10-29T01:55:38+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "GPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047333"
+    "created_at": "2026-10-29T03:29:18.731253"
+  },
+  {
+    "id": "TechCrunch AI_b17081e06c0e171b",
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:00.126297"
   },
   {
     "id": "TechCrunch AI_d52289e1944b3974",
@@ -678,7 +641,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:30.458492"
+    "created_at": "2026-10-29T03:29:00.126432"
   },
   {
     "id": "The Verge AI_3c7d568f74c7e155",
@@ -695,7 +658,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.496873"
+    "created_at": "2026-10-29T03:29:01.095816"
   },
   {
     "id": "Wired AI_38cad5ea8e57bc87",
@@ -712,7 +675,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494239"
+    "created_at": "2026-10-29T03:29:02.181748"
   },
   {
     "id": "Wired AI_c40e2c3f7ad5bcc1",
@@ -729,7 +692,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494315"
+    "created_at": "2026-10-29T03:29:02.181818"
+  },
+  {
+    "id": "MIT Technology Review_7fbb76851893e19d",
+    "title": "Creating AI value with enterprise context",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:05.181464"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -746,7 +726,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.391704"
+    "created_at": "2026-10-29T03:29:05.181571"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -763,7 +743,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.391762"
+    "created_at": "2026-10-29T03:29:05.181622"
   },
   {
     "id": "arXiv AI_e1c77a0d86244c36",
@@ -781,7 +761,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612897"
+    "created_at": "2026-10-29T03:29:13.369279"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -798,24 +778,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:33.469782"
+    "created_at": "2026-10-29T03:29:03.132506"
   },
   {
-    "id": "Reddit ML_2e3b7b043c6ecf86",
-    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
-    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
-    "source": "Reddit ML",
-    "author": "/u/cloud_kj",
-    "published_date": "2026-10-28T17:17:59+00:00",
-    "importance_score": 5.8,
+    "id": "Wired AI_5798fa71517fbdc5",
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047514"
+    "sentiment": "negative",
+    "created_at": "2026-10-29T03:29:02.181539"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -832,7 +812,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494164"
+    "created_at": "2026-10-29T03:29:02.181656"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -849,7 +829,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:34.491766"
+    "created_at": "2026-10-29T03:29:04.259994"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -866,7 +846,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:34.491847"
+    "created_at": "2026-10-29T03:29:04.260056"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -883,7 +863,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:34.491988"
+    "created_at": "2026-10-29T03:29:04.260220"
   },
   {
     "id": "arXiv AI_e8e77022fe6022d2",
@@ -900,7 +880,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-28T21:59:43.611909"
+    "created_at": "2026-10-29T03:29:13.368354"
   },
   {
     "id": "arXiv AI_946a0d329ba0f298",
@@ -918,7 +898,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612080"
+    "created_at": "2026-10-29T03:29:13.368520"
   },
   {
     "id": "arXiv ML_3c519690e0cbc691",
@@ -935,7 +915,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588168"
+    "created_at": "2026-10-29T03:29:14.260093"
   },
   {
     "id": "arXiv ML_a93880ed0e8b2f78",
@@ -952,7 +932,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588528"
+    "created_at": "2026-10-29T03:29:14.260459"
   },
   {
     "id": "arXiv ML_78bef09c91486ad8",
@@ -970,25 +950,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588642"
+    "created_at": "2026-10-29T03:29:14.260570"
   },
   {
-    "id": "The Verge AI_f31a825a5b07c81d",
-    "title": "VisionQuest is what happens when AI really goes rogue",
-    "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-    "source": "The Verge AI",
-    "author": "Charles Pulliam-Moore",
-    "published_date": "2026-10-27T13:30:00-04:00",
-    "importance_score": 5.6000000000000005,
+    "id": "Reddit ML_8cdf72d4ab588fae",
+    "title": "How do you start with Agentic AI for a specific use case? [D]",
+    "summary": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
+    "content": "Hello all! I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up? I've heard terms like harness and others, but I'd like to know how to get...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+    "source": "Reddit ML",
+    "author": "/u/ade17_in",
+    "published_date": "2026-10-28T16:20:21+00:00",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
-      "artificial intelligence",
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:31.497117"
+    "created_at": "2026-10-29T03:29:18.732436"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -1006,7 +986,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.391972"
+    "created_at": "2026-10-29T03:29:05.181804"
   },
   {
     "id": "MIT Technology Review_92ee7dec2b0e93df",
@@ -1023,7 +1003,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.392188"
+    "created_at": "2026-10-29T03:29:05.181966"
   },
   {
     "id": "MIT Technology Review_62c61224c2c3e669",
@@ -1040,24 +1020,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-28T21:59:35.392264"
-  },
-  {
-    "id": "OpenAI News_c759af5f325d25b1",
-    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-    "url": "https://openai.com/index/greptile-code-review-codex-astra",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.852156"
+    "created_at": "2026-10-29T03:29:05.182037"
   },
   {
     "id": "arXiv AI_0d3362189ee8a52f",
@@ -1072,7 +1035,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612219"
+    "created_at": "2026-10-29T03:29:13.368640"
   },
   {
     "id": "arXiv AI_da25d548b2e6b21b",
@@ -1089,7 +1052,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612443"
+    "created_at": "2026-10-29T03:29:13.368851"
   },
   {
     "id": "arXiv AI_959b6e9f6c73d97f",
@@ -1106,7 +1069,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612559"
+    "created_at": "2026-10-29T03:29:13.368961"
   },
   {
     "id": "arXiv AI_d882fdaaefbbcf38",
@@ -1121,7 +1084,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612685"
+    "created_at": "2026-10-29T03:29:13.369080"
   },
   {
     "id": "arXiv AI_287470da508ea63e",
@@ -1138,7 +1101,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.613049"
+    "created_at": "2026-10-29T03:29:13.369390"
   },
   {
     "id": "arXiv ML_3d7c51f0076493f8",
@@ -1155,7 +1118,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.587762"
+    "created_at": "2026-10-29T03:29:14.259761"
   },
   {
     "id": "arXiv ML_cebc6ac705c059d0",
@@ -1172,7 +1135,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.587896"
+    "created_at": "2026-10-29T03:29:14.259892"
   },
   {
     "id": "arXiv ML_cb9f372c65edc5c5",
@@ -1187,7 +1150,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588003"
+    "created_at": "2026-10-29T03:29:14.259994"
   },
   {
     "id": "arXiv ML_9e68e32d2ec7fd64",
@@ -1204,7 +1167,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588307"
+    "created_at": "2026-10-29T03:29:14.260219"
   },
   {
     "id": "arXiv ML_ce6b90be8719c833",
@@ -1221,24 +1184,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:44.588413"
+    "created_at": "2026-10-29T03:29:14.260318"
   },
   {
-    "id": "Reddit ML_003a1df1f18f08c2",
-    "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
-    "summary": "Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes.  submitted by  /u/perone [link]  [comments]",
-    "content": "Hi, just sharing a project I started a few months ago in case anyone is interested. The main idea is that you will have a desktop front-panel where you can monitor distributed training across multiple nodes.  submitted by  /u/perone [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
+    "id": "Reddit ML_6a2fb1566745d943",
+    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+    "summary": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL.",
+    "content": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
     "source": "Reddit ML",
-    "author": "/u/perone",
-    "published_date": "2026-10-28T10:41:27+00:00",
+    "author": "/u/jhzyu",
+    "published_date": "2026-10-28T17:52:10+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
+      "GPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047588"
+    "created_at": "2026-10-29T03:29:18.732335"
   },
   {
     "id": "Wired AI_780dedb6eb7d7332",
@@ -1255,7 +1219,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:32.494551"
+    "created_at": "2026-10-29T03:29:02.182033"
   },
   {
     "id": "arXiv AI_da1288f4a4e27465",
@@ -1270,7 +1234,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612325"
+    "created_at": "2026-10-29T03:29:13.368739"
   },
   {
     "id": "arXiv AI_63c0b793afbc8dda",
@@ -1285,7 +1249,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:43.612787"
+    "created_at": "2026-10-29T03:29:13.369174"
   },
   {
     "id": "Reddit ML_eaf2707170c69474",
@@ -1302,25 +1266,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.046618"
+    "created_at": "2026-10-29T03:29:18.730826"
   },
   {
-    "id": "Reddit ML_3ab76c80a24d4143",
-    "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
-    "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
-    "content": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+    "id": "Reddit ML_2e3b7b043c6ecf86",
+    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+    "summary": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "content": "Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
-    "author": "/u/ifaposto",
-    "published_date": "2026-10-27T19:20:08+00:00",
-    "importance_score": 5.2,
+    "author": "/u/cloud_kj",
+    "published_date": "2026-10-28T17:17:59+00:00",
+    "importance_score": 5.3,
     "category": "tech",
     "keywords": [
-      "AI",
-      "transformer"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047911"
+    "created_at": "2026-10-29T03:29:18.731437"
+  },
+  {
+    "id": "OpenAI News_c759af5f325d25b1",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "content": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-29T03:29:07.583516"
   },
   {
     "id": "OpenAI News_62287482a6f297a5",
@@ -1337,7 +1317,7 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:37.852301"
+    "created_at": "2026-10-29T03:29:07.583642"
   },
   {
     "id": "Reddit ML_92946fd31c48bf47",
@@ -1354,7 +1334,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.047229"
+    "created_at": "2026-10-29T03:29:18.731642"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1371,7 +1351,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.573719"
+    "created_at": "2026-10-29T03:29:19.432107"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1388,7 +1368,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:34.491666"
+    "created_at": "2026-10-29T03:29:04.259896"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1405,7 +1385,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:34.491911"
+    "created_at": "2026-10-29T03:29:04.260149"
   },
   {
     "id": "MIT Technology Review_aaa9d13a35704f9a",
@@ -1422,7 +1402,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:35.392360"
+    "created_at": "2026-10-29T03:29:05.182126"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1439,7 +1419,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:33.469853"
+    "created_at": "2026-10-29T03:29:03.132570"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1456,7 +1436,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:33.469909"
+    "created_at": "2026-10-29T03:29:03.132617"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1473,7 +1453,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:40.570095"
+    "created_at": "2026-10-29T03:29:10.282130"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1490,7 +1470,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:40.570168"
+    "created_at": "2026-10-29T03:29:10.282197"
   },
   {
     "id": "Hugging Face Blog_e99987437dd2cefe",
@@ -1507,7 +1487,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:40.570238"
+    "created_at": "2026-10-29T03:29:10.282259"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1524,7 +1504,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:33.469708"
+    "created_at": "2026-10-29T03:29:03.132432"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1541,7 +1521,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.573876"
+    "created_at": "2026-10-29T03:29:19.432251"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1556,7 +1536,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.046722"
+    "created_at": "2026-10-29T03:29:18.730925"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1573,6 +1553,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-28T21:59:49.573804"
+    "created_at": "2026-10-29T03:29:19.432187"
   }
 ]
