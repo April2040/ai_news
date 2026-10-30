@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206820"
+    "created_at": "2026-10-30T11:51:13.924819"
   },
   {
     "id": "The Verge AI_f2985db385bd507d",
@@ -33,25 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206601"
-  },
-  {
-    "id": "MIT Technology Review_67331b84062522a3",
-    "title": "We urgently need to monitor AI agents’ actions in real time",
-    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-    "content": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-    "source": "MIT Technology Review",
-    "author": "Madhulika Srikumar, Claire Leibowicz",
-    "published_date": "Thu, 29 Oct 2026 10:11:12 +0000",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-30T03:31:23.166649"
+    "created_at": "2026-10-30T11:51:13.924470"
   },
   {
     "id": "The Verge AI_7b80c8f3ebbf71e8",
@@ -68,24 +50,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206432"
+    "created_at": "2026-10-30T11:51:13.924190"
   },
   {
-    "id": "TechCrunch AI_e1c2d2794f397b04",
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-    "content": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 29 Oct 2026 23:42:22 +0000",
-    "importance_score": 7.8,
+    "id": "MIT Technology Review_67331b84062522a3",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+    "content": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Technology Review",
+    "author": "Madhulika Srikumar, Claire Leibowicz",
+    "published_date": "Thu, 29 Oct 2026 10:11:12 +0000",
+    "importance_score": 7.800000000000001,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214755"
+    "sentiment": "positive",
+    "created_at": "2026-10-30T11:51:17.946608"
   },
   {
     "id": "TechCrunch AI_426f7b2af12891e5",
@@ -102,7 +85,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214942"
+    "created_at": "2026-10-30T11:51:12.902912"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -120,43 +103,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.413823"
-  },
-  {
-    "id": "OpenAI News_39daa6748600be19",
-    "title": "How we detect frontier model misalignment",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.413875"
-  },
-  {
-    "id": "OpenAI News_5d12b8529a7b5346",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "content": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 07:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.413915"
+    "created_at": "2026-10-30T11:51:20.395635"
   },
   {
     "id": "TechCrunch AI_0687ef12932904ba",
@@ -174,7 +121,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214887"
+    "created_at": "2026-10-30T11:51:12.902821"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -194,27 +141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.413951"
-  },
-  {
-    "id": "OpenAI News_02591dadacca67c1",
-    "title": "Legora is building the agentic operating system for legal work",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "url": "https://openai.com/index/legora",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "importance_score": 7.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.414022"
+    "created_at": "2026-10-30T11:51:20.395847"
   },
   {
     "id": "TechCrunch AI_7c6350961628e27a",
@@ -231,7 +158,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.215040"
+    "created_at": "2026-10-30T11:51:12.903073"
   },
   {
     "id": "TechCrunch AI_cc0b1e154365c749",
@@ -249,7 +176,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.215131"
+    "created_at": "2026-10-30T11:51:12.903221"
+  },
+  {
+    "id": "TechCrunch AI_06dc1a4daa7b9328",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "content": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 29 Oct 2026 23:42:22 +0000",
+    "importance_score": 7.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:12.902589"
   },
   {
     "id": "Wired AI_350ede127ed3dd7c",
@@ -267,7 +211,82 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175327"
+    "created_at": "2026-10-30T11:51:14.846808"
+  },
+  {
+    "id": "OpenAI News_39daa6748600be19",
+    "title": "How we detect frontier model misalignment",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "content": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 09:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:20.395713"
+  },
+  {
+    "id": "OpenAI News_5d12b8529a7b5346",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "content": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 07:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:20.395781"
+  },
+  {
+    "id": "arXiv ML_84821123010396f1",
+    "title": "Responsible Quantum Machine Learning for Medical Imaging: A Fairness Audit Across Sensitive Subgroups",
+    "summary": "arXiv:2610.37819v1 Announce Type: new Abstract: Quantum machine learning (QML) is increasingly explored for medical classification, yet its behaviour under subgroup-aware fairness criteria remains understudied.",
+    "content": "arXiv:2610.37819v1 Announce Type: new Abstract: Quantum machine learning (QML) is increasingly explored for medical classification, yet its behaviour under subgroup-aware fairness criteria remains understudied.",
+    "url": "https://arxiv.org/abs/2610.37819",
+    "source": "arXiv ML",
+    "author": "Giovanni dos Santos Franco, Felipe Mahlow, Ellison Fernando Cardoso, Jos\\'e Adenaldo Santos Bittencourt, Felipe Fanchini",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 7.1000000000000005,
+    "category": "research",
+    "keywords": [
+      "machine learning",
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138809"
+  },
+  {
+    "id": "OpenAI News_02591dadacca67c1",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "url": "https://openai.com/index/legora",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "importance_score": 7.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:20.395974"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -287,7 +306,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.414095"
+    "created_at": "2026-10-30T11:51:20.396107"
   },
   {
     "id": "Wired AI_db8f63318a30049f",
@@ -307,7 +326,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175751"
+    "created_at": "2026-10-30T11:51:14.847598"
   },
   {
     "id": "TechCrunch AI_84037c9a880436a3",
@@ -325,7 +344,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.215082"
+    "created_at": "2026-10-30T11:51:12.903142"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -343,7 +362,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:24.210793"
+    "created_at": "2026-10-30T11:51:18.970105"
   },
   {
     "id": "OpenAI News_3762019482ac7504",
@@ -362,7 +381,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.414062"
+    "created_at": "2026-10-30T11:51:20.396045"
+  },
+  {
+    "id": "Reddit ML_29ccfcea6e67b839",
+    "title": "What would you require before calling an inference change “quality-neutral”? [D]",
+    "summary": "Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint.",
+    "content": "Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
+    "source": "Reddit ML",
+    "author": "/u/AKAMA199",
+    "published_date": "2026-10-30T06:59:57+00:00",
+    "importance_score": 6.8,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:31.580763"
   },
   {
     "id": "The Verge AI_bb8717c6296bfae7",
@@ -379,7 +415,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206498"
+    "created_at": "2026-10-30T11:51:13.924279"
   },
   {
     "id": "OpenAI News_cc5f9f3c3915dc2c",
@@ -397,7 +433,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.414130"
+    "created_at": "2026-10-30T11:51:20.396170"
+  },
+  {
+    "id": "arXiv AI_68efdb6b5db3f53c",
+    "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+    "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites.",
+    "content": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, while generative construction can diverge from specified real websites.",
+    "url": "https://arxiv.org/abs/2610.37786",
+    "source": "arXiv AI",
+    "author": "Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Yan",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:26.304382"
+  },
+  {
+    "id": "The Verge AI_253f3854dbd57d3a",
+    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
+    "content": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
+    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-10-30T05:00:00-04:00",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:13.924100"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -415,7 +486,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:21.150202"
+    "created_at": "2026-10-30T11:51:15.864519"
   },
   {
     "id": "TechCrunch AI_535955198226aebf",
@@ -432,7 +503,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214811"
+    "created_at": "2026-10-30T11:51:12.902681"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -449,7 +520,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175432"
+    "created_at": "2026-10-30T11:51:14.846984"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -467,7 +538,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-30T03:31:20.175707"
+    "created_at": "2026-10-30T11:51:14.847476"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -485,74 +556,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166860"
+    "created_at": "2026-10-30T11:51:17.946960"
   },
   {
-    "id": "MIT Technology Review_de76e95e872b4c55",
-    "title": "Will the real Anthropic please stand up",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus.",
-    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-    "source": "MIT Technology Review",
-    "author": "Will Douglas Heaven",
-    "published_date": "Mon, 26 Oct 2026 17:45:43 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166966"
-  },
-  {
-    "id": "Reddit ML_12df1901133d6548",
-    "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-    "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
-    "content": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
-    "source": "Reddit ML",
-    "author": "/u/Working_Hat5120",
-    "published_date": "2026-10-29T22:51:57+00:00",
-    "importance_score": 6.3999999999999995,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.899969"
-  },
-  {
-    "id": "TechCrunch AI_1f82b28aa0857406",
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-    "content": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 30 Oct 2026 01:20:48 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
+    "id": "arXiv ML_a76c148b3586bd49",
+    "title": "Anisotropic Trust Region Warping for Prior-Data Fitted Networks in Bayesian Optimisation",
+    "summary": "arXiv:2610.37737v1 Announce Type: new Abstract: Prior-Data Fitted Networks (PFNs) replace the hyperparameter refitting of Gaussian Process (GP) surrogates in Bayesian optimisation with a single forward pass, at the cost of a prior that is fixed at meta-training time.",
+    "content": "arXiv:2610.37737v1 Announce Type: new Abstract: Prior-Data Fitted Networks (PFNs) replace the hyperparameter refitting of Gaussian Process (GP) surrogates in Bayesian optimisation with a single forward pass, at the cost of a prior that is fixed at meta-training time.",
+    "url": "https://arxiv.org/abs/2610.37737",
+    "source": "arXiv ML",
+    "author": "Samuel Younger, Tinkle Chugh, George De Ath",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 6.3,
+    "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214689"
-  },
-  {
-    "id": "The Verge AI_696e155e30cd8461",
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.",
-    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-10-28T14:36:26-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206861"
+    "created_at": "2026-10-30T11:51:27.138588"
   },
   {
     "id": "Reddit ML_07f85fcf5d6a46f8",
@@ -569,7 +590,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.900078"
+    "created_at": "2026-10-30T11:51:31.580943"
   },
   {
     "id": "TechCrunch AI_078716dc29a8ed4b",
@@ -586,7 +607,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214850"
+    "created_at": "2026-10-30T11:51:12.902754"
   },
   {
     "id": "TechCrunch AI_3dfa37e12db35452",
@@ -603,7 +624,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:18.214982"
+    "created_at": "2026-10-30T11:51:12.902983"
   },
   {
     "id": "The Verge AI_79fe8b23a7a6f9b2",
@@ -620,24 +641,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206546"
-  },
-  {
-    "id": "The Verge AI_6d0cbb2c23d99cc5",
-    "title": "AI has come for Arizona’s water",
-    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-    "content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
-    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-    "source": "The Verge AI",
-    "author": "Gaby Del Valle",
-    "published_date": "2026-10-29T06:00:04-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206668"
+    "created_at": "2026-10-30T11:51:13.924355"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -654,24 +658,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175385"
-  },
-  {
-    "id": "Wired AI_0de43302b4cbbc81",
-    "title": "I Gave My Blood to the AI Death Clock",
-    "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "content": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Thu, 29 Oct 2026 10:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175476"
+    "created_at": "2026-10-30T11:51:14.846901"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -688,25 +675,40 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166572"
+    "created_at": "2026-10-30T11:51:17.946501"
   },
   {
-    "id": "arXiv AI_e1c77a0d86244c36",
-    "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-    "summary": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance.",
-    "content": "arXiv:2610.36188v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libraries essential for repository development and maintenance.",
-    "url": "https://arxiv.org/abs/2610.36188",
-    "source": "arXiv AI",
-    "author": "Xinyuan Song, Hasibul Haque, Jay Somasundaram, Ryan Turner, Bowen Zhu, Liang Zhao",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "id": "arXiv ML_a55e7c83e79e6cf9",
+    "title": "Learning Lotteries with Minimal Stakeholder Violations from Membership Queries",
+    "summary": "arXiv:2610.37828v1 Announce Type: new Abstract: An AI developer often has several candidate versions of a system and can deploy a mixture of them, sending each request to a randomly chosen version, as in A/B testing. Each stakeholder (e.g.",
+    "content": "arXiv:2610.37828v1 Announce Type: new Abstract: An AI developer often has several candidate versions of a system and can deploy a mixture of them, sending each request to a randomly chosen version, as in A/B testing. Each stakeholder (e.g.",
+    "url": "https://arxiv.org/abs/2610.37828",
+    "source": "arXiv ML",
+    "author": "Nicholas Teh, Paul W. Goldberg",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.9,
     "category": "research",
     "keywords": [
       "AI",
-      "LLM"
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.353199"
+    "created_at": "2026-10-30T11:51:27.139065"
+  },
+  {
+    "id": "Reddit ML_12df1901133d6548",
+    "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+    "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
+    "content": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+    "source": "Reddit ML",
+    "author": "/u/Working_Hat5120",
+    "published_date": "2026-10-29T22:51:57+00:00",
+    "importance_score": 5.8999999999999995,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:31.580629"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -723,7 +725,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:21.150091"
+    "created_at": "2026-10-30T11:51:15.864302"
+  },
+  {
+    "id": "Reddit ML_31ca59b8df21b91b",
+    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+    "summary": "A friend of mine was doing gap analysis as a project , the result he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ACCEPTED IN AAAI.",
+    "content": "A friend of mine was doing gap analysis as a project , the result he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ACCEPTED IN AAAI.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
+    "source": "Reddit ML",
+    "author": "/u/Tonka-Jahari-Pizza",
+    "published_date": "2026-10-30T07:25:23+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:31.580168"
+  },
+  {
+    "id": "TechCrunch AI_1f82b28aa0857406",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "content": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 30 Oct 2026 01:20:48 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:12.902480"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -740,7 +776,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:22.368595"
+    "created_at": "2026-10-30T11:51:17.021635"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -757,7 +793,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:22.368645"
+    "created_at": "2026-10-30T11:51:17.021711"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -774,157 +810,259 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:22.368722"
+    "created_at": "2026-10-30T11:51:17.021855"
   },
   {
-    "id": "arXiv AI_e8e77022fe6022d2",
-    "title": "Counting the Bandages: On measuring the time that AI saves",
-    "summary": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through,...",
-    "content": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is a counterfactual that has to be read next to the errors the work lets through,...",
-    "url": "https://arxiv.org/abs/2610.35942",
+    "id": "arXiv AI_c87605a27c387cc5",
+    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging.",
+    "content": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level problems remains challenging.",
+    "url": "https://arxiv.org/abs/2610.37739",
     "source": "arXiv AI",
-    "author": "Solomon Shalom Lijo",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "author": "Jiarui Yao, Ruida Wang, Tong Zhang",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-30T03:31:31.352583"
+    "created_at": "2026-10-30T11:51:26.304269"
   },
   {
-    "id": "arXiv AI_946a0d329ba0f298",
-    "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-    "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance.",
-    "content": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges such as insufficient data and class imbalance.",
-    "url": "https://arxiv.org/abs/2610.35984",
+    "id": "arXiv AI_5ca60893d72a9255",
+    "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+    "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked.",
+    "content": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked.",
+    "url": "https://arxiv.org/abs/2610.37830",
     "source": "arXiv AI",
-    "author": "Hicham El Akhal, Abderrahim Waga, Aissa Ben Yahya, Abdelbaki El Belrhiti El Alaoui",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "author": "Abhinav Goel, Agostino Capponi, Alfio Gliozzo, Chaitya Shah",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
-      "deep learning",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.352690"
+    "created_at": "2026-10-30T11:51:26.304675"
   },
   {
-    "id": "OpenAI News_f4a7a50201117021",
-    "title": "The future of the firm",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-    "content": "How AI might enter the org chart—beneath, beside, and between us.",
-    "url": "https://openai.com/index/the-future-of-the-firm",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 28 Oct 2026 10:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
+    "id": "arXiv AI_caf7d8185aac521f",
+    "title": "Evaluating and improving AI agents for sequencing protocol understanding",
+    "summary": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays.",
+    "content": "arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays.",
+    "url": "https://arxiv.org/abs/2610.37851",
+    "source": "arXiv AI",
+    "author": "Chi-Lam Poon, Michael Goneos, Zezheng Song, Xi Chen",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.413986"
+    "created_at": "2026-10-30T11:51:26.304888"
   },
   {
-    "id": "arXiv AI_0d3362189ee8a52f",
-    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-    "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness...",
-    "content": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness...",
-    "url": "https://arxiv.org/abs/2610.36077",
+    "id": "arXiv ML_92e72a592c240da1",
+    "title": "What a Weight Update Buys: Leverage Across Training Stages",
+    "summary": "arXiv:2610.37719v1 Announce Type: new Abstract: Post-training moves a language model's weights by about a thousandth of their norm and changes its behavior sharply; pretraining moves them by a third and buys a slow drift.",
+    "content": "arXiv:2610.37719v1 Announce Type: new Abstract: Post-training moves a language model's weights by about a thousandth of their norm and changes its behavior sharply; pretraining moves them by a third and buys a slow drift.",
+    "url": "https://arxiv.org/abs/2610.37719",
+    "source": "arXiv ML",
+    "author": "Shikhar Shiromani",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138077"
+  },
+  {
+    "id": "arXiv ML_a18dd51b49b61d0d",
+    "title": "Predicate Neuron: Differentiable Quantization of Predicate Relations in Gradient-based Learning",
+    "summary": "arXiv:2610.37727v1 Announce Type: new Abstract: In machine learning, symbolic reasoning approaches often rely on static architectures that hinder integration into deep neural networks and gradient-based optimization.",
+    "content": "arXiv:2610.37727v1 Announce Type: new Abstract: In machine learning, symbolic reasoning approaches often rely on static architectures that hinder integration into deep neural networks and gradient-based optimization.",
+    "url": "https://arxiv.org/abs/2610.37727",
+    "source": "arXiv ML",
+    "author": "Ioannis Konstantoulas, Iliana Loi, Kyriakos Sgarbas",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "machine learning",
+      "neural network"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138314"
+  },
+  {
+    "id": "arXiv ML_36e15e8e6b7c3035",
+    "title": "Selective Transfer Learning for Groundwater Level Anomaly Forecasting: Accuracy-Risk Trade-offs",
+    "summary": "arXiv:2610.37733v1 Announce Type: new Abstract: This work studies context-aware selective transfer learning for multi-well groundwater anomaly forecasting in the Netherlands. Source-domain pretraining can raise average accuracy but is not uniformly reliable: it degrades performance on a substantial...",
+    "content": "arXiv:2610.37733v1 Announce Type: new Abstract: This work studies context-aware selective transfer learning for multi-well groundwater anomaly forecasting in the Netherlands. Source-domain pretraining can raise average accuracy but is not uniformly reliable: it degrades performance on a substantial...",
+    "url": "https://arxiv.org/abs/2610.37733",
+    "source": "arXiv ML",
+    "author": "Yaxuan Wu, Ali Mohammed Mansoor Alsahag, Seyed Sahand Mohammadi Ziabari",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138467"
+  },
+  {
+    "id": "arXiv ML_0e0f5423378d05ed",
+    "title": "Learning Without Clocks: Partition-Invariant Neural Network",
+    "summary": "arXiv:2610.37823v1 Announce Type: new Abstract: Event cameras, spiking cochleas and similar sensors emit asynchronous events, yet most learning systems first bin them into frames or packets, so the output depends on how the stream was sliced.",
+    "content": "arXiv:2610.37823v1 Announce Type: new Abstract: Event cameras, spiking cochleas and similar sensors emit asynchronous events, yet most learning systems first bin them into frames or packets, so the output depends on how the stream was sliced.",
+    "url": "https://arxiv.org/abs/2610.37823",
+    "source": "arXiv ML",
+    "author": "Han Wang, Jingyuan Bao, Juntao Wu, Saiao Zhou, Yuman Nie",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138937"
+  },
+  {
+    "id": "arXiv AI_dbd098fb613a0e4e",
+    "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks.",
+    "content": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks.",
+    "url": "https://arxiv.org/abs/2610.37720",
     "source": "arXiv AI",
-    "author": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen, Zhengfeiyang Zhang, Yixing Ma, Zichen Jiang, Ziyu Guo, Haodong Li, Zhengbo Jiao, Zhiqing Cui, Xinxiang Yin, Shuo Liang, Zhenglin Wan, Hongzhan Lin, Wangbo Zhao Kaipeng Zhang, Pengfei Zhou, Odin Zhang, Yang You",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "author": "Jiaming Hu, Zhida Jiang, Zhaolong Xing, Yu Li, Zhen Chen, Ke Zhang",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:26.303877"
+  },
+  {
+    "id": "arXiv AI_7c7a949a72801a56",
+    "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified.",
+    "content": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and contexts affect calibration and must be accounted for and quantified.",
+    "url": "https://arxiv.org/abs/2610.37731",
+    "source": "arXiv AI",
+    "author": "Exauc\\'e Luweh Adjim Ngarti (AIRSEA), \\'Elise Arnaud (AIRSEA), L\\'eo Nicoletti (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Victor Trappler (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Arthur Vidard (AIRSEA)",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:26.304008"
+  },
+  {
+    "id": "arXiv AI_6873a69fa5ec8659",
+    "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+    "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as...",
+    "content": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forward pass is fast but often wrong on decisions that take several steps, such as...",
+    "url": "https://arxiv.org/abs/2610.37732",
+    "source": "arXiv AI",
+    "author": "Xiaolu Ding, Kai Yang, Dongdong Liu",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.352769"
+    "created_at": "2026-10-30T11:51:26.304149"
   },
   {
-    "id": "arXiv AI_da25d548b2e6b21b",
-    "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-    "summary": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered...",
-    "content": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered...",
-    "url": "https://arxiv.org/abs/2610.36116",
+    "id": "arXiv AI_9466a766bcf21a8c",
+    "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+    "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge.",
+    "content": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema makes a reliable judge.",
+    "url": "https://arxiv.org/abs/2610.37809",
     "source": "arXiv AI",
-    "author": "Hoda Heidari, Aydin Mohseni",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.352914"
-  },
-  {
-    "id": "arXiv AI_959b6e9f6c73d97f",
-    "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-    "summary": "arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high.",
-    "content": "arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relations even when global text--image similarity remains high.",
-    "url": "https://arxiv.org/abs/2610.36146",
-    "source": "arXiv AI",
-    "author": "Wentao Ye, Yali Ye, Zhiqing Xiao, Ru Peng, Xinpeng Ti, Liyao Li, Zhanming Shen, Peng Lu, Jie Zhang, Haobo Wang",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.352987"
-  },
-  {
-    "id": "arXiv AI_d882fdaaefbbcf38",
-    "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-    "summary": "arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong.",
-    "content": "arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong.",
-    "url": "https://arxiv.org/abs/2610.36169",
-    "source": "arXiv AI",
-    "author": "Minh Pham Van, Cong Tran",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.353067"
-  },
-  {
-    "id": "arXiv AI_287470da508ea63e",
-    "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-    "summary": "arXiv:2610.36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcomes.",
-    "content": "arXiv:2610.36234v1 Announce Type: new Abstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and adversely affect development outcomes.",
-    "url": "https://arxiv.org/abs/2610.36234",
-    "source": "arXiv AI",
-    "author": "Jannatul Shefa, Alejandro Salado, Paul Wach, Taylan G. Topcu",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "author": "Michal Orzechowski, Rund Tawfiq, Tomasz Kosciolek",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.353274"
+    "created_at": "2026-10-30T11:51:26.304541"
   },
   {
-    "id": "Reddit ML_e85d9301fc3050df",
-    "title": "Leaving a job to pursue a PhD [D]",
-    "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "content": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-    "source": "Reddit ML",
-    "author": "/u/Ok-Hunter-7702",
-    "published_date": "2026-10-29T09:28:28+00:00",
+    "id": "arXiv AI_6de597c606adc28d",
+    "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+    "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them.",
+    "content": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them.",
+    "url": "https://arxiv.org/abs/2610.37849",
+    "source": "arXiv AI",
+    "author": "Kevin Yandoka Denamgana\\\"i",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.5,
-    "category": "tech",
+    "category": "research",
     "keywords": [
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.899894"
+    "created_at": "2026-10-30T11:51:26.304784"
+  },
+  {
+    "id": "arXiv AI_df158a817cd430dc",
+    "title": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+    "summary": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of...",
+    "content": "arXiv:2610.37859v1 Announce Type: new Abstract: Language-model agents differ fundamentally from prior intelligent systems in their ability to learn from natural language in context. This capability enables agents to iteratively refine their answers in response to feedback, a prevalent mode of...",
+    "url": "https://arxiv.org/abs/2610.37859",
+    "source": "arXiv AI",
+    "author": "Thomson Yen, Gilbert Yang, Naimeng Ye, Minghui Chen, Dong Xia, Tianyi Shen, Yechan Jeon, Yaqin Chen, Daksh Mittal, Fangyu Wu, Hongseok Namkoong",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:26.305014"
+  },
+  {
+    "id": "arXiv ML_0d2b9a5ae12f9570",
+    "title": "Moment-Guided Optimizers for Noisy Deep Learning: MGO-SC as a Simple Consistency Gate for Adam-Style Updates",
+    "summary": "arXiv:2610.37712v1 Announce Type: new Abstract: Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable.",
+    "content": "arXiv:2610.37712v1 Announce Type: new Abstract: Adaptive optimizers are widely used in deep learning, yet their behavior can degrade under heavy stochasticity and label noise where the sign and magnitude of gradients can be unstable.",
+    "url": "https://arxiv.org/abs/2610.37712",
+    "source": "arXiv ML",
+    "author": "Alicem Koyun",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "deep learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.137923"
+  },
+  {
+    "id": "arXiv ML_258529a1180442c1",
+    "title": "Spokes, not a Ring: Revisiting the Weekday Manifold in Language Models",
+    "summary": "arXiv:2610.37796v1 Announce Type: new Abstract: Recent work has hypothesised that large language models may represent some concepts as multi-dimensional manifolds instead of single directions.",
+    "content": "arXiv:2610.37796v1 Announce Type: new Abstract: Recent work has hypothesised that large language models may represent some concepts as multi-dimensional manifolds instead of single directions.",
+    "url": "https://arxiv.org/abs/2610.37796",
+    "source": "arXiv ML",
+    "author": "Diksha Gupta, Rieke Fruengel, Stefan Heimersheim",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:27.138691"
   },
   {
     "id": "Reddit ML_1a037e9c06f6d31a",
@@ -942,24 +1080,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.900143"
+    "created_at": "2026-10-30T11:51:31.581050"
   },
   {
-    "id": "Reddit ML_4b916eb7d4083dbe",
-    "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
-    "summary": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
-    "content": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
-    "source": "Reddit ML",
-    "author": "/u/Straight-Coach-7105",
-    "published_date": "2026-10-29T20:04:55+00:00",
-    "importance_score": 5.5,
+    "id": "The Verge AI_6d0cbb2c23d99cc5",
+    "title": "AI has come for Arizona’s water",
+    "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+    "content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites.",
+    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "source": "The Verge AI",
+    "author": "Gaby Del Valle",
+    "published_date": "2026-10-29T06:00:04-04:00",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.900298"
+    "created_at": "2026-10-30T11:51:13.924569"
   },
   {
     "id": "The Verge AI_566857867e001c67",
@@ -976,7 +1114,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206720"
+    "created_at": "2026-10-30T11:51:13.924654"
   },
   {
     "id": "The Verge AI_aa24c3a15a3f768e",
@@ -993,41 +1131,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:19.206763"
+    "created_at": "2026-10-30T11:51:13.924727"
   },
   {
-    "id": "Wired AI_38cad5ea8e57bc87",
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "id": "Wired AI_0de43302b4cbbc81",
+    "title": "I Gave My Blood to the AI Death Clock",
+    "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "content": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
     "source": "Wired AI",
-    "author": "Jake Bittle",
-    "published_date": "Wed, 28 Oct 2026 08:30:00 +0000",
+    "author": "Jason Parham",
+    "published_date": "Thu, 29 Oct 2026 10:00:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175608"
-  },
-  {
-    "id": "Wired AI_c40e2c3f7ad5bcc1",
-    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "content": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Wed, 28 Oct 2026 06:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175657"
+    "created_at": "2026-10-30T11:51:14.847059"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -1044,7 +1165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166717"
+    "created_at": "2026-10-30T11:51:17.946717"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1061,7 +1182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166775"
+    "created_at": "2026-10-30T11:51:17.946815"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1078,7 +1199,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166804"
+    "created_at": "2026-10-30T11:51:17.946867"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1095,37 +1216,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:28.318888"
+    "created_at": "2026-10-30T11:51:23.106233"
   },
   {
-    "id": "arXiv AI_da1288f4a4e27465",
-    "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-    "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements.",
-    "content": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements.",
-    "url": "https://arxiv.org/abs/2610.36100",
-    "source": "arXiv AI",
-    "author": "Neil Chen, Adrian Serapio, Hanxue Gu, Evan Lee, Kang Wang, Yang Yang",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
+    "id": "arXiv ML_ea6222c7c28422fd",
+    "title": "Threshold Compatibility and Support-Selection Diagnostics in Neural Discovery of Partial Differential Equations",
+    "summary": "arXiv:2610.37726v1 Announce Type: new Abstract: Accurate regression need not yield the correct equation after support selection. For a median/sample-standard-deviation threshold in neural PDE discovery, we derive an exact two-signal retention boundary and a complete-vector perturbation bound.",
+    "content": "arXiv:2610.37726v1 Announce Type: new Abstract: Accurate regression need not yield the correct equation after support selection. For a median/sample-standard-deviation threshold in neural PDE discovery, we derive an exact two-signal retention boundary and a complete-vector perturbation bound.",
+    "url": "https://arxiv.org/abs/2610.37726",
+    "source": "arXiv ML",
+    "author": "Zeen Song",
+    "published_date": "Fri, 30 Oct 2026 00:00:00 -0400",
     "importance_score": 5.3,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.352837"
-  },
-  {
-    "id": "arXiv AI_63c0b793afbc8dda",
-    "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-    "summary": "arXiv:2610.36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estimated as the lower envelope of observed locomotion times.",
-    "content": "arXiv:2610.36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estimated as the lower envelope of observed locomotion times.",
-    "url": "https://arxiv.org/abs/2610.36183",
-    "source": "arXiv AI",
-    "author": "Marc Guti\\'errez-P\\'erez, Antonio Agudo",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 -0400",
-    "importance_score": 5.3,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:31.353130"
+    "created_at": "2026-10-30T11:51:27.138199"
   },
   {
     "id": "Reddit ML_c95b31af54d72fc5",
@@ -1140,7 +1246,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.899783"
+    "created_at": "2026-10-30T11:51:31.580319"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -1157,24 +1263,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-30T03:31:20.175526"
-  },
-  {
-    "id": "Wired AI_546b4df3422e98bd",
-    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-    "content": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-    "source": "Wired AI",
-    "author": "Adam Morgan",
-    "published_date": "Wed, 28 Oct 2026 10:15:00 +0000",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:20.175570"
+    "created_at": "2026-10-30T11:51:14.847143"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -1192,22 +1281,24 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:23.166920"
+    "created_at": "2026-10-30T11:51:17.947061"
   },
   {
-    "id": "Reddit ML_24354a76856459e7",
-    "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
-    "summary": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
-    "content": "I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
-    "source": "Reddit ML",
-    "author": "/u/subhashg547",
-    "published_date": "2026-10-29T08:51:23+00:00",
-    "importance_score": 5.1,
+    "id": "OpenAI News_f4a7a50201117021",
+    "title": "The future of the firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "content": "How AI might enter the org chart—beneath, beside, and between us.",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "importance_score": 5.0,
     "category": "tech",
-    "keywords": [],
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.900189"
+    "created_at": "2026-10-30T11:51:20.395910"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -1224,7 +1315,24 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:25.414164"
+    "created_at": "2026-10-30T11:51:20.396231"
+  },
+  {
+    "id": "Reddit ML_e85d9301fc3050df",
+    "title": "Leaving a job to pursue a PhD [D]",
+    "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
+    "content": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
+    "source": "Reddit ML",
+    "author": "/u/Ok-Hunter-7702",
+    "published_date": "2026-10-29T09:28:28+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:31.580509"
   },
   {
     "id": "Reddit ML_cc5d9c58966d76f4",
@@ -1241,7 +1349,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.900231"
+    "created_at": "2026-10-30T11:51:31.581120"
+  },
+  {
+    "id": "Wired AI_38cad5ea8e57bc87",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "source": "Wired AI",
+    "author": "Jake Bittle",
+    "published_date": "Wed, 28 Oct 2026 08:30:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:14.847288"
+  },
+  {
+    "id": "Wired AI_c40e2c3f7ad5bcc1",
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "content": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Wed, 28 Oct 2026 06:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:14.847370"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1258,7 +1400,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:22.368528"
+    "created_at": "2026-10-30T11:51:17.021534"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1275,7 +1417,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:22.368678"
+    "created_at": "2026-10-30T11:51:17.021777"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1292,7 +1434,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:21.150131"
+    "created_at": "2026-10-30T11:51:15.864373"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1309,7 +1451,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:21.150161"
+    "created_at": "2026-10-30T11:51:15.864454"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1326,7 +1468,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:28.318950"
+    "created_at": "2026-10-30T11:51:23.106326"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1343,7 +1485,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:28.318984"
+    "created_at": "2026-10-30T11:51:23.106385"
+  },
+  {
+    "id": "Wired AI_546b4df3422e98bd",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "content": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "source": "Wired AI",
+    "author": "Adam Morgan",
+    "published_date": "Wed, 28 Oct 2026 10:15:00 +0000",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T11:51:14.847221"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1360,7 +1519,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:21.150044"
+    "created_at": "2026-10-30T11:51:15.864227"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1377,7 +1536,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:37.282815"
+    "created_at": "2026-10-30T11:51:32.118550"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1394,7 +1553,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:37.282913"
+    "created_at": "2026-10-30T11:51:32.118706"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1409,7 +1568,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:36.899671"
+    "created_at": "2026-10-30T11:51:31.580042"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1426,6 +1585,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T03:31:37.282870"
+    "created_at": "2026-10-30T11:51:32.118634"
   }
 ]
