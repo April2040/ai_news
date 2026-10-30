@@ -1,5 +1,24 @@
 [
   {
+    "id": "The Verge AI_107e50696719e298",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T16:26:10-04:00",
+    "importance_score": 9.1,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:23.251657"
+  },
+  {
     "id": "OpenAI News_7401e4f87407f079",
     "title": "Community safety report and new protections for teens",
     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
@@ -17,60 +36,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445668"
+    "created_at": "2026-10-30T21:47:29.691582"
   },
   {
-    "id": "The Verge AI_f2985db385bd507d",
-    "title": "Anthropic is asking Wall Street to believe in AGI",
-    "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start []",
-    "content": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start []",
-    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "id": "The Verge AI_f9d4372f30b107b9",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+    "content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-10-29T10:00:00-04:00",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-30T16:48:43-04:00",
     "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.198022"
-  },
-  {
-    "id": "The Verge AI_23f2e3f8bd3cd49c",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-30T09:01:14-04:00",
-    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197712"
+    "created_at": "2026-10-30T21:47:23.251575"
   },
   {
-    "id": "The Verge AI_7b80c8f3ebbf71e8",
-    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
-    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "id": "Wired AI_ea6f703b6373d4ce",
+    "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+    "content": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "source": "Wired AI",
+    "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+    "published_date": "Fri, 30 Oct 2026 21:19:26 +0000",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:24.273929"
+  },
+  {
+    "id": "The Verge AI_691499b6a19a18b2",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
     "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-29T14:45:31-04:00",
-    "importance_score": 7.9,
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T14:21:38-04:00",
+    "importance_score": 8.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197881"
+    "sentiment": "positive",
+    "created_at": "2026-10-30T21:47:23.251736"
   },
   {
     "id": "OpenAI News_9262b0318d588c8f",
@@ -89,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445855"
+    "created_at": "2026-10-30T21:47:29.691869"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -107,24 +127,60 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-30T17:27:04.216229"
+    "created_at": "2026-10-30T21:47:27.260556"
   },
   {
-    "id": "TechCrunch AI_06dc1a4daa7b9328",
-    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-    "content": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 29 Oct 2026 23:42:22 +0000",
-    "importance_score": 7.3,
+    "id": "OpenAI News_3943e7bea61d9a3a",
+    "title": "Making it easier for websites to express AI training preferences",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "content": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:29.691506"
+  },
+  {
+    "id": "The Verge AI_23f2e3f8bd3cd49c",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-30T09:01:14-04:00",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:23.252044"
+  },
+  {
+    "id": "The Verge AI_7b80c8f3ebbf71e8",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-29T14:45:31-04:00",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220553"
+    "created_at": "2026-10-30T21:47:23.252296"
   },
   {
     "id": "TechCrunch AI_2c993e1532060e0e",
@@ -141,25 +197,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220289"
-  },
-  {
-    "id": "Wired AI_350ede127ed3dd7c",
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "source": "Wired AI",
-    "author": "Vittoria Elliott",
-    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255354"
+    "created_at": "2026-10-30T21:47:22.327629"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -177,7 +215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445730"
+    "created_at": "2026-10-30T21:47:29.691665"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -195,7 +233,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445768"
+    "created_at": "2026-10-30T21:47:29.691730"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -213,7 +251,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445804"
+    "created_at": "2026-10-30T21:47:29.691795"
   },
   {
     "id": "arXiv ML_84821123010396f1",
@@ -232,7 +270,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290534"
+    "created_at": "2026-10-30T21:47:36.458916"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -252,7 +290,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445890"
+    "created_at": "2026-10-30T21:47:29.691932"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -272,47 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445954"
-  },
-  {
-    "id": "OpenAI News_a8c558d7e070e477",
-    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "content": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 27 Oct 2026 07:00:00 GMT",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.446024"
-  },
-  {
-    "id": "Wired AI_db8f63318a30049f",
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "content": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Tue, 27 Oct 2026 15:10:26 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255761"
+    "created_at": "2026-10-30T21:47:29.692098"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -330,7 +328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:05.243368"
+    "created_at": "2026-10-30T21:47:28.308164"
   },
   {
     "id": "OpenAI News_3762019482ac7504",
@@ -349,7 +347,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445992"
+    "created_at": "2026-10-30T21:47:29.692173"
+  },
+  {
+    "id": "Wired AI_350ede127ed3dd7c",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "source": "Wired AI",
+    "author": "Vittoria Elliott",
+    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:24.274043"
   },
   {
     "id": "arXiv AI_68efdb6b5db3f53c",
@@ -366,7 +382,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428060"
+    "created_at": "2026-10-30T21:47:35.823734"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -384,75 +400,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:02.165363"
+    "created_at": "2026-10-30T21:47:25.263585"
   },
   {
-    "id": "TechCrunch AI_535955198226aebf",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "id": "TechCrunch AI_3749024efd98be4a",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "content": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 30 Oct 2026 21:26:59 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:22.327352"
+  },
+  {
+    "id": "TechCrunch AI_c7619f360068439b",
+    "title": "Cracks are emerging in the AI spending boom",
+    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "content": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Fri, 30 Oct 2026 21:17:40 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:22.327439"
+  },
+  {
+    "id": "TechCrunch AI_e2120d863555139c",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "source": "TechCrunch AI",
     "author": "Sarah Perez",
-    "published_date": "Thu, 29 Oct 2026 20:08:31 +0000",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220597"
-  },
-  {
-    "id": "TechCrunch AI_c763ad31c9b42f40",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "summary": "DoorDash said that it is open to working with third-party agent makers.",
-    "content": "DoorDash said that it is open to working with third-party agent makers.",
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Fri, 30 Oct 2026 13:54:25 +0000",
+    "published_date": "Fri, 30 Oct 2026 17:47:12 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220409"
-  },
-  {
-    "id": "TechCrunch AI_743c3be29bba083a",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-    "content": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "source": "TechCrunch AI",
-    "author": "Dominic-Madori Davis",
-    "published_date": "Fri, 30 Oct 2026 13:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220456"
-  },
-  {
-    "id": "The Verge AI_2eb72ca47d96a295",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T10:58:06-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197640"
+    "created_at": "2026-10-30T21:47:22.327530"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -470,7 +469,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-30T17:27:01.255718"
+    "created_at": "2026-10-30T21:47:24.274656"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -488,7 +487,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:04.216423"
+    "created_at": "2026-10-30T21:47:27.260899"
   },
   {
     "id": "arXiv ML_a76c148b3586bd49",
@@ -505,7 +504,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290408"
+    "created_at": "2026-10-30T21:47:36.458692"
   },
   {
     "id": "Reddit ML_29ccfcea6e67b839",
@@ -522,58 +521,24 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802469"
+    "created_at": "2026-10-30T21:47:40.910960"
   },
   {
-    "id": "TechCrunch AI_2bb7bec4e7f42ee9",
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
-    "content": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
-    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Fri, 30 Oct 2026 14:00:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220364"
-  },
-  {
-    "id": "The Verge AI_bb8717c6296bfae7",
-    "title": "Microsoft’s AI future has fewer jobs",
-    "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
-    "content": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce.",
-    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "id": "The Verge AI_6744285a36f91344",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
     "source": "The Verge AI",
-    "author": "Tom Warren",
-    "published_date": "2026-10-29T12:00:00-04:00",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T13:38:04-04:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197929"
-  },
-  {
-    "id": "MIT Technology Review_520482b09640602d",
-    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
-    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 30 Oct 2026 11:30:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-30T17:27:04.216088"
+    "created_at": "2026-10-30T21:47:23.251833"
   },
   {
     "id": "The Verge AI_253f3854dbd57d3a",
@@ -591,24 +556,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197815"
-  },
-  {
-    "id": "Reddit ML_07f85fcf5d6a46f8",
-    "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
-    "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
-    "content": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
-    "source": "Reddit ML",
-    "author": "/u/Code_MasterCody",
-    "published_date": "2026-10-29T17:53:52+00:00",
-    "importance_score": 6.1,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.803018"
+    "created_at": "2026-10-30T21:47:23.252222"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -625,41 +573,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255461"
+    "created_at": "2026-10-30T21:47:24.274207"
   },
   {
-    "id": "Lobsters AI_9517fdff8dd77f03",
-    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
-    "source": "Lobsters AI",
-    "author": "delta.dev via tomhoule",
-    "published_date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "id": "Reddit ML_7b9471e9a4ba2da6",
+    "title": "Multi-Token Prediction Done Right [R]",
+    "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "content": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+    "source": "Reddit ML",
+    "author": "/u/jayden_teoh_",
+    "published_date": "2026-10-30T18:53:20+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:18.495772"
+    "created_at": "2026-10-30T21:47:40.910319"
   },
   {
-    "id": "TechCrunch AI_078716dc29a8ed4b",
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "id": "TechCrunch AI_c763ad31c9b42f40",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "summary": "DoorDash said that it is open to working with third-party agent makers.",
+    "content": "DoorDash said that it is open to working with third-party agent makers.",
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
     "source": "TechCrunch AI",
-    "author": "Kirsten Korosec",
-    "published_date": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "author": "Ivan Mehta",
+    "published_date": "Fri, 30 Oct 2026 13:54:25 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220650"
+    "created_at": "2026-10-30T21:47:22.327796"
+  },
+  {
+    "id": "TechCrunch AI_743c3be29bba083a",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "content": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source": "TechCrunch AI",
+    "author": "Dominic-Madori Davis",
+    "published_date": "Fri, 30 Oct 2026 13:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:22.327874"
+  },
+  {
+    "id": "The Verge AI_2eb72ca47d96a295",
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T10:58:06-04:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:23.251926"
   },
   {
     "id": "The Verge AI_9da4a654864f5604",
@@ -676,7 +658,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197764"
+    "created_at": "2026-10-30T21:47:23.252134"
   },
   {
     "id": "arXiv ML_a55e7c83e79e6cf9",
@@ -694,7 +676,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290681"
+    "created_at": "2026-10-30T21:47:36.459204"
   },
   {
     "id": "Reddit ML_12df1901133d6548",
@@ -709,7 +691,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802386"
+    "created_at": "2026-10-30T21:47:40.910666"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -726,7 +708,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:02.165265"
+    "created_at": "2026-10-30T21:47:25.263403"
+  },
+  {
+    "id": "Reddit ML_f929f19ea6c7d108",
+    "title": "Advice on dealing with Cold Start forecasting [D]",
+    "summary": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
+    "content": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+    "source": "Reddit ML",
+    "author": "/u/Nice-Job67",
+    "published_date": "2026-10-30T17:56:26+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:40.910411"
+  },
+  {
+    "id": "TechCrunch AI_2bb7bec4e7f42ee9",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
+    "content": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch AI",
+    "author": "TechCrunch Events",
+    "published_date": "Fri, 30 Oct 2026 14:00:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:22.327722"
   },
   {
     "id": "TechCrunch AI_1f82b28aa0857406",
@@ -743,7 +757,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:26:59.220502"
+    "created_at": "2026-10-30T21:47:22.327971"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -760,7 +774,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:03.365111"
+    "created_at": "2026-10-30T21:47:26.390920"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -777,7 +791,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:03.365151"
+    "created_at": "2026-10-30T21:47:26.391009"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -794,7 +808,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:03.365223"
+    "created_at": "2026-10-30T21:47:26.391154"
+  },
+  {
+    "id": "MIT Technology Review_520482b09640602d",
+    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
+    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 30 Oct 2026 11:30:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-30T21:47:27.260336"
   },
   {
     "id": "arXiv AI_c87605a27c387cc5",
@@ -812,7 +843,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-30T17:27:12.427996"
+    "created_at": "2026-10-30T21:47:35.823623"
   },
   {
     "id": "arXiv AI_5ca60893d72a9255",
@@ -829,7 +860,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428201"
+    "created_at": "2026-10-30T21:47:35.823982"
   },
   {
     "id": "arXiv AI_caf7d8185aac521f",
@@ -846,7 +877,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428324"
+    "created_at": "2026-10-30T21:47:35.824230"
   },
   {
     "id": "arXiv ML_92e72a592c240da1",
@@ -863,7 +894,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290140"
+    "created_at": "2026-10-30T21:47:36.458226"
   },
   {
     "id": "arXiv ML_a18dd51b49b61d0d",
@@ -881,7 +912,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290279"
+    "created_at": "2026-10-30T21:47:36.458477"
   },
   {
     "id": "arXiv ML_36e15e8e6b7c3035",
@@ -899,7 +930,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290346"
+    "created_at": "2026-10-30T21:47:36.458587"
   },
   {
     "id": "arXiv ML_0e0f5423378d05ed",
@@ -916,7 +947,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290607"
+    "created_at": "2026-10-30T21:47:36.459067"
   },
   {
     "id": "arXiv AI_dbd098fb613a0e4e",
@@ -933,7 +964,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.427744"
+    "created_at": "2026-10-30T21:47:35.823239"
   },
   {
     "id": "arXiv AI_7c7a949a72801a56",
@@ -950,7 +981,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.427826"
+    "created_at": "2026-10-30T21:47:35.823368"
   },
   {
     "id": "arXiv AI_6873a69fa5ec8659",
@@ -965,7 +996,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.427927"
+    "created_at": "2026-10-30T21:47:35.823506"
   },
   {
     "id": "arXiv AI_9466a766bcf21a8c",
@@ -982,7 +1013,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428129"
+    "created_at": "2026-10-30T21:47:35.823852"
   },
   {
     "id": "arXiv AI_6de597c606adc28d",
@@ -999,7 +1030,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428265"
+    "created_at": "2026-10-30T21:47:35.824127"
   },
   {
     "id": "arXiv AI_df158a817cd430dc",
@@ -1014,7 +1045,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:12.428397"
+    "created_at": "2026-10-30T21:47:35.824356"
   },
   {
     "id": "arXiv ML_0d2b9a5ae12f9570",
@@ -1031,7 +1062,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290046"
+    "created_at": "2026-10-30T21:47:36.458067"
   },
   {
     "id": "arXiv ML_258529a1180442c1",
@@ -1046,42 +1077,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290467"
-  },
-  {
-    "id": "Reddit ML_1a037e9c06f6d31a",
-    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
-    "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
-    "content": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
-    "source": "Reddit ML",
-    "author": "/u/Rodriguez909",
-    "published_date": "2026-10-29T20:46:25+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802557"
-  },
-  {
-    "id": "The Verge AI_79fe8b23a7a6f9b2",
-    "title": "The NYT Cooking app is testing AI recipe modifications",
-    "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
-    "content": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-10-29T10:39:37-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:00.197971"
+    "created_at": "2026-10-30T21:47:36.458799"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -1098,7 +1094,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255412"
+    "created_at": "2026-10-30T21:47:24.274128"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -1115,7 +1111,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255505"
+    "created_at": "2026-10-30T21:47:24.274281"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -1132,24 +1128,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:04.216172"
-  },
-  {
-    "id": "MIT Technology Review_7fbb76851893e19d",
-    "title": "Creating AI value with enterprise context",
-    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
-    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review Insights",
-    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:04.216290"
+    "created_at": "2026-10-30T21:47:27.260458"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1166,7 +1145,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:09.320115"
+    "created_at": "2026-10-30T21:47:32.438803"
   },
   {
     "id": "arXiv ML_ea6222c7c28422fd",
@@ -1181,7 +1160,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:13.290211"
+    "created_at": "2026-10-30T21:47:36.458366"
   },
   {
     "id": "Reddit ML_31ca59b8df21b91b",
@@ -1198,24 +1177,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802036"
-  },
-  {
-    "id": "Wired AI_5798fa71517fbdc5",
-    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-10-30T17:27:01.255554"
+    "created_at": "2026-10-30T21:47:40.910190"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -1232,7 +1194,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:06.445921"
+    "created_at": "2026-10-30T21:47:29.692012"
   },
   {
     "id": "Reddit ML_e85d9301fc3050df",
@@ -1249,24 +1211,25 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802277"
+    "created_at": "2026-10-30T21:47:40.910829"
   },
   {
-    "id": "Reddit ML_cc5d9c58966d76f4",
-    "title": "any fun casual podcasts? [D]",
-    "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
-    "content": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+    "id": "Reddit ML_1a037e9c06f6d31a",
+    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+    "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "content": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
-    "author": "/u/Upstairs-Cry-9233",
-    "published_date": "2026-10-29T01:55:38+00:00",
+    "author": "/u/Rodriguez909",
+    "published_date": "2026-10-29T20:46:25+00:00",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.803075"
+    "created_at": "2026-10-30T21:47:40.911091"
   },
   {
     "id": "Wired AI_38cad5ea8e57bc87",
@@ -1283,7 +1246,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255635"
+    "created_at": "2026-10-30T21:47:24.274500"
   },
   {
     "id": "Wired AI_c40e2c3f7ad5bcc1",
@@ -1300,7 +1263,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255673"
+    "created_at": "2026-10-30T21:47:24.274576"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1317,7 +1280,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:03.365048"
+    "created_at": "2026-10-30T21:47:26.390821"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1334,7 +1297,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:03.365183"
+    "created_at": "2026-10-30T21:47:26.391078"
+  },
+  {
+    "id": "MIT Technology Review_7fbb76851893e19d",
+    "title": "Creating AI value with enterprise context",
+    "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond.",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Wed, 28 Oct 2026 20:32:02 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T21:47:27.260660"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1351,7 +1331,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:04.216344"
+    "created_at": "2026-10-30T21:47:27.260753"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1368,7 +1348,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:04.216371"
+    "created_at": "2026-10-30T21:47:27.260807"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1385,7 +1365,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:02.165305"
+    "created_at": "2026-10-30T21:47:25.263472"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1402,7 +1382,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:02.165333"
+    "created_at": "2026-10-30T21:47:25.263527"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1419,7 +1399,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:09.320174"
+    "created_at": "2026-10-30T21:47:32.438889"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1436,7 +1416,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:09.320205"
+    "created_at": "2026-10-30T21:47:32.438948"
   },
   {
     "id": "Reddit ML_c95b31af54d72fc5",
@@ -1451,7 +1431,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.802140"
+    "created_at": "2026-10-30T21:47:40.910547"
+  },
+  {
+    "id": "Wired AI_5798fa71517fbdc5",
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "content": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 28 Oct 2026 18:30:00 +0000",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-10-30T21:47:24.274361"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1468,7 +1465,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:01.255598"
+    "created_at": "2026-10-30T21:47:24.274436"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1485,7 +1482,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:02.165220"
+    "created_at": "2026-10-30T21:47:25.263328"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1502,7 +1499,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:18.495815"
+    "created_at": "2026-10-30T21:47:41.396919"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1519,7 +1516,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:18.495909"
+    "created_at": "2026-10-30T21:47:41.397100"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1534,7 +1531,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:17.801937"
+    "created_at": "2026-10-30T21:47:40.910059"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1551,6 +1548,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-30T17:27:18.495872"
+    "created_at": "2026-10-30T21:47:41.397023"
   }
 ]
