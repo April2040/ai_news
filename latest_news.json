@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.697229"
+    "created_at": "2026-10-30T03:31:19.206820"
   },
   {
     "id": "The Verge AI_f2985db385bd507d",
@@ -33,24 +33,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.696873"
-  },
-  {
-    "id": "The Verge AI_7b80c8f3ebbf71e8",
-    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
-    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-29T14:45:31-04:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.696565"
+    "created_at": "2026-10-30T03:31:19.206601"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -68,25 +51,41 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-29T22:21:19.772007"
+    "created_at": "2026-10-30T03:31:23.166649"
   },
   {
-    "id": "OpenAI News_44239d6ace0040bd",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "url": "https://openai.com/index/updated-model-spec",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 17:00:00 GMT",
-    "importance_score": 8.200000000000001,
+    "id": "The Verge AI_7b80c8f3ebbf71e8",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "content": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-29T14:45:31-04:00",
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.099814"
+    "created_at": "2026-10-30T03:31:19.206432"
+  },
+  {
+    "id": "TechCrunch AI_e1c2d2794f397b04",
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "content": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 29 Oct 2026 23:42:22 +0000",
+    "importance_score": 7.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.214755"
   },
   {
     "id": "TechCrunch AI_426f7b2af12891e5",
@@ -97,66 +96,31 @@
     "source": "TechCrunch AI",
     "author": "Aisha Malik",
     "published_date": "Thu, 29 Oct 2026 19:14:36 +0000",
-    "importance_score": 8.2,
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.629899"
+    "created_at": "2026-10-30T03:31:18.214942"
   },
   {
-    "id": "TechCrunch AI_0687ef12932904ba",
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "content": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Thu, 29 Oct 2026 19:56:19 +0000",
-    "importance_score": 8.100000000000001,
+    "id": "OpenAI News_44239d6ace0040bd",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 17:00:00 GMT",
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.629781"
-  },
-  {
-    "id": "TechCrunch AI_7c6350961628e27a",
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 29 Oct 2026 17:00:00 +0000",
-    "importance_score": 8.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.630048"
-  },
-  {
-    "id": "Wired AI_350ede127ed3dd7c",
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "source": "Wired AI",
-    "author": "Vittoria Elliott",
-    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631101"
+    "created_at": "2026-10-30T03:31:25.413823"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -174,7 +138,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.099918"
+    "created_at": "2026-10-30T03:31:25.413875"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -192,7 +156,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.099990"
+    "created_at": "2026-10-30T03:31:25.413915"
+  },
+  {
+    "id": "TechCrunch AI_0687ef12932904ba",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "content": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.214887"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -212,7 +194,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100057"
+    "created_at": "2026-10-30T03:31:25.413951"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -232,25 +214,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100188"
+    "created_at": "2026-10-30T03:31:25.414022"
   },
   {
-    "id": "TechCrunch AI_84037c9a880436a3",
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-    "content": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "id": "TechCrunch AI_7c6350961628e27a",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "content": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Thu, 29 Oct 2026 16:42:32 +0000",
-    "importance_score": 7.4,
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 29 Oct 2026 17:00:00 +0000",
+    "importance_score": 7.5,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.630136"
+    "created_at": "2026-10-30T03:31:18.215040"
   },
   {
     "id": "TechCrunch AI_cc0b1e154365c749",
@@ -268,24 +249,25 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.630247"
+    "created_at": "2026-10-30T03:31:18.215131"
   },
   {
-    "id": "TechCrunch AI_4c85b21afdbed404",
-    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "content": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 29 Oct 2026 14:35:26 +0000",
+    "id": "Wired AI_350ede127ed3dd7c",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "source": "Wired AI",
+    "author": "Vittoria Elliott",
+    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.630316"
+    "created_at": "2026-10-30T03:31:20.175327"
   },
   {
     "id": "OpenAI News_a8c558d7e070e477",
@@ -305,24 +287,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100331"
-  },
-  {
-    "id": "TechCrunch AI_535955198226aebf",
-    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 29 Oct 2026 20:08:31 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.629620"
+    "created_at": "2026-10-30T03:31:25.414095"
   },
   {
     "id": "Wired AI_db8f63318a30049f",
@@ -342,7 +307,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631815"
+    "created_at": "2026-10-30T03:31:20.175751"
+  },
+  {
+    "id": "TechCrunch AI_84037c9a880436a3",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "content": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 29 Oct 2026 16:42:32 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.215082"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -360,7 +343,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:20.724066"
+    "created_at": "2026-10-30T03:31:24.210793"
   },
   {
     "id": "OpenAI News_3762019482ac7504",
@@ -379,7 +362,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100260"
+    "created_at": "2026-10-30T03:31:25.414062"
   },
   {
     "id": "The Verge AI_bb8717c6296bfae7",
@@ -396,7 +379,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.696663"
+    "created_at": "2026-10-30T03:31:19.206498"
   },
   {
     "id": "OpenAI News_cc5f9f3c3915dc2c",
@@ -414,24 +397,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100395"
-  },
-  {
-    "id": "Reddit ML_07f85fcf5d6a46f8",
-    "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
-    "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
-    "content": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
-    "source": "Reddit ML",
-    "author": "/u/Code_MasterCody",
-    "published_date": "2026-10-29T17:53:52+00:00",
-    "importance_score": 6.6,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430223"
+    "created_at": "2026-10-30T03:31:25.414130"
   },
   {
     "id": "Ars Technica_1153331823b13c84",
@@ -449,7 +415,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:17.718954"
+    "created_at": "2026-10-30T03:31:21.150202"
+  },
+  {
+    "id": "TechCrunch AI_535955198226aebf",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "content": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 29 Oct 2026 20:08:31 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.214811"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -466,41 +449,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631273"
-  },
-  {
-    "id": "TechCrunch AI_078716dc29a8ed4b",
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "source": "TechCrunch AI",
-    "author": "Kirsten Korosec",
-    "published_date": "Thu, 29 Oct 2026 20:05:47 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.629705"
-  },
-  {
-    "id": "TechCrunch AI_3dfa37e12db35452",
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-    "content": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Thu, 29 Oct 2026 17:54:38 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.629977"
+    "created_at": "2026-10-30T03:31:20.175432"
   },
   {
     "id": "Wired AI_7045581ab8ff6c4f",
@@ -518,7 +467,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-29T22:21:16.631738"
+    "created_at": "2026-10-30T03:31:20.175707"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -536,7 +485,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772361"
+    "created_at": "2026-10-30T03:31:23.166860"
   },
   {
     "id": "MIT Technology Review_de76e95e872b4c55",
@@ -554,7 +503,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772541"
+    "created_at": "2026-10-30T03:31:23.166966"
+  },
+  {
+    "id": "Reddit ML_12df1901133d6548",
+    "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
+    "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
+    "content": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
+    "source": "Reddit ML",
+    "author": "/u/Working_Hat5120",
+    "published_date": "2026-10-29T22:51:57+00:00",
+    "importance_score": 6.3999999999999995,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:36.899969"
+  },
+  {
+    "id": "TechCrunch AI_1f82b28aa0857406",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "content": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 30 Oct 2026 01:20:48 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.214689"
   },
   {
     "id": "The Verge AI_696e155e30cd8461",
@@ -571,59 +552,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.697300"
+    "created_at": "2026-10-30T03:31:19.206861"
   },
   {
-    "id": "Reddit ML_1a037e9c06f6d31a",
-    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
-    "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
-    "content": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+    "id": "Reddit ML_07f85fcf5d6a46f8",
+    "title": "TKintegers K5: 3.21× prefill and 3.10× decode throughput vs TorchAO FP8 on NVIDIA L4 [R] [P]",
+    "summary": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
+    "content": "I built TKintegers, a balanced-ternary weight representation, converter, and GPU inference implementation. The result that stood out to me: the NVIDIA L4 has native FP8 tensor-core support, but my K5 implementation achieved higher throughput than the TorchAO FP8 baseline—even though the GPU has no...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/",
     "source": "Reddit ML",
-    "author": "/u/Rodriguez909",
-    "published_date": "2026-10-29T20:46:25+00:00",
-    "importance_score": 6.0,
+    "author": "/u/Code_MasterCody",
+    "published_date": "2026-10-29T17:53:52+00:00",
+    "importance_score": 6.1,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430331"
+    "created_at": "2026-10-30T03:31:36.900078"
   },
   {
-    "id": "Reddit ML_4b916eb7d4083dbe",
-    "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
-    "summary": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
-    "content": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
-    "source": "Reddit ML",
-    "author": "/u/Straight-Coach-7105",
-    "published_date": "2026-10-29T20:04:55+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430592"
-  },
-  {
-    "id": "TechCrunch AI_e8fb5d8b96cd4425",
-    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "content": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "id": "TechCrunch AI_078716dc29a8ed4b",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "content": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
     "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "author": "Kirsten Korosec",
+    "published_date": "Thu, 29 Oct 2026 20:05:47 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:14.630379"
+    "created_at": "2026-10-30T03:31:18.214850"
+  },
+  {
+    "id": "TechCrunch AI_3dfa37e12db35452",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "content": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 29 Oct 2026 17:54:38 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:18.214982"
   },
   {
     "id": "The Verge AI_79fe8b23a7a6f9b2",
@@ -640,7 +620,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.696758"
+    "created_at": "2026-10-30T03:31:19.206546"
   },
   {
     "id": "The Verge AI_6d0cbb2c23d99cc5",
@@ -657,24 +637,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.696972"
-  },
-  {
-    "id": "The Verge AI_566857867e001c67",
-    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
-    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
-    "content": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-28T19:05:39-04:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.697059"
+    "created_at": "2026-10-30T03:31:19.206668"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -691,7 +654,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631192"
+    "created_at": "2026-10-30T03:31:20.175385"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -708,7 +671,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631349"
+    "created_at": "2026-10-30T03:31:20.175476"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -725,7 +688,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.771898"
+    "created_at": "2026-10-30T03:31:23.166572"
   },
   {
     "id": "arXiv AI_e1c77a0d86244c36",
@@ -743,7 +706,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.923014"
+    "created_at": "2026-10-30T03:31:31.353199"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -760,24 +723,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:17.718740"
-  },
-  {
-    "id": "Hugging Face Blog_ca4d59fe90372dd2",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/announcing-project-protostar",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 GMT",
-    "importance_score": 5.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:24.894117"
+    "created_at": "2026-10-30T03:31:21.150091"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -794,7 +740,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:18.771346"
+    "created_at": "2026-10-30T03:31:22.368595"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -811,7 +757,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:18.771417"
+    "created_at": "2026-10-30T03:31:22.368645"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -828,7 +774,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:18.771557"
+    "created_at": "2026-10-30T03:31:22.368722"
   },
   {
     "id": "arXiv AI_e8e77022fe6022d2",
@@ -845,7 +791,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-29T22:21:27.921997"
+    "created_at": "2026-10-30T03:31:31.352583"
   },
   {
     "id": "arXiv AI_946a0d329ba0f298",
@@ -863,24 +809,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922129"
-  },
-  {
-    "id": "Reddit ML_d6e1a70013a45e58",
-    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-    "summary": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
-    "content": "Model  weights: BrunoHays/embeddinggemma-2-nullspace-audio I wanted to share an experiment on google/embeddinggemma-2 (577M) for MAEB, the 30-task audio benchmark on the MTEB leaderboard.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-    "source": "Reddit ML",
-    "author": "/u/JeanMichelRanu",
-    "published_date": "2026-10-28T13:34:01+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430865"
+    "created_at": "2026-10-30T03:31:31.352690"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -897,7 +826,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100122"
+    "created_at": "2026-10-30T03:31:25.413986"
   },
   {
     "id": "arXiv AI_0d3362189ee8a52f",
@@ -912,7 +841,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922256"
+    "created_at": "2026-10-30T03:31:31.352769"
   },
   {
     "id": "arXiv AI_da25d548b2e6b21b",
@@ -929,7 +858,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922493"
+    "created_at": "2026-10-30T03:31:31.352914"
   },
   {
     "id": "arXiv AI_959b6e9f6c73d97f",
@@ -946,7 +875,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922612"
+    "created_at": "2026-10-30T03:31:31.352987"
   },
   {
     "id": "arXiv AI_d882fdaaefbbcf38",
@@ -961,7 +890,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922746"
+    "created_at": "2026-10-30T03:31:31.353067"
   },
   {
     "id": "arXiv AI_287470da508ea63e",
@@ -978,7 +907,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.923140"
+    "created_at": "2026-10-30T03:31:31.353274"
   },
   {
     "id": "Reddit ML_e85d9301fc3050df",
@@ -995,24 +924,59 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430041"
+    "created_at": "2026-10-30T03:31:36.899894"
   },
   {
-    "id": "Reddit ML_cc5d9c58966d76f4",
-    "title": "any fun casual podcasts? [D]",
-    "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
-    "content": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+    "id": "Reddit ML_1a037e9c06f6d31a",
+    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+    "summary": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "content": "w(2;3,21) = 416 - today proved with a Lean 4 kernel- checked proof (preprint + 13.6 GB evidence package). Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
-    "author": "/u/Upstairs-Cry-9233",
-    "published_date": "2026-10-29T01:55:38+00:00",
+    "author": "/u/Rodriguez909",
+    "published_date": "2026-10-29T20:46:25+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:36.900143"
+  },
+  {
+    "id": "Reddit ML_4b916eb7d4083dbe",
+    "title": "Anyone attending NeurIPS 2026 in Paris willing to present a poster? [D]",
+    "summary": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
+    "content": "Hi everyone! We have a paper accepted at the NeurIPS 2026 E-Values Workshop, but unfortunately can’t attend due to financial constraints. Would anyone already attending be kind enough to present our poster on our behalf? We’d prepare everything and would also be happy to offer a small monetary...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xium4n/anyone_attending_neurips_2026_in_paris_willing_to/",
+    "source": "Reddit ML",
+    "author": "/u/Straight-Coach-7105",
+    "published_date": "2026-10-29T20:04:55+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430481"
+    "created_at": "2026-10-30T03:31:36.900298"
+  },
+  {
+    "id": "The Verge AI_566857867e001c67",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "summary": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+    "content": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-28T19:05:39-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:19.206720"
   },
   {
     "id": "The Verge AI_aa24c3a15a3f768e",
@@ -1029,7 +993,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:15.697130"
+    "created_at": "2026-10-30T03:31:19.206763"
   },
   {
     "id": "Wired AI_38cad5ea8e57bc87",
@@ -1046,7 +1010,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631581"
+    "created_at": "2026-10-30T03:31:20.175608"
   },
   {
     "id": "Wired AI_c40e2c3f7ad5bcc1",
@@ -1063,7 +1027,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631650"
+    "created_at": "2026-10-30T03:31:20.175657"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -1080,7 +1044,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772117"
+    "created_at": "2026-10-30T03:31:23.166717"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1097,7 +1061,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772215"
+    "created_at": "2026-10-30T03:31:23.166775"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1114,7 +1078,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772268"
+    "created_at": "2026-10-30T03:31:23.166804"
+  },
+  {
+    "id": "Hugging Face Blog_ca4d59fe90372dd2",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "importance_score": 5.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:28.318888"
   },
   {
     "id": "arXiv AI_da1288f4a4e27465",
@@ -1129,7 +1110,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922367"
+    "created_at": "2026-10-30T03:31:31.352837"
   },
   {
     "id": "arXiv AI_63c0b793afbc8dda",
@@ -1144,7 +1125,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:27.922885"
+    "created_at": "2026-10-30T03:31:31.353130"
   },
   {
     "id": "Reddit ML_c95b31af54d72fc5",
@@ -1159,7 +1140,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.429869"
+    "created_at": "2026-10-30T03:31:36.899783"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -1176,7 +1157,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-29T22:21:16.631434"
+    "created_at": "2026-10-30T03:31:20.175526"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1193,7 +1174,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:16.631513"
+    "created_at": "2026-10-30T03:31:20.175570"
   },
   {
     "id": "MIT Technology Review_a3bad5f4bffec687",
@@ -1211,7 +1192,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:19.772463"
+    "created_at": "2026-10-30T03:31:23.166920"
   },
   {
     "id": "Reddit ML_24354a76856459e7",
@@ -1226,7 +1207,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.430412"
+    "created_at": "2026-10-30T03:31:36.900189"
   },
   {
     "id": "OpenAI News_c759af5f325d25b1",
@@ -1243,7 +1224,24 @@
       "GPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:22.100456"
+    "created_at": "2026-10-30T03:31:25.414164"
+  },
+  {
+    "id": "Reddit ML_cc5d9c58966d76f4",
+    "title": "any fun casual podcasts? [D]",
+    "summary": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
+    "content": "Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts  submitted by  /u/Upstairs-Cry-9233 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+    "source": "Reddit ML",
+    "author": "/u/Upstairs-Cry-9233",
+    "published_date": "2026-10-29T01:55:38+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-30T03:31:36.900231"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1260,7 +1258,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:18.771245"
+    "created_at": "2026-10-30T03:31:22.368528"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1277,7 +1275,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:18.771480"
+    "created_at": "2026-10-30T03:31:22.368678"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1294,7 +1292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:17.718811"
+    "created_at": "2026-10-30T03:31:21.150131"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1311,7 +1309,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:17.718891"
+    "created_at": "2026-10-30T03:31:21.150161"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1328,7 +1326,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:24.894215"
+    "created_at": "2026-10-30T03:31:28.318950"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1345,7 +1343,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:24.894275"
+    "created_at": "2026-10-30T03:31:28.318984"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1362,7 +1360,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:17.718664"
+    "created_at": "2026-10-30T03:31:21.150044"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1379,7 +1377,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:34.349559"
+    "created_at": "2026-10-30T03:31:37.282815"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1396,7 +1394,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:34.349726"
+    "created_at": "2026-10-30T03:31:37.282913"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1411,7 +1409,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:33.429685"
+    "created_at": "2026-10-30T03:31:36.899671"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1428,6 +1426,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-29T22:21:34.349651"
+    "created_at": "2026-10-30T03:31:37.282870"
   }
 ]
