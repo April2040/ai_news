@@ -1,5 +1,23 @@
 [
   {
+    "id": "TechCrunch AI_e4dfc862e609d94f",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "content": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 31 Oct 2026 16:12:55 +0000",
+    "importance_score": 9.1,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:15.941314"
+  },
+  {
     "id": "The Verge AI_107e50696719e298",
     "title": "The biggest names in AI are backing a new way to opt out of scraping",
     "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
@@ -16,7 +34,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.495863"
+    "created_at": "2026-10-31T16:30:16.890883"
   },
   {
     "id": "OpenAI News_7401e4f87407f079",
@@ -36,7 +54,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713507"
+    "created_at": "2026-10-31T16:30:23.336822"
   },
   {
     "id": "TechCrunch AI_984d324086790f51",
@@ -54,7 +72,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534041"
+    "created_at": "2026-10-31T16:30:15.941688"
   },
   {
     "id": "The Verge AI_f9d4372f30b107b9",
@@ -72,7 +90,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.495819"
+    "created_at": "2026-10-31T16:30:16.890807"
   },
   {
     "id": "The Verge AI_691499b6a19a18b2",
@@ -89,25 +107,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T11:24:43.495907"
-  },
-  {
-    "id": "The Verge AI_23f2e3f8bd3cd49c",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-30T09:01:14-04:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.496070"
+    "created_at": "2026-10-31T16:30:16.890960"
   },
   {
     "id": "OpenAI News_9262b0318d588c8f",
@@ -126,7 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713689"
+    "created_at": "2026-10-31T16:30:23.337177"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -144,24 +144,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T11:24:47.484586"
+    "created_at": "2026-10-31T16:30:20.930278"
   },
   {
-    "id": "Wired AI_ae6969d4d11563ac",
-    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-    "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-    "content": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Sat, 31 Oct 2026 10:30:00 +0000",
+    "id": "The Verge AI_e85747b1bef0156c",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "content": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "source": "The Verge AI",
+    "author": "Sean Hollister",
+    "published_date": "2026-10-31T12:05:00-04:00",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501444"
+    "created_at": "2026-10-31T16:30:16.890601"
   },
   {
     "id": "OpenAI News_3943e7bea61d9a3a",
@@ -179,7 +179,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713464"
+    "created_at": "2026-10-31T16:30:23.336738"
   },
   {
     "id": "OpenAI News_62f3b82c81f255a4",
@@ -197,7 +197,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T11:24:49.713542"
+    "created_at": "2026-10-31T16:30:23.336891"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -215,7 +215,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713585"
+    "created_at": "2026-10-31T16:30:23.336974"
+  },
+  {
+    "id": "Reddit ML_24f3443413690926",
+    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+    "summary": " submitted by  /u/rottoneuro [link]  [comments]",
+    "content": " submitted by  /u/rottoneuro [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+    "source": "Reddit ML",
+    "author": "/u/rottoneuro",
+    "published_date": "2026-10-31T15:21:39+00:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "deep learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:34.657774"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -235,7 +253,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713732"
+    "created_at": "2026-10-31T16:30:23.337242"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -255,7 +273,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713792"
+    "created_at": "2026-10-31T16:30:23.337367"
   },
   {
     "id": "TechCrunch AI_629f5391c8289b31",
@@ -273,7 +291,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.533885"
+    "created_at": "2026-10-31T16:30:15.941427"
+  },
+  {
+    "id": "The Verge AI_23f2e3f8bd3cd49c",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-30T09:01:14-04:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:16.891245"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -291,24 +327,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:48.615147"
+    "created_at": "2026-10-31T16:30:22.010130"
   },
   {
-    "id": "TechCrunch AI_2c993e1532060e0e",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "content": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 30 Oct 2026 16:03:45 +0000",
-    "importance_score": 6.7,
+    "id": "Reddit ML_92024dae541dfc96",
+    "title": "I built a scikit-learn for RSI [D]",
+    "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
+    "content": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeh0v/i_built_a_scikitlearn_for_rsi_d/",
+    "source": "Reddit ML",
+    "author": "/u/Pale-Training-6944",
+    "published_date": "2026-10-31T16:23:09+00:00",
+    "importance_score": 6.8,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534228"
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-10-31T16:30:34.657946"
   },
   {
     "id": "The Verge AI_abf2dc55971c04aa",
@@ -325,7 +359,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.495759"
+    "created_at": "2026-10-31T16:30:16.890687"
+  },
+  {
+    "id": "Wired AI_ae6969d4d11563ac",
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "content": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Sat, 31 Oct 2026 10:30:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:17.880799"
   },
   {
     "id": "Wired AI_350ede127ed3dd7c",
@@ -343,7 +394,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501544"
+    "created_at": "2026-10-31T16:30:17.880972"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -361,7 +412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713617"
+    "created_at": "2026-10-31T16:30:23.337037"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -379,7 +430,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713649"
+    "created_at": "2026-10-31T16:30:23.337102"
   },
   {
     "id": "arXiv AI_68efdb6b5db3f53c",
@@ -396,7 +447,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747453"
+    "created_at": "2026-10-31T16:30:29.273809"
   },
   {
     "id": "TechCrunch AI_7199a576c2a71031",
@@ -413,24 +464,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.533987"
+    "created_at": "2026-10-31T16:30:15.941592"
   },
   {
-    "id": "Wired AI_59b5de442eae2551",
-    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-    "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-    "content": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "id": "Wired AI_519e83dbfb65765e",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "content": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
     "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Sat, 31 Oct 2026 10:00:00 +0000",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 31 Oct 2026 12:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "positive",
-    "created_at": "2026-10-31T11:24:44.501489"
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:17.880688"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -448,24 +499,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:47.484782"
+    "created_at": "2026-10-31T16:30:20.930628"
   },
   {
-    "id": "Wired AI_035908bdd0c66de3",
-    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-    "content": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "id": "TechCrunch AI_2c993e1532060e0e",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "content": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 30 Oct 2026 16:03:45 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:15.942058"
+  },
+  {
+    "id": "Lobsters AI_33716d6414646c92",
+    "title": "Let’s Build a Brain",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "source": "Lobsters AI",
+    "author": "aatishb.com via signal-11",
+    "published_date": "Sat, 31 Oct 2026 10:09:27 -0500",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501626"
+    "created_at": "2026-10-31T16:30:35.358549"
   },
   {
     "id": "TechCrunch AI_7560f75e37e28062",
@@ -482,7 +550,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.533939"
+    "created_at": "2026-10-31T16:30:15.941511"
   },
   {
     "id": "TechCrunch AI_3749024efd98be4a",
@@ -499,7 +567,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534076"
+    "created_at": "2026-10-31T16:30:15.941781"
   },
   {
     "id": "TechCrunch AI_c7619f360068439b",
@@ -516,7 +584,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534113"
+    "created_at": "2026-10-31T16:30:15.941856"
   },
   {
     "id": "TechCrunch AI_e2120d863555139c",
@@ -533,24 +601,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534156"
+    "created_at": "2026-10-31T16:30:15.941960"
   },
   {
-    "id": "The Verge AI_2eb72ca47d96a295",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T10:58:06-04:00",
+    "id": "Wired AI_59b5de442eae2551",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "content": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Sat, 31 Oct 2026 10:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.496016"
+    "sentiment": "positive",
+    "created_at": "2026-10-31T16:30:17.880877"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -567,41 +635,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:45.510342"
-  },
-  {
-    "id": "Reddit ML_29ccfcea6e67b839",
-    "title": "What would you require before calling an inference change “quality-neutral”? [D]",
-    "summary": "Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint.",
-    "content": "Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/",
-    "source": "Reddit ML",
-    "author": "/u/AKAMA199",
-    "published_date": "2026-10-30T06:59:57+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.120013"
-  },
-  {
-    "id": "TechCrunch AI_2bb7bec4e7f42ee9",
-    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-    "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
-    "content": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings.",
-    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-    "source": "TechCrunch AI",
-    "author": "TechCrunch Events",
-    "published_date": "Fri, 30 Oct 2026 14:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:42.534276"
+    "created_at": "2026-10-31T16:30:18.922130"
   },
   {
     "id": "The Verge AI_6744285a36f91344",
@@ -618,7 +652,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.495963"
+    "created_at": "2026-10-31T16:30:16.891056"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -635,7 +669,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:46.725665"
+    "created_at": "2026-10-31T16:30:20.135249"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -652,7 +686,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:46.725709"
+    "created_at": "2026-10-31T16:30:20.135320"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -669,24 +703,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:46.725780"
-  },
-  {
-    "id": "MIT Technology Review_520482b09640602d",
-    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
-    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 30 Oct 2026 11:30:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-31T11:24:47.484459"
+    "created_at": "2026-10-31T16:30:20.135462"
   },
   {
     "id": "arXiv AI_c87605a27c387cc5",
@@ -704,7 +721,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-31T11:24:55.747391"
+    "created_at": "2026-10-31T16:30:29.273662"
   },
   {
     "id": "arXiv AI_5ca60893d72a9255",
@@ -721,7 +738,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747586"
+    "created_at": "2026-10-31T16:30:29.274062"
   },
   {
     "id": "arXiv AI_caf7d8185aac521f",
@@ -738,25 +755,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747714"
+    "created_at": "2026-10-31T16:30:29.274269"
   },
   {
-    "id": "The Verge AI_253f3854dbd57d3a",
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
-    "content": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users.",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-10-30T05:00:00-04:00",
-    "importance_score": 5.6000000000000005,
+    "id": "Wired AI_035908bdd0c66de3",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "content": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Thu, 29 Oct 2026 14:00:00 +0000",
+    "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "AI",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.496168"
+    "created_at": "2026-10-31T16:30:17.881181"
   },
   {
     "id": "arXiv AI_dbd098fb613a0e4e",
@@ -773,7 +789,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747169"
+    "created_at": "2026-10-31T16:30:29.273281"
   },
   {
     "id": "arXiv AI_7c7a949a72801a56",
@@ -790,7 +806,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747245"
+    "created_at": "2026-10-31T16:30:29.273408"
   },
   {
     "id": "arXiv AI_6873a69fa5ec8659",
@@ -805,7 +821,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747325"
+    "created_at": "2026-10-31T16:30:29.273546"
   },
   {
     "id": "arXiv AI_9466a766bcf21a8c",
@@ -822,7 +838,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747517"
+    "created_at": "2026-10-31T16:30:29.273938"
   },
   {
     "id": "arXiv AI_6de597c606adc28d",
@@ -839,7 +855,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747645"
+    "created_at": "2026-10-31T16:30:29.274168"
   },
   {
     "id": "arXiv AI_df158a817cd430dc",
@@ -854,7 +870,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:55.747782"
+    "created_at": "2026-10-31T16:30:29.274391"
   },
   {
     "id": "Reddit ML_7b9471e9a4ba2da6",
@@ -871,7 +887,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119498"
+    "created_at": "2026-10-31T16:30:34.657681"
   },
   {
     "id": "Reddit ML_6065dfa3201d1964",
@@ -888,7 +904,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119769"
+    "created_at": "2026-10-31T16:30:34.658367"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -905,7 +921,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.722188"
+    "created_at": "2026-10-31T16:30:35.358617"
+  },
+  {
+    "id": "The Verge AI_2eb72ca47d96a295",
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T10:58:06-04:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:16.891151"
   },
   {
     "id": "The Verge AI_9da4a654864f5604",
@@ -922,41 +955,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:43.496119"
-  },
-  {
-    "id": "Wired AI_3f869c9512c5cd6d",
-    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-    "summary": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "content": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 29 Oct 2026 15:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501586"
-  },
-  {
-    "id": "MIT Technology Review_e39df0beece7ef11",
-    "title": "The Download: AI agent tracking and climate feedback loops",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
-    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 29 Oct 2026 12:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:47.484532"
+    "created_at": "2026-10-31T16:30:16.891330"
   },
   {
     "id": "Reddit ML_12df1901133d6548",
@@ -971,7 +970,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119838"
+    "created_at": "2026-10-31T16:30:34.658479"
   },
   {
     "id": "Reddit ML_f929f19ea6c7d108",
@@ -986,7 +985,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119617"
+    "created_at": "2026-10-31T16:30:34.658137"
+  },
+  {
+    "id": "MIT Technology Review_520482b09640602d",
+    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
+    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 30 Oct 2026 11:30:00 +0000",
+    "importance_score": 5.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-31T16:30:20.930055"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -1003,7 +1019,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:49.713761"
+    "created_at": "2026-10-31T16:30:23.337303"
+  },
+  {
+    "id": "Wired AI_3f869c9512c5cd6d",
+    "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+    "summary": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "content": "A new startup called Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+    "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:17.881060"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -1020,24 +1053,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501663"
-  },
-  {
-    "id": "Wired AI_38cad5ea8e57bc87",
-    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-    "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "content": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-    "source": "Wired AI",
-    "author": "Jake Bittle",
-    "published_date": "Wed, 28 Oct 2026 08:30:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501789"
+    "created_at": "2026-10-31T16:30:17.881259"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1054,7 +1070,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:46.725606"
+    "created_at": "2026-10-31T16:30:20.135147"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1071,7 +1087,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:46.725740"
+    "created_at": "2026-10-31T16:30:20.135384"
+  },
+  {
+    "id": "MIT Technology Review_e39df0beece7ef11",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing...",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 29 Oct 2026 12:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:20.930179"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -1088,7 +1121,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:47.484646"
+    "created_at": "2026-10-31T16:30:20.930385"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1105,7 +1138,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:47.484706"
+    "created_at": "2026-10-31T16:30:20.930481"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1122,7 +1155,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:47.484732"
+    "created_at": "2026-10-31T16:30:20.930536"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1139,7 +1172,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:45.510380"
+    "created_at": "2026-10-31T16:30:18.922202"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1156,7 +1189,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:45.510407"
+    "created_at": "2026-10-31T16:30:18.922257"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1173,7 +1206,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:52.627682"
+    "created_at": "2026-10-31T16:30:26.145138"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1190,7 +1223,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:52.627743"
+    "created_at": "2026-10-31T16:30:26.145231"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1207,7 +1240,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:52.627774"
+    "created_at": "2026-10-31T16:30:26.145292"
   },
   {
     "id": "Reddit ML_31ca59b8df21b91b",
@@ -1224,22 +1257,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119564"
-  },
-  {
-    "id": "Reddit ML_c95b31af54d72fc5",
-    "title": "Old-school classifiers are still generally better than Jev [P]",
-    "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
-    "content": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-    "source": "Reddit ML",
-    "author": "/u/csinva",
-    "published_date": "2026-10-29T14:13:05+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119712"
+    "created_at": "2026-10-31T16:30:34.658049"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -1256,7 +1274,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-31T11:24:44.501716"
+    "created_at": "2026-10-31T16:30:17.881341"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1273,7 +1291,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:44.501756"
+    "created_at": "2026-10-31T16:30:17.881418"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1290,24 +1308,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:24:45.510300"
-  },
-  {
-    "id": "Reddit ML_e85d9301fc3050df",
-    "title": "Leaving a job to pursue a PhD [D]",
-    "summary": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "content": "I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-    "source": "Reddit ML",
-    "author": "/u/Ok-Hunter-7702",
-    "published_date": "2026-10-29T09:28:28+00:00",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119935"
+    "created_at": "2026-10-31T16:30:18.922055"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1324,7 +1325,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.722229"
+    "created_at": "2026-10-31T16:30:35.358681"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1341,7 +1342,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.722311"
+    "created_at": "2026-10-31T16:30:35.358856"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1356,7 +1357,22 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.119403"
+    "created_at": "2026-10-31T16:30:34.657536"
+  },
+  {
+    "id": "Reddit ML_c95b31af54d72fc5",
+    "title": "Old-school classifiers are still generally better than Jev [P]",
+    "summary": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "content": "There’s a lot of hype right now around decision models like Jev. But in most real use cases, you have some labeled data, and can use it to personalize your model. So we tested the old-school approach to classification and regression: Embed your inputs with an open-source or cheap embedding model...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
+    "source": "Reddit ML",
+    "author": "/u/csinva",
+    "published_date": "2026-10-29T14:13:05+00:00",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T16:30:34.658270"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1373,6 +1389,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T11:25:01.722275"
+    "created_at": "2026-10-31T16:30:35.358783"
   }
 ]
