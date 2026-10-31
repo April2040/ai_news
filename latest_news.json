@@ -15,26 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941314"
-  },
-  {
-    "id": "The Verge AI_107e50696719e298",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-    "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T16:26:10-04:00",
-    "importance_score": 8.6,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.890883"
+    "created_at": "2026-10-31T20:47:08.539973"
   },
   {
     "id": "OpenAI News_7401e4f87407f079",
@@ -54,7 +35,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.336822"
+    "created_at": "2026-10-31T20:47:15.770280"
   },
   {
     "id": "TechCrunch AI_984d324086790f51",
@@ -72,7 +53,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941688"
+    "created_at": "2026-10-31T20:47:08.540179"
+  },
+  {
+    "id": "The Verge AI_107e50696719e298",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T16:26:10-04:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:09.548745"
   },
   {
     "id": "The Verge AI_f9d4372f30b107b9",
@@ -90,24 +90,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.890807"
-  },
-  {
-    "id": "The Verge AI_691499b6a19a18b2",
-    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
-    "content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T14:21:38-04:00",
-    "importance_score": 7.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-10-31T16:30:16.890960"
+    "created_at": "2026-10-31T20:47:09.548706"
   },
   {
     "id": "OpenAI News_9262b0318d588c8f",
@@ -126,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337177"
+    "created_at": "2026-10-31T20:47:15.770485"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -144,7 +127,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T16:30:20.930278"
+    "created_at": "2026-10-31T20:47:13.639249"
   },
   {
     "id": "The Verge AI_e85747b1bef0156c",
@@ -161,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.890601"
+    "created_at": "2026-10-31T20:47:09.548601"
   },
   {
     "id": "OpenAI News_3943e7bea61d9a3a",
@@ -179,7 +162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.336738"
+    "created_at": "2026-10-31T20:47:15.770230"
   },
   {
     "id": "OpenAI News_62f3b82c81f255a4",
@@ -197,25 +180,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T16:30:23.336891"
-  },
-  {
-    "id": "OpenAI News_44239d6ace0040bd",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "url": "https://openai.com/index/updated-model-spec",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 17:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.336974"
+    "created_at": "2026-10-31T20:47:15.770317"
   },
   {
     "id": "Reddit ML_24f3443413690926",
@@ -233,7 +198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.657774"
+    "created_at": "2026-10-31T20:47:28.290930"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -253,7 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337242"
+    "created_at": "2026-10-31T20:47:15.770519"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -273,7 +238,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337367"
+    "created_at": "2026-10-31T20:47:15.770583"
+  },
+  {
+    "id": "The Verge AI_691499b6a19a18b2",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T14:21:38-04:00",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-10-31T20:47:09.548787"
   },
   {
     "id": "TechCrunch AI_629f5391c8289b31",
@@ -291,7 +273,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941427"
+    "created_at": "2026-10-31T20:47:08.540038"
   },
   {
     "id": "The Verge AI_23f2e3f8bd3cd49c",
@@ -309,7 +291,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.891245"
+    "created_at": "2026-10-31T20:47:09.548944"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -327,22 +309,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:22.010130"
+    "created_at": "2026-10-31T20:47:14.683297"
   },
   {
-    "id": "Reddit ML_92024dae541dfc96",
-    "title": "I built a scikit-learn for RSI [D]",
+    "id": "Reddit ML_5655092527389bcd",
+    "title": "I built a scikit-learn for RSI [P]",
     "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
     "content": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeh0v/i_built_a_scikitlearn_for_rsi_d/",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
     "source": "Reddit ML",
     "author": "/u/Pale-Training-6944",
-    "published_date": "2026-10-31T16:23:09+00:00",
+    "published_date": "2026-10-31T16:33:26+00:00",
     "importance_score": 6.8,
     "category": "tech",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-10-31T16:30:34.657946"
+    "created_at": "2026-10-31T20:47:28.291033"
   },
   {
     "id": "The Verge AI_abf2dc55971c04aa",
@@ -359,7 +341,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.890687"
+    "created_at": "2026-10-31T20:47:09.548653"
   },
   {
     "id": "Wired AI_ae6969d4d11563ac",
@@ -376,25 +358,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.880799"
+    "created_at": "2026-10-31T20:47:10.560017"
   },
   {
-    "id": "Wired AI_350ede127ed3dd7c",
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "source": "Wired AI",
-    "author": "Vittoria Elliott",
-    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
+    "id": "OpenAI News_44239d6ace0040bd",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "content": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 29 Oct 2026 17:00:00 GMT",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "Claude",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.880972"
+    "created_at": "2026-10-31T20:47:15.770375"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -412,7 +394,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337037"
+    "created_at": "2026-10-31T20:47:15.770410"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -430,7 +412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337102"
+    "created_at": "2026-10-31T20:47:15.770444"
   },
   {
     "id": "arXiv AI_68efdb6b5db3f53c",
@@ -447,7 +429,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.273809"
+    "created_at": "2026-10-31T20:47:21.759669"
   },
   {
     "id": "TechCrunch AI_7199a576c2a71031",
@@ -464,24 +446,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941592"
-  },
-  {
-    "id": "Wired AI_519e83dbfb65765e",
-    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-    "content": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman, Matt Burgess",
-    "published_date": "Sat, 31 Oct 2026 12:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.880688"
+    "created_at": "2026-10-31T20:47:08.540127"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -499,7 +464,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.930628"
+    "created_at": "2026-10-31T20:47:13.639450"
   },
   {
     "id": "TechCrunch AI_2c993e1532060e0e",
@@ -516,7 +481,60 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.942058"
+    "created_at": "2026-10-31T20:47:08.540382"
+  },
+  {
+    "id": "Wired AI_350ede127ed3dd7c",
+    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "content": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+    "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "source": "Wired AI",
+    "author": "Vittoria Elliott",
+    "published_date": "Thu, 29 Oct 2026 18:39:43 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:10.560112"
+  },
+  {
+    "id": "Reddit ML_b3124187f597c9f2",
+    "title": "Is neuro-evolution relevant? [D]",
+    "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this.",
+    "content": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+    "source": "Reddit ML",
+    "author": "/u/tapopalis",
+    "published_date": "2026-10-31T18:09:53+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:28.291144"
+  },
+  {
+    "id": "Reddit ML_124d63b61f4c573c",
+    "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
+    "summary": "Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers.",
+    "content": "Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
+    "source": "Reddit ML",
+    "author": "/u/the-random-guy-2002",
+    "published_date": "2026-10-31T17:57:22+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:28.291251"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -533,7 +551,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:35.358549"
+    "created_at": "2026-10-31T20:47:28.741630"
   },
   {
     "id": "TechCrunch AI_7560f75e37e28062",
@@ -550,7 +568,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941511"
+    "created_at": "2026-10-31T20:47:08.540082"
   },
   {
     "id": "TechCrunch AI_3749024efd98be4a",
@@ -567,7 +585,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941781"
+    "created_at": "2026-10-31T20:47:08.540213"
   },
   {
     "id": "TechCrunch AI_c7619f360068439b",
@@ -584,24 +602,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941856"
+    "created_at": "2026-10-31T20:47:08.540250"
   },
   {
-    "id": "TechCrunch AI_e2120d863555139c",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Fri, 30 Oct 2026 17:47:12 +0000",
+    "id": "Wired AI_519e83dbfb65765e",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "content": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 31 Oct 2026 12:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:15.941960"
+    "created_at": "2026-10-31T20:47:10.559964"
   },
   {
     "id": "Wired AI_59b5de442eae2551",
@@ -618,7 +636,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T16:30:17.880877"
+    "created_at": "2026-10-31T20:47:10.560059"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -635,24 +653,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:18.922130"
-  },
-  {
-    "id": "The Verge AI_6744285a36f91344",
-    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
-    "content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T13:38:04-04:00",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.891056"
+    "created_at": "2026-10-31T20:47:11.903319"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -669,7 +670,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.135249"
+    "created_at": "2026-10-31T20:47:12.647420"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -686,7 +687,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.135320"
+    "created_at": "2026-10-31T20:47:12.647459"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -703,7 +704,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.135462"
+    "created_at": "2026-10-31T20:47:12.647533"
   },
   {
     "id": "arXiv AI_c87605a27c387cc5",
@@ -721,7 +722,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-31T16:30:29.273662"
+    "created_at": "2026-10-31T20:47:21.759603"
   },
   {
     "id": "arXiv AI_5ca60893d72a9255",
@@ -738,7 +739,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.274062"
+    "created_at": "2026-10-31T20:47:21.759817"
   },
   {
     "id": "arXiv AI_caf7d8185aac521f",
@@ -755,7 +756,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.274269"
+    "created_at": "2026-10-31T20:47:21.759944"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -772,7 +773,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.881181"
+    "created_at": "2026-10-31T20:47:10.560195"
   },
   {
     "id": "arXiv AI_dbd098fb613a0e4e",
@@ -789,7 +790,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.273281"
+    "created_at": "2026-10-31T20:47:21.759322"
   },
   {
     "id": "arXiv AI_7c7a949a72801a56",
@@ -806,7 +807,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.273408"
+    "created_at": "2026-10-31T20:47:21.759440"
   },
   {
     "id": "arXiv AI_6873a69fa5ec8659",
@@ -821,7 +822,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.273546"
+    "created_at": "2026-10-31T20:47:21.759531"
   },
   {
     "id": "arXiv AI_9466a766bcf21a8c",
@@ -838,7 +839,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.273938"
+    "created_at": "2026-10-31T20:47:21.759741"
   },
   {
     "id": "arXiv AI_6de597c606adc28d",
@@ -855,7 +856,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.274168"
+    "created_at": "2026-10-31T20:47:21.759883"
   },
   {
     "id": "arXiv AI_df158a817cd430dc",
@@ -870,58 +871,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:29.274391"
+    "created_at": "2026-10-31T20:47:21.760020"
   },
   {
-    "id": "Reddit ML_7b9471e9a4ba2da6",
-    "title": "Multi-Token Prediction Done Right [R]",
-    "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
-    "content": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-    "source": "Reddit ML",
-    "author": "/u/jayden_teoh_",
-    "published_date": "2026-10-30T18:53:20+00:00",
-    "importance_score": 5.5,
+    "id": "TechCrunch AI_e2120d863555139c",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Fri, 30 Oct 2026 17:47:12 +0000",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.657681"
-  },
-  {
-    "id": "Reddit ML_6065dfa3201d1964",
-    "title": "Paid Research Survey for conference papers [D]",
-    "summary": "Sorry if the flair is wrong. I didn't see one that fit. Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on how the research process went for first author accepted papers at ICLR, IMCL, and Neurips for 2024,...",
-    "content": "Sorry if the flair is wrong. I didn't see one that fit. Not sure if anyone else has been receiving these emails, but companies are offering money for you to submit some answers to questions based on how the research process went for first author accepted papers at ICLR, IMCL, and Neurips for 2024,...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
-    "source": "Reddit ML",
-    "author": "/u/Icy-Park4287",
-    "published_date": "2026-10-30T22:42:27+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.658367"
-  },
-  {
-    "id": "Lobsters AI_9517fdff8dd77f03",
-    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
-    "source": "Lobsters AI",
-    "author": "delta.dev via tomhoule",
-    "published_date": "Fri, 30 Oct 2026 11:50:44 -0500",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:35.358617"
+    "created_at": "2026-10-31T20:47:08.540312"
   },
   {
     "id": "The Verge AI_2eb72ca47d96a295",
@@ -938,7 +905,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.891151"
+    "created_at": "2026-10-31T20:47:09.548891"
   },
   {
     "id": "The Verge AI_9da4a654864f5604",
@@ -955,37 +922,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:16.891330"
+    "created_at": "2026-10-31T20:47:09.548991"
   },
   {
-    "id": "Reddit ML_12df1901133d6548",
-    "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-    "summary": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
-    "content": "I built Arc-Transcriber, which does ASR-NL in 1-step. Every 100 ms, one model returns the transcript plus: - Names linked to a list you give it (a roster, contacts, product names); new names are flagged not on the list - Numbers with their values (scores, clocks, money, dates) - Speakers and roles;...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
-    "source": "Reddit ML",
-    "author": "/u/Working_Hat5120",
-    "published_date": "2026-10-29T22:51:57+00:00",
-    "importance_score": 5.3999999999999995,
+    "id": "The Verge AI_6744285a36f91344",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T13:38:04-04:00",
+    "importance_score": 5.2,
     "category": "tech",
-    "keywords": [],
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.658479"
-  },
-  {
-    "id": "Reddit ML_f929f19ea6c7d108",
-    "title": "Advice on dealing with Cold Start forecasting [D]",
-    "summary": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
-    "content": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
-    "source": "Reddit ML",
-    "author": "/u/Nice-Job67",
-    "published_date": "2026-10-30T17:56:26+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.658137"
+    "created_at": "2026-10-31T20:47:09.548841"
   },
   {
     "id": "MIT Technology Review_520482b09640602d",
@@ -1002,7 +956,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-10-31T16:30:20.930055"
+    "created_at": "2026-10-31T20:47:13.639116"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -1019,7 +973,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:23.337303"
+    "created_at": "2026-10-31T20:47:15.770550"
+  },
+  {
+    "id": "Reddit ML_7b9471e9a4ba2da6",
+    "title": "Multi-Token Prediction Done Right [R]",
+    "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "content": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+    "source": "Reddit ML",
+    "author": "/u/jayden_teoh_",
+    "published_date": "2026-10-30T18:53:20+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:28.291104"
+  },
+  {
+    "id": "Lobsters AI_9517fdff8dd77f03",
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "Lobsters AI",
+    "author": "delta.dev via tomhoule",
+    "published_date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:28.741668"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -1036,7 +1024,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.881060"
+    "created_at": "2026-10-31T20:47:10.560154"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -1053,7 +1041,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.881259"
+    "created_at": "2026-10-31T20:47:10.560233"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1070,7 +1058,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.135147"
+    "created_at": "2026-10-31T20:47:12.647357"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1087,7 +1075,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.135384"
+    "created_at": "2026-10-31T20:47:12.647491"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -1104,7 +1092,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.930179"
+    "created_at": "2026-10-31T20:47:13.639194"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -1121,7 +1109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.930385"
+    "created_at": "2026-10-31T20:47:13.639309"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -1138,7 +1126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.930481"
+    "created_at": "2026-10-31T20:47:13.639370"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1155,7 +1143,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:20.930536"
+    "created_at": "2026-10-31T20:47:13.639397"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1172,7 +1160,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:18.922202"
+    "created_at": "2026-10-31T20:47:11.903366"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1189,7 +1177,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:18.922257"
+    "created_at": "2026-10-31T20:47:11.903393"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1206,7 +1194,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:26.145138"
+    "created_at": "2026-10-31T20:47:18.701625"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1223,7 +1211,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:26.145231"
+    "created_at": "2026-10-31T20:47:18.701679"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1240,7 +1228,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:26.145292"
+    "created_at": "2026-10-31T20:47:18.701710"
   },
   {
     "id": "Reddit ML_31ca59b8df21b91b",
@@ -1257,7 +1245,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.658049"
+    "created_at": "2026-10-31T20:47:28.291202"
+  },
+  {
+    "id": "Reddit ML_f929f19ea6c7d108",
+    "title": "Advice on dealing with Cold Start forecasting [D]",
+    "summary": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
+    "content": "Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+    "source": "Reddit ML",
+    "author": "/u/Nice-Job67",
+    "published_date": "2026-10-30T17:56:26+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-10-31T20:47:28.291300"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -1274,7 +1277,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-10-31T16:30:17.881341"
+    "created_at": "2026-10-31T20:47:10.560277"
   },
   {
     "id": "Wired AI_546b4df3422e98bd",
@@ -1291,7 +1294,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:17.881418"
+    "created_at": "2026-10-31T20:47:10.560317"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1308,7 +1311,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:18.922055"
+    "created_at": "2026-10-31T20:47:11.903275"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1325,7 +1328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:35.358681"
+    "created_at": "2026-10-31T20:47:28.741701"
   },
   {
     "id": "Lobsters AI_d039e94785fc452b",
@@ -1342,7 +1345,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:35.358856"
+    "created_at": "2026-10-31T20:47:28.741773"
   },
   {
     "id": "Reddit ML_2cdaf89c10c250e2",
@@ -1357,7 +1360,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.657536"
+    "created_at": "2026-10-31T20:47:28.290877"
   },
   {
     "id": "Reddit ML_c95b31af54d72fc5",
@@ -1372,7 +1375,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:34.658270"
+    "created_at": "2026-10-31T20:47:28.291387"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1389,6 +1392,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-10-31T16:30:35.358783"
+    "created_at": "2026-10-31T20:47:28.741739"
   }
 ]
