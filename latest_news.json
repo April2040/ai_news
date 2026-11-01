@@ -8,33 +8,32 @@
     "source": "TechCrunch AI",
     "author": "Anthony Ha",
     "published_date": "Sat, 31 Oct 2026 16:12:55 +0000",
-    "importance_score": 8.6,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519323"
-  },
-  {
-    "id": "The Verge AI_107e50696719e298",
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-    "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T16:26:10-04:00",
     "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
-      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525167"
+    "created_at": "2026-11-01T21:28:49.301502"
+  },
+  {
+    "id": "Reddit ML_2166143cb50b0684",
+    "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+    "summary": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong. It follows one word the whole way: How many r's are in strawberry? is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer).",
+    "content": "I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong. It follows one word the whole way: How many r's are in strawberry? is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+    "source": "Reddit ML",
+    "author": "/u/Rajucg",
+    "published_date": "2026-11-01T18:01:28+00:00",
+    "importance_score": 8.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:07.991077"
   },
   {
     "id": "OpenAI News_7401e4f87407f079",
@@ -54,7 +53,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994279"
+    "created_at": "2026-11-01T21:28:56.639752"
   },
   {
     "id": "TechCrunch AI_984d324086790f51",
@@ -72,7 +71,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519689"
+    "created_at": "2026-11-01T21:28:49.301958"
+  },
+  {
+    "id": "The Verge AI_107e50696719e298",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T16:26:10-04:00",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:50.203149"
   },
   {
     "id": "OpenAI News_9262b0318d588c8f",
@@ -91,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994647"
+    "created_at": "2026-11-01T21:28:56.640103"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -109,25 +127,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-01T12:17:56.540412"
-  },
-  {
-    "id": "The Verge AI_f9d4372f30b107b9",
-    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-    "content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-10-30T16:48:43-04:00",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525089"
+    "created_at": "2026-11-01T21:28:54.237196"
   },
   {
     "id": "OpenAI News_46f0704d43a8e543",
@@ -147,7 +147,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994712"
+    "created_at": "2026-11-01T21:28:56.640193"
   },
   {
     "id": "OpenAI News_02591dadacca67c1",
@@ -167,42 +167,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994841"
-  },
-  {
-    "id": "The Verge AI_691499b6a19a18b2",
-    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
-    "content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T14:21:38-04:00",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-11-01T12:17:52.525248"
-  },
-  {
-    "id": "The Verge AI_23f2e3f8bd3cd49c",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-30T09:01:14-04:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525538"
+    "created_at": "2026-11-01T21:28:56.640324"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -220,7 +185,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:57.634606"
+    "created_at": "2026-11-01T21:28:55.388359"
   },
   {
     "id": "TechCrunch AI_e8d3f90e22247891",
@@ -237,24 +202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519110"
-  },
-  {
-    "id": "The Verge AI_e85747b1bef0156c",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
-    "content": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "source": "The Verge AI",
-    "author": "Sean Hollister",
-    "published_date": "2026-10-31T12:05:00-04:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.524878"
+    "created_at": "2026-11-01T21:28:49.301229"
   },
   {
     "id": "OpenAI News_3943e7bea61d9a3a",
@@ -272,7 +220,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994198"
+    "created_at": "2026-11-01T21:28:56.639669"
   },
   {
     "id": "OpenAI News_62f3b82c81f255a4",
@@ -290,7 +238,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-01T12:17:58.994348"
+    "created_at": "2026-11-01T21:28:56.639820"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -308,7 +256,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994432"
+    "created_at": "2026-11-01T21:28:56.639902"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -326,7 +274,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994498"
+    "created_at": "2026-11-01T21:28:56.639965"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -344,25 +292,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994573"
+    "created_at": "2026-11-01T21:28:56.640029"
   },
   {
-    "id": "Reddit ML_24f3443413690926",
-    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
-    "summary": " submitted by  /u/rottoneuro [link]  [comments]",
-    "content": " submitted by  /u/rottoneuro [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
-    "source": "Reddit ML",
-    "author": "/u/rottoneuro",
-    "published_date": "2026-10-31T15:21:39+00:00",
-    "importance_score": 6.7,
+    "id": "The Verge AI_f9d4372f30b107b9",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+    "content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-10-30T16:48:43-04:00",
+    "importance_score": 6.6000000000000005,
     "category": "tech",
     "keywords": [
-      "deep learning",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.428698"
+    "created_at": "2026-11-01T21:28:50.203056"
+  },
+  {
+    "id": "The Verge AI_691499b6a19a18b2",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:...",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T14:21:38-04:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-11-01T21:28:50.203233"
+  },
+  {
+    "id": "TechCrunch AI_73e03af6485948f7",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "content": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 01 Nov 2026 20:57:58 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:49.301045"
   },
   {
     "id": "TechCrunch AI_629f5391c8289b31",
@@ -380,24 +362,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519429"
+    "created_at": "2026-11-01T21:28:49.301663"
   },
   {
-    "id": "Wired AI_514863899f628680",
-    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "source": "Wired AI",
-    "author": "Christine Peterson",
-    "published_date": "Sun, 01 Nov 2026 10:30:00 +0000",
+    "id": "The Verge AI_23f2e3f8bd3cd49c",
+    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-10-30T09:01:14-04:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.525479"
+    "created_at": "2026-11-01T21:28:50.203518"
   },
   {
     "id": "MIT Technology Review_b8fa6f0c88b09e9c",
@@ -415,22 +398,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:56.540780"
+    "created_at": "2026-11-01T21:28:54.237550"
   },
   {
-    "id": "Reddit ML_5655092527389bcd",
-    "title": "I built a scikit-learn for RSI [P]",
-    "summary": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
-    "content": "After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/",
-    "source": "Reddit ML",
-    "author": "/u/Pale-Training-6944",
-    "published_date": "2026-10-31T16:33:26+00:00",
-    "importance_score": 6.3,
+    "id": "The Verge AI_e85747b1bef0156c",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "content": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "source": "The Verge AI",
+    "author": "Sean Hollister",
+    "published_date": "2026-10-31T12:05:00-04:00",
+    "importance_score": 6.2,
     "category": "tech",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-11-01T12:18:10.429100"
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:50.202874"
   },
   {
     "id": "The Verge AI_abf2dc55971c04aa",
@@ -447,7 +432,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.524987"
+    "created_at": "2026-11-01T21:28:50.202961"
   },
   {
     "id": "Wired AI_ae6969d4d11563ac",
@@ -464,7 +449,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.525674"
+    "created_at": "2026-11-01T21:28:51.185612"
   },
   {
     "id": "Wired AI_350ede127ed3dd7c",
@@ -482,24 +467,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.525843"
+    "created_at": "2026-11-01T21:28:51.185772"
   },
   {
-    "id": "TechCrunch AI_53fc5207d1b8e335",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "content": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 31 Oct 2026 21:17:03 +0000",
-    "importance_score": 5.9,
+    "id": "Reddit ML_24f3443413690926",
+    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+    "summary": " submitted by  /u/rottoneuro [link]  [comments]",
+    "content": " submitted by  /u/rottoneuro [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+    "source": "Reddit ML",
+    "author": "/u/rottoneuro",
+    "published_date": "2026-10-31T15:21:39+00:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "deep learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:07.991161"
+  },
+  {
+    "id": "Lobsters AI_97872e94c67f8a05",
+    "title": "An easy way to try local AI with braindead-local-intelligence",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+    "source": "Lobsters AI",
+    "author": "dataswamp.org via msangi",
+    "published_date": "Sun, 01 Nov 2026 14:26:47 -0600",
+    "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519233"
+    "created_at": "2026-11-01T21:29:08.654317"
   },
   {
     "id": "TechCrunch AI_7199a576c2a71031",
@@ -516,7 +519,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519586"
+    "created_at": "2026-11-01T21:28:49.301823"
+  },
+  {
+    "id": "Wired AI_514863899f628680",
+    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "source": "Wired AI",
+    "author": "Christine Peterson",
+    "published_date": "Sun, 01 Nov 2026 10:30:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:51.185430"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -533,22 +553,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:54.588221"
-  },
-  {
-    "id": "Reddit ML_2846278a6fa809fb",
-    "title": "Best option for local models [D]",
-    "summary": "Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple...",
-    "content": "Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
-    "source": "Reddit ML",
-    "author": "/u/Fantastic-Nerve-4056",
-    "published_date": "2026-11-01T07:16:53+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.428627"
+    "created_at": "2026-11-01T21:28:52.237108"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -565,7 +570,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:55.703912"
+    "created_at": "2026-11-01T21:28:53.501984"
   },
   {
     "id": "Google AI Blog_af67a17b1cd2bef0",
@@ -582,7 +587,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:55.703990"
+    "created_at": "2026-11-01T21:28:53.502056"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -599,7 +604,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:55.704138"
+    "created_at": "2026-11-01T21:28:53.502226"
+  },
+  {
+    "id": "Reddit ML_08320e26747ce447",
+    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+    "summary": "For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models.",
+    "content": "For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+    "source": "Reddit ML",
+    "author": "/u/ScarlyLamorna",
+    "published_date": "2026-11-01T12:28:22+00:00",
+    "importance_score": 5.699999999999999,
+    "category": "tech",
+    "keywords": [
+      "machine learning",
+      "deep learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:07.990876"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -616,59 +640,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.526033"
+    "created_at": "2026-11-01T21:28:51.185921"
   },
   {
-    "id": "Reddit ML_b3124187f597c9f2",
-    "title": "Is neuro-evolution relevant? [D]",
-    "summary": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this.",
-    "content": "I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
-    "source": "Reddit ML",
-    "author": "/u/tapopalis",
-    "published_date": "2026-10-31T18:09:53+00:00",
-    "importance_score": 5.5,
+    "id": "TechCrunch AI_53fc5207d1b8e335",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "content": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 31 Oct 2026 21:17:03 +0000",
+    "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.429288"
-  },
-  {
-    "id": "Reddit ML_124d63b61f4c573c",
-    "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
-    "summary": "Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers.",
-    "content": "Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
-    "source": "Reddit ML",
-    "author": "/u/the-random-guy-2002",
-    "published_date": "2026-10-31T17:57:22+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.429382"
-  },
-  {
-    "id": "Lobsters AI_33716d6414646c92",
-    "title": "Let’s Build a Brain",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-    "source": "Lobsters AI",
-    "author": "aatishb.com via signal-11",
-    "published_date": "Sat, 31 Oct 2026 10:09:27 -0500",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:11.398543"
+    "created_at": "2026-11-01T21:28:49.301371"
   },
   {
     "id": "TechCrunch AI_7560f75e37e28062",
@@ -685,58 +674,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519504"
-  },
-  {
-    "id": "TechCrunch AI_3749024efd98be4a",
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "content": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Fri, 30 Oct 2026 21:26:59 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519774"
-  },
-  {
-    "id": "TechCrunch AI_c7619f360068439b",
-    "title": "Cracks are emerging in the AI spending boom",
-    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-    "content": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Fri, 30 Oct 2026 21:17:40 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:51.519873"
-  },
-  {
-    "id": "The Verge AI_2eb72ca47d96a295",
-    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T10:58:06-04:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525441"
+    "created_at": "2026-11-01T21:28:49.301741"
   },
   {
     "id": "Wired AI_519e83dbfb65765e",
@@ -753,7 +691,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.525590"
+    "created_at": "2026-11-01T21:28:51.185533"
   },
   {
     "id": "Wired AI_59b5de442eae2551",
@@ -770,7 +708,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-01T12:17:53.525750"
+    "created_at": "2026-11-01T21:28:51.185684"
   },
   {
     "id": "Reddit ML_ca467e57968e8ee0",
@@ -787,24 +725,37 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.428537"
+    "created_at": "2026-11-01T21:29:07.990623"
   },
   {
-    "id": "The Verge AI_6744285a36f91344",
-    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
-    "content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-10-30T13:38:04-04:00",
-    "importance_score": 5.2,
+    "id": "Reddit ML_2846278a6fa809fb",
+    "title": "Best option for local models [D]",
+    "summary": "Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple...",
+    "content": "Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
+    "source": "Reddit ML",
+    "author": "/u/Fantastic-Nerve-4056",
+    "published_date": "2026-11-01T07:16:53+00:00",
+    "importance_score": 5.3,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525349"
+    "created_at": "2026-11-01T21:29:07.990959"
+  },
+  {
+    "id": "Reddit ML_8df15b0d5f4d5479",
+    "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
+    "summary": "I'm an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation.",
+    "content": "I'm an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
+    "source": "Reddit ML",
+    "author": "/u/Deepnar_S",
+    "published_date": "2026-11-01T10:38:34+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:07.990768"
   },
   {
     "id": "OpenAI News_f4a7a50201117021",
@@ -821,41 +772,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:58.994776"
+    "created_at": "2026-11-01T21:28:56.640259"
   },
   {
-    "id": "Reddit ML_7b9471e9a4ba2da6",
-    "title": "Multi-Token Prediction Done Right [R]",
-    "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
-    "content": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
-    "source": "Reddit ML",
-    "author": "/u/jayden_teoh_",
-    "published_date": "2026-10-30T18:53:20+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.428836"
-  },
-  {
-    "id": "Lobsters AI_9517fdff8dd77f03",
-    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "id": "Lobsters AI_33716d6414646c92",
+    "title": "Let’s Build a Brain",
     "summary": "Comments",
     "content": "Comments",
-    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
     "source": "Lobsters AI",
-    "author": "delta.dev via tomhoule",
-    "published_date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "author": "aatishb.com via signal-11",
+    "published_date": "Sat, 31 Oct 2026 10:09:27 -0500",
     "importance_score": 5.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:11.398612"
+    "created_at": "2026-11-01T21:29:08.654395"
+  },
+  {
+    "id": "TechCrunch AI_3749024efd98be4a",
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "content": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Fri, 30 Oct 2026 21:26:59 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:49.302031"
+  },
+  {
+    "id": "The Verge AI_2eb72ca47d96a295",
+    "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+    "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "content": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T10:58:06-04:00",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:50.203424"
   },
   {
     "id": "The Verge AI_9da4a654864f5604",
@@ -872,7 +840,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:52.525624"
+    "created_at": "2026-11-01T21:28:50.203604"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -889,7 +857,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.525953"
+    "created_at": "2026-11-01T21:28:51.185847"
   },
   {
     "id": "Wired AI_0de43302b4cbbc81",
@@ -906,7 +874,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:53.526107"
+    "created_at": "2026-11-01T21:28:51.185990"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -923,7 +891,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:55.703784"
+    "created_at": "2026-11-01T21:28:53.501882"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -940,7 +908,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:55.704058"
+    "created_at": "2026-11-01T21:28:53.502121"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -957,7 +925,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:56.540311"
+    "created_at": "2026-11-01T21:28:54.237074"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -974,7 +942,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:56.540521"
+    "created_at": "2026-11-01T21:28:54.237308"
   },
   {
     "id": "MIT Technology Review_cbd86f32c767ff67",
@@ -991,7 +959,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:56.540629"
+    "created_at": "2026-11-01T21:28:54.237404"
   },
   {
     "id": "MIT Technology Review_144fa02036bab822",
@@ -1008,7 +976,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:56.540684"
+    "created_at": "2026-11-01T21:28:54.237456"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1025,7 +993,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:54.588293"
+    "created_at": "2026-11-01T21:28:52.237207"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1042,7 +1010,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:54.588349"
+    "created_at": "2026-11-01T21:28:52.237265"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1059,7 +1027,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:01.707889"
+    "created_at": "2026-11-01T21:28:59.450227"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1076,7 +1044,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:01.707994"
+    "created_at": "2026-11-01T21:28:59.450325"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1093,7 +1061,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:01.708058"
+    "created_at": "2026-11-01T21:28:59.450388"
+  },
+  {
+    "id": "The Verge AI_6744285a36f91344",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-10-30T13:38:04-04:00",
+    "importance_score": 4.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:28:50.203332"
   },
   {
     "id": "Wired AI_5798fa71517fbdc5",
@@ -1110,7 +1095,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-01T12:17:53.526189"
+    "created_at": "2026-11-01T21:28:51.186069"
   },
   {
     "id": "MIT Technology Review_520482b09640602d",
@@ -1127,7 +1112,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-01T12:17:56.540182"
+    "created_at": "2026-11-01T21:28:54.236945"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1144,7 +1129,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:17:54.588142"
+    "created_at": "2026-11-01T21:28:52.237029"
+  },
+  {
+    "id": "Reddit ML_7b9471e9a4ba2da6",
+    "title": "Multi-Token Prediction Done Right [R]",
+    "summary": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "content": "Sharing one of our latest papers on Multi-Token Prediction (MTP). MTP is now a standard recipe for frontier pre-training but turns out, it can be done much better. We show the standard MTP gradient hides a KL self-distillation signal (which we want for improving speculative decoding) behind a noisy...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/",
+    "source": "Reddit ML",
+    "author": "/u/jayden_teoh_",
+    "published_date": "2026-10-30T18:53:20+00:00",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:07.991293"
+  },
+  {
+    "id": "Lobsters AI_9517fdff8dd77f03",
+    "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+    "source": "Lobsters AI",
+    "author": "delta.dev via tomhoule",
+    "published_date": "Fri, 30 Oct 2026 11:50:44 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-01T21:29:08.654461"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1161,56 +1180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:11.398676"
-  },
-  {
-    "id": "Lobsters AI_d039e94785fc452b",
-    "title": "Neural Networks Are Already Clean",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://already-clean.goodfire.com/",
-    "source": "Lobsters AI",
-    "author": "already-clean.goodfire.com via Yogthos",
-    "published_date": "Thu, 15 Oct 2026 17:25:03 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "neural network"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:11.398821"
-  },
-  {
-    "id": "Reddit ML_2cdaf89c10c250e2",
-    "title": "[D] Self-Promotion Thread",
-    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "content": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1wvi1j8/d_selfpromotion_thread/",
-    "source": "Reddit ML",
-    "author": "/u/AutoModerator",
-    "published_date": "2026-10-02T02:15:05+00:00",
-    "importance_score": 4.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.428391"
-  },
-  {
-    "id": "Reddit ML_31ca59b8df21b91b",
-    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
-    "summary": "A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GOT ACCEPTED IN AAAI.",
-    "content": "A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GOT ACCEPTED IN AAAI.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
-    "source": "Reddit ML",
-    "author": "/u/Tonka-Jahari-Pizza",
-    "published_date": "2026-10-30T07:25:23+00:00",
-    "importance_score": 4.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:10.429210"
+    "created_at": "2026-11-01T21:29:08.654522"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1227,6 +1197,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-01T12:18:11.398751"
+    "created_at": "2026-11-01T21:29:08.654596"
   }
 ]
