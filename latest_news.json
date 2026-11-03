@@ -1,14 +1,33 @@
 [
   {
-    "id": "TechCrunch AI_b93737f7431b793d",
-    "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+    "id": "The Verge AI_8331c61d4678205e",
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use...",
+    "content": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-02T13:56:02-05:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:02.918828"
+  },
+  {
+    "id": "TechCrunch AI_a4762d0021212014",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
     "content": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
     "source": "TechCrunch AI",
     "author": "Ivan Mehta",
     "published_date": "Mon, 02 Nov 2026 13:57:53 +0000",
-    "importance_score": 8.5,
+    "importance_score": 8.0,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -17,45 +36,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.566825"
+    "created_at": "2026-11-03T00:11:02.040211"
   },
   {
-    "id": "TechCrunch AI_e4dfc862e609d94f",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "content": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "id": "TechCrunch AI_bc18a3ec2f58bf52",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "content": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
     "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 31 Oct 2026 16:12:55 +0000",
-    "importance_score": 8.100000000000001,
+    "author": "Julie Bort",
+    "published_date": "Mon, 02 Nov 2026 22:14:50 +0000",
+    "importance_score": 7.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567225"
-  },
-  {
-    "id": "Reddit ML_879d6b23e8ec35ed",
-    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
-    "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI era?  submitted by  /u/Hope999991 [link]  [comments]",
-    "content": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI era?  submitted by  /u/Hope999991 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
-    "source": "Reddit ML",
-    "author": "/u/Hope999991",
-    "published_date": "2026-11-02T10:04:25+00:00",
-    "importance_score": 7.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315242"
+    "created_at": "2026-11-03T00:11:02.039774"
   },
   {
     "id": "OpenAI News_7401e4f87407f079",
@@ -75,17 +74,53 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010380"
+    "created_at": "2026-11-03T00:11:09.441370"
   },
   {
-    "id": "TechCrunch AI_1cff57eaafeb3e0d",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-    "content": "Data centers are deeply unpopular. But what if we called them something else?",
-    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 01 Nov 2026 21:55:23 +0000",
+    "id": "OpenAI News_c4e8c3ff95c1c241",
+    "title": "Scaling Git at OpenAI",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "content": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:09.440983"
+  },
+  {
+    "id": "OpenAI News_c866cc3c1b91cb7d",
+    "title": "Introducing the Grid Protectors Program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:09.441078"
+  },
+  {
+    "id": "The Verge AI_77be65ff36dd1bce",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000...",
+    "content": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-02T13:01:30-05:00",
     "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
@@ -93,7 +128,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.566917"
+    "created_at": "2026-11-03T00:11:02.918919"
   },
   {
     "id": "The Verge AI_107e50696719e298",
@@ -112,7 +147,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536258"
+    "created_at": "2026-11-03T00:11:02.919331"
   },
   {
     "id": "arXiv AI_8dbaf4db01198a61",
@@ -132,26 +167,27 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778168"
+    "created_at": "2026-11-03T00:11:15.371976"
   },
   {
-    "id": "OpenAI News_9262b0318d588c8f",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "content": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "url": "https://openai.com/index/credit-saison",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "id": "Reddit ML_879d6b23e8ec35ed",
+    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
+    "summary": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI era?  submitted by  /u/Hope999991 [link]  [comments]",
+    "content": "For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI era?  submitted by  /u/Hope999991 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
+    "source": "Reddit ML",
+    "author": "/u/Hope999991",
+    "published_date": "2026-11-02T10:04:25+00:00",
     "importance_score": 7.3999999999999995,
     "category": "tech",
     "keywords": [
       "GPT",
       "ChatGPT",
-      "AI"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010733"
+    "created_at": "2026-11-03T00:11:20.718136"
   },
   {
     "id": "MIT Technology Review_67331b84062522a3",
@@ -169,7 +205,25 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-02T14:11:31.641914"
+    "created_at": "2026-11-03T00:11:07.040352"
+  },
+  {
+    "id": "TechCrunch AI_1cff57eaafeb3e0d",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+    "content": "Data centers are deeply unpopular. But what if we called them something else?",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 01 Nov 2026 21:55:23 +0000",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:02.040313"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -187,47 +241,76 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:32.663193"
+    "created_at": "2026-11-03T00:11:08.169002"
   },
   {
-    "id": "OpenAI News_46f0704d43a8e543",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "content": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "id": "OpenAI News_1b410ca6e37aab66",
+    "title": "LifeVal",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "content": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "url": "https://openai.com/index/lifeval",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Wed, 28 Oct 2026 13:15:00 GMT",
-    "importance_score": 7.1,
+    "published_date": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "importance_score": 7.0,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:09.441145"
+  },
+  {
+    "id": "Reddit ML_22d5e7b4b1781dc4",
+    "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
+    "summary": "It was just before OpenAI started that I met Ilya, who you interviewed. One of the first things he said to me was — “Look. The models, they just want to learn. You have to understand this. The models, they just want to learn.” And it was a bit like a Zen Koan.",
+    "content": "It was just before OpenAI started that I met Ilya, who you interviewed. One of the first things he said to me was — “Look. The models, they just want to learn. You have to understand this. The models, they just want to learn.” And it was a bit like a Zen Koan.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
+    "source": "Reddit ML",
+    "author": "/u/XTXinverseXTY",
+    "published_date": "2026-11-02T14:32:14+00:00",
+    "importance_score": 7.0,
+    "category": "tech",
+    "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010798"
+    "created_at": "2026-11-03T00:11:20.718495"
   },
   {
-    "id": "OpenAI News_02591dadacca67c1",
-    "title": "Legora is building the agentic operating system for legal work",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "content": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "url": "https://openai.com/index/legora",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 28 Oct 2026 09:30:00 GMT",
-    "importance_score": 7.1,
+    "id": "TechCrunch AI_a3f9912f4ba1af82",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "content": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Mon, 02 Nov 2026 19:25:59 +0000",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010925"
+    "created_at": "2026-11-03T00:11:02.039848"
+  },
+  {
+    "id": "TechCrunch AI_0f9aa6fb2a2e675e",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "content": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Mon, 02 Nov 2026 15:00:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-03T00:11:02.040098"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -245,7 +328,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:32.663337"
+    "created_at": "2026-11-03T00:11:08.169110"
+  },
+  {
+    "id": "TechCrunch AI_c6d773d8d7a5d481",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "summary": "The one-year-old startup is now valued at $300 million.",
+    "content": "The one-year-old startup is now valued at $300 million.",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Mon, 02 Nov 2026 23:13:53 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:02.039660"
+  },
+  {
+    "id": "Google AI Blog_2ab63363e650aef8",
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Animated carousel of images from AI posts in October",
+    "content": "Animated carousel of images from AI posts in October",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "source": "Google AI Blog",
+    "author": "Blog Team",
+    "published_date": "Mon, 02 Nov 2026 17:45:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:06.233188"
   },
   {
     "id": "OpenAI News_3943e7bea61d9a3a",
@@ -263,7 +380,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010296"
+    "created_at": "2026-11-03T00:11:09.441305"
   },
   {
     "id": "OpenAI News_62f3b82c81f255a4",
@@ -281,7 +398,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-02T14:11:34.010448"
+    "created_at": "2026-11-03T00:11:09.441440"
   },
   {
     "id": "OpenAI News_44239d6ace0040bd",
@@ -299,7 +416,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010530"
+    "created_at": "2026-11-03T00:11:09.441520"
   },
   {
     "id": "OpenAI News_39daa6748600be19",
@@ -317,7 +434,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010594"
+    "created_at": "2026-11-03T00:11:09.441582"
   },
   {
     "id": "OpenAI News_5d12b8529a7b5346",
@@ -335,7 +452,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010659"
+    "created_at": "2026-11-03T00:11:09.441643"
   },
   {
     "id": "The Verge AI_f9d4372f30b107b9",
@@ -353,7 +470,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536187"
+    "created_at": "2026-11-03T00:11:02.919254"
   },
   {
     "id": "The Verge AI_691499b6a19a18b2",
@@ -370,7 +487,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-02T14:11:27.536359"
+    "created_at": "2026-11-03T00:11:02.919413"
   },
   {
     "id": "arXiv AI_fe620924348aa624",
@@ -387,93 +504,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778768"
-  },
-  {
-    "id": "The Verge AI_23f2e3f8bd3cd49c",
-    "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-    "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "content": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-10-30T09:01:14-04:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536642"
-  },
-  {
-    "id": "Wired AI_982df33ffe6ec42b",
-    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-    "content": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "source": "Wired AI",
-    "author": "David Nield",
-    "published_date": "Mon, 02 Nov 2026 12:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538258"
-  },
-  {
-    "id": "Wired AI_779379a85c063969",
-    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "content": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-    "source": "Wired AI",
-    "author": "Matt Burgess",
-    "published_date": "Mon, 02 Nov 2026 10:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538375"
-  },
-  {
-    "id": "MIT Technology Review_d5754a80e0632bd4",
-    "title": "Stop counting tokens, start counting what ships",
-    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
-    "content": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
-    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-    "source": "MIT Technology Review",
-    "author": "Affan Syed",
-    "published_date": "Mon, 02 Nov 2026 13:10:32 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-02T14:11:31.641518"
-  },
-  {
-    "id": "MIT Technology Review_471ceacb93426580",
-    "title": "The Download: the agentic web arrives and the drive for safer roads",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous...",
-    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 02 Nov 2026 13:10:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:31.641613"
+    "created_at": "2026-11-03T00:11:15.372578"
   },
   {
     "id": "arXiv AI_dda55fb268a90607",
@@ -488,7 +519,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778052"
+    "created_at": "2026-11-03T00:11:15.371860"
   },
   {
     "id": "arXiv ML_1f6c3370ad2747bf",
@@ -503,41 +534,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.690479"
+    "created_at": "2026-11-03T00:11:16.122422"
   },
   {
-    "id": "TechCrunch AI_e8d3f90e22247891",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "content": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "id": "TechCrunch AI_42880a33ea55b644",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "content": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
     "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 31 Oct 2026 21:41:00 +0000",
+    "author": "Ram Iyer",
+    "published_date": "Mon, 02 Nov 2026 16:30:00 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567073"
-  },
-  {
-    "id": "The Verge AI_e85747b1bef0156c",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
-    "content": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "source": "The Verge AI",
-    "author": "Sean Hollister",
-    "published_date": "2026-10-31T12:05:00-04:00",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536006"
+    "created_at": "2026-11-03T00:11:02.039950"
   },
   {
     "id": "Wired AI_350ede127ed3dd7c",
@@ -555,7 +569,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538773"
+    "created_at": "2026-11-03T00:11:04.000790"
   },
   {
     "id": "arXiv AI_806704c121fda8b1",
@@ -570,42 +584,162 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.777818"
+    "created_at": "2026-11-03T00:11:15.371628"
   },
   {
-    "id": "TechCrunch AI_73e03af6485948f7",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "content": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "id": "Reddit ML_e6c70764abd1b64b",
+    "title": "To all ML PhDs, how are you guys doing these days? [D]",
+    "summary": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job.",
+    "content": "Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it? Yes, i know a PhD should primarily be about enjoying research, not getting an industry job.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+    "source": "Reddit ML",
+    "author": "/u/Hope999991",
+    "published_date": "2026-11-02T18:52:17+00:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:20.717781"
+  },
+  {
+    "id": "Reddit ML_bd9f4659d59acf41",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+    "summary": "Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms.",
+    "content": "Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+    "source": "Reddit ML",
+    "author": "/u/RobbinDeBank",
+    "published_date": "2026-11-02T20:18:26+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "neural network",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:20.717911"
+  },
+  {
+    "id": "TechCrunch AI_ae865289059a5444",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "content": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
     "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 01 Nov 2026 20:57:58 +0000",
+    "author": "Amanda Silberling",
+    "published_date": "Mon, 02 Nov 2026 16:23:21 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.566998"
+    "created_at": "2026-11-03T00:11:02.040029"
   },
   {
-    "id": "TechCrunch AI_629f5391c8289b31",
-    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-    "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "content": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "source": "TechCrunch AI",
-    "author": "Aditya Mehta",
-    "published_date": "Sat, 31 Oct 2026 01:20:05 +0000",
+    "id": "The Verge AI_74f793028344f3a8",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+    "content": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-02T12:51:19-05:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567342"
+    "created_at": "2026-11-03T00:11:02.918996"
+  },
+  {
+    "id": "Wired AI_982df33ffe6ec42b",
+    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "content": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "source": "Wired AI",
+    "author": "David Nield",
+    "published_date": "Mon, 02 Nov 2026 12:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:04.000316"
+  },
+  {
+    "id": "Wired AI_779379a85c063969",
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "content": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "source": "Wired AI",
+    "author": "Matt Burgess",
+    "published_date": "Mon, 02 Nov 2026 10:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:04.000400"
+  },
+  {
+    "id": "MIT Technology Review_1d1811f43a8ad900",
+    "title": "Raising the quality of insights in agentic analytics",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
+    "content": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights.",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Mon, 02 Nov 2026 17:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:07.039814"
+  },
+  {
+    "id": "MIT Technology Review_d5754a80e0632bd4",
+    "title": "Stop counting tokens, start counting what ships",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
+    "content": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "source": "MIT Technology Review",
+    "author": "Affan Syed",
+    "published_date": "Mon, 02 Nov 2026 13:10:32 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-03T00:11:07.039908"
+  },
+  {
+    "id": "MIT Technology Review_471ceacb93426580",
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous...",
+    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 02 Nov 2026 13:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:07.039992"
   },
   {
     "id": "arXiv ML_d37c7383e688bdc5",
@@ -623,22 +757,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.689440"
-  },
-  {
-    "id": "Reddit ML_a4b703aac99e63c3",
-    "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
-    "summary": "https://preview.redd.it/260fkihtk3zh1.png?width=2400format=pngauto=webps=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally.",
-    "content": "https://preview.redd.it/260fkihtk3zh1.png?width=2400format=pngauto=webps=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
-    "source": "Reddit ML",
-    "author": "/u/DotaMate",
-    "published_date": "2026-11-02T01:05:33+00:00",
-    "importance_score": 5.8999999999999995,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315672"
+    "created_at": "2026-11-03T00:11:16.121437"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -655,7 +774,56 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:29.583858"
+    "created_at": "2026-11-03T00:11:04.994462"
+  },
+  {
+    "id": "Reddit ML_5d1db385ac30f40e",
+    "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+    "summary": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by...",
+    "content": "I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
+    "source": "Reddit ML",
+    "author": "/u/InsectActive95",
+    "published_date": "2026-11-02T19:00:24+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "machine learning"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:20.718043"
+  },
+  {
+    "id": "Reddit ML_9a8ad54ce7ebee3a",
+    "title": "LightMIS: Ultra-lightweight medical image segmentation for edge devices [R]",
+    "summary": "Hi everyone, I am one of the authors of LightMIS, and I would like to share our work on 2D binary medical image segmentation. LightMIS has 131K parameters and aggregates multi-scale encoder features directly, without a learned stage-wise decoder.",
+    "content": "Hi everyone, I am one of the authors of LightMIS, and I would like to share our work on 2D binary medical image segmentation. LightMIS has 131K parameters and aggregates multi-scale encoder features directly, without a learned stage-wise decoder.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/",
+    "source": "Reddit ML",
+    "author": "/u/OkLion2068",
+    "published_date": "2026-11-02T20:22:30+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:20.718637"
+  },
+  {
+    "id": "The Verge AI_e85747b1bef0156c",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "content": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It []",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "source": "The Verge AI",
+    "author": "Sean Hollister",
+    "published_date": "2026-10-31T12:05:00-04:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:02.919068"
   },
   {
     "id": "The Verge AI_abf2dc55971c04aa",
@@ -672,7 +840,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536093"
+    "created_at": "2026-11-03T00:11:02.919140"
   },
   {
     "id": "Wired AI_ae6969d4d11563ac",
@@ -689,7 +857,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538612"
+    "created_at": "2026-11-03T00:11:04.000630"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -706,24 +874,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:30.715508"
-  },
-  {
-    "id": "Google AI Blog_af67a17b1cd2bef0",
-    "title": "The latest AI news we announced in September 2026",
-    "summary": "A video showing the September AI updates",
-    "content": "A video showing the September AI updates",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "source": "Google AI Blog",
-    "author": "Blog Team",
-    "published_date": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:30.715579"
+    "created_at": "2026-11-03T00:11:06.233390"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -740,7 +891,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:30.715722"
+    "created_at": "2026-11-03T00:11:06.233601"
   },
   {
     "id": "arXiv AI_2eadd8ffba43c561",
@@ -757,7 +908,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.777934"
+    "created_at": "2026-11-03T00:11:15.371745"
   },
   {
     "id": "arXiv AI_13b933270095a3e7",
@@ -774,7 +925,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778425"
+    "created_at": "2026-11-03T00:11:15.372225"
   },
   {
     "id": "arXiv ML_fe46457118a09a46",
@@ -792,22 +943,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.690360"
-  },
-  {
-    "id": "Reddit ML_d16fddb8be8fc9f2",
-    "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
-    "summary": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique objects and their attributes.",
-    "content": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique objects and their attributes.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
-    "source": "Reddit ML",
-    "author": "/u/Expert-Ad598",
-    "published_date": "2026-11-02T05:15:50+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315403"
+    "created_at": "2026-11-03T00:11:16.122307"
   },
   {
     "id": "Wired AI_035908bdd0c66de3",
@@ -824,7 +960,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538921"
+    "created_at": "2026-11-03T00:11:04.000938"
+  },
+  {
+    "id": "OpenAI News_9cfd0d82161b894a",
+    "title": "Qodo builds context into AI code review with Codex",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "content": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:09.441234"
   },
   {
     "id": "arXiv AI_845ea5e621cb9425",
@@ -841,7 +994,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778314"
+    "created_at": "2026-11-03T00:11:15.372100"
   },
   {
     "id": "arXiv AI_677a9ef01985da02",
@@ -856,7 +1009,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778540"
+    "created_at": "2026-11-03T00:11:15.372347"
   },
   {
     "id": "arXiv AI_69e8137ecbb0f861",
@@ -873,7 +1026,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.778654"
+    "created_at": "2026-11-03T00:11:15.372463"
   },
   {
     "id": "arXiv ML_88d6bb2e6c14e2db",
@@ -888,7 +1041,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.689594"
+    "created_at": "2026-11-03T00:11:16.121573"
   },
   {
     "id": "arXiv ML_7f2ba917eaae6c19",
@@ -905,7 +1058,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.689855"
+    "created_at": "2026-11-03T00:11:16.121820"
   },
   {
     "id": "arXiv ML_f015ee82c62e8a75",
@@ -920,7 +1073,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.689977"
+    "created_at": "2026-11-03T00:11:16.121936"
   },
   {
     "id": "arXiv ML_488f6937fdc0a4fa",
@@ -937,7 +1090,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.690104"
+    "created_at": "2026-11-03T00:11:16.122058"
   },
   {
     "id": "arXiv ML_63136c3daf6ec025",
@@ -954,58 +1107,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.690611"
-  },
-  {
-    "id": "Lobsters AI_97872e94c67f8a05",
-    "title": "An easy way to try local AI with braindead-local-intelligence",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
-    "source": "Lobsters AI",
-    "author": "dataswamp.org via msangi",
-    "published_date": "Sun, 01 Nov 2026 14:26:47 -0600",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.835951"
-  },
-  {
-    "id": "TechCrunch AI_53fc5207d1b8e335",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "content": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 31 Oct 2026 21:17:03 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567153"
-  },
-  {
-    "id": "TechCrunch AI_7199a576c2a71031",
-    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "content": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Fri, 30 Oct 2026 21:54:34 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567510"
+    "created_at": "2026-11-03T00:11:16.122550"
   },
   {
     "id": "Wired AI_514863899f628680",
@@ -1022,7 +1124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538452"
+    "created_at": "2026-11-03T00:11:04.000469"
   },
   {
     "id": "arXiv AI_4bd8e7c309512261",
@@ -1037,7 +1139,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:39.777686"
+    "created_at": "2026-11-03T00:11:15.371496"
   },
   {
     "id": "arXiv ML_45d842273d7d2bd3",
@@ -1052,7 +1154,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.689723"
+    "created_at": "2026-11-03T00:11:16.121695"
   },
   {
     "id": "arXiv ML_0b189994d1dd49f6",
@@ -1067,7 +1169,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:40.690216"
+    "created_at": "2026-11-03T00:11:16.122165"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1082,94 +1184,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315123"
+    "created_at": "2026-11-03T00:11:20.717656"
   },
   {
-    "id": "Reddit ML_13c17790fffa63f1",
-    "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
-    "summary": "Paper: https://arxiv.org/abs/2610.39295 Code + verification package (every number in the paper is checked by a script): https://github.com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface.",
-    "content": "Paper: https://arxiv.org/abs/2610.39295 Code + verification package (every number in the paper is checked by a script): https://github.com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
+    "id": "Reddit ML_eeeb8d6157cc7136",
+    "title": "Small-scale check of \"good views beat next-token prediction\" (Balestriero & LeCun 2026): human captions only, 11M-param encoders [P]",
+    "summary": "The paper claims text models align with image models faster when trained on good views (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. Its largest run used captions written by an image captioner, so image information could have leaked in.",
+    "content": "The paper claims text models align with image models faster when trained on good views (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. Its largest run used captions written by an image captioner, so image information could have leaked in.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/",
     "source": "Reddit ML",
-    "author": "/u/SwimmingAmbition5148",
-    "published_date": "2026-11-02T04:30:11+00:00",
+    "author": "/u/Traditional_Frame763",
+    "published_date": "2026-11-02T15:08:41+00:00",
     "importance_score": 5.3,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315829"
-  },
-  {
-    "id": "Reddit ML_08320e26747ce447",
-    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
-    "summary": "For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models.",
-    "content": "For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
-    "source": "Reddit ML",
-    "author": "/u/ScarlyLamorna",
-    "published_date": "2026-11-01T12:28:22+00:00",
-    "importance_score": 5.199999999999999,
-    "category": "tech",
-    "keywords": [
-      "machine learning",
-      "deep learning",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.315931"
-  },
-  {
-    "id": "OpenAI News_f4a7a50201117021",
-    "title": "The future of the firm",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-    "content": "How AI might enter the org chart—beneath, beside, and between us.",
-    "url": "https://openai.com/index/the-future-of-the-firm",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 28 Oct 2026 10:00:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:34.010859"
-  },
-  {
-    "id": "Lobsters AI_33716d6414646c92",
-    "title": "Let’s Build a Brain",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-    "source": "Lobsters AI",
-    "author": "aatishb.com via signal-11",
-    "published_date": "Sat, 31 Oct 2026 10:09:27 -0500",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.836022"
-  },
-  {
-    "id": "TechCrunch AI_7560f75e37e28062",
-    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "content": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Fri, 30 Oct 2026 22:56:13 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:26.567435"
+    "created_at": "2026-11-03T00:11:20.718316"
   },
   {
     "id": "The Verge AI_2eb72ca47d96a295",
@@ -1186,24 +1218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536548"
-  },
-  {
-    "id": "The Verge AI_9da4a654864f5604",
-    "title": "Maine’s data center revolt will decide who controls the Senate",
-    "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.",
-    "content": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-    "source": "The Verge AI",
-    "author": "Abigail Bassett",
-    "published_date": "2026-10-30T07:00:00-04:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536726"
+    "created_at": "2026-11-03T00:11:02.919602"
   },
   {
     "id": "Wired AI_519e83dbfb65765e",
@@ -1220,7 +1235,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538538"
+    "created_at": "2026-11-03T00:11:04.000555"
   },
   {
     "id": "Wired AI_59b5de442eae2551",
@@ -1237,7 +1252,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-02T14:11:28.538684"
+    "created_at": "2026-11-03T00:11:04.000701"
   },
   {
     "id": "Wired AI_3f869c9512c5cd6d",
@@ -1254,7 +1269,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:28.538847"
+    "created_at": "2026-11-03T00:11:04.000864"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1271,7 +1286,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:30.715407"
+    "created_at": "2026-11-03T00:11:06.233291"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1288,7 +1303,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:30.715644"
+    "created_at": "2026-11-03T00:11:06.233522"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -1305,7 +1320,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:31.641821"
+    "created_at": "2026-11-03T00:11:07.040235"
   },
   {
     "id": "MIT Technology Review_7fbb76851893e19d",
@@ -1322,24 +1337,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:31.642017"
-  },
-  {
-    "id": "MIT Technology Review_cbd86f32c767ff67",
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
-    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 28 Oct 2026 12:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:31.642110"
+    "created_at": "2026-11-03T00:11:07.040462"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1356,7 +1354,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:29.583929"
+    "created_at": "2026-11-03T00:11:04.994534"
   },
   {
     "id": "Ars Technica_ac3fc9d41f7a94ef",
@@ -1373,7 +1371,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:29.583984"
+    "created_at": "2026-11-03T00:11:04.994588"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1390,7 +1388,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:36.781439"
+    "created_at": "2026-11-03T00:11:12.185590"
   },
   {
     "id": "Hugging Face Blog_ee94897e260579b3",
@@ -1407,7 +1405,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:36.781527"
+    "created_at": "2026-11-03T00:11:12.185684"
   },
   {
     "id": "Hugging Face Blog_c12a33d3c5b99de8",
@@ -1424,24 +1422,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:36.781586"
-  },
-  {
-    "id": "Reddit ML_ca467e57968e8ee0",
-    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-    "summary": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc.",
-    "content": "I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-    "source": "Reddit ML",
-    "author": "/u/OkCampaign8400",
-    "published_date": "2026-11-01T00:07:04+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.316042"
+    "created_at": "2026-11-03T00:11:12.185746"
   },
   {
     "id": "The Verge AI_6744285a36f91344",
@@ -1458,7 +1439,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:27.536457"
+    "created_at": "2026-11-03T00:11:02.919509"
   },
   {
     "id": "MIT Technology Review_520482b09640602d",
@@ -1475,7 +1456,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-02T14:11:31.641707"
+    "created_at": "2026-11-03T00:11:07.040085"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1492,7 +1473,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:29.583784"
+    "created_at": "2026-11-03T00:11:04.994385"
+  },
+  {
+    "id": "Lobsters AI_33716d6414646c92",
+    "title": "Let’s Build a Brain",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+    "source": "Lobsters AI",
+    "author": "aatishb.com via signal-11",
+    "published_date": "Sat, 31 Oct 2026 10:09:27 -0500",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-03T00:11:21.399683"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1509,7 +1507,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.836083"
+    "created_at": "2026-11-03T00:11:21.399744"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1526,7 +1524,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.836144"
+    "created_at": "2026-11-03T00:11:21.399807"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1543,6 +1541,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-02T14:11:45.836217"
+    "created_at": "2026-11-03T00:11:21.399883"
   }
 ]
