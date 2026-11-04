@@ -8,7 +8,7 @@
     "source": "The Verge AI",
     "author": "Hayden Field",
     "published_date": "2026-11-03T13:30:42-05:00",
-    "importance_score": 9.299999999999999,
+    "importance_score": 8.799999999999999,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -17,24 +17,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567686"
-  },
-  {
-    "id": "The Verge AI_eb75d664b6acba24",
-    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will...",
-    "content": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will...",
-    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-03T12:00:04-05:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567921"
+    "created_at": "2026-11-04T03:54:13.710417"
   },
   {
     "id": "Wired AI_6cb8de71a615292e",
@@ -55,7 +38,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.551651"
+    "created_at": "2026-11-04T03:54:14.655250"
   },
   {
     "id": "OpenAI News_bb1979269d0bd916",
@@ -75,24 +58,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997565"
+    "created_at": "2026-11-04T03:54:19.971717"
   },
   {
-    "id": "TechCrunch AI_84d0acda4f236d46",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-    "content": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "id": "TechCrunch AI_527e74a6bd4b2b3c",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "content": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Tue, 03 Nov 2026 19:34:43 +0000",
+    "author": "Russell Brandom",
+    "published_date": "Tue, 03 Nov 2026 22:41:03 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:12.653296"
+  },
+  {
+    "id": "The Verge AI_eb75d664b6acba24",
+    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will...",
+    "content": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will...",
+    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-03T12:00:04-05:00",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575278"
+    "created_at": "2026-11-04T03:54:13.710582"
   },
   {
     "id": "OpenAI News_2b73483503a917c6",
@@ -110,7 +111,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997403"
+    "created_at": "2026-11-04T03:54:19.971599"
   },
   {
     "id": "OpenAI News_8407f454f8701132",
@@ -128,7 +129,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997479"
+    "created_at": "2026-11-04T03:54:19.971655"
+  },
+  {
+    "id": "TechCrunch AI_84d0acda4f236d46",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+    "content": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Tue, 03 Nov 2026 19:34:43 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:12.653495"
   },
   {
     "id": "OpenAI News_98d55e59fb777c3a",
@@ -139,66 +157,14 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997643"
-  },
-  {
-    "id": "The Verge AI_232a4e7b204e31a0",
-    "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-    "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition.",
-    "content": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-11-03T10:00:44-05:00",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.568101"
-  },
-  {
-    "id": "The Verge AI_1a4472c9ced8fd15",
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
-    "content": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
-    "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-03T13:14:50-05:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567756"
-  },
-  {
-    "id": "The Verge AI_56eec5cc850ac358",
-    "title": "Apple starts giving Siri AI access to third-party apps",
-    "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language...",
-    "content": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language...",
-    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-03T15:16:17-05:00",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567504"
+    "created_at": "2026-11-04T03:54:19.971771"
   },
   {
     "id": "OpenAI News_c4e8c3ff95c1c241",
@@ -216,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997703"
+    "created_at": "2026-11-04T03:54:19.971811"
   },
   {
     "id": "OpenAI News_c866cc3c1b91cb7d",
@@ -234,25 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997775"
-  },
-  {
-    "id": "OpenAI News_7dff79a2d3b4e475",
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "content": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 02 Nov 2026 18:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997835"
+    "created_at": "2026-11-04T03:54:19.971859"
   },
   {
     "id": "OpenAI News_6fa5fae93d108869",
@@ -270,7 +218,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997895"
+    "created_at": "2026-11-04T03:54:19.971900"
+  },
+  {
+    "id": "OpenAI News_7dff79a2d3b4e475",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "content": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:19.971956"
+  },
+  {
+    "id": "Reddit ML_f6d16b0dfe1dce33",
+    "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+    "summary": "Question to all the PhDs  research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat).",
+    "content": "Question to all the PhDs  research engineers in this group. Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
+    "source": "Reddit ML",
+    "author": "/u/turing-math-labs",
+    "published_date": "2026-11-04T01:31:50+00:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "DeepMind"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:31.301828"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -288,7 +271,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:13.711314"
+    "created_at": "2026-11-04T03:54:18.820044"
   },
   {
     "id": "arXiv AI_1932233781f62ddf",
@@ -307,59 +290,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995924"
+    "created_at": "2026-11-04T03:54:26.097649"
   },
   {
-    "id": "The Verge AI_7dc252375d4e2998",
-    "title": "Those Jeff Bezos hair transplant photos are very fake",
-    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially...",
-    "content": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially...",
-    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "id": "The Verge AI_1a4472c9ced8fd15",
+    "title": "Indie games are missing launch dates because Steam is backed up",
+    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
+    "content": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates.",
+    "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
     "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-03T16:01:07-05:00",
-    "importance_score": 7.0,
+    "author": "Jay Peters",
+    "published_date": "2026-11-03T13:14:50-05:00",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567400"
-  },
-  {
-    "id": "The Verge AI_76722f1df656891c",
-    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-    "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind,...",
-    "content": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind,...",
-    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-03T13:31:00-05:00",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567614"
-  },
-  {
-    "id": "OpenAI News_7e094a9bf31911d4",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "content": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 02 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.998017"
+    "created_at": "2026-11-04T03:54:13.710466"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -377,24 +325,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:13.711421"
-  },
-  {
-    "id": "TechCrunch AI_68ae0fc7f6d78b73",
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "content": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Tue, 03 Nov 2026 21:43:08 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575187"
+    "created_at": "2026-11-04T03:54:18.820127"
   },
   {
     "id": "TechCrunch AI_9ca8acb2c8200e97",
@@ -411,7 +342,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575460"
+    "created_at": "2026-11-04T03:54:12.653641"
   },
   {
     "id": "TechCrunch AI_aa040af005b728c5",
@@ -428,24 +359,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575533"
+    "created_at": "2026-11-04T03:54:12.653689"
   },
   {
-    "id": "The Verge AI_fea180fc982ab8ac",
-    "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-    "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share.",
-    "content": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+    "id": "The Verge AI_56eec5cc850ac358",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language...",
+    "content": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language...",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
     "source": "The Verge AI",
-    "author": "Rani Molla",
-    "published_date": "2026-11-03T10:24:51-05:00",
+    "author": "Emma Roth",
+    "published_date": "2026-11-03T15:16:17-05:00",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.568015"
+    "created_at": "2026-11-04T03:54:13.710293"
   },
   {
     "id": "arXiv AI_1dee61c05074d172",
@@ -460,7 +391,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995321"
+    "created_at": "2026-11-04T03:54:26.097224"
   },
   {
     "id": "MIT Technology Review_694e0c8cb0100017",
@@ -477,7 +408,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.585886"
+    "created_at": "2026-11-04T03:54:17.672519"
+  },
+  {
+    "id": "The Verge AI_7dc252375d4e2998",
+    "title": "Those Jeff Bezos hair transplant photos are very fake",
+    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially...",
+    "content": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially...",
+    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-03T16:01:07-05:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:13.710241"
+  },
+  {
+    "id": "The Verge AI_76722f1df656891c",
+    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind,...",
+    "content": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind,...",
+    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-03T13:31:00-05:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:13.710366"
   },
   {
     "id": "OpenAI News_1b410ca6e37aab66",
@@ -494,7 +459,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:14.997954"
+    "created_at": "2026-11-04T03:54:19.971999"
+  },
+  {
+    "id": "OpenAI News_7e094a9bf31911d4",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "content": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:19.972042"
   },
   {
     "id": "arXiv AI_275c4673dd08c450",
@@ -509,13 +492,13 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995451"
+    "created_at": "2026-11-04T03:54:26.097316"
   },
   {
     "id": "TechCrunch AI_76e53d4ab5e86f11",
     "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
     "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "source": "TechCrunch AI",
     "author": "Aditya Mehta",
@@ -526,41 +509,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575055"
+    "created_at": "2026-11-04T03:54:12.653371"
   },
   {
-    "id": "The Verge AI_6428464eb7d163b0",
-    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.",
-    "content": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.",
-    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+    "id": "The Verge AI_bad0c14e8ec64136",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.",
+    "content": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
     "source": "The Verge AI",
     "author": "Jay Peters",
-    "published_date": "2026-11-03T13:00:00-05:00",
+    "published_date": "2026-11-03T19:42:10-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:08.567848"
+    "created_at": "2026-11-04T03:54:13.710115"
   },
   {
-    "id": "TechCrunch AI_8ab37ac308bcb316",
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "content": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "id": "The Verge AI_648c2811c188d26d",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, []",
+    "content": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "source": "The Verge AI",
+    "author": "Elizabeth Lopatto",
+    "published_date": "2026-11-03T18:37:45-05:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:13.710182"
+  },
+  {
+    "id": "TechCrunch AI_68ae0fc7f6d78b73",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "content": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
     "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 03 Nov 2026 18:42:16 +0000",
+    "author": "Jagmeet Singh",
+    "published_date": "Tue, 03 Nov 2026 21:43:08 +0000",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:07.575374"
+    "created_at": "2026-11-04T03:54:12.653439"
   },
   {
     "id": "Wired AI_350ede127ed3dd7c",
@@ -578,7 +578,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.552291"
+    "created_at": "2026-11-04T03:54:14.655692"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -595,24 +595,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:11.724483"
+    "created_at": "2026-11-04T03:54:16.784930"
   },
   {
-    "id": "Reddit ML_bd684e1b1f382288",
-    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-    "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
-    "content": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-    "source": "Reddit ML",
-    "author": "/u/shanekj",
-    "published_date": "2026-11-03T19:29:54+00:00",
-    "importance_score": 6.0,
+    "id": "The Verge AI_6428464eb7d163b0",
+    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.",
+    "content": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.",
+    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-03T13:00:00-05:00",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.131640"
+    "created_at": "2026-11-04T03:54:13.710531"
   },
   {
     "id": "Wired AI_f85ca5868e29090f",
@@ -629,7 +629,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.551739"
+    "created_at": "2026-11-04T03:54:14.655318"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -646,7 +646,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.585775"
+    "created_at": "2026-11-04T03:54:17.672437"
   },
   {
     "id": "MIT Technology Review_a5aa8cfd2b75014a",
@@ -663,7 +663,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.585990"
+    "created_at": "2026-11-04T03:54:17.672595"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -680,7 +680,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:10.583882"
+    "created_at": "2026-11-04T03:54:15.738928"
+  },
+  {
+    "id": "TechCrunch AI_8ab37ac308bcb316",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+    "content": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 03 Nov 2026 18:42:16 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:12.653579"
   },
   {
     "id": "Wired AI_ae6969d4d11563ac",
@@ -697,7 +714,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.552105"
+    "created_at": "2026-11-04T03:54:14.655581"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -714,7 +731,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:11.724650"
+    "created_at": "2026-11-04T03:54:16.785056"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -731,7 +748,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:11.724865"
+    "created_at": "2026-11-04T03:54:16.785201"
   },
   {
     "id": "arXiv AI_274b83eaeaf18810",
@@ -748,7 +765,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995056"
+    "created_at": "2026-11-04T03:54:26.097063"
   },
   {
     "id": "arXiv AI_64893450d2d02a27",
@@ -765,7 +782,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995669"
+    "created_at": "2026-11-04T03:54:26.097468"
   },
   {
     "id": "arXiv AI_fad53855d6de5c50",
@@ -782,7 +799,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995788"
+    "created_at": "2026-11-04T03:54:26.097552"
   },
   {
     "id": "arXiv ML_17549f0f7a65655a",
@@ -799,7 +816,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954326"
+    "created_at": "2026-11-04T03:54:26.911930"
   },
   {
     "id": "arXiv ML_2a3c3aa678382670",
@@ -816,7 +833,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954679"
+    "created_at": "2026-11-04T03:54:26.912207"
   },
   {
     "id": "arXiv ML_4023baffeba9cb9f",
@@ -834,7 +851,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954891"
+    "created_at": "2026-11-04T03:54:26.912364"
   },
   {
     "id": "arXiv ML_82914e3b9a22f442",
@@ -851,7 +868,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.955233"
+    "created_at": "2026-11-04T03:54:26.912583"
   },
   {
     "id": "arXiv ML_d1cea29f6669d350",
@@ -869,7 +886,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.955341"
+    "created_at": "2026-11-04T03:54:26.912660"
   },
   {
     "id": "arXiv AI_e703cca0ea4bb645",
@@ -886,7 +903,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995196"
+    "created_at": "2026-11-04T03:54:26.097145"
   },
   {
     "id": "arXiv ML_41a86e254b1d0db7",
@@ -903,7 +920,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954575"
+    "created_at": "2026-11-04T03:54:26.912128"
   },
   {
     "id": "arXiv ML_06d7f4c6401c0ec2",
@@ -920,7 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954785"
+    "created_at": "2026-11-04T03:54:26.912287"
   },
   {
     "id": "arXiv ML_949ac4202239a172",
@@ -937,7 +954,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.954992"
+    "created_at": "2026-11-04T03:54:26.912436"
   },
   {
     "id": "arXiv ML_e96420e4ad023cd7",
@@ -954,7 +971,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:21.955112"
+    "created_at": "2026-11-04T03:54:26.912517"
+  },
+  {
+    "id": "Reddit ML_bd684e1b1f382288",
+    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+    "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
+    "content": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
+    "source": "Reddit ML",
+    "author": "/u/shanekj",
+    "published_date": "2026-11-03T19:29:54+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:31.301635"
   },
   {
     "id": "Reddit ML_ef3f0abc98522248",
@@ -972,7 +1006,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.131533"
+    "created_at": "2026-11-04T03:54:31.301765"
   },
   {
     "id": "Wired AI_982df33ffe6ec42b",
@@ -989,7 +1023,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.551820"
+    "created_at": "2026-11-04T03:54:14.655378"
   },
   {
     "id": "Wired AI_779379a85c063969",
@@ -1006,7 +1040,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.551892"
+    "created_at": "2026-11-04T03:54:14.655430"
   },
   {
     "id": "MIT Technology Review_1d1811f43a8ad900",
@@ -1023,7 +1057,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.586072"
+    "created_at": "2026-11-04T03:54:17.672656"
   },
   {
     "id": "MIT Technology Review_d5754a80e0632bd4",
@@ -1040,7 +1074,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-03T22:41:12.586168"
+    "created_at": "2026-11-04T03:54:17.672712"
   },
   {
     "id": "MIT Technology Review_471ceacb93426580",
@@ -1057,7 +1091,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.586254"
+    "created_at": "2026-11-04T03:54:17.672769"
   },
   {
     "id": "arXiv AI_068d6b0db723132a",
@@ -1072,7 +1106,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.994919"
+    "created_at": "2026-11-04T03:54:26.096958"
   },
   {
     "id": "arXiv AI_ffb9b5947a1adc3e",
@@ -1087,7 +1121,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:20.995543"
+    "created_at": "2026-11-04T03:54:26.097381"
   },
   {
     "id": "arXiv ML_192a5ccdb3fac936",
@@ -1102,7 +1136,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-11-03T22:41:21.954457"
+    "created_at": "2026-11-04T03:54:26.912037"
   },
   {
     "id": "Reddit ML_e6c70764abd1b64b",
@@ -1120,7 +1154,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.131871"
+    "created_at": "2026-11-04T03:54:31.302006"
   },
   {
     "id": "Reddit ML_bd9f4659d59acf41",
@@ -1138,7 +1172,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.131769"
+    "created_at": "2026-11-04T03:54:31.301930"
   },
   {
     "id": "Wired AI_514863899f628680",
@@ -1155,7 +1189,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.551955"
+    "created_at": "2026-11-04T03:54:14.655475"
   },
   {
     "id": "Wired AI_519e83dbfb65765e",
@@ -1172,7 +1206,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:09.552033"
+    "created_at": "2026-11-04T03:54:14.655530"
   },
   {
     "id": "Wired AI_59b5de442eae2551",
@@ -1189,7 +1223,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-03T22:41:09.552201"
+    "created_at": "2026-11-04T03:54:14.655629"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1206,7 +1240,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:11.724555"
+    "created_at": "2026-11-04T03:54:16.784986"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1223,7 +1257,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:11.724788"
+    "created_at": "2026-11-04T03:54:16.785146"
   },
   {
     "id": "MIT Technology Review_e39df0beece7ef11",
@@ -1240,7 +1274,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:12.586451"
+    "created_at": "2026-11-04T03:54:17.672913"
   },
   {
     "id": "Ars Technica_843cff3688b0a670",
@@ -1257,7 +1291,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:10.583952"
+    "created_at": "2026-11-04T03:54:15.739005"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1274,22 +1308,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:17.726747"
-  },
-  {
-    "id": "Reddit ML_a17bd33de43e4a67",
-    "title": "[D] Self-Promotion Thread",
-    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "content": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-    "source": "Reddit ML",
-    "author": "/u/AutoModerator",
-    "published_date": "2026-11-02T03:15:07+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.131355"
+    "created_at": "2026-11-04T03:54:22.816407"
   },
   {
     "id": "Reddit ML_5d1db385ac30f40e",
@@ -1306,7 +1325,7 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.132011"
+    "created_at": "2026-11-04T03:54:31.302100"
   },
   {
     "id": "MIT Technology Review_520482b09640602d",
@@ -1323,7 +1342,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-03T22:41:12.586344"
+    "created_at": "2026-11-04T03:54:17.672835"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1340,7 +1359,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:10.583808"
+    "created_at": "2026-11-04T03:54:15.738859"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1357,7 +1376,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.772722"
+    "created_at": "2026-11-04T03:54:31.756374"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1374,7 +1393,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.772783"
+    "created_at": "2026-11-04T03:54:31.756415"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1391,7 +1410,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.772840"
+    "created_at": "2026-11-04T03:54:31.756451"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1408,7 +1427,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.772899"
+    "created_at": "2026-11-04T03:54:31.756492"
+  },
+  {
+    "id": "Reddit ML_a17bd33de43e4a67",
+    "title": "[D] Self-Promotion Thread",
+    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
+    "content": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+    "source": "Reddit ML",
+    "author": "/u/AutoModerator",
+    "published_date": "2026-11-02T03:15:07+00:00",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-04T03:54:31.301543"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1425,6 +1459,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-03T22:41:26.772972"
+    "created_at": "2026-11-04T03:54:31.756542"
   }
 ]
