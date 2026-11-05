@@ -15,7 +15,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230016"
+    "created_at": "2026-11-05T04:14:12.912996"
   },
   {
     "id": "The Verge AI_2b6a3f9b2db6d130",
@@ -26,7 +26,7 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-11-04T13:00:00-05:00",
-    "importance_score": 8.5,
+    "importance_score": 8.0,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -35,76 +35,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909490"
-  },
-  {
-    "id": "TechCrunch AI_438184ae2018ac0c",
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-    "content": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Wed, 04 Nov 2026 21:25:44 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810015"
-  },
-  {
-    "id": "TechCrunch AI_93d6d70f2ae806fa",
-    "title": "Open source AI is booming. Hugging Face explains who profits.",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
-    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
-    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo",
-    "published_date": "Wed, 04 Nov 2026 19:30:04 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810151"
-  },
-  {
-    "id": "Wired AI_e82a2e77865526df",
-    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-    "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "content": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 04 Nov 2026 19:16:25 +0000",
-    "importance_score": 7.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948601"
-  },
-  {
-    "id": "TechCrunch AI_f41861d0dafdccda",
-    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
-    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
-    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Rebecca Bellan",
-    "published_date": "Wed, 04 Nov 2026 18:44:57 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810355"
+    "created_at": "2026-11-05T04:14:06.676955"
   },
   {
     "id": "Wired AI_6cb8de71a615292e",
@@ -125,7 +56,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948744"
+    "created_at": "2026-11-05T04:14:07.662358"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -143,7 +74,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.229945"
+    "created_at": "2026-11-05T04:14:12.912951"
   },
   {
     "id": "OpenAI News_0383dc0a218dd4af",
@@ -161,7 +92,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230076"
+    "created_at": "2026-11-05T04:14:12.913032"
+  },
+  {
+    "id": "TechCrunch AI_438184ae2018ac0c",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "content": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Wed, 04 Nov 2026 21:25:44 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.589825"
   },
   {
     "id": "OpenAI News_bb1979269d0bd916",
@@ -181,24 +130,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230327"
+    "created_at": "2026-11-05T04:14:12.913215"
   },
   {
-    "id": "The Verge AI_86a47f2a20b8311a",
-    "title": "Nothing teases a screen-free AI device ahead of launch next month",
-    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
-    "content": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-04T13:26:07-05:00",
+    "id": "TechCrunch AI_93d6d70f2ae806fa",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
+    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo",
+    "published_date": "Wed, 04 Nov 2026 19:30:04 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909420"
+    "created_at": "2026-11-05T04:14:05.589908"
   },
   {
     "id": "The Verge AI_695ad9f95c0d60c1",
@@ -216,75 +165,76 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909681"
+    "created_at": "2026-11-05T04:14:06.677085"
   },
   {
-    "id": "TechCrunch AI_ae33bc9655b9cbf8",
-    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "content": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Wed, 04 Nov 2026 22:13:16 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.809872"
-  },
-  {
-    "id": "TechCrunch AI_d4261d1361d01934",
-    "title": "Meta acquires AI coding startup Conductor",
-    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-    "content": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Wed, 04 Nov 2026 21:10:56 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810073"
-  },
-  {
-    "id": "TechCrunch AI_68e934c5615eed14",
-    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-    "content": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 04 Nov 2026 19:29:52 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810238"
-  },
-  {
-    "id": "Wired AI_5ac00dd88bafdec8",
-    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-    "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-    "content": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
-    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "id": "Wired AI_e82a2e77865526df",
+    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "content": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
     "source": "Wired AI",
-    "author": "Tess Owen",
-    "published_date": "Wed, 04 Nov 2026 20:41:29 +0000",
+    "author": "Will Knight",
+    "published_date": "Wed, 04 Nov 2026 19:16:25 +0000",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:07.662270"
+  },
+  {
+    "id": "TechCrunch AI_fe6dce4309a8039c",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "content": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 05 Nov 2026 01:26:22 +0000",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948456"
+    "created_at": "2026-11-05T04:14:05.589610"
+  },
+  {
+    "id": "TechCrunch AI_f41861d0dafdccda",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
+    "content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models...",
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Rebecca Bellan",
+    "published_date": "Wed, 04 Nov 2026 18:44:57 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.590035"
+  },
+  {
+    "id": "OpenAI News_a1d1d22e353c36a1",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "content": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:12.913076"
   },
   {
     "id": "OpenAI News_2b73483503a917c6",
@@ -302,7 +252,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230187"
+    "created_at": "2026-11-05T04:14:12.913141"
   },
   {
     "id": "OpenAI News_8407f454f8701132",
@@ -320,25 +270,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230257"
-  },
-  {
-    "id": "OpenAI News_98d55e59fb777c3a",
-    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-    "content": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 03 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230391"
+    "created_at": "2026-11-05T04:14:12.913171"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -356,7 +288,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:12.139665"
+    "created_at": "2026-11-05T04:14:11.668157"
   },
   {
     "id": "The Verge AI_ab7d84502ae3bb47",
@@ -373,24 +305,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909265"
+    "created_at": "2026-11-05T04:14:06.676804"
   },
   {
-    "id": "Wired AI_b1dd1d50bfd2ffa7",
-    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-    "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-    "content": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Wed, 04 Nov 2026 20:06:21 +0000",
+    "id": "Reddit ML_d1c478a8c17aeaef",
+    "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+    "summary": "So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes so much time and compute and then reproducing results is another headache.",
+    "content": "So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes so much time and compute and then reproducing results is another headache.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+    "source": "Reddit ML",
+    "author": "/u/Key_Recording9766",
+    "published_date": "2026-11-05T03:33:01+00:00",
     "importance_score": 7.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948529"
+    "created_at": "2026-11-05T04:14:24.220507"
   },
   {
     "id": "Reddit ML_297b84ba7bced57b",
@@ -408,7 +340,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489354"
+    "created_at": "2026-11-05T04:14:24.220749"
+  },
+  {
+    "id": "The Verge AI_86a47f2a20b8311a",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
+    "content": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-04T13:26:07-05:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:06.676910"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -426,7 +375,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:12.139761"
+    "created_at": "2026-11-05T04:14:11.668216"
+  },
+  {
+    "id": "TechCrunch AI_ae33bc9655b9cbf8",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "content": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Wed, 04 Nov 2026 22:13:16 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.589740"
+  },
+  {
+    "id": "TechCrunch AI_d4261d1361d01934",
+    "title": "Meta acquires AI coding startup Conductor",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "content": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Wed, 04 Nov 2026 21:10:56 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.589859"
+  },
+  {
+    "id": "TechCrunch AI_68e934c5615eed14",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "content": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 04 Nov 2026 19:29:52 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.589970"
   },
   {
     "id": "The Verge AI_8174885ed35a46d2",
@@ -443,7 +443,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909742"
+    "created_at": "2026-11-05T04:14:06.677124"
+  },
+  {
+    "id": "Wired AI_5ac00dd88bafdec8",
+    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+    "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "content": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "source": "Wired AI",
+    "author": "Tess Owen",
+    "published_date": "Wed, 04 Nov 2026 20:41:29 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:07.662187"
+  },
+  {
+    "id": "OpenAI News_98d55e59fb777c3a",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "content": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:12.913255"
   },
   {
     "id": "OpenAI News_c4e8c3ff95c1c241",
@@ -461,59 +496,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230441"
+    "created_at": "2026-11-05T04:14:12.913283"
   },
   {
-    "id": "OpenAI News_c866cc3c1b91cb7d",
-    "title": "Introducing the Grid Protectors Program",
-    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "content": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "url": "https://openai.com/index/grid-protectors-program",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 02 Nov 2026 15:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230502"
-  },
-  {
-    "id": "TechCrunch AI_9bba44f9cfcee994",
-    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "content": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 04 Nov 2026 16:51:35 +0000",
+    "id": "Wired AI_b1dd1d50bfd2ffa7",
+    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+    "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+    "content": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Wed, 04 Nov 2026 20:06:21 +0000",
     "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810426"
-  },
-  {
-    "id": "TechCrunch AI_0decdb6b4693362f",
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-    "content": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Wed, 04 Nov 2026 16:17:22 +0000",
-    "importance_score": 6.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.810487"
+    "created_at": "2026-11-05T04:14:07.662226"
   },
   {
     "id": "Wired AI_803ab8aae4412d9c",
@@ -530,7 +530,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948679"
+    "created_at": "2026-11-05T04:14:07.662319"
+  },
+  {
+    "id": "Reddit ML_371b85c7cd94c6e4",
+    "title": "ICLR 2027 Reviews Discussion [D]",
+    "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "content": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+    "source": "Reddit ML",
+    "author": "/u/Beautiful_Baker_2233",
+    "published_date": "2026-11-05T02:17:59+00:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:24.220220"
   },
   {
     "id": "TechCrunch AI_e7d2e6b6333e6bd4",
@@ -547,75 +562,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.809778"
+    "created_at": "2026-11-05T04:14:05.589685"
   },
   {
-    "id": "TechCrunch AI_06303b9d5c1180e8",
-    "title": "Almost no one uses AI agents to book their Uber, company says",
-    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-    "content": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Wed, 04 Nov 2026 21:56:01 +0000",
+    "id": "Wired AI_c5a1a1f00174aec0",
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired AI",
+    "author": "Caroline Haskins",
+    "published_date": "Wed, 04 Nov 2026 23:13:14 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:05.809938"
-  },
-  {
-    "id": "The Verge AI_cee497905e1b00a4",
-    "title": "17 better ways Elon Musk could have wasted $446 million",
-    "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you...",
-    "content": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-    "source": "The Verge AI",
-    "author": "Elizabeth Lopatto",
-    "published_date": "2026-11-04T16:45:00-05:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-04T22:59:06.909343"
-  },
-  {
-    "id": "MIT Technology Review_c647e264a1b20832",
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Techs largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton.",
-    "content": "Texas is the fastest-growing data center market in the US and ground zero for Big Techs largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton.",
-    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Wed, 04 Nov 2026 18:50:55 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836067"
-  },
-  {
-    "id": "MIT Technology Review_bda15d7f8fdc4a3e",
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring...",
-    "content": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring...",
-    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-    "source": "MIT Technology Review",
-    "author": "MIT Technology Review",
-    "published_date": "Wed, 04 Nov 2026 18:21:40 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836167"
+    "created_at": "2026-11-05T04:14:07.662124"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -632,7 +596,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:08.886128"
+    "created_at": "2026-11-05T04:14:08.630861"
   },
   {
     "id": "MIT Technology Review_694e0c8cb0100017",
@@ -649,7 +613,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836534"
+    "created_at": "2026-11-05T04:14:10.655565"
   },
   {
     "id": "arXiv ML_010aff1af112d805",
@@ -668,24 +632,58 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019600"
+    "created_at": "2026-11-05T04:14:19.678592"
   },
   {
-    "id": "OpenAI News_af44624802f09c11",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "content": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "id": "Reddit ML_ded3b787eca9c736",
+    "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
+    "summary": "Hi. My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper. My understanding that it was a long paper since that was what I selected during the ARR review, and my paper's main text runs through nine pages.",
+    "content": "Hi. My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper. My understanding that it was a long paper since that was what I selected during the ARR review, and my paper's main text runs through nine pages.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
+    "source": "Reddit ML",
+    "author": "/u/ravenaro",
+    "published_date": "2026-11-05T03:52:26+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "GPT"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:13.230132"
+    "created_at": "2026-11-05T04:14:24.220439"
+  },
+  {
+    "id": "TechCrunch AI_06303b9d5c1180e8",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "content": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Wed, 04 Nov 2026 21:56:01 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:05.589775"
+  },
+  {
+    "id": "The Verge AI_cee497905e1b00a4",
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you...",
+    "content": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "source": "The Verge AI",
+    "author": "Elizabeth Lopatto",
+    "published_date": "2026-11-04T16:45:00-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-05T04:14:06.676856"
   },
   {
     "id": "The Verge AI_f666878a56ab6a63",
@@ -702,7 +700,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909555"
+    "created_at": "2026-11-05T04:14:06.676996"
   },
   {
     "id": "The Verge AI_64089fa919416214",
@@ -719,7 +717,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:06.909616"
+    "created_at": "2026-11-05T04:14:06.677034"
+  },
+  {
+    "id": "MIT Technology Review_c647e264a1b20832",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Techs largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton.",
+    "content": "Texas is the fastest-growing data center market in the US and ground zero for Big Techs largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Wed, 04 Nov 2026 18:50:55 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:10.655264"
+  },
+  {
+    "id": "MIT Technology Review_bda15d7f8fdc4a3e",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring...",
+    "content": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring...",
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review",
+    "published_date": "Wed, 04 Nov 2026 18:21:40 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:10.655334"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -736,7 +768,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836280"
+    "created_at": "2026-11-05T04:14:10.655403"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -753,7 +785,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836356"
+    "created_at": "2026-11-05T04:14:10.655448"
   },
   {
     "id": "arXiv AI_2de922295f20fd21",
@@ -771,7 +803,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.252038"
+    "created_at": "2026-11-05T04:14:18.836457"
   },
   {
     "id": "Ars Technica_ead920934e701dcc",
@@ -788,24 +820,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:08.886294"
-  },
-  {
-    "id": "Reddit ML_b8d9bf13eac3ed72",
-    "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
-    "summary": "We wrote an inference engine for AWS Trainium2 that serves GLM-5.3-Flash (320B MoE, 1M-token context) on one trn2.48xlarge, and open-sourced it. Most of the work went into decode, and the part I found most interesting is how little of a decode step was the model's actual math.",
-    "content": "We wrote an inference engine for AWS Trainium2 that serves GLM-5.3-Flash (320B MoE, 1M-token context) on one trn2.48xlarge, and open-sourced it. Most of the work went into decode, and the part I found most interesting is how little of a decode step was the model's actual math.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/",
-    "source": "Reddit ML",
-    "author": "/u/WildCard727",
-    "published_date": "2026-11-04T21:47:55+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489606"
+    "created_at": "2026-11-05T04:14:08.630964"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -822,7 +837,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:09.980154"
+    "created_at": "2026-11-05T04:14:09.713124"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -839,7 +854,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:09.980314"
+    "created_at": "2026-11-05T04:14:09.713222"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -856,7 +871,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:09.980500"
+    "created_at": "2026-11-05T04:14:09.713333"
   },
   {
     "id": "arXiv AI_83357773a3a38d4c",
@@ -873,7 +888,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.252151"
+    "created_at": "2026-11-05T04:14:18.836522"
   },
   {
     "id": "arXiv ML_ebbc1e4def944425",
@@ -890,7 +905,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019486"
+    "created_at": "2026-11-05T04:14:19.678523"
   },
   {
     "id": "arXiv ML_1b161510a3e81520",
@@ -907,7 +922,24 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019691"
+    "created_at": "2026-11-05T04:14:19.678649"
+  },
+  {
+    "id": "OpenAI News_af44624802f09c11",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "content": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "GPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-05T04:14:12.913109"
   },
   {
     "id": "arXiv AI_b5418ee875ce94a2",
@@ -922,7 +954,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.251472"
+    "created_at": "2026-11-05T04:14:18.836127"
   },
   {
     "id": "arXiv AI_184386abac3a0c0f",
@@ -939,7 +971,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.251601"
+    "created_at": "2026-11-05T04:14:18.836206"
   },
   {
     "id": "arXiv AI_2df56ec0d4f5328c",
@@ -954,7 +986,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.251832"
+    "created_at": "2026-11-05T04:14:18.836337"
   },
   {
     "id": "arXiv AI_40628ce374df88a4",
@@ -969,7 +1001,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.251930"
+    "created_at": "2026-11-05T04:14:18.836395"
   },
   {
     "id": "arXiv AI_76e6f8f6754a2950",
@@ -986,7 +1018,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.252478"
+    "created_at": "2026-11-05T04:14:18.836701"
   },
   {
     "id": "arXiv ML_fc4d77bae0ce4694",
@@ -1001,7 +1033,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019106"
+    "created_at": "2026-11-05T04:14:19.678301"
   },
   {
     "id": "arXiv ML_4925f05f5ba41f2a",
@@ -1016,7 +1048,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019364"
+    "created_at": "2026-11-05T04:14:19.678451"
   },
   {
     "id": "arXiv ML_c12c9e0475df487a",
@@ -1033,7 +1065,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019809"
+    "created_at": "2026-11-05T04:14:19.678720"
   },
   {
     "id": "arXiv ML_f050072c88685f8f",
@@ -1050,7 +1082,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019912"
+    "created_at": "2026-11-05T04:14:19.678783"
   },
   {
     "id": "arXiv ML_ca447c554574c183",
@@ -1067,7 +1099,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.020028"
+    "created_at": "2026-11-05T04:14:19.678853"
   },
   {
     "id": "arXiv ML_a2db2b0d82d84b92",
@@ -1082,7 +1114,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.020133"
+    "created_at": "2026-11-05T04:14:19.678917"
   },
   {
     "id": "Reddit ML_09395a15131e9e8c",
@@ -1099,7 +1131,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.488967"
+    "created_at": "2026-11-05T04:14:24.220302"
   },
   {
     "id": "Wired AI_f85ca5868e29090f",
@@ -1116,7 +1148,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948810"
+    "created_at": "2026-11-05T04:14:07.662399"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -1133,7 +1165,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836446"
+    "created_at": "2026-11-05T04:14:10.655508"
   },
   {
     "id": "MIT Technology Review_a5aa8cfd2b75014a",
@@ -1150,7 +1182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836624"
+    "created_at": "2026-11-05T04:14:10.655623"
   },
   {
     "id": "arXiv AI_e32391535f1ab6e2",
@@ -1165,7 +1197,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.251710"
+    "created_at": "2026-11-05T04:14:18.836268"
   },
   {
     "id": "arXiv AI_90a291875b314f2c",
@@ -1180,7 +1212,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "positive",
-    "created_at": "2026-11-04T22:59:19.252272"
+    "created_at": "2026-11-05T04:14:18.836585"
   },
   {
     "id": "arXiv AI_6c909007a92e4a52",
@@ -1195,7 +1227,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:19.252378"
+    "created_at": "2026-11-05T04:14:18.836645"
   },
   {
     "id": "arXiv ML_d3f42491f44e5bf0",
@@ -1210,7 +1242,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:20.019242"
+    "created_at": "2026-11-05T04:14:19.678378"
   },
   {
     "id": "Reddit ML_eea319c4fed28f2e",
@@ -1227,7 +1259,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489084"
+    "created_at": "2026-11-05T04:14:24.220369"
   },
   {
     "id": "Reddit ML_abc4aa5f6ea3e506",
@@ -1244,42 +1276,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489741"
-  },
-  {
-    "id": "Reddit ML_bd684e1b1f382288",
-    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
-    "summary": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
-    "content": "Hi everyone, I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
-    "source": "Reddit ML",
-    "author": "/u/shanekj",
-    "published_date": "2026-11-03T19:29:54+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489821"
-  },
-  {
-    "id": "Reddit ML_ef3f0abc98522248",
-    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
-    "summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them.",
-    "content": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
-    "source": "Reddit ML",
-    "author": "/u/latenticlabs",
-    "published_date": "2026-11-03T05:09:18+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.489956"
+    "created_at": "2026-11-05T04:14:24.220581"
   },
   {
     "id": "Wired AI_982df33ffe6ec42b",
@@ -1296,7 +1293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948875"
+    "created_at": "2026-11-05T04:14:07.662441"
   },
   {
     "id": "Wired AI_779379a85c063969",
@@ -1313,24 +1310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948936"
-  },
-  {
-    "id": "Wired AI_514863899f628680",
-    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-    "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "content": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-    "source": "Wired AI",
-    "author": "Christine Peterson",
-    "published_date": "Sun, 01 Nov 2026 10:30:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:07.948990"
+    "created_at": "2026-11-05T04:14:07.662475"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1347,7 +1327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:09.980229"
+    "created_at": "2026-11-05T04:14:09.713164"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1364,7 +1344,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:09.980434"
+    "created_at": "2026-11-05T04:14:09.713290"
   },
   {
     "id": "MIT Technology Review_1d1811f43a8ad900",
@@ -1381,7 +1361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:10.836695"
+    "created_at": "2026-11-05T04:14:10.655664"
   },
   {
     "id": "MIT Technology Review_d5754a80e0632bd4",
@@ -1398,7 +1378,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-04T22:59:10.836760"
+    "created_at": "2026-11-05T04:14:10.655703"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1415,7 +1395,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:15.985544"
+    "created_at": "2026-11-05T04:14:15.719426"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1432,7 +1412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:08.886235"
+    "created_at": "2026-11-05T04:14:08.630926"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1450,7 +1430,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.422821"
+    "created_at": "2026-11-05T04:14:24.763730"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1467,7 +1447,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.422878"
+    "created_at": "2026-11-05T04:14:24.763764"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1484,7 +1464,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.422929"
+    "created_at": "2026-11-05T04:14:24.763796"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1501,7 +1481,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.422976"
+    "created_at": "2026-11-05T04:14:24.763824"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1518,7 +1498,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.423027"
+    "created_at": "2026-11-05T04:14:24.763853"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1533,7 +1513,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:24.488806"
+    "created_at": "2026-11-05T04:14:24.220162"
   },
   {
     "id": "Lobsters AI_556d270a50436283",
@@ -1550,6 +1530,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-04T22:59:25.423089"
+    "created_at": "2026-11-05T04:14:24.763891"
   }
 ]
