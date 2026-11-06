@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500390"
+    "created_at": "2026-11-06T04:11:38.827697"
   },
   {
     "id": "The Verge AI_1fcae9cfe53e5266",
@@ -27,7 +27,7 @@
     "source": "The Verge AI",
     "author": "Jess Weatherbed",
     "published_date": "2026-11-05T13:00:00-05:00",
-    "importance_score": 9.299999999999999,
+    "importance_score": 8.799999999999999,
     "category": "tech",
     "keywords": [
       "Anthropic",
@@ -35,7 +35,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500476"
+    "created_at": "2026-11-06T04:11:38.827854"
   },
   {
     "id": "TechCrunch AI_661cc5c3db330951",
@@ -46,33 +46,14 @@
     "source": "TechCrunch AI",
     "author": "Tim Fernholz",
     "published_date": "Thu, 05 Nov 2026 19:06:12 +0000",
-    "importance_score": 9.1,
+    "importance_score": 8.6,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477592"
-  },
-  {
-    "id": "TechCrunch AI_a75fc1cb89ea549e",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 05 Nov 2026 18:02:27 +0000",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-11-05T23:00:55.477652"
+    "created_at": "2026-11-06T04:11:37.802565"
   },
   {
     "id": "OpenAI News_e101e321f6e8e6c4",
@@ -90,44 +71,64 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.703995"
+    "created_at": "2026-11-06T04:11:45.294326"
   },
   {
-    "id": "Wired AI_9195980e63fb59ef",
-    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "content": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 05 Nov 2026 21:37:18 +0000",
+    "id": "The Verge AI_fff683faefe17170",
+    "title": "OpenAI is stepping back from NDAs for data center projects",
+    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.",
+    "content": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-05T19:37:56-05:00",
     "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
-      "Anthropic",
-      "Claude",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505703"
+    "created_at": "2026-11-06T04:11:38.827543"
   },
   {
-    "id": "TechCrunch AI_11d4a1aad95d6c24",
-    "title": "Claude can now analyze your spending with its new Personal Finance tool",
-    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "content": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Thu, 05 Nov 2026 18:00:00 +0000",
-    "importance_score": 7.9,
+    "id": "OpenAI News_7fd5b2a0c5a805fb",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "content": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 05 Nov 2026 08:00:00 GMT",
+    "importance_score": 8.1,
     "category": "tech",
     "keywords": [
-      "Claude",
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477686"
+    "created_at": "2026-11-06T04:11:45.294009"
+  },
+  {
+    "id": "OpenAI News_d7daf3866b2c87c6",
+    "title": "Australian universities are creating AI-native graduates",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "content": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 05 Nov 2026 17:00:00 GMT",
+    "importance_score": 7.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:45.293831"
   },
   {
     "id": "OpenAI News_4731233b3cd579ee",
@@ -146,7 +147,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.703863"
+    "created_at": "2026-11-06T04:11:45.293936"
+  },
+  {
+    "id": "TechCrunch AI_a75fc1cb89ea549e",
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+    "content": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 05 Nov 2026 18:02:27 +0000",
+    "importance_score": 7.8,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "positive",
+    "created_at": "2026-11-06T04:11:37.802639"
   },
   {
     "id": "The Verge AI_f2fab7a784c9e64e",
@@ -165,7 +185,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500623"
+    "created_at": "2026-11-06T04:11:38.828091"
   },
   {
     "id": "Wired AI_7c18292a2228dbd6",
@@ -184,25 +204,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505874"
+    "created_at": "2026-11-06T04:11:39.798677"
   },
   {
-    "id": "OpenAI News_6b047662099b7238",
-    "title": "Setting a new standard for responsible AI infrastructure",
-    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "content": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 05 Nov 2026 02:00:00 GMT",
-    "importance_score": 7.7,
+    "id": "Wired AI_9195980e63fb59ef",
+    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "content": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 05 Nov 2026 21:37:18 +0000",
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Anthropic",
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.703918"
+    "created_at": "2026-11-06T04:11:39.798377"
   },
   {
     "id": "TechCrunch AI_b1d3be8e63c9a7f5",
@@ -219,41 +240,80 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477461"
+    "created_at": "2026-11-06T04:11:37.802328"
   },
   {
-    "id": "TechCrunch AI_e2b68bec0949f76c",
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "content": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "id": "TechCrunch AI_11d4a1aad95d6c24",
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "content": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 05 Nov 2026 19:48:28 +0000",
-    "importance_score": 7.2,
+    "author": "Aisha Malik",
+    "published_date": "Thu, 05 Nov 2026 18:00:00 +0000",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
+      "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477513"
+    "created_at": "2026-11-06T04:11:37.802719"
   },
   {
-    "id": "The Verge AI_e24611a39e0fcab2",
-    "title": "Muse has a voice mode now",
-    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of []",
-    "content": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of []",
-    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-05T14:03:04-05:00",
-    "importance_score": 7.2,
+    "id": "OpenAI News_0cdfa402b9011c9d",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "content": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 05 Nov 2026 00:45:15 GMT",
+    "importance_score": 7.3999999999999995,
     "category": "tech",
     "keywords": [
+      "GPT",
+      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500437"
+    "created_at": "2026-11-06T04:11:45.294135"
+  },
+  {
+    "id": "OpenAI News_6b047662099b7238",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "content": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:45.294074"
+  },
+  {
+    "id": "OpenAI News_a12c00775671f6c6",
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "content": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "url": "https://openai.com/index/franklin-templeton",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:45.294198"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -271,7 +331,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.703961"
+    "created_at": "2026-11-06T04:11:45.294266"
   },
   {
     "id": "OpenAI News_0383dc0a218dd4af",
@@ -289,25 +349,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704028"
-  },
-  {
-    "id": "OpenAI News_a1d1d22e353c36a1",
-    "title": "Introducing Images 2.6",
-    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "content": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "url": "https://openai.com/index/introducing-images-2-6",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 04 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704061"
+    "created_at": "2026-11-06T04:11:45.294386"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -324,7 +366,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557213"
+    "created_at": "2026-11-06T04:11:42.874938"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -342,44 +384,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:01.598197"
-  },
-  {
-    "id": "OpenAI News_bb1979269d0bd916",
-    "title": "Heimstaden is changing residential real estate management with AI",
-    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "content": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-    "url": "https://openai.com/index/heimstaden",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704202"
-  },
-  {
-    "id": "TechCrunch AI_a770621daa82875e",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "content": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 05 Nov 2026 19:12:39 +0000",
-    "importance_score": 7.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477556"
+    "created_at": "2026-11-06T04:11:43.987605"
   },
   {
     "id": "Wired AI_e82a2e77865526df",
@@ -396,7 +401,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.506020"
+    "created_at": "2026-11-06T04:11:39.798970"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -414,43 +419,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:01.598262"
+    "created_at": "2026-11-06T04:11:43.987727"
   },
   {
-    "id": "OpenAI News_2b73483503a917c6",
-    "title": "Accelerating engineering for the physical world",
-    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "content": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "id": "TechCrunch AI_e2b68bec0949f76c",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "content": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 05 Nov 2026 19:48:28 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704129"
-  },
-  {
-    "id": "OpenAI News_8407f454f8701132",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "content": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "url": "https://openai.com/index/cisco-cyber",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 03 Nov 2026 08:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704160"
+    "created_at": "2026-11-06T04:11:37.802417"
+  },
+  {
+    "id": "The Verge AI_e24611a39e0fcab2",
+    "title": "Muse has a voice mode now",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of []",
+    "content": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of []",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-05T14:03:04-05:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:38.827786"
   },
   {
     "id": "arXiv AI_b5e1a925120d7820",
@@ -468,24 +471,24 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648303"
+    "created_at": "2026-11-06T04:11:51.180583"
   },
   {
-    "id": "Reddit ML_9c7c746c96307a40",
-    "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-    "summary": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've read those.",
-    "content": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've read those.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-    "source": "Reddit ML",
-    "author": "/u/Norlax_42",
-    "published_date": "2026-11-05T19:13:51+00:00",
+    "id": "TechCrunch AI_a770621daa82875e",
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "content": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Thu, 05 Nov 2026 19:12:39 +0000",
     "importance_score": 6.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171379"
+    "created_at": "2026-11-06T04:11:37.802494"
   },
   {
     "id": "Reddit ML_bff230e204e55ab4",
@@ -503,7 +506,7 @@
       "ML"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-05T23:01:14.171659"
+    "created_at": "2026-11-06T04:11:56.560701"
   },
   {
     "id": "TechCrunch AI_f3925c3c2c922ca3",
@@ -520,24 +523,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477787"
+    "created_at": "2026-11-06T04:11:37.802900"
   },
   {
-    "id": "The Verge AI_213c25bf74fe2c40",
-    "title": "‘Total repudiation’: The blue wave is about to hit AI",
-    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico,...",
-    "content": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico,...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "id": "The Verge AI_a562c2c6dc7a63b9",
+    "title": "Airbnb is working on an AI travel agent",
+    "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an...",
+    "content": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an...",
+    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
     "source": "The Verge AI",
-    "author": "Hayden Field",
-    "published_date": "2026-11-05T12:51:52-05:00",
+    "author": "Jay Peters",
+    "published_date": "2026-11-05T19:06:12-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500529"
+    "created_at": "2026-11-06T04:11:38.827623"
+  },
+  {
+    "id": "Ars Technica_c5848c9835ad0380",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "content": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Thu, 05 Nov 2026 23:09:36 +0000",
+    "importance_score": 6.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:40.856495"
   },
   {
     "id": "arXiv AI_4c1a9961b85b2e2c",
@@ -554,7 +574,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648102"
+    "created_at": "2026-11-06T04:11:51.180238"
   },
   {
     "id": "Wired AI_5ac00dd88bafdec8",
@@ -571,7 +591,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505949"
+    "created_at": "2026-11-06T04:11:39.798838"
   },
   {
     "id": "arXiv AI_042f31a2d6225c2b",
@@ -586,7 +606,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648422"
+    "created_at": "2026-11-06T04:11:51.180833"
   },
   {
     "id": "arXiv AI_f7d3133d3ed4abfd",
@@ -605,7 +625,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648033"
+    "created_at": "2026-11-06T04:11:51.180119"
   },
   {
     "id": "arXiv ML_010aff1af112d805",
@@ -624,24 +644,22 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539210"
+    "created_at": "2026-11-06T04:11:51.995785"
   },
   {
-    "id": "The Verge AI_ab7d84502ae3bb47",
-    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-    "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon...",
-    "content": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-04T17:42:15-05:00",
-    "importance_score": 6.0,
+    "id": "Reddit ML_f4c677fca71c6aed",
+    "title": "Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]",
+    "summary": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end...",
+    "content": "Hi everyone, I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically Sparse Predictive Hierarchies (SPH) based on Ogma's whitepapers (AOgmaNeo) can handle complex policy/value prediction tasks without end-to-end...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/",
+    "source": "Reddit ML",
+    "author": "/u/Severe-Heat-518",
+    "published_date": "2026-11-05T21:40:01+00:00",
+    "importance_score": 6.1,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500790"
+    "created_at": "2026-11-06T04:11:56.560472"
   },
   {
     "id": "Wired AI_b1dd1d50bfd2ffa7",
@@ -658,39 +676,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505982"
+    "created_at": "2026-11-06T04:11:39.798901"
   },
   {
-    "id": "Reddit ML_371b85c7cd94c6e4",
-    "title": "ICLR 2027 Reviews Discussion [D]",
-    "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
-    "content": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+    "id": "Reddit ML_9c7c746c96307a40",
+    "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
+    "summary": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've read those.",
+    "content": "Handbook: https://huggingface.co/spaces/huggingface/moe-blogpost Hello, I'm Nouamane, one of the authors. I'm at Hugging Face and also worked on the Ultra-Scale and Smol Training Playbooks, if you've read those.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
     "source": "Reddit ML",
-    "author": "/u/Beautiful_Baker_2233",
-    "published_date": "2026-11-05T02:17:59+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171427"
-  },
-  {
-    "id": "Reddit ML_d3eb92c54490fba5",
-    "title": "Looking for Emergency Reviewers [R]",
-    "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6...",
-    "content": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
-    "source": "Reddit ML",
-    "author": "/u/aicommander",
-    "published_date": "2026-11-05T18:31:03+00:00",
+    "author": "/u/Norlax_42",
+    "published_date": "2026-11-05T19:13:51+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171567"
+    "created_at": "2026-11-06T04:11:56.559480"
   },
   {
     "id": "TechCrunch AI_db62a80fca99181a",
@@ -707,7 +710,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477734"
+    "created_at": "2026-11-06T04:11:37.802810"
+  },
+  {
+    "id": "The Verge AI_213c25bf74fe2c40",
+    "title": "‘Total repudiation’: The blue wave is about to hit AI",
+    "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico,...",
+    "content": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico,...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "source": "The Verge AI",
+    "author": "Hayden Field",
+    "published_date": "2026-11-05T12:51:52-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:38.827943"
   },
   {
     "id": "The Verge AI_89d3944905ea2688",
@@ -724,7 +744,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500576"
+    "created_at": "2026-11-06T04:11:38.828025"
   },
   {
     "id": "The Verge AI_5c481a81990c579b",
@@ -741,7 +761,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500668"
+    "created_at": "2026-11-06T04:11:38.828170"
   },
   {
     "id": "The Verge AI_1e92a8eb8205ea39",
@@ -758,24 +778,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500706"
-  },
-  {
-    "id": "The Verge AI_c2356ba863c27f79",
-    "title": "Big Tech’s big AI buildout will not end until someone stops it",
-    "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.",
-    "content": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-    "source": "The Verge AI",
-    "author": "Ellen Thomas",
-    "published_date": "2026-11-05T05:45:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:56.500751"
+    "created_at": "2026-11-06T04:11:38.828239"
   },
   {
     "id": "Wired AI_e12bfcdb41d9b6ef",
@@ -792,7 +795,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505765"
+    "created_at": "2026-11-06T04:11:39.798478"
   },
   {
     "id": "Wired AI_36963cd4b34d1db6",
@@ -809,7 +812,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505805"
+    "created_at": "2026-11-06T04:11:39.798548"
   },
   {
     "id": "Wired AI_74f43cdc7419e0f8",
@@ -826,24 +829,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505842"
-  },
-  {
-    "id": "Wired AI_c5a1a1f00174aec0",
-    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-    "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-    "source": "Wired AI",
-    "author": "Caroline Haskins",
-    "published_date": "Wed, 04 Nov 2026 23:13:14 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:57.505905"
+    "created_at": "2026-11-06T04:11:39.798617"
   },
   {
     "id": "arXiv AI_c1c8547a0c062619",
@@ -861,41 +847,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-05T23:01:08.647868"
-  },
-  {
-    "id": "Ars Technica_ead920934e701dcc",
-    "title": "PHP warns it plans to release 2 emergency patches imminently",
-    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-    "content": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Wed, 21 Oct 2026 02:12:18 +0000",
-    "importance_score": 5.800000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:58.510765"
-  },
-  {
-    "id": "Lobsters AI_9f0408fb4b839801",
-    "title": "Why working with AI agents is so tiring (and what to do about it) – Tech, work, and what comes next",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://constantin.glez.de/posts/2026-07-16-why-working-with-ai-agents-is-so-tiring-and-what-to-do-about-it/",
-    "source": "Lobsters AI",
-    "author": "constantin.glez.de via thecloudlet",
-    "published_date": "Thu, 05 Nov 2026 16:50:25 -0600",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739721"
+    "created_at": "2026-11-06T04:11:51.179758"
   },
   {
     "id": "TechCrunch AI_448fc58151842d3a",
@@ -912,7 +864,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:55.477832"
+    "created_at": "2026-11-06T04:11:37.802982"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -929,7 +881,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:59.727407"
+    "created_at": "2026-11-06T04:11:42.186144"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -946,7 +898,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:59.727505"
+    "created_at": "2026-11-06T04:11:42.186439"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -963,7 +915,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:59.727624"
+    "created_at": "2026-11-06T04:11:42.186858"
   },
   {
     "id": "arXiv AI_3c1ee9618f463ecc",
@@ -980,7 +932,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648168"
+    "created_at": "2026-11-06T04:11:51.180353"
   },
   {
     "id": "arXiv AI_1cd33c6995a99610",
@@ -997,7 +949,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648485"
+    "created_at": "2026-11-06T04:11:51.180950"
   },
   {
     "id": "arXiv ML_ebbc1e4def944425",
@@ -1014,7 +966,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539126"
+    "created_at": "2026-11-06T04:11:51.995643"
   },
   {
     "id": "arXiv ML_1b161510a3e81520",
@@ -1031,7 +983,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539269"
+    "created_at": "2026-11-06T04:11:51.995887"
   },
   {
     "id": "Reddit ML_745b2d9b9b75cc27",
@@ -1049,7 +1001,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171496"
+    "created_at": "2026-11-06T04:11:56.560023"
   },
   {
     "id": "Reddit ML_6984cc8bdcfe6aa5",
@@ -1067,7 +1019,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-05T23:01:14.171785"
+    "created_at": "2026-11-06T04:11:56.561094"
   },
   {
     "id": "MIT Technology Review_694e0c8cb0100017",
@@ -1084,24 +1036,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557555"
-  },
-  {
-    "id": "OpenAI News_af44624802f09c11",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "content": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "url": "https://openai.com/index/devrev-enterprise-self-service",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 04 Nov 2026 00:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "GPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:02.704096"
+    "created_at": "2026-11-06T04:11:42.875531"
   },
   {
     "id": "arXiv AI_93712b7c10ff95c0",
@@ -1118,7 +1053,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-05T23:01:08.648234"
+    "created_at": "2026-11-06T04:11:51.180465"
   },
   {
     "id": "arXiv AI_30d7d06285ae66ed",
@@ -1135,7 +1070,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.648370"
+    "created_at": "2026-11-06T04:11:51.180702"
   },
   {
     "id": "arXiv ML_fc4d77bae0ce4694",
@@ -1150,7 +1085,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.538886"
+    "created_at": "2026-11-06T04:11:51.995253"
   },
   {
     "id": "arXiv ML_4925f05f5ba41f2a",
@@ -1165,7 +1100,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539048"
+    "created_at": "2026-11-06T04:11:51.995515"
   },
   {
     "id": "arXiv ML_c12c9e0475df487a",
@@ -1182,7 +1117,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539345"
+    "created_at": "2026-11-06T04:11:51.996015"
   },
   {
     "id": "arXiv ML_f050072c88685f8f",
@@ -1199,7 +1134,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539409"
+    "created_at": "2026-11-06T04:11:51.996127"
   },
   {
     "id": "arXiv ML_ca447c554574c183",
@@ -1216,7 +1151,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539481"
+    "created_at": "2026-11-06T04:11:51.996254"
   },
   {
     "id": "arXiv ML_a2db2b0d82d84b92",
@@ -1231,7 +1166,56 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.539547"
+    "created_at": "2026-11-06T04:11:51.996377"
+  },
+  {
+    "id": "Reddit ML_371b85c7cd94c6e4",
+    "title": "ICLR 2027 Reviews Discussion [D]",
+    "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "content": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+    "source": "Reddit ML",
+    "author": "/u/Beautiful_Baker_2233",
+    "published_date": "2026-11-05T02:17:59+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:56.559625"
+  },
+  {
+    "id": "Reddit ML_d3eb92c54490fba5",
+    "title": "Looking for Emergency Reviewers [R]",
+    "summary": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6...",
+    "content": "We’re looking for a few emergency reviewers for the FABRIC Workshop at WACV 2027 due to a very tight review timeline. If you have expertise in computer vision, multimodal learning, physiological sensing, healthcare AI, affective computing, or related areas and can complete a review by November 6...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoqca2/looking_for_emergency_reviewers_r/",
+    "source": "Reddit ML",
+    "author": "/u/aicommander",
+    "published_date": "2026-11-05T18:31:03+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:56.559833"
+  },
+  {
+    "id": "Wired AI_c5a1a1f00174aec0",
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired AI",
+    "author": "Caroline Haskins",
+    "published_date": "Wed, 04 Nov 2026 23:13:14 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:39.798756"
   },
   {
     "id": "MIT Technology Review_c647e264a1b20832",
@@ -1248,7 +1232,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557279"
+    "created_at": "2026-11-06T04:11:42.875039"
   },
   {
     "id": "MIT Technology Review_bda15d7f8fdc4a3e",
@@ -1265,7 +1249,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557338"
+    "created_at": "2026-11-06T04:11:42.875151"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -1282,7 +1266,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557400"
+    "created_at": "2026-11-06T04:11:42.875258"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -1299,7 +1283,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557447"
+    "created_at": "2026-11-06T04:11:42.875339"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1316,7 +1300,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:58.510666"
+    "created_at": "2026-11-06T04:11:40.856565"
   },
   {
     "id": "arXiv AI_a8913b742a29e3d5",
@@ -1331,7 +1315,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:08.647956"
+    "created_at": "2026-11-06T04:11:51.179970"
   },
   {
     "id": "arXiv ML_d3f42491f44e5bf0",
@@ -1346,24 +1330,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:09.538973"
-  },
-  {
-    "id": "Reddit ML_09395a15131e9e8c",
-    "title": "A message to top tier conferences [D]",
-    "summary": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that AI cheaters didn't even read their own paper before presentation! For example, a guy couldn't even answer the question of how he represented knowledge graphs in his...",
-    "content": "TL;DR: Please be hard in desk rejecting AI generated papers Recently I went to two AI conferences (A and A*) and I was surprised that AI cheaters didn't even read their own paper before presentation! For example, a guy couldn't even answer the question of how he represented knowledge graphs in his...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
-    "source": "Reddit ML",
-    "author": "/u/Vegetable-Formal-753",
-    "published_date": "2026-11-04T09:55:50+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171868"
+    "created_at": "2026-11-06T04:11:51.995387"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1380,7 +1347,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:59.727450"
+    "created_at": "2026-11-06T04:11:42.186271"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -1397,7 +1364,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:59.727573"
+    "created_at": "2026-11-06T04:11:42.186677"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -1414,7 +1381,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557502"
+    "created_at": "2026-11-06T04:11:42.875437"
   },
   {
     "id": "MIT Technology Review_a5aa8cfd2b75014a",
@@ -1431,7 +1398,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:00.557619"
+    "created_at": "2026-11-06T04:11:42.875626"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1448,7 +1415,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:05.673754"
+    "created_at": "2026-11-06T04:11:48.023253"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1465,7 +1432,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:00:58.510731"
+    "created_at": "2026-11-06T04:11:40.856661"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1483,7 +1450,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739774"
+    "created_at": "2026-11-06T04:11:57.233394"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1500,7 +1467,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739805"
+    "created_at": "2026-11-06T04:11:57.233459"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1517,7 +1484,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739835"
+    "created_at": "2026-11-06T04:11:57.233519"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1534,7 +1501,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739864"
+    "created_at": "2026-11-06T04:11:57.233574"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1551,7 +1518,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.739895"
+    "created_at": "2026-11-06T04:11:57.233633"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1566,6 +1533,23 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-05T23:01:14.171272"
+    "created_at": "2026-11-06T04:11:56.559191"
+  },
+  {
+    "id": "Lobsters AI_556d270a50436283",
+    "title": "AI: EU Member States approve “digital expropriation” of Europeans for AI companies",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "source": "Lobsters AI",
+    "author": "noyb.eu via kngl",
+    "published_date": "Fri, 23 Oct 2026 08:04:23 -0500",
+    "importance_score": 4.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-06T04:11:57.233703"
   }
 ]
