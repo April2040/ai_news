@@ -8,7 +8,7 @@
     "source": "The Verge AI",
     "author": "Stevie Bonifield",
     "published_date": "2026-11-06T18:46:18-05:00",
-    "importance_score": 8.799999999999999,
+    "importance_score": 8.3,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767821"
+    "created_at": "2026-11-08T03:21:27.823122"
   },
   {
     "id": "TechCrunch AI_ab93ed58fb151897",
@@ -27,32 +27,14 @@
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
     "published_date": "Fri, 06 Nov 2026 22:53:46 +0000",
-    "importance_score": 8.6,
+    "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671546"
-  },
-  {
-    "id": "The Verge AI_e6956f968d6604cd",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
-    "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-07T10:43:45-05:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767652"
+    "created_at": "2026-11-08T03:21:26.768059"
   },
   {
     "id": "The Verge AI_915a4a7a977e5b74",
@@ -70,7 +52,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767771"
+    "created_at": "2026-11-08T03:21:27.823043"
   },
   {
     "id": "OpenAI News_aa1dbd535f4960af",
@@ -88,25 +70,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.972816"
-  },
-  {
-    "id": "OpenAI News_edb0fd45411b3f52",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 06 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.972875"
+    "created_at": "2026-11-08T03:21:34.185951"
   },
   {
     "id": "Wired AI_379bc7ce4708dab6",
@@ -124,26 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728233"
-  },
-  {
-    "id": "Wired AI_9195980e63fb59ef",
-    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "content": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 05 Nov 2026 21:37:18 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728336"
+    "created_at": "2026-11-08T03:21:28.799381"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -161,7 +106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:34.790232"
+    "created_at": "2026-11-08T03:21:32.863575"
   },
   {
     "id": "OpenAI News_7fd5b2a0c5a805fb",
@@ -181,7 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.973029"
+    "created_at": "2026-11-08T03:21:34.186251"
   },
   {
     "id": "TechCrunch AI_7b1c679836188250",
@@ -199,17 +144,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671860"
+    "created_at": "2026-11-08T03:21:26.768764"
   },
   {
-    "id": "The Verge AI_c0b570687bf13dc9",
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
-    "content": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
-    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "id": "The Verge AI_e6956f968d6604cd",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+    "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
     "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-06T18:00:44-05:00",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-07T10:43:45-05:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -217,7 +162,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767873"
+    "created_at": "2026-11-08T03:21:27.822889"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -235,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:34.790311"
+    "created_at": "2026-11-08T03:21:32.863676"
   },
   {
     "id": "OpenAI News_d7daf3866b2c87c6",
@@ -254,7 +199,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.972923"
+    "created_at": "2026-11-08T03:21:34.186088"
   },
   {
     "id": "OpenAI News_4731233b3cd579ee",
@@ -273,7 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.972985"
+    "created_at": "2026-11-08T03:21:34.186191"
   },
   {
     "id": "OpenAI News_0cdfa402b9011c9d",
@@ -292,7 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.973110"
+    "created_at": "2026-11-08T03:21:34.186365"
   },
   {
     "id": "Wired AI_7c18292a2228dbd6",
@@ -311,24 +256,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728524"
+    "created_at": "2026-11-08T03:21:28.799759"
   },
   {
-    "id": "TechCrunch AI_cf8611b738623a7f",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
-    "content": "The deal highlights the challenges of developing massive AI data centers.",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "id": "TechCrunch AI_8239bb3166aafe68",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "content": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
     "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Sat, 07 Nov 2026 01:40:28 +0000",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 07 Nov 2026 21:17:08 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671480"
+    "created_at": "2026-11-08T03:21:26.767806"
+  },
+  {
+    "id": "OpenAI News_edb0fd45411b3f52",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:34.186025"
   },
   {
     "id": "OpenAI News_6b047662099b7238",
@@ -346,7 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.973071"
+    "created_at": "2026-11-08T03:21:34.186310"
   },
   {
     "id": "OpenAI News_a12c00775671f6c6",
@@ -364,7 +328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.973151"
+    "created_at": "2026-11-08T03:21:34.186420"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -382,24 +346,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:35.973195"
+    "created_at": "2026-11-08T03:21:34.186481"
   },
   {
-    "id": "The Verge AI_1e4f56d9160473d7",
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
-    "content": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "id": "Wired AI_9195980e63fb59ef",
+    "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "content": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 05 Nov 2026 21:37:18 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:28.799508"
+  },
+  {
+    "id": "The Verge AI_c0b570687bf13dc9",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
+    "content": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
     "source": "The Verge AI",
-    "author": "Jennifer Pattison Tuohy",
-    "published_date": "2026-11-07T10:50:00-05:00",
+    "author": "Jay Peters",
+    "published_date": "2026-11-06T18:00:44-05:00",
     "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:27.823192"
+  },
+  {
+    "id": "TechCrunch AI_cf8611b738623a7f",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "content": "The deal highlights the challenges of developing massive AI data centers.",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Sat, 07 Nov 2026 01:40:28 +0000",
+    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767591"
+    "created_at": "2026-11-08T03:21:26.767942"
   },
   {
     "id": "TechCrunch AI_dd253af9c0f61da7",
@@ -416,7 +417,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671661"
+    "created_at": "2026-11-08T03:21:26.768296"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -433,7 +434,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675724"
+    "created_at": "2026-11-08T03:21:31.792026"
   },
   {
     "id": "TechCrunch AI_b340bac75d7f84c6",
@@ -450,7 +451,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671921"
+    "created_at": "2026-11-08T03:21:26.768848"
   },
   {
     "id": "The Verge AI_1bce5bc1370cc034",
@@ -467,42 +468,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767986"
+    "created_at": "2026-11-08T03:21:27.823336"
   },
   {
-    "id": "Reddit ML_5ea628f0694eaa12",
-    "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
-    "summary": "Hello everyone, This is the first article I’ve decided to share publicly. I'm really interested in solving combinatorial optimization problems using machine learning, and this is the opening piece in what will hopefully become a broader series exploring this domain.",
-    "content": "Hello everyone, This is the first article I’ve decided to share publicly. I'm really interested in solving combinatorial optimization problems using machine learning, and this is the opening piece in what will hopefully become a broader series exploring this domain.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
-    "source": "Reddit ML",
-    "author": "/u/an2ancan",
-    "published_date": "2026-11-07T20:44:34+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "machine learning",
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-07T21:13:47.429028"
-  },
-  {
-    "id": "TechCrunch AI_7ea7375facac9240",
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "content": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Fri, 06 Nov 2026 13:00:00 +0000",
+    "id": "The Verge AI_1e4f56d9160473d7",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
+    "content": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "source": "The Verge AI",
+    "author": "Jennifer Pattison Tuohy",
+    "published_date": "2026-11-07T10:50:00-05:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671970"
+    "created_at": "2026-11-08T03:21:27.822808"
   },
   {
     "id": "The Verge AI_7b6591532f0c6e17",
@@ -519,7 +502,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767719"
+    "created_at": "2026-11-08T03:21:27.822975"
   },
   {
     "id": "Wired AI_c953c0d6880de6cc",
@@ -536,7 +519,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728154"
+    "created_at": "2026-11-08T03:21:28.799295"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -553,7 +536,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:32.866677"
+    "created_at": "2026-11-08T03:21:31.080888"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -570,7 +553,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:32.866794"
+    "created_at": "2026-11-08T03:21:31.081041"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -587,24 +570,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:32.866932"
-  },
-  {
-    "id": "Reddit ML_4aa8e050dda658fe",
-    "title": "The most scathing reviewer 2 review I have ever read",
-    "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
-    "content": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-    "source": "Reddit ML",
-    "author": "/u/MOSFETBJT",
-    "published_date": "2026-11-07T01:30:53+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.428738"
+    "created_at": "2026-11-08T03:21:31.081234"
   },
   {
     "id": "TechCrunch AI_02fa0e6f91c8b301",
@@ -621,7 +587,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671602"
+    "created_at": "2026-11-08T03:21:26.768188"
   },
   {
     "id": "TechCrunch AI_ac2d56d6205830f2",
@@ -638,7 +604,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671742"
+    "created_at": "2026-11-08T03:21:26.768468"
   },
   {
     "id": "TechCrunch AI_65a728ff3a0551d7",
@@ -655,7 +621,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:28.671812"
+    "created_at": "2026-11-08T03:21:26.768632"
   },
   {
     "id": "The Verge AI_a23d2eb3583683b9",
@@ -672,7 +638,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.767934"
+    "created_at": "2026-11-08T03:21:27.823271"
   },
   {
     "id": "The Verge AI_f803a93c40b8bcfa",
@@ -689,7 +655,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.768031"
+    "created_at": "2026-11-08T03:21:27.823397"
   },
   {
     "id": "The Verge AI_a79c5c69c7b1e84c",
@@ -706,7 +672,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:29.768077"
+    "created_at": "2026-11-08T03:21:27.823456"
   },
   {
     "id": "Wired AI_45af09c6d8bd1e45",
@@ -723,7 +689,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728281"
+    "created_at": "2026-11-08T03:21:28.799439"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -740,7 +706,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675638"
+    "created_at": "2026-11-08T03:21:31.791918"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -757,24 +723,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:31.687301"
-  },
-  {
-    "id": "Ars Technica_c5848c9835ad0380",
-    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "content": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Thu, 05 Nov 2026 23:09:36 +0000",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:31.687361"
+    "created_at": "2026-11-08T03:21:29.794777"
   },
   {
     "id": "Reddit ML_b3c4b320297db90b",
@@ -791,7 +740,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.428845"
+    "created_at": "2026-11-08T03:21:45.571834"
   },
   {
     "id": "Reddit ML_d205697378aa827d",
@@ -806,24 +755,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.428927"
-  },
-  {
-    "id": "Reddit ML_288290e1154eec58",
-    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
-    "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
-    "content": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
-    "source": "Reddit ML",
-    "author": "/u/Strong_Boy_757",
-    "published_date": "2026-11-06T21:25:49+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.429126"
+    "created_at": "2026-11-08T03:21:45.571934"
   },
   {
     "id": "Reddit ML_f4793834334019e8",
@@ -840,22 +772,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.429224"
-  },
-  {
-    "id": "Reddit ML_dbd768bb1a753e1b",
-    "title": "ICLR27 math and stats paper review experience [D]",
-    "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
-    "content": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
-    "source": "Reddit ML",
-    "author": "/u/d_edge_sword",
-    "published_date": "2026-11-07T03:02:10+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.429303"
+    "created_at": "2026-11-08T03:21:45.572310"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -870,7 +787,24 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.428449"
+    "created_at": "2026-11-08T03:21:45.571335"
+  },
+  {
+    "id": "Reddit ML_4aa8e050dda658fe",
+    "title": "The most scathing reviewer 2 review I have ever read",
+    "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
+    "content": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+    "source": "Reddit ML",
+    "author": "/u/MOSFETBJT",
+    "published_date": "2026-11-07T01:30:53+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:45.571705"
   },
   {
     "id": "Wired AI_e12bfcdb41d9b6ef",
@@ -887,7 +821,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728399"
+    "created_at": "2026-11-08T03:21:28.799589"
   },
   {
     "id": "Wired AI_36963cd4b34d1db6",
@@ -904,7 +838,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728442"
+    "created_at": "2026-11-08T03:21:28.799647"
   },
   {
     "id": "Wired AI_74f43cdc7419e0f8",
@@ -921,7 +855,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728486"
+    "created_at": "2026-11-08T03:21:28.799706"
   },
   {
     "id": "Wired AI_c5a1a1f00174aec0",
@@ -938,7 +872,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:30.728564"
+    "created_at": "2026-11-08T03:21:28.799809"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -955,7 +889,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:32.866729"
+    "created_at": "2026-11-08T03:21:31.080954"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -972,7 +906,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:32.866882"
+    "created_at": "2026-11-08T03:21:31.081166"
   },
   {
     "id": "MIT Technology Review_c647e264a1b20832",
@@ -989,7 +923,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675792"
+    "created_at": "2026-11-08T03:21:31.792125"
   },
   {
     "id": "MIT Technology Review_bda15d7f8fdc4a3e",
@@ -1006,7 +940,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675860"
+    "created_at": "2026-11-08T03:21:31.792215"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -1023,7 +957,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675934"
+    "created_at": "2026-11-08T03:21:31.792313"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -1040,7 +974,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.675990"
+    "created_at": "2026-11-08T03:21:31.792388"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -1057,7 +991,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:33.676056"
+    "created_at": "2026-11-08T03:21:31.792474"
+  },
+  {
+    "id": "Ars Technica_c5848c9835ad0380",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "content": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Thu, 05 Nov 2026 23:09:36 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:29.794843"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1074,7 +1025,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:31.687402"
+    "created_at": "2026-11-08T03:21:29.794898"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1091,7 +1042,54 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:38.789001"
+    "created_at": "2026-11-08T03:21:36.983344"
+  },
+  {
+    "id": "Reddit ML_dbd768bb1a753e1b",
+    "title": "ICLR27 math and stats paper review experience [D]",
+    "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
+    "content": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+    "source": "Reddit ML",
+    "author": "/u/d_edge_sword",
+    "published_date": "2026-11-07T03:02:10+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:45.572035"
+  },
+  {
+    "id": "Reddit ML_288290e1154eec58",
+    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
+    "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
+    "content": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
+    "source": "Reddit ML",
+    "author": "/u/Strong_Boy_757",
+    "published_date": "2026-11-06T21:25:49+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:45.572197"
+  },
+  {
+    "id": "Reddit ML_eb59e072c889b417",
+    "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
+    "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions.",
+    "content": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+    "source": "Reddit ML",
+    "author": "/u/latenticlabs",
+    "published_date": "2026-11-07T00:03:35+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T03:21:45.572432"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1108,7 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:31.687468"
+    "created_at": "2026-11-08T03:21:29.794989"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1126,7 +1124,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:48.067395"
+    "created_at": "2026-11-08T03:21:46.309611"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1143,7 +1141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:48.067442"
+    "created_at": "2026-11-08T03:21:46.309669"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1160,7 +1158,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:48.067483"
+    "created_at": "2026-11-08T03:21:46.309721"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1177,7 +1175,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:48.067519"
+    "created_at": "2026-11-08T03:21:46.309767"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1194,7 +1192,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:48.067556"
+    "created_at": "2026-11-08T03:21:46.309818"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1209,6 +1207,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-07T21:13:47.428525"
+    "created_at": "2026-11-08T03:21:45.571437"
   }
 ]
