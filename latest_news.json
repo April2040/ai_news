@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823122"
+    "created_at": "2026-11-08T12:26:13.354933"
   },
   {
     "id": "TechCrunch AI_ab93ed58fb151897",
@@ -34,7 +34,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768059"
+    "created_at": "2026-11-08T12:26:12.336074"
   },
   {
     "id": "The Verge AI_915a4a7a977e5b74",
@@ -52,25 +52,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823043"
+    "created_at": "2026-11-08T12:26:13.354861"
   },
   {
-    "id": "OpenAI News_aa1dbd535f4960af",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "url": "https://openai.com/index/partnering-with-hacktron",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.2,
+    "id": "Reddit ML_e5eca34e7c47d387",
+    "title": "Advice needed regarding classical ML conference submission [D]",
+    "summary": "Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too).",
+    "content": "Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too).",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
+    "source": "Reddit ML",
+    "author": "/u/Halfblood_prince6",
+    "published_date": "2026-11-08T05:26:57+00:00",
+    "importance_score": 7.3999999999999995,
     "category": "tech",
     "keywords": [
-      "OpenAI",
-      "AI"
+      "GPT",
+      "ChatGPT",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.185951"
+    "created_at": "2026-11-08T12:26:30.965534"
   },
   {
     "id": "Wired AI_379bc7ce4708dab6",
@@ -88,7 +89,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799381"
+    "created_at": "2026-11-08T12:26:14.290367"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -106,7 +107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:32.863575"
+    "created_at": "2026-11-08T12:26:18.419457"
   },
   {
     "id": "OpenAI News_7fd5b2a0c5a805fb",
@@ -126,7 +127,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186251"
+    "created_at": "2026-11-08T12:26:19.759816"
   },
   {
     "id": "TechCrunch AI_7b1c679836188250",
@@ -144,7 +145,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768764"
+    "created_at": "2026-11-08T12:26:12.336509"
   },
   {
     "id": "The Verge AI_e6956f968d6604cd",
@@ -162,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.822889"
+    "created_at": "2026-11-08T12:26:13.354676"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -180,7 +181,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:32.863676"
+    "created_at": "2026-11-08T12:26:18.419560"
   },
   {
     "id": "OpenAI News_d7daf3866b2c87c6",
@@ -199,7 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186088"
+    "created_at": "2026-11-08T12:26:19.759636"
   },
   {
     "id": "OpenAI News_4731233b3cd579ee",
@@ -218,7 +219,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186191"
+    "created_at": "2026-11-08T12:26:19.759722"
   },
   {
     "id": "OpenAI News_0cdfa402b9011c9d",
@@ -237,26 +238,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186365"
-  },
-  {
-    "id": "Wired AI_7c18292a2228dbd6",
-    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-    "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-    "content": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Thu, 05 Nov 2026 11:45:00 +0000",
-    "importance_score": 6.8,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799759"
+    "created_at": "2026-11-08T12:26:19.759941"
   },
   {
     "id": "TechCrunch AI_8239bb3166aafe68",
@@ -274,7 +256,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.767806"
+    "created_at": "2026-11-08T12:26:12.335911"
+  },
+  {
+    "id": "OpenAI News_aa1dbd535f4960af",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "content": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:19.759489"
   },
   {
     "id": "OpenAI News_edb0fd45411b3f52",
@@ -292,7 +292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186025"
+    "created_at": "2026-11-08T12:26:19.759569"
   },
   {
     "id": "OpenAI News_6b047662099b7238",
@@ -310,7 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186310"
+    "created_at": "2026-11-08T12:26:19.759883"
   },
   {
     "id": "OpenAI News_a12c00775671f6c6",
@@ -328,7 +328,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186420"
+    "created_at": "2026-11-08T12:26:19.760001"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -346,7 +346,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:34.186481"
+    "created_at": "2026-11-08T12:26:19.760069"
   },
   {
     "id": "Wired AI_9195980e63fb59ef",
@@ -365,7 +365,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799508"
+    "created_at": "2026-11-08T12:26:14.290500"
   },
   {
     "id": "The Verge AI_c0b570687bf13dc9",
@@ -383,7 +383,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823192"
+    "created_at": "2026-11-08T12:26:13.355006"
+  },
+  {
+    "id": "Wired AI_599e6086a7c72330",
+    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "content": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Sun, 08 Nov 2026 10:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:14.290204"
   },
   {
     "id": "TechCrunch AI_cf8611b738623a7f",
@@ -400,7 +417,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.767942"
+    "created_at": "2026-11-08T12:26:12.335995"
   },
   {
     "id": "TechCrunch AI_dd253af9c0f61da7",
@@ -417,7 +434,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768296"
+    "created_at": "2026-11-08T12:26:12.336214"
+  },
+  {
+    "id": "Wired AI_2eab7c9cd33225c2",
+    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "content": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "source": "Wired AI",
+    "author": "Joe Ray",
+    "published_date": "Sun, 08 Nov 2026 12:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:14.290121"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -434,7 +468,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792026"
+    "created_at": "2026-11-08T12:26:17.405607"
   },
   {
     "id": "TechCrunch AI_b340bac75d7f84c6",
@@ -451,7 +485,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768848"
+    "created_at": "2026-11-08T12:26:12.336574"
   },
   {
     "id": "The Verge AI_1bce5bc1370cc034",
@@ -468,7 +502,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823336"
+    "created_at": "2026-11-08T12:26:13.355166"
+  },
+  {
+    "id": "Reddit ML_183b0ad7d9b1886c",
+    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+    "summary": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
+    "content": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+    "source": "Reddit ML",
+    "author": "/u/Specific-Tax-6700",
+    "published_date": "2026-11-08T07:20:37+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:30.964035"
+  },
+  {
+    "id": "Reddit ML_d84612436e257792",
+    "title": "NeurIPS SlidesLive [D]",
+    "summary": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
+    "content": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+    "source": "Reddit ML",
+    "author": "/u/d_edge_sword",
+    "published_date": "2026-11-08T11:12:05+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:30.964117"
+  },
+  {
+    "id": "Reddit ML_bff1cf6e3557d531",
+    "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+    "summary": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
+    "content": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+    "source": "Reddit ML",
+    "author": "/u/Sl0wJH1",
+    "published_date": "2026-11-08T06:31:08+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:30.965018"
   },
   {
     "id": "The Verge AI_1e4f56d9160473d7",
@@ -485,7 +571,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.822808"
+    "created_at": "2026-11-08T12:26:13.354595"
   },
   {
     "id": "The Verge AI_7b6591532f0c6e17",
@@ -502,24 +588,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.822975"
-  },
-  {
-    "id": "Wired AI_c953c0d6880de6cc",
-    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-    "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-    "content": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-    "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-    "source": "Wired AI",
-    "author": "Jaclyn Greenberg",
-    "published_date": "Sat, 07 Nov 2026 11:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799295"
+    "created_at": "2026-11-08T12:26:13.354784"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -536,7 +605,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.080888"
+    "created_at": "2026-11-08T12:26:16.604159"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -553,7 +622,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.081041"
+    "created_at": "2026-11-08T12:26:16.604322"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -570,7 +639,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.081234"
+    "created_at": "2026-11-08T12:26:16.604528"
+  },
+  {
+    "id": "Reddit ML_70cbe05bc29d9d39",
+    "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
+    "summary": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG. The datasets are small, the subject variability is high, and signal acquisition variables differ significantly.",
+    "content": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG. The datasets are small, the subject variability is high, and signal acquisition variables differ significantly.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+    "source": "Reddit ML",
+    "author": "/u/joekrry",
+    "published_date": "2026-11-08T05:13:11+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:30.965177"
   },
   {
     "id": "TechCrunch AI_02fa0e6f91c8b301",
@@ -587,7 +673,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768188"
+    "created_at": "2026-11-08T12:26:12.336145"
   },
   {
     "id": "TechCrunch AI_ac2d56d6205830f2",
@@ -604,7 +690,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768468"
+    "created_at": "2026-11-08T12:26:12.336318"
   },
   {
     "id": "TechCrunch AI_65a728ff3a0551d7",
@@ -621,7 +707,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:26.768632"
+    "created_at": "2026-11-08T12:26:12.336419"
   },
   {
     "id": "The Verge AI_a23d2eb3583683b9",
@@ -638,7 +724,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823271"
+    "created_at": "2026-11-08T12:26:13.355093"
   },
   {
     "id": "The Verge AI_f803a93c40b8bcfa",
@@ -655,7 +741,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823397"
+    "created_at": "2026-11-08T12:26:13.355231"
   },
   {
     "id": "The Verge AI_a79c5c69c7b1e84c",
@@ -672,7 +758,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:27.823456"
+    "created_at": "2026-11-08T12:26:13.355298"
+  },
+  {
+    "id": "Wired AI_c953c0d6880de6cc",
+    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+    "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+    "content": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+    "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+    "source": "Wired AI",
+    "author": "Jaclyn Greenberg",
+    "published_date": "Sat, 07 Nov 2026 11:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T12:26:14.290287"
   },
   {
     "id": "Wired AI_45af09c6d8bd1e45",
@@ -689,7 +792,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799439"
+    "created_at": "2026-11-08T12:26:14.290426"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -706,7 +809,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.791918"
+    "created_at": "2026-11-08T12:26:17.405487"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -723,56 +826,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:29.794777"
-  },
-  {
-    "id": "Reddit ML_b3c4b320297db90b",
-    "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-    "summary": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
-    "content": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-    "source": "Reddit ML",
-    "author": "/u/sooham",
-    "published_date": "2026-11-07T07:08:01+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.571834"
-  },
-  {
-    "id": "Reddit ML_d205697378aa827d",
-    "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-    "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
-    "content": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
-    "source": "Reddit ML",
-    "author": "/u/Charming-Fail-772",
-    "published_date": "2026-11-07T08:25:40+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.571934"
-  },
-  {
-    "id": "Reddit ML_f4793834334019e8",
-    "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
-    "summary": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. And I don't mean they misunderstood our method or missed the main contribution.",
-    "content": "Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process. One of the reviewers seems to have submitted a review for a completely different paper. And I don't mean they misunderstood our method or missed the main contribution.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
-    "source": "Reddit ML",
-    "author": "/u/rohitx0",
-    "published_date": "2026-11-07T06:40:14+00:00",
-    "importance_score": 5.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.572310"
+    "created_at": "2026-11-08T12:26:15.335724"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -787,7 +841,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.571335"
+    "created_at": "2026-11-08T12:26:30.963778"
   },
   {
     "id": "Reddit ML_4aa8e050dda658fe",
@@ -804,7 +858,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.571705"
+    "created_at": "2026-11-08T12:26:30.964376"
   },
   {
     "id": "Wired AI_e12bfcdb41d9b6ef",
@@ -821,7 +875,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799589"
+    "created_at": "2026-11-08T12:26:14.290588"
   },
   {
     "id": "Wired AI_36963cd4b34d1db6",
@@ -838,7 +892,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799647"
+    "created_at": "2026-11-08T12:26:14.290651"
   },
   {
     "id": "Wired AI_74f43cdc7419e0f8",
@@ -855,24 +909,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799706"
-  },
-  {
-    "id": "Wired AI_c5a1a1f00174aec0",
-    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-    "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "content": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-    "source": "Wired AI",
-    "author": "Caroline Haskins",
-    "published_date": "Wed, 04 Nov 2026 23:13:14 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:28.799809"
+    "created_at": "2026-11-08T12:26:14.290717"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -889,7 +926,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.080954"
+    "created_at": "2026-11-08T12:26:16.604230"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -906,7 +943,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.081166"
+    "created_at": "2026-11-08T12:26:16.604454"
   },
   {
     "id": "MIT Technology Review_c647e264a1b20832",
@@ -923,7 +960,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792125"
+    "created_at": "2026-11-08T12:26:17.405700"
   },
   {
     "id": "MIT Technology Review_bda15d7f8fdc4a3e",
@@ -940,7 +977,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792215"
+    "created_at": "2026-11-08T12:26:17.405826"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -957,7 +994,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792313"
+    "created_at": "2026-11-08T12:26:17.405941"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -974,7 +1011,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792388"
+    "created_at": "2026-11-08T12:26:17.406023"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -991,7 +1028,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:31.792474"
+    "created_at": "2026-11-08T12:26:17.406120"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1008,7 +1045,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:29.794843"
+    "created_at": "2026-11-08T12:26:15.335813"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1025,7 +1062,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:29.794898"
+    "created_at": "2026-11-08T12:26:15.335876"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1042,54 +1079,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:36.983344"
+    "created_at": "2026-11-08T12:26:22.540181"
   },
   {
-    "id": "Reddit ML_dbd768bb1a753e1b",
-    "title": "ICLR27 math and stats paper review experience [D]",
-    "summary": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
-    "content": "For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27? We got a score of 222, on the probabilistic methods track.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+    "id": "Reddit ML_b3c4b320297db90b",
+    "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+    "summary": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
+    "content": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
     "source": "Reddit ML",
-    "author": "/u/d_edge_sword",
-    "published_date": "2026-11-07T03:02:10+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.572035"
-  },
-  {
-    "id": "Reddit ML_288290e1154eec58",
-    "title": "What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]",
-    "summary": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
-    "content": "It was clear to me that around 2012 - 2018ish, academic research was kind of paving the way for many applications in industry, from deep nets for vision to RL algorithms. There was tremendous value in research coming out of academia and new methods such as ADAM or TRPO algorithm would be adopted as...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/",
-    "source": "Reddit ML",
-    "author": "/u/Strong_Boy_757",
-    "published_date": "2026-11-06T21:25:49+00:00",
+    "author": "/u/sooham",
+    "published_date": "2026-11-07T07:08:01+00:00",
     "importance_score": 4.8,
     "category": "tech",
     "keywords": [
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.572197"
+    "created_at": "2026-11-08T12:26:30.965313"
   },
   {
-    "id": "Reddit ML_eb59e072c889b417",
-    "title": "ICLR 2027's new 1–4 scale: a 2, 2, 3 is better than it feels [P]",
-    "summary": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions.",
-    "content": "ICLR 2027 moved to a 4-point scale (1 clear reject, 2 weak reject, 3 weak accept, 4 clear accept), so nobody has a feel yet for what a given set of scores means. We counted the public scores on OpenReview: 73,410 reviews on 23,759 submissions.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xps7xu/iclr_2027s_new_14_scale_a_2_2_3_is_better_than_it/",
+    "id": "Reddit ML_d205697378aa827d",
+    "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
+    "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
+    "content": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
     "source": "Reddit ML",
-    "author": "/u/latenticlabs",
-    "published_date": "2026-11-07T00:03:35+00:00",
+    "author": "/u/Charming-Fail-772",
+    "published_date": "2026-11-07T08:25:40+00:00",
     "importance_score": 4.8,
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.572432"
+    "created_at": "2026-11-08T12:26:30.965422"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1106,7 +1128,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:29.794989"
+    "created_at": "2026-11-08T12:26:15.335969"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1124,7 +1146,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:46.309611"
+    "created_at": "2026-11-08T12:26:31.588498"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1141,7 +1163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:46.309669"
+    "created_at": "2026-11-08T12:26:31.588563"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1158,7 +1180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:46.309721"
+    "created_at": "2026-11-08T12:26:31.588622"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1175,7 +1197,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:46.309767"
+    "created_at": "2026-11-08T12:26:31.588677"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1192,7 +1214,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:46.309818"
+    "created_at": "2026-11-08T12:26:31.588736"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1207,6 +1229,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T03:21:45.571437"
+    "created_at": "2026-11-08T12:26:30.963900"
   }
 ]
