@@ -1,5 +1,23 @@
 [
   {
+    "id": "The Verge AI_c59c4f78b25d0875",
+    "title": "Apple is racing to make Siri more agentic",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+    "content": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-08T14:18:19-05:00",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:15.110316"
+  },
+  {
     "id": "The Verge AI_23d08909c19d8d6c",
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
@@ -16,7 +34,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.354933"
+    "created_at": "2026-11-08T21:28:15.110777"
   },
   {
     "id": "TechCrunch AI_ab93ed58fb151897",
@@ -34,62 +52,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336074"
+    "created_at": "2026-11-08T21:28:14.053226"
   },
   {
-    "id": "The Verge AI_915a4a7a977e5b74",
-    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
-    "content": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-11-07T07:30:00-05:00",
-    "importance_score": 7.4,
+    "id": "TechCrunch AI_9626319ceb47c385",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "content": "In a memo to the company, Huang admitted that he had an affair.",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 08 Nov 2026 21:00:11 +0000",
+    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.354861"
-  },
-  {
-    "id": "Reddit ML_e5eca34e7c47d387",
-    "title": "Advice needed regarding classical ML conference submission [D]",
-    "summary": "Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too).",
-    "content": "Hi, I need some advice on submission of classical ML papers in top conferences. During my PhD I made some findings in classical ML (related to SVM and LR) which, on further deep diving, looks like original work (I checked with chatGPT and Gemini too).",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqrof/advice_needed_regarding_classical_ml_conference/",
-    "source": "Reddit ML",
-    "author": "/u/Halfblood_prince6",
-    "published_date": "2026-11-08T05:26:57+00:00",
-    "importance_score": 7.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.965534"
-  },
-  {
-    "id": "Wired AI_379bc7ce4708dab6",
-    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-    "content": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "source": "Wired AI",
-    "author": "Will Knight, Lily Hay Newman",
-    "published_date": "Fri, 06 Nov 2026 18:43:43 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290367"
+    "created_at": "2026-11-08T21:28:14.052989"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -107,7 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:18.419457"
+    "created_at": "2026-11-08T21:28:20.222877"
   },
   {
     "id": "OpenAI News_7fd5b2a0c5a805fb",
@@ -127,17 +108,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759816"
+    "created_at": "2026-11-08T21:28:21.494835"
   },
   {
-    "id": "TechCrunch AI_7b1c679836188250",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "content": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Fri, 06 Nov 2026 15:54:47 +0000",
+    "id": "The Verge AI_915a4a7a977e5b74",
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+    "content": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-11-07T07:30:00-05:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -145,25 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336509"
-  },
-  {
-    "id": "The Verge AI_e6956f968d6604cd",
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
-    "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-07T10:43:45-05:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.354676"
+    "created_at": "2026-11-08T21:28:15.110712"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -181,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:18.419560"
+    "created_at": "2026-11-08T21:28:20.222976"
   },
   {
     "id": "OpenAI News_d7daf3866b2c87c6",
@@ -200,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759636"
+    "created_at": "2026-11-08T21:28:21.494660"
   },
   {
     "id": "OpenAI News_4731233b3cd579ee",
@@ -219,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759722"
+    "created_at": "2026-11-08T21:28:21.494777"
   },
   {
     "id": "OpenAI News_0cdfa402b9011c9d",
@@ -238,25 +201,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759941"
-  },
-  {
-    "id": "TechCrunch AI_8239bb3166aafe68",
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "content": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 07 Nov 2026 21:17:08 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.335911"
+    "created_at": "2026-11-08T21:28:21.494943"
   },
   {
     "id": "OpenAI News_aa1dbd535f4960af",
@@ -274,7 +219,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759489"
+    "created_at": "2026-11-08T21:28:21.494521"
   },
   {
     "id": "OpenAI News_edb0fd45411b3f52",
@@ -292,7 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759569"
+    "created_at": "2026-11-08T21:28:21.494597"
   },
   {
     "id": "OpenAI News_6b047662099b7238",
@@ -310,7 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.759883"
+    "created_at": "2026-11-08T21:28:21.494891"
   },
   {
     "id": "OpenAI News_a12c00775671f6c6",
@@ -328,7 +273,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.760001"
+    "created_at": "2026-11-08T21:28:21.494998"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -346,7 +291,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:19.760069"
+    "created_at": "2026-11-08T21:28:21.495057"
+  },
+  {
+    "id": "Wired AI_379bc7ce4708dab6",
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "content": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "source": "Wired AI",
+    "author": "Will Knight, Lily Hay Newman",
+    "published_date": "Fri, 06 Nov 2026 18:43:43 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:16.083736"
   },
   {
     "id": "Wired AI_9195980e63fb59ef",
@@ -365,7 +328,60 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290500"
+    "created_at": "2026-11-08T21:28:16.083857"
+  },
+  {
+    "id": "TechCrunch AI_7b1c679836188250",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "content": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Fri, 06 Nov 2026 15:54:47 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:14.053621"
+  },
+  {
+    "id": "The Verge AI_ace9366737029307",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+    "content": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-08T12:23:19-05:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:15.110397"
+  },
+  {
+    "id": "The Verge AI_e6956f968d6604cd",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+    "content": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-07T10:43:45-05:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:15.110550"
   },
   {
     "id": "The Verge AI_c0b570687bf13dc9",
@@ -383,24 +399,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.355006"
+    "created_at": "2026-11-08T21:28:15.110842"
   },
   {
-    "id": "Wired AI_599e6086a7c72330",
-    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "content": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Sun, 08 Nov 2026 10:00:00 +0000",
-    "importance_score": 6.4,
+    "id": "TechCrunch AI_8239bb3166aafe68",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "content": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sat, 07 Nov 2026 21:17:08 +0000",
+    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290204"
+    "created_at": "2026-11-08T21:28:14.053099"
   },
   {
     "id": "TechCrunch AI_cf8611b738623a7f",
@@ -417,41 +434,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.335995"
+    "created_at": "2026-11-08T21:28:14.053160"
   },
   {
-    "id": "TechCrunch AI_dd253af9c0f61da7",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "content": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Fri, 06 Nov 2026 18:44:20 +0000",
-    "importance_score": 6.2,
+    "id": "Reddit ML_c95a9a3149777de9",
+    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+    "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
+    "content": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+    "source": "Reddit ML",
+    "author": "/u/WAMFT",
+    "published_date": "2026-11-08T17:43:26+00:00",
+    "importance_score": 6.199999999999999,
     "category": "tech",
     "keywords": [
-      "AI"
+      "AI",
+      "ML",
+      "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336214"
-  },
-  {
-    "id": "Wired AI_2eab7c9cd33225c2",
-    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-    "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-    "content": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "source": "Wired AI",
-    "author": "Joe Ray",
-    "published_date": "Sun, 08 Nov 2026 12:00:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290121"
+    "created_at": "2026-11-08T21:28:32.839379"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -468,127 +470,92 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.405607"
+    "created_at": "2026-11-08T21:28:19.099624"
   },
   {
-    "id": "TechCrunch AI_b340bac75d7f84c6",
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "content": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "id": "Lobsters AI_22be2bbcf6fc8cb7",
+    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+    "summary": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
+    "content": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
+    "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+    "source": "Lobsters AI",
+    "author": "by napolux",
+    "published_date": "Sun, 08 Nov 2026 11:07:51 -0600",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:33.537286"
+  },
+  {
+    "id": "Wired AI_599e6086a7c72330",
+    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "content": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Sun, 08 Nov 2026 10:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:16.083571"
+  },
+  {
+    "id": "Reddit ML_7b9f93c6ed85c27c",
+    "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+    "summary": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
+    "content": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+    "source": "Reddit ML",
+    "author": "/u/m4rkGS",
+    "published_date": "2026-11-08T17:54:43+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:32.839756"
+  },
+  {
+    "id": "TechCrunch AI_dd253af9c0f61da7",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "content": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Fri, 06 Nov 2026 14:10:00 +0000",
-    "importance_score": 6.0,
+    "author": "Lucas Ropek",
+    "published_date": "Fri, 06 Nov 2026 18:44:20 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336574"
+    "created_at": "2026-11-08T21:28:14.053350"
   },
   {
-    "id": "The Verge AI_1bce5bc1370cc034",
-    "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.",
-    "content": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.",
-    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-06T13:10:10-05:00",
-    "importance_score": 6.0,
+    "id": "Wired AI_2eab7c9cd33225c2",
+    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "content": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "source": "Wired AI",
+    "author": "Joe Ray",
+    "published_date": "Sun, 08 Nov 2026 12:00:00 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.355166"
-  },
-  {
-    "id": "Reddit ML_183b0ad7d9b1886c",
-    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
-    "summary": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
-    "content": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
-    "source": "Reddit ML",
-    "author": "/u/Specific-Tax-6700",
-    "published_date": "2026-11-08T07:20:37+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.964035"
-  },
-  {
-    "id": "Reddit ML_d84612436e257792",
-    "title": "NeurIPS SlidesLive [D]",
-    "summary": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
-    "content": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
-    "source": "Reddit ML",
-    "author": "/u/d_edge_sword",
-    "published_date": "2026-11-08T11:12:05+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.964117"
-  },
-  {
-    "id": "Reddit ML_bff1cf6e3557d531",
-    "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
-    "summary": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
-    "content": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
-    "source": "Reddit ML",
-    "author": "/u/Sl0wJH1",
-    "published_date": "2026-11-08T06:31:08+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.965018"
-  },
-  {
-    "id": "The Verge AI_1e4f56d9160473d7",
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
-    "content": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "source": "The Verge AI",
-    "author": "Jennifer Pattison Tuohy",
-    "published_date": "2026-11-07T10:50:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.354595"
-  },
-  {
-    "id": "The Verge AI_7b6591532f0c6e17",
-    "title": "AI broke the cybersecurity world. What’s next?",
-    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
-    "content": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
-    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-11-07T10:00:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.354784"
+    "created_at": "2026-11-08T21:28:16.083492"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -605,7 +572,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:16.604159"
+    "created_at": "2026-11-08T21:28:18.203415"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -622,7 +589,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:16.604322"
+    "created_at": "2026-11-08T21:28:18.203563"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -639,126 +606,93 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:16.604528"
+    "created_at": "2026-11-08T21:28:18.203767"
   },
   {
-    "id": "Reddit ML_70cbe05bc29d9d39",
-    "title": "GRFNet, PyTorch model for multichannel time-series classification [P]",
-    "summary": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG. The datasets are small, the subject variability is high, and signal acquisition variables differ significantly.",
-    "content": "Hi all, Through my MSc work on EEG decoding, I built a novel (partially) architecture tailored to the constraints of EEG. The datasets are small, the subject variability is high, and signal acquisition variables differ significantly.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqqj67/grfnet_pytorch_model_for_multichannel_timeseries/",
+    "id": "Reddit ML_183b0ad7d9b1886c",
+    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+    "summary": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
+    "content": "I'have been dreaming about using a Diffusion Model that will generates Weights instead of pixels. Diffusion models actually are vast used in order to generate from a natural language text description into images, and what is an image? a three dimensional matrix of value representig luminosity of...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
     "source": "Reddit ML",
-    "author": "/u/joekrry",
-    "published_date": "2026-11-08T05:13:11+00:00",
+    "author": "/u/Specific-Tax-6700",
+    "published_date": "2026-11-08T07:20:37+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:32.839510"
+  },
+  {
+    "id": "Reddit ML_d84612436e257792",
+    "title": "NeurIPS SlidesLive [D]",
+    "summary": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
+    "content": "Does anyone know what this NeurIPS Slides live is? I got an email saying We are SlidesLive, the recording company partnered with NeurIPS to record your talk. We are ready to collect and edit your recording with some instructions. This was never mentioned in the official emails from NeurIPS.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqw2n9/neurips_slideslive_d/",
+    "source": "Reddit ML",
+    "author": "/u/d_edge_sword",
+    "published_date": "2026-11-08T11:12:05+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.965177"
+    "created_at": "2026-11-08T21:28:32.839593"
   },
   {
-    "id": "TechCrunch AI_02fa0e6f91c8b301",
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "content": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "source": "TechCrunch AI",
-    "author": "Zack Whittaker",
-    "published_date": "Fri, 06 Nov 2026 18:44:38 +0000",
-    "importance_score": 5.4,
+    "id": "Reddit ML_bff1cf6e3557d531",
+    "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+    "summary": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
+    "content": "Hi y’all. Thought Id share the progress on my current local VLA agent project! using agent and language somewhat loosely here. Technically it is an agent, and technically it does adhere to text prompts. However very minimally. Video Link: https://www.reddit.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+    "source": "Reddit ML",
+    "author": "/u/Sl0wJH1",
+    "published_date": "2026-11-08T06:31:08+00:00",
+    "importance_score": 5.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336145"
+    "created_at": "2026-11-08T21:28:32.840572"
   },
   {
-    "id": "TechCrunch AI_ac2d56d6205830f2",
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
-    "content": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-    "published_date": "Fri, 06 Nov 2026 18:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336318"
-  },
-  {
-    "id": "TechCrunch AI_65a728ff3a0551d7",
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
-    "content": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Anthony Ha",
-    "published_date": "Fri, 06 Nov 2026 17:23:52 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:12.336419"
-  },
-  {
-    "id": "The Verge AI_a23d2eb3583683b9",
-    "title": "All the latest updates on AI data centers",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
-    "content": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "id": "The Verge AI_1e4f56d9160473d7",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
+    "content": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-11-06T15:02:22-05:00",
+    "author": "Jennifer Pattison Tuohy",
+    "published_date": "2026-11-07T10:50:00-05:00",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.355093"
+    "created_at": "2026-11-08T21:28:15.110487"
   },
   {
-    "id": "The Verge AI_f803a93c40b8bcfa",
-    "title": "AI is the new dating dealbreaker",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
-    "content": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+    "id": "The Verge AI_7b6591532f0c6e17",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
+    "content": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life.",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
     "source": "The Verge AI",
-    "author": "Helen Li",
-    "published_date": "2026-11-06T12:00:00-05:00",
+    "author": "Nilay Patel",
+    "published_date": "2026-11-07T10:00:00-05:00",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.355231"
-  },
-  {
-    "id": "The Verge AI_a79c5c69c7b1e84c",
-    "title": "Big Tech lost big in the 2026 election",
-    "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them.",
-    "content": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them.",
-    "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-    "source": "The Verge AI",
-    "author": "David Pierce",
-    "published_date": "2026-11-06T11:38:02-05:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:13.355298"
+    "created_at": "2026-11-08T21:28:15.110631"
   },
   {
     "id": "Wired AI_c953c0d6880de6cc",
@@ -775,58 +709,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290287"
-  },
-  {
-    "id": "Wired AI_45af09c6d8bd1e45",
-    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-    "content": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "source": "Wired AI",
-    "author": "Steven Levy",
-    "published_date": "Fri, 06 Nov 2026 16:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290426"
-  },
-  {
-    "id": "MIT Technology Review_cae6617820816648",
-    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 06 Nov 2026 13:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.405487"
-  },
-  {
-    "id": "Ars Technica_6bb3ba4188633553",
-    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-    "content": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Fri, 06 Nov 2026 20:56:41 +0000",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:15.335724"
+    "created_at": "2026-11-08T21:28:16.083645"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -841,7 +724,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.963778"
+    "created_at": "2026-11-08T21:28:32.839165"
   },
   {
     "id": "Reddit ML_4aa8e050dda658fe",
@@ -858,7 +741,92 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.964376"
+    "created_at": "2026-11-08T21:28:32.840002"
+  },
+  {
+    "id": "TechCrunch AI_02fa0e6f91c8b301",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "content": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch AI",
+    "author": "Zack Whittaker",
+    "published_date": "Fri, 06 Nov 2026 18:44:38 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:14.053290"
+  },
+  {
+    "id": "TechCrunch AI_ac2d56d6205830f2",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "content": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+    "published_date": "Fri, 06 Nov 2026 18:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:14.053448"
+  },
+  {
+    "id": "TechCrunch AI_65a728ff3a0551d7",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "content": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Anthony Ha",
+    "published_date": "Fri, 06 Nov 2026 17:23:52 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:14.053557"
+  },
+  {
+    "id": "The Verge AI_a23d2eb3583683b9",
+    "title": "All the latest updates on AI data centers",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
+    "content": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-11-06T15:02:22-05:00",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:15.110923"
+  },
+  {
+    "id": "Wired AI_45af09c6d8bd1e45",
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "content": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "source": "Wired AI",
+    "author": "Steven Levy",
+    "published_date": "Fri, 06 Nov 2026 16:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:16.083791"
   },
   {
     "id": "Wired AI_e12bfcdb41d9b6ef",
@@ -875,7 +843,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290588"
+    "created_at": "2026-11-08T21:28:16.083937"
   },
   {
     "id": "Wired AI_36963cd4b34d1db6",
@@ -892,7 +860,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290651"
+    "created_at": "2026-11-08T21:28:16.083995"
   },
   {
     "id": "Wired AI_74f43cdc7419e0f8",
@@ -909,7 +877,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:14.290717"
+    "created_at": "2026-11-08T21:28:16.084054"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -926,7 +894,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:16.604230"
+    "created_at": "2026-11-08T21:28:18.203477"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -943,7 +911,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:16.604454"
+    "created_at": "2026-11-08T21:28:18.203700"
+  },
+  {
+    "id": "MIT Technology Review_cae6617820816648",
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 06 Nov 2026 13:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:19.099518"
   },
   {
     "id": "MIT Technology Review_c647e264a1b20832",
@@ -960,7 +945,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.405700"
+    "created_at": "2026-11-08T21:28:19.099725"
   },
   {
     "id": "MIT Technology Review_bda15d7f8fdc4a3e",
@@ -977,7 +962,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.405826"
+    "created_at": "2026-11-08T21:28:19.099814"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -994,7 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.405941"
+    "created_at": "2026-11-08T21:28:19.099910"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -1011,7 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.406023"
+    "created_at": "2026-11-08T21:28:19.099984"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -1028,7 +1013,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:17.406120"
+    "created_at": "2026-11-08T21:28:19.100069"
+  },
+  {
+    "id": "Ars Technica_6bb3ba4188633553",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "content": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 06 Nov 2026 20:56:41 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-08T21:28:17.068292"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1045,7 +1047,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:15.335813"
+    "created_at": "2026-11-08T21:28:17.068356"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1062,7 +1064,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:15.335876"
+    "created_at": "2026-11-08T21:28:17.068410"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1079,39 +1081,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:22.540181"
-  },
-  {
-    "id": "Reddit ML_b3c4b320297db90b",
-    "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
-    "summary": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
-    "content": "Im an incoming masters student in ML, a bit older than most (31). I’ve read 100s of papers over the last 7/8 years from the foundational papers in the field to niche papers that never got adopted (Hinton’s forward forward, capsule networks). Ive also replicated dozens of papers during this time.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-    "source": "Reddit ML",
-    "author": "/u/sooham",
-    "published_date": "2026-11-07T07:08:01+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.965313"
-  },
-  {
-    "id": "Reddit ML_d205697378aa827d",
-    "title": "Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]",
-    "summary": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
-    "content": "I’ve been going through ICLR 2027 reviews, and most of them look extremely shallow. They’re so f short, like they're written for a random workshop. Almost every review I've seen is two generic points under each section (strengths, weaknesses, questions) and nothing more.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/",
-    "source": "Reddit ML",
-    "author": "/u/Charming-Fail-772",
-    "published_date": "2026-11-07T08:25:40+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.965422"
+    "created_at": "2026-11-08T21:28:24.233919"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1128,7 +1098,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:15.335969"
+    "created_at": "2026-11-08T21:28:17.068498"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1146,7 +1116,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:31.588498"
+    "created_at": "2026-11-08T21:28:33.537366"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1163,7 +1133,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:31.588563"
+    "created_at": "2026-11-08T21:28:33.537415"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1180,7 +1150,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:31.588622"
+    "created_at": "2026-11-08T21:28:33.537466"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1197,7 +1167,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:31.588677"
+    "created_at": "2026-11-08T21:28:33.537513"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1214,7 +1184,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:31.588736"
+    "created_at": "2026-11-08T21:28:33.537563"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1229,6 +1199,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T12:26:30.963900"
+    "created_at": "2026-11-08T21:28:32.839262"
   }
 ]
