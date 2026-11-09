@@ -8,14 +8,14 @@
     "source": "The Verge AI",
     "author": "Terrence O’Brien",
     "published_date": "2026-11-08T14:18:19-05:00",
-    "importance_score": 8.899999999999999,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110316"
+    "created_at": "2026-11-09T03:40:22.904477"
   },
   {
     "id": "The Verge AI_23d08909c19d8d6c",
@@ -26,7 +26,7 @@
     "source": "The Verge AI",
     "author": "Stevie Bonifield",
     "published_date": "2026-11-06T18:46:18-05:00",
-    "importance_score": 8.3,
+    "importance_score": 7.8,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -34,7 +34,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110777"
+    "created_at": "2026-11-09T03:40:22.904730"
   },
   {
     "id": "TechCrunch AI_ab93ed58fb151897",
@@ -45,32 +45,32 @@
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
     "published_date": "Fri, 06 Nov 2026 22:53:46 +0000",
-    "importance_score": 8.100000000000001,
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053226"
+    "created_at": "2026-11-09T03:40:21.889316"
   },
   {
-    "id": "TechCrunch AI_9626319ceb47c385",
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "summary": "In a memo to the company, Huang admitted that he had an affair.",
-    "content": "In a memo to the company, Huang admitted that he had an affair.",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 08 Nov 2026 21:00:11 +0000",
-    "importance_score": 7.2,
+    "id": "The Verge AI_83c1fe92c88def28",
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the...",
+    "content": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-08T17:54:50-05:00",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.052989"
+    "created_at": "2026-11-09T03:40:22.904421"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -88,7 +88,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:20.222877"
+    "created_at": "2026-11-09T03:40:27.914487"
   },
   {
     "id": "OpenAI News_7fd5b2a0c5a805fb",
@@ -108,7 +108,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494835"
+    "created_at": "2026-11-09T03:40:29.100776"
   },
   {
     "id": "The Verge AI_915a4a7a977e5b74",
@@ -126,7 +126,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110712"
+    "created_at": "2026-11-09T03:40:22.904693"
   },
   {
     "id": "DeepMind Blog_a464070164a13345",
@@ -144,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:20.222976"
+    "created_at": "2026-11-09T03:40:27.914549"
   },
   {
     "id": "OpenAI News_d7daf3866b2c87c6",
@@ -163,7 +163,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494660"
+    "created_at": "2026-11-09T03:40:29.100692"
   },
   {
     "id": "OpenAI News_4731233b3cd579ee",
@@ -182,7 +182,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494777"
+    "created_at": "2026-11-09T03:40:29.100743"
   },
   {
     "id": "OpenAI News_0cdfa402b9011c9d",
@@ -201,7 +201,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494943"
+    "created_at": "2026-11-09T03:40:29.100846"
+  },
+  {
+    "id": "TechCrunch AI_9626319ceb47c385",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "content": "In a memo to the company, Huang admitted that he had an affair.",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "author": "Anthony Ha",
+    "published_date": "Sun, 08 Nov 2026 21:00:11 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:21.889169"
   },
   {
     "id": "OpenAI News_aa1dbd535f4960af",
@@ -219,7 +237,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494521"
+    "created_at": "2026-11-09T03:40:29.100602"
   },
   {
     "id": "OpenAI News_edb0fd45411b3f52",
@@ -237,7 +255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494597"
+    "created_at": "2026-11-09T03:40:29.100656"
   },
   {
     "id": "OpenAI News_6b047662099b7238",
@@ -255,7 +273,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494891"
+    "created_at": "2026-11-09T03:40:29.100808"
   },
   {
     "id": "OpenAI News_a12c00775671f6c6",
@@ -273,7 +291,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.494998"
+    "created_at": "2026-11-09T03:40:29.100876"
   },
   {
     "id": "OpenAI News_15dfc2bdc548ce6f",
@@ -291,7 +309,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:21.495057"
+    "created_at": "2026-11-09T03:40:29.100913"
   },
   {
     "id": "Wired AI_379bc7ce4708dab6",
@@ -309,7 +327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083736"
+    "created_at": "2026-11-09T03:40:23.906162"
   },
   {
     "id": "Wired AI_9195980e63fb59ef",
@@ -328,7 +346,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083857"
+    "created_at": "2026-11-09T03:40:23.906235"
+  },
+  {
+    "id": "Reddit ML_1566b7598249bf04",
+    "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+    "summary": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text format, and an SFT adapter that conditions on a caption.",
+    "content": "I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text format, and an SFT adapter that conditions on a caption.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+    "source": "Reddit ML",
+    "author": "/u/prathamdmehta",
+    "published_date": "2026-11-09T00:30:07+00:00",
+    "importance_score": 6.6,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:40.580373"
   },
   {
     "id": "TechCrunch AI_7b1c679836188250",
@@ -346,24 +381,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053621"
-  },
-  {
-    "id": "The Verge AI_ace9366737029307",
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
-    "content": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-08T12:23:19-05:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110397"
+    "created_at": "2026-11-09T03:40:21.889560"
   },
   {
     "id": "The Verge AI_e6956f968d6604cd",
@@ -381,25 +399,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110550"
-  },
-  {
-    "id": "The Verge AI_c0b570687bf13dc9",
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
-    "content": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
-    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-06T18:00:44-05:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110842"
+    "created_at": "2026-11-09T03:40:22.904607"
   },
   {
     "id": "TechCrunch AI_8239bb3166aafe68",
@@ -417,43 +417,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053099"
-  },
-  {
-    "id": "TechCrunch AI_cf8611b738623a7f",
-    "title": "Crusoe sells troubled Wyoming data center project to Google",
-    "summary": "The deal highlights the challenges of developing massive AI data centers.",
-    "content": "The deal highlights the challenges of developing massive AI data centers.",
-    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Sat, 07 Nov 2026 01:40:28 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053160"
-  },
-  {
-    "id": "Reddit ML_c95a9a3149777de9",
-    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
-    "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
-    "content": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
-    "source": "Reddit ML",
-    "author": "/u/WAMFT",
-    "published_date": "2026-11-08T17:43:26+00:00",
-    "importance_score": 6.199999999999999,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML",
-      "transformer"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839379"
+    "created_at": "2026-11-09T03:40:21.889241"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -470,24 +434,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099624"
+    "created_at": "2026-11-09T03:40:26.863162"
   },
   {
-    "id": "Lobsters AI_22be2bbcf6fc8cb7",
-    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
-    "summary": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
-    "content": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
-    "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
-    "source": "Lobsters AI",
-    "author": "by napolux",
-    "published_date": "Sun, 08 Nov 2026 11:07:51 -0600",
-    "importance_score": 6.0,
+    "id": "The Verge AI_ace9366737029307",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+    "content": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-08T12:23:19-05:00",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537286"
+    "created_at": "2026-11-09T03:40:22.904517"
+  },
+  {
+    "id": "The Verge AI_c0b570687bf13dc9",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
+    "content": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most...",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-06T18:00:44-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:22.904768"
   },
   {
     "id": "Wired AI_599e6086a7c72330",
@@ -504,24 +486,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083571"
+    "created_at": "2026-11-09T03:40:23.906069"
   },
   {
-    "id": "Reddit ML_7b9f93c6ed85c27c",
-    "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
-    "summary": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
-    "content": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
-    "source": "Reddit ML",
-    "author": "/u/m4rkGS",
-    "published_date": "2026-11-08T17:54:43+00:00",
-    "importance_score": 5.8,
+    "id": "TechCrunch AI_cf8611b738623a7f",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "content": "The deal highlights the challenges of developing massive AI data centers.",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Sat, 07 Nov 2026 01:40:28 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839756"
+    "created_at": "2026-11-09T03:40:21.889278"
   },
   {
     "id": "TechCrunch AI_dd253af9c0f61da7",
@@ -538,7 +520,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053350"
+    "created_at": "2026-11-09T03:40:21.889387"
   },
   {
     "id": "Wired AI_2eab7c9cd33225c2",
@@ -555,7 +537,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083492"
+    "created_at": "2026-11-09T03:40:23.906019"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -572,7 +554,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:18.203415"
+    "created_at": "2026-11-09T03:40:25.990157"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -589,7 +571,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:18.203563"
+    "created_at": "2026-11-09T03:40:25.990255"
   },
   {
     "id": "Google AI Blog_6a80f3287b05b415",
@@ -606,7 +588,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:18.203767"
+    "created_at": "2026-11-09T03:40:25.990363"
+  },
+  {
+    "id": "Reddit ML_c95a9a3149777de9",
+    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+    "summary": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
+    "content": "Hi everyone! I've been experimenting with an alternative Transformer architecture called GAP (Gated Attention Projection). The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+    "source": "Reddit ML",
+    "author": "/u/WAMFT",
+    "published_date": "2026-11-08T17:43:26+00:00",
+    "importance_score": 5.699999999999999,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:40.580287"
   },
   {
     "id": "Reddit ML_183b0ad7d9b1886c",
@@ -624,7 +625,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839510"
+    "created_at": "2026-11-09T03:40:40.580447"
   },
   {
     "id": "Reddit ML_d84612436e257792",
@@ -641,7 +642,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839593"
+    "created_at": "2026-11-09T03:40:40.580497"
   },
   {
     "id": "Reddit ML_bff1cf6e3557d531",
@@ -658,7 +659,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.840572"
+    "created_at": "2026-11-09T03:40:40.581100"
+  },
+  {
+    "id": "Lobsters AI_22be2bbcf6fc8cb7",
+    "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+    "summary": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
+    "content": "I just got a Mac mini with an M5 Pro (base CPU config) and 48GB of unified memory. I want to run as much AI locally as makes sense, but it's hard to separate what actually works day to day from benchmark hype.",
+    "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+    "source": "Lobsters AI",
+    "author": "by napolux",
+    "published_date": "Sun, 08 Nov 2026 11:07:51 -0600",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:40.996052"
   },
   {
     "id": "The Verge AI_1e4f56d9160473d7",
@@ -675,7 +693,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110487"
+    "created_at": "2026-11-09T03:40:22.904571"
   },
   {
     "id": "The Verge AI_7b6591532f0c6e17",
@@ -692,7 +710,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110631"
+    "created_at": "2026-11-09T03:40:22.904656"
   },
   {
     "id": "Wired AI_c953c0d6880de6cc",
@@ -709,7 +727,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083645"
+    "created_at": "2026-11-09T03:40:23.906117"
+  },
+  {
+    "id": "Reddit ML_7b9f93c6ed85c27c",
+    "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]",
+    "summary": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
+    "content": "hey, its Alti from Nace. we released a small update with Drex Max v1.1, both achieving the SOTA and Pareto frontier for decision models. We did all that by iterating step by step and every previous version of Drex’s open weights are available on hf.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/",
+    "source": "Reddit ML",
+    "author": "/u/m4rkGS",
+    "published_date": "2026-11-08T17:54:43+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:40.580592"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -724,24 +759,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839165"
-  },
-  {
-    "id": "Reddit ML_4aa8e050dda658fe",
-    "title": "The most scathing reviewer 2 review I have ever read",
-    "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
-    "content": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-    "source": "Reddit ML",
-    "author": "/u/MOSFETBJT",
-    "published_date": "2026-11-07T01:30:53+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.840002"
+    "created_at": "2026-11-09T03:40:40.580161"
   },
   {
     "id": "TechCrunch AI_02fa0e6f91c8b301",
@@ -758,7 +776,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053290"
+    "created_at": "2026-11-09T03:40:21.889352"
   },
   {
     "id": "TechCrunch AI_ac2d56d6205830f2",
@@ -775,7 +793,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053448"
+    "created_at": "2026-11-09T03:40:21.889448"
   },
   {
     "id": "TechCrunch AI_65a728ff3a0551d7",
@@ -792,24 +810,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:14.053557"
-  },
-  {
-    "id": "The Verge AI_a23d2eb3583683b9",
-    "title": "All the latest updates on AI data centers",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
-    "content": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-11-06T15:02:22-05:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:15.110923"
+    "created_at": "2026-11-09T03:40:21.889522"
   },
   {
     "id": "Wired AI_45af09c6d8bd1e45",
@@ -826,7 +827,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083791"
+    "created_at": "2026-11-09T03:40:23.906194"
   },
   {
     "id": "Wired AI_e12bfcdb41d9b6ef",
@@ -843,7 +844,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083937"
+    "created_at": "2026-11-09T03:40:23.906285"
   },
   {
     "id": "Wired AI_36963cd4b34d1db6",
@@ -860,7 +861,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.083995"
+    "created_at": "2026-11-09T03:40:23.906318"
   },
   {
     "id": "Wired AI_74f43cdc7419e0f8",
@@ -877,7 +878,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:16.084054"
+    "created_at": "2026-11-09T03:40:23.906353"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -894,7 +895,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:18.203477"
+    "created_at": "2026-11-09T03:40:25.990197"
   },
   {
     "id": "Google AI Blog_388ee7aab3cce971",
@@ -911,7 +912,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:18.203700"
+    "created_at": "2026-11-09T03:40:25.990321"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -928,7 +929,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099518"
+    "created_at": "2026-11-09T03:40:26.863090"
   },
   {
     "id": "MIT Technology Review_c647e264a1b20832",
@@ -945,7 +946,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099725"
+    "created_at": "2026-11-09T03:40:26.863215"
   },
   {
     "id": "MIT Technology Review_bda15d7f8fdc4a3e",
@@ -962,7 +963,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099814"
+    "created_at": "2026-11-09T03:40:26.863274"
   },
   {
     "id": "MIT Technology Review_e4f35a0b01a3f8ee",
@@ -979,7 +980,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099910"
+    "created_at": "2026-11-09T03:40:26.863340"
   },
   {
     "id": "MIT Technology Review_086eac1d1176c7f1",
@@ -996,7 +997,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.099984"
+    "created_at": "2026-11-09T03:40:26.863384"
   },
   {
     "id": "MIT Technology Review_a873e1931b119e06",
@@ -1013,7 +1014,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:19.100069"
+    "created_at": "2026-11-09T03:40:26.863442"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1030,7 +1031,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:17.068292"
+    "created_at": "2026-11-09T03:40:24.896444"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1047,7 +1048,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:17.068356"
+    "created_at": "2026-11-09T03:40:24.896483"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1064,7 +1065,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:17.068410"
+    "created_at": "2026-11-09T03:40:24.896514"
   },
   {
     "id": "Hugging Face Blog_ca4d59fe90372dd2",
@@ -1081,7 +1082,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:24.233919"
+    "created_at": "2026-11-09T03:40:32.000897"
   },
   {
     "id": "Ars Technica_213c4ed7066550cb",
@@ -1098,7 +1099,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:17.068498"
+    "created_at": "2026-11-09T03:40:24.896568"
+  },
+  {
+    "id": "Reddit ML_4aa8e050dda658fe",
+    "title": "The most scathing reviewer 2 review I have ever read",
+    "summary": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
+    "content": "This is not my paper. Not my review either. Official Review of Submission21893 by Reviewer Xz8e Paper Summary: The paper tries to learn correlations among components of each latent state in a world model to propagate the reward sensitivities to adaptively weight the uncertainties that most matter...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+    "source": "Reddit ML",
+    "author": "/u/MOSFETBJT",
+    "published_date": "2026-11-07T01:30:53+00:00",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-09T03:40:40.580731"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1116,7 +1134,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537366"
+    "created_at": "2026-11-09T03:40:40.996102"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1133,7 +1151,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537415"
+    "created_at": "2026-11-09T03:40:40.996131"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1150,7 +1168,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537466"
+    "created_at": "2026-11-09T03:40:40.996159"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1167,7 +1185,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537513"
+    "created_at": "2026-11-09T03:40:40.996186"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1184,7 +1202,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:33.537563"
+    "created_at": "2026-11-09T03:40:40.996215"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1199,6 +1217,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-08T21:28:32.839262"
+    "created_at": "2026-11-09T03:40:40.580218"
   }
 ]
