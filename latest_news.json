@@ -1,33 +1,53 @@
 [
   {
-    "id": "The Verge AI_28c763b1a67f8542",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.",
-    "content": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "id": "The Verge AI_de3d10f20aae2e12",
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.",
+    "content": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
     "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-09T14:00:00-05:00",
-    "importance_score": 8.6,
+    "author": "Robert Hart",
+    "published_date": "2026-11-10T11:00:00-05:00",
+    "importance_score": 9.6,
     "category": "tech",
     "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:01.231412"
+  },
+  {
+    "id": "The Verge AI_ef207c9e26f54c74",
+    "title": "Anthropic has its own AI-powered office suite now",
+    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle.",
+    "content": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "source": "The Verge AI",
+    "author": "Hayden Field",
+    "published_date": "2026-11-10T12:30:00-05:00",
+    "importance_score": 9.299999999999999,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
       "Anthropic",
       "Claude",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961386"
+    "created_at": "2026-11-10T22:39:01.231291"
   },
   {
-    "id": "OpenAI News_756ee79c4898f4d6",
-    "title": "Helping caregivers use AI in everyday life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "content": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 12:00:00 GMT",
-    "importance_score": 8.6,
+    "id": "TechCrunch AI_7f08b3fff5221079",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "content": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Tue, 10 Nov 2026 18:49:52 +0000",
+    "importance_score": 9.1,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -36,43 +56,63 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208445"
+    "created_at": "2026-11-10T22:39:00.214246"
   },
   {
-    "id": "TechCrunch AI_3e734afa381eea89",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "content": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "id": "TechCrunch AI_a0ecc87cae63cf44",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "content": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
     "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Tue, 10 Nov 2026 01:27:12 +0000",
-    "importance_score": 8.4,
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 10 Nov 2026 20:52:13 +0000",
+    "importance_score": 9.0,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:02.991154"
+    "created_at": "2026-11-10T22:39:00.214069"
   },
   {
-    "id": "OpenAI News_520b70c642a81a89",
-    "title": "Closing the AI guidance gap in education",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "content": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 09:00:00 GMT",
-    "importance_score": 8.200000000000001,
+    "id": "The Verge AI_1a9b38857df9e085",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "content": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T13:00:00-05:00",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:01.231183"
+  },
+  {
+    "id": "TechCrunch AI_167d8aae86d7ef53",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208513"
+    "created_at": "2026-11-10T22:39:00.213986"
   },
   {
     "id": "Wired AI_3088ac39650013af",
@@ -90,43 +130,116 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983872"
+    "created_at": "2026-11-10T22:39:02.366437"
   },
   {
-    "id": "OpenAI News_006d798e6fe4dc52",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "content": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "id": "OpenAI News_756ee79c4898f4d6",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "content": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Mon, 09 Nov 2026 19:00:00 GMT",
-    "importance_score": 7.8999999999999995,
+    "published_date": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "importance_score": 8.1,
     "category": "tech",
     "keywords": [
       "GPT",
       "ChatGPT",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208556"
+    "created_at": "2026-11-10T22:39:07.508387"
   },
   {
-    "id": "TechCrunch AI_dd929c5979a2d5aa",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "content": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "id": "TechCrunch AI_39e40d64904cdddf",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "content": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
     "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Mon, 09 Nov 2026 18:00:00 +0000",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 10 Nov 2026 19:03:52 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:00.214198"
+  },
+  {
+    "id": "Google AI Blog_c4ea6e3a51934ce5",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "content": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "source": "Google AI Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
     "importance_score": 7.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:02.991291"
+    "created_at": "2026-11-10T22:39:04.391959"
+  },
+  {
+    "id": "OpenAI News_314dfe50640c6d8c",
+    "title": "Introducing Businesses in ChatGPT",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "content": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:07.508443"
+  },
+  {
+    "id": "OpenAI News_520b70c642a81a89",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "content": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:07.508499"
+  },
+  {
+    "id": "OpenAI News_01fa456a1eae3f4c",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "content": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:07.508551"
   },
   {
     "id": "OpenAI News_2026b69907ecb9dd",
@@ -144,7 +257,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208607"
+    "created_at": "2026-11-10T22:39:07.508659"
   },
   {
     "id": "OpenAI News_3c83ba0c00dfdb44",
@@ -162,25 +275,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208645"
+    "created_at": "2026-11-10T22:39:07.508701"
   },
   {
-    "id": "Reddit ML_6cb6e4dcd3383736",
-    "title": "Using latent-agent swarms for math discovery and optimization [R]",
-    "summary": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called evolve. But AlphaEvolve runs on Gemini models.",
-    "content": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called evolve. But AlphaEvolve runs on Gemini models.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
-    "source": "Reddit ML",
-    "author": "/u/QileHQ",
-    "published_date": "2026-11-09T15:30:50+00:00",
-    "importance_score": 7.7,
+    "id": "TechCrunch AI_43a80b7ceaf1c92c",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Tue, 10 Nov 2026 17:04:19 +0000",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
-      "DeepMind",
-      "LLM"
+      "NVIDIA",
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588372"
+    "created_at": "2026-11-10T22:39:00.214308"
+  },
+  {
+    "id": "The Verge AI_c75b4e0cadfa3aca",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "content": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-11-10T14:04:05-05:00",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:01.231106"
   },
   {
     "id": "arXiv AI_48d9373affbad775",
@@ -198,7 +329,26 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330850"
+    "created_at": "2026-11-10T22:39:13.699241"
+  },
+  {
+    "id": "OpenAI News_006d798e6fe4dc52",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "content": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "importance_score": 7.3999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:07.508603"
   },
   {
     "id": "OpenAI News_a72d7cb17eacdfba",
@@ -216,41 +366,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208681"
+    "created_at": "2026-11-10T22:39:07.508743"
   },
   {
-    "id": "The Verge AI_9e03b3d20b47a422",
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has...",
-    "content": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has...",
-    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-09T19:28:49-05:00",
+    "id": "Reddit ML_6cb6e4dcd3383736",
+    "title": "Using latent-agent swarms for math discovery and optimization [R]",
+    "summary": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called evolve. But AlphaEvolve runs on Gemini models.",
+    "content": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called evolve. But AlphaEvolve runs on Gemini models.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
+    "source": "Reddit ML",
+    "author": "/u/QileHQ",
+    "published_date": "2026-11-09T15:30:50+00:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "DeepMind",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:18.986913"
+  },
+  {
+    "id": "DeepMind Blog_b05345f784a53aa9",
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "",
+    "content": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 16:03:47 +0000",
     "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961132"
-  },
-  {
-    "id": "The Verge AI_2cf57e1c8ccd398b",
-    "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-    "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody []",
-    "content": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-09T10:50:38-05:00",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961547"
+    "created_at": "2026-11-10T22:39:06.322578"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -268,77 +419,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:09.492892"
+    "created_at": "2026-11-10T22:39:06.322650"
   },
   {
-    "id": "TechCrunch AI_fe9e3e59a94f3b05",
-    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-    "content": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "id": "TechCrunch AI_7d5f640941752cca",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "content": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
     "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 10 Nov 2026 19:23:34 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:02.991063"
-  },
-  {
-    "id": "The Verge AI_1ac7c257fc9c8c39",
-    "title": "What could China get from Jensen Huang?",
-    "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.",
-    "content": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-11-09T18:51:58-05:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961195"
-  },
-  {
-    "id": "The Verge AI_d6bf101435a9b56f",
-    "title": "Here’s what Trump said he knew about Jensen Huang",
-    "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
-    "content": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
-    "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-09T18:47:46-05:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961248"
-  },
-  {
-    "id": "Wired AI_bb7d282fb1d17399",
-    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
-    "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-    "content": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
-    "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-    "source": "Wired AI",
-    "author": "Lauren Goode",
-    "published_date": "Tue, 10 Nov 2026 11:00:00 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983774"
+    "created_at": "2026-11-10T22:39:00.214148"
   },
   {
     "id": "Wired AI_5bf5ac5a8288b31b",
@@ -356,97 +454,75 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983927"
+    "created_at": "2026-11-10T22:39:02.366488"
   },
   {
-    "id": "DeepMind Blog_a464070164a13345",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "content": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "source": "DeepMind Blog",
-    "author": "",
-    "published_date": "Wed, 14 Oct 2026 02:00:14 +0000",
-    "importance_score": 6.9,
+    "id": "Reddit ML_b62044465d200e06",
+    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+    "source": "Reddit ML",
+    "author": "/u/0xdeadf1sh",
+    "published_date": "2026-11-10T18:35:32+00:00",
+    "importance_score": 6.8,
     "category": "tech",
     "keywords": [
-      "DeepMind",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:09.492960"
+    "created_at": "2026-11-10T22:39:18.986419"
   },
   {
-    "id": "OpenAI News_d7daf3866b2c87c6",
-    "title": "Australian universities are creating AI-native graduates",
-    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "content": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 05 Nov 2026 17:00:00 GMT",
-    "importance_score": 6.8999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208796"
-  },
-  {
-    "id": "TechCrunch AI_a48ff2c3c8ae67a1",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "content": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "id": "TechCrunch AI_b15e0e6d9558e523",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "content": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
     "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Mon, 09 Nov 2026 18:09:52 +0000",
+    "author": "Ram Iyer",
+    "published_date": "Tue, 10 Nov 2026 15:54:08 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:02.991253"
+    "created_at": "2026-11-10T22:39:00.214353"
   },
   {
-    "id": "The Verge AI_6e78a8af054b9d98",
-    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
-    "content": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "source": "The Verge AI",
-    "author": "Richard Lawler",
-    "published_date": "2026-11-09T18:07:59-05:00",
+    "id": "TechCrunch AI_436f7871e7ba7b5a",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "content": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 10 Nov 2026 15:29:30 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961290"
+    "created_at": "2026-11-10T22:39:00.214422"
   },
   {
-    "id": "The Verge AI_309846198d41cbaf",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.",
-    "content": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "id": "The Verge AI_6bec5b838ad1b800",
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
+    "content": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
     "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-11-09T14:09:58-05:00",
+    "author": "Mia Sato",
+    "published_date": "2026-11-10T11:20:30-05:00",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961344"
+    "created_at": "2026-11-10T22:39:01.231346"
   },
   {
     "id": "OpenAI News_aa1dbd535f4960af",
@@ -464,7 +540,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208728"
+    "created_at": "2026-11-10T22:39:07.508805"
   },
   {
     "id": "OpenAI News_edb0fd45411b3f52",
@@ -482,7 +558,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:10.208762"
+    "created_at": "2026-11-10T22:39:07.508847"
   },
   {
     "id": "arXiv ML_1d28e74ef3f9d349",
@@ -500,41 +576,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173538"
+    "created_at": "2026-11-10T22:39:14.479042"
   },
   {
-    "id": "The Verge AI_bdcd7b6a7972ab34",
-    "title": "Hands-on with Ring’s new AI drone camera for your home",
-    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
-    "content": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
-    "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "id": "The Verge AI_0e0c050a7056e7ab",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "content": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
     "source": "The Verge AI",
-    "author": "Jennifer Pattison Tuohy",
-    "published_date": "2026-11-10T08:30:00-05:00",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T12:32:47-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961056"
+    "created_at": "2026-11-10T22:39:01.231239"
   },
   {
-    "id": "MIT Technology Review_a6c1a6ede81ce3d9",
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
-    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 10 Nov 2026 13:10:00 +0000",
+    "id": "Wired AI_bb7d282fb1d17399",
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "content": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "source": "Wired AI",
+    "author": "Lauren Goode",
+    "published_date": "Tue, 10 Nov 2026 11:00:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "positive",
-    "created_at": "2026-11-10T13:57:07.979193"
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:02.366327"
   },
   {
     "id": "MIT Technology Review_3ae1de1cfd494776",
@@ -552,7 +628,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979403"
+    "created_at": "2026-11-10T22:39:05.270678"
   },
   {
     "id": "arXiv AI_6617773e1d4870c6",
@@ -570,7 +646,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330661"
+    "created_at": "2026-11-10T22:39:13.699006"
   },
   {
     "id": "arXiv ML_0aa998bd721887a0",
@@ -587,24 +663,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173617"
-  },
-  {
-    "id": "Wired AI_33f91a3b784f8456",
-    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-    "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-    "content": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-    "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Tue, 10 Nov 2026 11:00:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983717"
+    "created_at": "2026-11-10T22:39:14.479134"
   },
   {
     "id": "Wired AI_880c5bbe4f53cccc",
@@ -621,7 +680,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.984012"
+    "created_at": "2026-11-10T22:39:02.366586"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -638,75 +697,92 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979593"
+    "created_at": "2026-11-10T22:39:05.270947"
   },
   {
-    "id": "Reddit ML_8268b67a1b42f17a",
-    "title": "Fable 5.2 just doubled the best Remote Labor Index score [N]",
-    "summary": "Processing img zv6dhr1i1s0i1... Remote Labor Index (RLI) measures the ability of AI to fully automate remote work: https://www.remotelabor.ai/  submitted by  /u/we_are_mammals [link]  [comments]",
-    "content": "Processing img zv6dhr1i1s0i1... Remote Labor Index (RLI) measures the ability of AI to fully automate remote work: https://www.remotelabor.ai/  submitted by  /u/we_are_mammals [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/",
+    "id": "Reddit ML_1cd5816e28ae0207",
+    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+    "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
+    "content": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
     "source": "Reddit ML",
-    "author": "/u/we_are_mammals",
-    "published_date": "2026-11-10T12:14:41+00:00",
-    "importance_score": 6.0,
+    "author": "/u/AdelSexy",
+    "published_date": "2026-11-10T16:14:16+00:00",
+    "importance_score": 6.1,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.587942"
+    "created_at": "2026-11-10T22:39:18.986369"
   },
   {
-    "id": "TechCrunch AI_ef2771c65b2d50a0",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "content": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Tue, 10 Nov 2026 07:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:02.991116"
-  },
-  {
-    "id": "The Verge AI_b4742478fe1f748e",
-    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option...",
-    "content": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option...",
-    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+    "id": "The Verge AI_1f39b6b15ac009cd",
+    "title": "Adobe is going all in on agentic AI",
+    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your...",
+    "content": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your...",
+    "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
     "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-09T13:07:23-05:00",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-10T09:00:00-05:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961440"
+    "created_at": "2026-11-10T22:39:01.231467"
   },
   {
-    "id": "The Verge AI_66d8f17ee626086b",
-    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-    "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang -...",
-    "content": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang -...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+    "id": "The Verge AI_aeb94298ba5ce387",
+    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other...",
+    "content": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other...",
+    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
     "source": "The Verge AI",
-    "author": "Elizabeth Lopatto",
-    "published_date": "2026-11-09T12:36:08-05:00",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-10T09:00:00-05:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:03.961495"
+    "created_at": "2026-11-10T22:39:01.231518"
+  },
+  {
+    "id": "The Verge AI_bdcd7b6a7972ab34",
+    "title": "Hands-on with Ring’s new AI drone camera for your home",
+    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
+    "content": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
+    "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+    "source": "The Verge AI",
+    "author": "Jennifer Pattison Tuohy",
+    "published_date": "2026-11-10T08:30:00-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:01.231573"
+  },
+  {
+    "id": "Wired AI_8ab8bd753a108fc5",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "content": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:02.366204"
   },
   {
     "id": "Wired AI_ffdabd569b33373e",
@@ -723,56 +799,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983820"
+    "created_at": "2026-11-10T22:39:02.366383"
   },
   {
-    "id": "MIT Technology Review_0c07a58a7597ad59",
-    "title": "The backlash about data centers might really just be about electricity",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "id": "MIT Technology Review_a6c1a6ede81ce3d9",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
     "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 10 Nov 2026 13:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979277"
+    "sentiment": "positive",
+    "created_at": "2026-11-10T22:39:05.270451"
   },
   {
-    "id": "MIT Technology Review_be005d64507fa6e7",
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
-    "content": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "source": "MIT Technology Review",
-    "author": "Grace Huckins",
-    "published_date": "Mon, 09 Nov 2026 17:05:43 +0000",
-    "importance_score": 5.9,
+    "id": "Wired AI_33f91a3b784f8456",
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "content": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Tue, 10 Nov 2026 11:00:00 +0000",
+    "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979340"
-  },
-  {
-    "id": "Reddit ML_25d59e07603b52a5",
-    "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
-    "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest.",
-    "content": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
-    "source": "Reddit ML",
-    "author": "/u/Exact-Contact-3837",
-    "published_date": "2026-11-10T13:15:51+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588101"
+    "created_at": "2026-11-10T22:39:02.366269"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -789,7 +850,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.179954"
+    "created_at": "2026-11-10T22:39:04.392019"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -806,7 +867,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.180058"
+    "created_at": "2026-11-10T22:39:04.392125"
   },
   {
     "id": "arXiv AI_bf783d9e621d0c33",
@@ -824,7 +885,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330578"
+    "created_at": "2026-11-10T22:39:13.698904"
   },
   {
     "id": "arXiv AI_8369640b472a3a04",
@@ -842,7 +903,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330788"
+    "created_at": "2026-11-10T22:39:13.699162"
   },
   {
     "id": "arXiv AI_7fb5fd775ce6807e",
@@ -859,7 +920,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.331135"
+    "created_at": "2026-11-10T22:39:13.699563"
   },
   {
     "id": "arXiv ML_b2f43013e968a57f",
@@ -876,7 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173148"
+    "created_at": "2026-11-10T22:39:14.478544"
   },
   {
     "id": "arXiv ML_f44030174b1561f2",
@@ -893,7 +954,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173221"
+    "created_at": "2026-11-10T22:39:14.478632"
   },
   {
     "id": "arXiv ML_72d74a02a97386cd",
@@ -910,7 +971,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173347"
+    "created_at": "2026-11-10T22:39:14.478800"
   },
   {
     "id": "arXiv ML_c849523d7bc3e106",
@@ -927,7 +988,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-10T13:57:17.173409"
+    "created_at": "2026-11-10T22:39:14.478880"
   },
   {
     "id": "MIT Technology Review_5c0664ea6caec4e6",
@@ -945,7 +1006,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-10T13:57:07.979449"
+    "created_at": "2026-11-10T22:39:05.270734"
   },
   {
     "id": "MIT Technology Review_c1ce750b38edaef2",
@@ -963,7 +1024,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979492"
+    "created_at": "2026-11-10T22:39:05.270818"
   },
   {
     "id": "arXiv AI_69ea1615ab7dc39f",
@@ -978,7 +1039,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330728"
+    "created_at": "2026-11-10T22:39:13.699088"
   },
   {
     "id": "arXiv AI_7056817c38a60663",
@@ -995,7 +1056,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.330946"
+    "created_at": "2026-11-10T22:39:13.699329"
   },
   {
     "id": "arXiv AI_885e2d09805d6cfb",
@@ -1012,7 +1073,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.331007"
+    "created_at": "2026-11-10T22:39:13.699406"
   },
   {
     "id": "arXiv AI_b5de606078f00d2b",
@@ -1029,7 +1090,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:16.331059"
+    "created_at": "2026-11-10T22:39:13.699469"
   },
   {
     "id": "arXiv ML_cc4083d898366a65",
@@ -1046,7 +1107,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173065"
+    "created_at": "2026-11-10T22:39:14.478447"
   },
   {
     "id": "arXiv ML_b4b19dcb1413f132",
@@ -1063,7 +1124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173280"
+    "created_at": "2026-11-10T22:39:14.478704"
   },
   {
     "id": "arXiv ML_8d1b5a6767f35c90",
@@ -1080,7 +1141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173474"
+    "created_at": "2026-11-10T22:39:14.478960"
   },
   {
     "id": "arXiv ML_a63647e03191457f",
@@ -1097,7 +1158,41 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:17.173684"
+    "created_at": "2026-11-10T22:39:14.479215"
+  },
+  {
+    "id": "MIT Technology Review_0c07a58a7597ad59",
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:05.270540"
+  },
+  {
+    "id": "MIT Technology Review_be005d64507fa6e7",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+    "content": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source": "MIT Technology Review",
+    "author": "Grace Huckins",
+    "published_date": "Mon, 09 Nov 2026 17:05:43 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:05.270610"
   },
   {
     "id": "Reddit ML_df0119a7e74c9e66",
@@ -1112,24 +1207,22 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588423"
+    "created_at": "2026-11-10T22:39:18.986979"
   },
   {
-    "id": "Reddit ML_fe01a944b9cd2296",
-    "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
-    "summary": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact instead of reconstructing raw sensor signals.",
-    "content": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact instead of reconstructing raw sensor signals.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
+    "id": "Reddit ML_25d59e07603b52a5",
+    "title": "Introducing Usul - an easier way to express your NN using maths? [P]",
+    "summary": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest.",
+    "content": "SO, Usul-cpp is a library I've written in C++, it is based around allowing data scientists to create their models without heavy libraries such as tensorflow, and just express their models using maths, and Usul will handle the rest.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsmmfm/introducing_usul_an_easier_way_to_express_your_nn/",
     "source": "Reddit ML",
-    "author": "/u/Zealousideal-War7154",
-    "published_date": "2026-11-09T18:52:05+00:00",
+    "author": "/u/Exact-Contact-3837",
+    "published_date": "2026-11-10T13:15:51+00:00",
     "importance_score": 5.3,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588287"
+    "created_at": "2026-11-10T22:39:18.986591"
   },
   {
     "id": "Wired AI_5dfb561a7cd18fda",
@@ -1146,22 +1239,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.983977"
-  },
-  {
-    "id": "Reddit ML_ddee50d26ee578f8",
-    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
-    "summary": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
-    "content": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
-    "source": "Reddit ML",
-    "author": "/u/CarRepresentative843",
-    "published_date": "2026-11-09T21:34:38+00:00",
-    "importance_score": 5.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588215"
+    "created_at": "2026-11-10T22:39:02.366544"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -1176,24 +1254,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.587814"
-  },
-  {
-    "id": "Wired AI_599e6086a7c72330",
-    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "content": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Sun, 08 Nov 2026 10:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.984097"
+    "created_at": "2026-11-10T22:39:18.986172"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1210,24 +1271,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.179997"
-  },
-  {
-    "id": "Google AI Blog_388ee7aab3cce971",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "content": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "source": "Google AI Blog",
-    "author": "",
-    "published_date": "Mon, 28 Sep 2026 19:00:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.180124"
+    "created_at": "2026-11-10T22:39:04.392062"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -1244,7 +1288,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:07.979535"
+    "created_at": "2026-11-10T22:39:05.270879"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1261,7 +1305,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:05.961315"
+    "created_at": "2026-11-10T22:39:03.251177"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1278,7 +1322,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:05.961357"
+    "created_at": "2026-11-10T22:39:03.251229"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1295,7 +1339,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:05.961390"
+    "created_at": "2026-11-10T22:39:03.251271"
+  },
+  {
+    "id": "Reddit ML_fe01a944b9cd2296",
+    "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+    "summary": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact instead of reconstructing raw sensor signals.",
+    "content": "New paper from Robbyant, with inference code and checkpoints already public. LingBot-Touch is a self-supervised tactile encoder trained JEPA-style: it predicts latent representations of masked contact instead of reconstructing raw sensor signals.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
+    "source": "Reddit ML",
+    "author": "/u/Zealousideal-War7154",
+    "published_date": "2026-11-09T18:52:05+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-10T22:39:18.986818"
   },
   {
     "id": "Wired AI_2eab7c9cd33225c2",
@@ -1312,22 +1373,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:04.984057"
+    "created_at": "2026-11-10T22:39:02.366638"
   },
   {
-    "id": "Reddit ML_d69a7c6003704aee",
-    "title": "I tried to reproduce “lost in the middle” on current models and actually couldn’t do that! [P]",
-    "summary": "Everyone keeps citing lost in the middle so, instead of going by the paper's citations, i wanted to actually check it on my own stuff, without building a labeled set for it. So i did the lazy version.",
-    "content": "Everyone keeps citing lost in the middle so, instead of going by the paper's citations, i wanted to actually check it on my own stuff, without building a labeled set for it. So i did the lazy version.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrn7lo/i_tried_to_reproduce_lost_in_the_middle_on/",
+    "id": "Reddit ML_ddee50d26ee578f8",
+    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
+    "summary": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
+    "content": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
     "source": "Reddit ML",
-    "author": "/u/Beneficial_Use2116",
-    "published_date": "2026-11-09T09:22:10+00:00",
+    "author": "/u/CarRepresentative843",
+    "published_date": "2026-11-09T21:34:38+00:00",
     "importance_score": 4.6,
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.588533"
+    "created_at": "2026-11-10T22:39:18.986719"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1345,7 +1406,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:22.101738"
+    "created_at": "2026-11-10T22:39:19.482726"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1362,7 +1423,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:22.101778"
+    "created_at": "2026-11-10T22:39:19.482773"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1379,7 +1440,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:22.101814"
+    "created_at": "2026-11-10T22:39:19.482830"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1396,7 +1457,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:22.101844"
+    "created_at": "2026-11-10T22:39:19.482866"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1413,7 +1474,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:22.101876"
+    "created_at": "2026-11-10T22:39:19.482905"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1428,6 +1489,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T13:57:21.587880"
+    "created_at": "2026-11-10T22:39:18.986246"
   }
 ]
