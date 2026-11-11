@@ -8,7 +8,7 @@
     "source": "The Verge AI",
     "author": "Robert Hart",
     "published_date": "2026-11-10T11:00:00-05:00",
-    "importance_score": 9.6,
+    "importance_score": 9.1,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547197"
+    "created_at": "2026-11-11T23:50:53.612990"
   },
   {
     "id": "The Verge AI_ef207c9e26f54c74",
@@ -27,7 +27,7 @@
     "source": "The Verge AI",
     "author": "Hayden Field",
     "published_date": "2026-11-10T12:30:00-05:00",
-    "importance_score": 8.799999999999999,
+    "importance_score": 8.3,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -36,46 +36,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547032"
+    "created_at": "2026-11-11T23:50:53.612897"
   },
   {
-    "id": "TechCrunch AI_7f08b3fff5221079",
-    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "content": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-    "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Tue, 10 Nov 2026 18:49:52 +0000",
-    "importance_score": 8.6,
+    "id": "The Verge AI_b4734c624ec9087a",
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.",
+    "content": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-11-11T10:00:00-05:00",
+    "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
+      "DeepMind",
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-11T23:50:53.612654"
+  },
+  {
+    "id": "Wired AI_d49208a6ea96229b",
+    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "content": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 11 Nov 2026 19:55:54 +0000",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559885"
-  },
-  {
-    "id": "TechCrunch AI_a0ecc87cae63cf44",
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "content": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Tue, 10 Nov 2026 20:52:13 +0000",
-    "importance_score": 8.5,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559616"
+    "created_at": "2026-11-11T23:50:54.621785"
   },
   {
     "id": "OpenAI News_eab3067af715426e",
@@ -86,7 +83,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Wed, 11 Nov 2026 08:00:00 GMT",
-    "importance_score": 8.4,
+    "importance_score": 7.8999999999999995,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -94,61 +91,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007473"
-  },
-  {
-    "id": "The Verge AI_1a9b38857df9e085",
-    "title": "ChatGPT is getting verified AI ‘Business Agents’",
-    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
-    "content": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-10T13:00:00-05:00",
-    "importance_score": 7.8,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.546888"
-  },
-  {
-    "id": "Google AI Blog_c4ea6e3a51934ce5",
-    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-    "content": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "source": "Google AI Blog",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:37.730953"
-  },
-  {
-    "id": "TechCrunch AI_167d8aae86d7ef53",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Tue, 10 Nov 2026 21:08:52 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559505"
+    "created_at": "2026-11-11T23:50:59.923129"
   },
   {
     "id": "Wired AI_3088ac39650013af",
@@ -166,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559393"
+    "created_at": "2026-11-11T23:50:54.622191"
   },
   {
     "id": "OpenAI News_756ee79c4898f4d6",
@@ -186,61 +129,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007541"
+    "created_at": "2026-11-11T23:50:59.923221"
   },
   {
-    "id": "TechCrunch AI_39e40d64904cdddf",
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "content": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "id": "TechCrunch AI_6817d725ed8d683d",
+    "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+    "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "content": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 10 Nov 2026 19:03:52 +0000",
+    "author": "Lucas Ropek",
+    "published_date": "Wed, 11 Nov 2026 23:17:05 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559814"
+    "created_at": "2026-11-11T23:50:52.592454"
   },
   {
-    "id": "Wired AI_a473c0f17f0fc087",
-    "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-    "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-    "content": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-    "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-    "source": "Wired AI",
-    "author": "Paresh Dave, Caroline Haskins",
-    "published_date": "Wed, 11 Nov 2026 11:00:00 +0000",
+    "id": "TechCrunch AI_22034cd0b04a1fba",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "content": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Wed, 11 Nov 2026 19:22:22 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.558991"
-  },
-  {
-    "id": "OpenAI News_006d798e6fe4dc52",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "content": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 09 Nov 2026 19:00:00 GMT",
-    "importance_score": 7.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007967"
+    "created_at": "2026-11-11T23:50:52.592863"
   },
   {
     "id": "Reddit ML_dc973533bae4c7e7",
@@ -259,7 +184,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353586"
+    "created_at": "2026-11-11T23:51:11.326099"
+  },
+  {
+    "id": "The Verge AI_1a9b38857df9e085",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "content": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T13:00:00-05:00",
+    "importance_score": 7.3,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:53.612811"
+  },
+  {
+    "id": "Google AI Blog_c4ea6e3a51934ce5",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "content": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "source": "Google AI Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.168240"
   },
   {
     "id": "OpenAI News_314dfe50640c6d8c",
@@ -277,7 +238,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007603"
+    "created_at": "2026-11-11T23:50:59.923256"
   },
   {
     "id": "OpenAI News_520b70c642a81a89",
@@ -295,7 +256,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007700"
+    "created_at": "2026-11-11T23:50:59.923297"
   },
   {
     "id": "OpenAI News_aa21d965b4448f29",
@@ -313,7 +274,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007771"
+    "created_at": "2026-11-11T23:50:59.923334"
   },
   {
     "id": "OpenAI News_01fa456a1eae3f4c",
@@ -331,7 +292,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007845"
+    "created_at": "2026-11-11T23:50:59.923376"
   },
   {
     "id": "OpenAI News_798dc701865c0fec",
@@ -349,42 +310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007906"
-  },
-  {
-    "id": "OpenAI News_2026b69907ecb9dd",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "content": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "url": "https://openai.com/index/control-room",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.008045"
-  },
-  {
-    "id": "DeepMind Blog_b05345f784a53aa9",
-    "title": "Gemini 4 Carbon is now available",
-    "summary": "",
-    "content": "",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "source": "DeepMind Blog",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 16:03:47 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:39.685972"
+    "created_at": "2026-11-11T23:50:59.923408"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -402,17 +328,34 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:39.686072"
+    "created_at": "2026-11-11T23:50:58.776191"
   },
   {
-    "id": "TechCrunch AI_43a80b7ceaf1c92c",
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "id": "TechCrunch AI_ec2d27415bb8817b",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "content": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
     "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Tue, 10 Nov 2026 17:04:19 +0000",
+    "author": "Anna Heim",
+    "published_date": "Wed, 11 Nov 2026 19:34:55 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:52.592802"
+  },
+  {
+    "id": "Wired AI_2c17ab1a031d7da1",
+    "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+    "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+    "content": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+    "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+    "source": "Wired AI",
+    "author": "Garrett M. Graff",
+    "published_date": "Wed, 11 Nov 2026 15:30:00 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -420,59 +363,94 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559975"
+    "created_at": "2026-11-11T23:50:54.621930"
   },
   {
-    "id": "The Verge AI_c75b4e0cadfa3aca",
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
-    "content": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-11-10T14:04:05-05:00",
+    "id": "Wired AI_a473c0f17f0fc087",
+    "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+    "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+    "content": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+    "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+    "source": "Wired AI",
+    "author": "Paresh Dave, Caroline Haskins",
+    "published_date": "Wed, 11 Nov 2026 11:00:00 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.546784"
+    "created_at": "2026-11-11T23:50:54.621981"
   },
   {
-    "id": "TechCrunch AI_b15e0e6d9558e523",
-    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-    "content": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-    "source": "TechCrunch AI",
-    "author": "Ram Iyer",
-    "published_date": "Tue, 10 Nov 2026 15:54:08 +0000",
-    "importance_score": 6.7,
+    "id": "OpenAI News_006d798e6fe4dc52",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "content": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "importance_score": 6.8999999999999995,
     "category": "tech",
     "keywords": [
+      "GPT",
+      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.560042"
+    "created_at": "2026-11-11T23:50:59.923443"
   },
   {
-    "id": "The Verge AI_6bec5b838ad1b800",
-    "title": "eBay appears to have shut the door on third-party AI agents",
-    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
-    "content": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
-    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "id": "The Verge AI_e8b3d8a890f830b2",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature...",
+    "content": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature...",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
     "source": "The Verge AI",
-    "author": "Mia Sato",
-    "published_date": "2026-11-10T11:20:30-05:00",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-11T11:00:00-05:00",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547108"
+    "created_at": "2026-11-11T23:50:53.612593"
+  },
+  {
+    "id": "DeepMind Blog_b05345f784a53aa9",
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "",
+    "content": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:58.776132"
+  },
+  {
+    "id": "Google AI Blog_f4e2653886904597",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "content": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "Google AI Blog",
+    "author": "Roman Nurik",
+    "published_date": "Wed, 11 Nov 2026 16:00:00 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.168135"
   },
   {
     "id": "OpenAI News_3ed0dc14efafc8f6",
@@ -489,7 +467,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:41.007392"
+    "created_at": "2026-11-11T23:50:59.923080"
   },
   {
     "id": "arXiv AI_9359a2cd00700306",
@@ -504,34 +482,68 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746953"
+    "created_at": "2026-11-11T23:51:05.840597"
   },
   {
-    "id": "TechCrunch AI_7d5f640941752cca",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "content": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "id": "TechCrunch AI_b19fa4385583c7ca",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 10 Nov 2026 19:23:34 +0000",
+    "author": "Amanda Silberling",
+    "published_date": "Wed, 11 Nov 2026 23:50:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:33.559738"
+    "created_at": "2026-11-11T23:50:52.592346"
   },
   {
-    "id": "Wired AI_5bf5ac5a8288b31b",
-    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "content": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-    "source": "Wired AI",
-    "author": "Will Knight, Paresh Dave",
-    "published_date": "Tue, 10 Nov 2026 00:18:19 +0000",
+    "id": "TechCrunch AI_16b9144d4d287028",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "content": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Wed, 11 Nov 2026 19:54:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:52.592735"
+  },
+  {
+    "id": "The Verge AI_5dbefdef39d29e54",
+    "title": "United won’t let your AI agent book your flight",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
+    "content": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-11T16:54:21-05:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:53.612512"
+  },
+  {
+    "id": "The Verge AI_c75b4e0cadfa3aca",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "content": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-11-10T14:04:05-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
@@ -539,42 +551,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559469"
-  },
-  {
-    "id": "Google AI Blog_e271ede0c5574811",
-    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-    "content": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "source": "Google AI Blog",
-    "author": "Dr Nontobeko Ntombela",
-    "published_date": "Wed, 11 Nov 2026 09:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:37.730845"
-  },
-  {
-    "id": "MIT Technology Review_3ae1de1cfd494776",
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air...",
-    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "source": "MIT Technology Review",
-    "author": "Charlotte Jee",
-    "published_date": "Mon, 09 Nov 2026 13:15:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.580727"
+    "created_at": "2026-11-11T23:50:53.612758"
   },
   {
     "id": "arXiv AI_adbd9984a430b66e",
@@ -589,7 +566,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746836"
+    "created_at": "2026-11-11T23:51:05.840503"
   },
   {
     "id": "arXiv AI_b3caa9592670d7d8",
@@ -604,161 +581,139 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.747227"
+    "created_at": "2026-11-11T23:51:05.840775"
   },
   {
-    "id": "Reddit ML_b62044465d200e06",
-    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-    "source": "Reddit ML",
-    "author": "/u/0xdeadf1sh",
-    "published_date": "2026-11-10T18:35:32+00:00",
-    "importance_score": 6.3,
+    "id": "TechCrunch AI_f9e26faf35851d6a",
+    "title": "Why the data center you dread might never even be built",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "published_date": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "importance_score": 6.2,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353996"
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-11-11T23:50:52.592539"
   },
   {
-    "id": "Reddit ML_7c7143c6a047ff1d",
-    "title": "Can we talk about the ML research coming from China? [D]",
-    "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pair of eyes that Chinese researchers in ML (especially Chinese researcher based in China) are...",
-    "content": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pair of eyes that Chinese researchers in ML (especially Chinese researcher based in China) are...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-    "source": "Reddit ML",
-    "author": "/u/Strong_Boy_757",
-    "published_date": "2026-11-11T11:02:38+00:00",
+    "id": "TechCrunch AI_5945096571cb0e57",
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "published_date": "Wed, 11 Nov 2026 20:02:14 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-11-11T23:50:52.592649"
+  },
+  {
+    "id": "The Verge AI_6bec5b838ad1b800",
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
+    "content": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a...",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "source": "The Verge AI",
+    "author": "Mia Sato",
+    "published_date": "2026-11-10T11:20:30-05:00",
     "importance_score": 6.2,
     "category": "tech",
     "keywords": [
-      "AI",
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353528"
+    "created_at": "2026-11-11T23:50:53.612939"
   },
   {
-    "id": "MIT Technology Review_1d86e0bfb0085a62",
-    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Thu, 05 Nov 2026 13:10:00 +0000",
-    "importance_score": 6.1000000000000005,
+    "id": "OpenAI News_e77d39cf29672e23",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "content": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.581071"
+    "created_at": "2026-11-11T23:50:59.923183"
   },
   {
-    "id": "Reddit ML_1cd5816e28ae0207",
-    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-    "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
-    "content": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+    "id": "Reddit ML_ada93c3ce2f58fad",
+    "title": "AI ‘slop’ is a social judgement [R]",
+    "summary": "https://www.nature.com/articles/s41562-026-02639-6 A new paper argues that AI Slop isn't something you can find in the content. It’s a social judgement, made when a community decides that some AI-generated content is unwanted. If we study 'slop' that way, we can actually measure it and govern it.",
+    "content": "https://www.nature.com/articles/s41562-026-02639-6 A new paper argues that AI Slop isn't something you can find in the content. It’s a social judgement, made when a community decides that some AI-generated content is unwanted. If we study 'slop' that way, we can actually measure it and govern it.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
     "source": "Reddit ML",
-    "author": "/u/AdelSexy",
-    "published_date": "2026-11-10T16:14:16+00:00",
-    "importance_score": 6.1,
+    "author": "/u/learning_by_looking",
+    "published_date": "2026-11-11T18:03:18+00:00",
+    "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353778"
+    "created_at": "2026-11-11T23:51:11.326402"
   },
   {
-    "id": "The Verge AI_0e0c050a7056e7ab",
-    "title": "The indie game community is in disarray over AI and Big Walk",
-    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
-    "content": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
-    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-10T12:32:47-05:00",
+    "id": "TechCrunch AI_243863222a653115",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "content": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "source": "TechCrunch AI",
+    "author": "Russell Brandom",
+    "published_date": "Wed, 11 Nov 2026 16:16:07 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.546963"
+    "created_at": "2026-11-11T23:50:52.592955"
   },
   {
-    "id": "The Verge AI_1f39b6b15ac009cd",
-    "title": "Adobe is going all in on agentic AI",
-    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your...",
-    "content": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your...",
-    "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-10T09:00:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547273"
-  },
-  {
-    "id": "The Verge AI_aeb94298ba5ce387",
-    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-    "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other...",
-    "content": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other...",
-    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-10T09:00:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547343"
-  },
-  {
-    "id": "The Verge AI_bdcd7b6a7972ab34",
-    "title": "Hands-on with Ring’s new AI drone camera for your home",
-    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
-    "content": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
-    "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-    "source": "The Verge AI",
-    "author": "Jennifer Pattison Tuohy",
-    "published_date": "2026-11-10T08:30:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:34.547420"
-  },
-  {
-    "id": "Wired AI_8ab8bd753a108fc5",
-    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-    "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-    "content": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "id": "Wired AI_338686f62c06302a",
+    "title": "A Startup Wants to Fight AI Bioweapons With AI",
+    "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "content": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
     "source": "Wired AI",
-    "author": "Reece Rogers",
-    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "author": "Emily Mullin",
+    "published_date": "Wed, 11 Nov 2026 17:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559078"
+    "created_at": "2026-11-11T23:50:54.621829"
+  },
+  {
+    "id": "Wired AI_16a11752724d03da",
+    "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+    "content": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+    "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "source": "Wired AI",
+    "author": "Michaela Makusha",
+    "published_date": "Wed, 11 Nov 2026 16:13:03 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:54.621879"
   },
   {
     "id": "Wired AI_bb7d282fb1d17399",
@@ -775,43 +730,144 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559236"
+    "created_at": "2026-11-11T23:50:54.622110"
   },
   {
-    "id": "Reddit ML_bfaa9b6e7797b02d",
-    "title": "Two AI architecture experiments I've been working on — PHSMLP and Pilot [R]",
-    "summary": "Recently i have been experimenting with a couple of neural network ideas and thought I'd share the results. Both are relatively small research experiments, but I found some of the results quite interesting. 1. PHSMLP — Pooled Head MLP GitHub: https://github.",
-    "content": "Recently i have been experimenting with a couple of neural network ideas and thought I'd share the results. Both are relatively small research experiments, but I found some of the results quite interesting. 1. PHSMLP — Pooled Head MLP GitHub: https://github.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt4amh/two_ai_architecture_experiments_ive_been_working/",
-    "source": "Reddit ML",
-    "author": "/u/WAMFT",
-    "published_date": "2026-11-11T01:04:41+00:00",
-    "importance_score": 5.8999999999999995,
+    "id": "Google AI Blog_e271ede0c5574811",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "content": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "source": "Google AI Blog",
+    "author": "Dr Nontobeko Ntombela",
+    "published_date": "Wed, 11 Nov 2026 09:00:00 +0000",
+    "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "neural network",
-      "AI",
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.354331"
+    "created_at": "2026-11-11T23:50:57.168180"
   },
   {
-    "id": "Wired AI_880c5bbe4f53cccc",
-    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-    "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-    "content": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-    "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Mon, 09 Nov 2026 08:00:00 +0000",
+    "id": "MIT Technology Review_aebaaae917fb3506",
+    "title": "What to know about this year’s UN climate talks",
+    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate...",
+    "content": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate...",
+    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "source": "MIT Technology Review",
+    "author": "Casey Crownhart",
+    "published_date": "Wed, 11 Nov 2026 17:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.632606"
+  },
+  {
+    "id": "MIT Technology Review_bee41f4a14dc9bfb",
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you...",
+    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 11 Nov 2026 13:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.632675"
+  },
+  {
+    "id": "MIT Technology Review_3ae1de1cfd494776",
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air...",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "source": "MIT Technology Review",
+    "author": "Charlotte Jee",
+    "published_date": "Mon, 09 Nov 2026 13:15:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.632917"
+  },
+  {
+    "id": "Hugging Face Blog_6b2b4f04681eade8",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:02.764701"
+  },
+  {
+    "id": "Reddit ML_da5d6586413f3d5a",
+    "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+    "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
+    "content": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+    "source": "Reddit ML",
+    "author": "/u/Beautiful_Baker_2233",
+    "published_date": "2026-11-11T22:20:31+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:11.326059"
+  },
+  {
+    "id": "Reddit ML_b62044465d200e06",
+    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+    "source": "Reddit ML",
+    "author": "/u/0xdeadf1sh",
+    "published_date": "2026-11-10T18:35:32+00:00",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:11.326443"
+  },
+  {
+    "id": "The Verge AI_57b97b78c28528f9",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn...",
+    "content": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn...",
+    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-11T09:00:00-05:00",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559608"
+    "created_at": "2026-11-11T23:50:53.612712"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -828,7 +884,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:37.731026"
+    "created_at": "2026-11-11T23:50:57.168282"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -845,7 +901,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:37.731168"
+    "created_at": "2026-11-11T23:50:57.168366"
   },
   {
     "id": "arXiv AI_27dc7803a6e73239",
@@ -862,7 +918,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746333"
+    "created_at": "2026-11-11T23:51:05.840203"
   },
   {
     "id": "arXiv AI_aa5764267dbcc76c",
@@ -880,7 +936,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.747324"
+    "created_at": "2026-11-11T23:51:05.840834"
   },
   {
     "id": "arXiv ML_6bf2c42cd330a774",
@@ -898,7 +954,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705742"
+    "created_at": "2026-11-11T23:51:06.659496"
   },
   {
     "id": "arXiv ML_dc82d3a2bfe08356",
@@ -915,7 +971,57 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705939"
+    "created_at": "2026-11-11T23:51:06.659645"
+  },
+  {
+    "id": "Reddit ML_7c7143c6a047ff1d",
+    "title": "Can we talk about the ML research coming from China? [D]",
+    "summary": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pair of eyes that Chinese researchers in ML (especially Chinese researcher based in China) are...",
+    "content": "In this post I am not trying to bash Chinese researchers by any means but I have gotten VERY curious in the past few years as to how research is conducted in China. It is no secret to anyone with a pair of eyes that Chinese researchers in ML (especially Chinese researcher based in China) are...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
+    "source": "Reddit ML",
+    "author": "/u/Strong_Boy_757",
+    "published_date": "2026-11-11T11:02:38+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:11.325977"
+  },
+  {
+    "id": "Reddit ML_69cd5d26eb2cb27c",
+    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+    "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
+    "content": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+    "source": "Reddit ML",
+    "author": "/u/promptdom",
+    "published_date": "2026-11-11T21:42:54+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:11.326196"
+  },
+  {
+    "id": "Reddit ML_1cd5816e28ae0207",
+    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
+    "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
+    "content": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+    "source": "Reddit ML",
+    "author": "/u/AdelSexy",
+    "published_date": "2026-11-10T16:14:16+00:00",
+    "importance_score": 5.6,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:51:11.326331"
   },
   {
     "id": "arXiv AI_0d620da56d382ef0",
@@ -932,7 +1038,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746467"
+    "created_at": "2026-11-11T23:51:05.840286"
   },
   {
     "id": "arXiv AI_ac10784f9aa08641",
@@ -949,7 +1055,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746584"
+    "created_at": "2026-11-11T23:51:05.840359"
   },
   {
     "id": "arXiv AI_4f1a2f465789be58",
@@ -966,7 +1072,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.747098"
+    "created_at": "2026-11-11T23:51:05.840695"
   },
   {
     "id": "arXiv ML_fb84751f2203b699",
@@ -983,7 +1089,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705260"
+    "created_at": "2026-11-11T23:51:06.659193"
   },
   {
     "id": "arXiv ML_f925a2fc41a0d079",
@@ -1000,7 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705395"
+    "created_at": "2026-11-11T23:51:06.659283"
   },
   {
     "id": "arXiv ML_d674b0254285b767",
@@ -1015,7 +1121,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705512"
+    "created_at": "2026-11-11T23:51:06.659359"
   },
   {
     "id": "arXiv ML_9bca76edc5a329b0",
@@ -1032,7 +1138,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705846"
+    "created_at": "2026-11-11T23:51:06.659562"
   },
   {
     "id": "arXiv ML_1d23bfefb17abd05",
@@ -1047,7 +1153,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.706056"
+    "created_at": "2026-11-11T23:51:06.659723"
   },
   {
     "id": "arXiv ML_0f73f948b65fff7e",
@@ -1064,7 +1170,41 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.706184"
+    "created_at": "2026-11-11T23:51:06.659805"
+  },
+  {
+    "id": "The Verge AI_0e0c050a7056e7ab",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "content": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T12:32:47-05:00",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:53.612856"
+  },
+  {
+    "id": "Wired AI_8ab8bd753a108fc5",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "content": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:54.622024"
   },
   {
     "id": "Wired AI_ffdabd569b33373e",
@@ -1081,7 +1221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559310"
+    "created_at": "2026-11-11T23:50:54.622149"
   },
   {
     "id": "MIT Technology Review_a6c1a6ede81ce3d9",
@@ -1098,41 +1238,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-11T13:11:38.580358"
-  },
-  {
-    "id": "MIT Technology Review_0c07a58a7597ad59",
-    "title": "The backlash about data centers might really just be about electricity",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 09 Nov 2026 19:35:33 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.580484"
-  },
-  {
-    "id": "MIT Technology Review_be005d64507fa6e7",
-    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
-    "content": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
-    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-    "source": "MIT Technology Review",
-    "author": "Grace Huckins",
-    "published_date": "Mon, 09 Nov 2026 17:05:43 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.580582"
+    "created_at": "2026-11-11T23:50:57.632739"
   },
   {
     "id": "arXiv AI_fedc39b147639048",
@@ -1147,7 +1253,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:46.746713"
+    "created_at": "2026-11-11T23:51:05.840427"
   },
   {
     "id": "arXiv ML_9f98e3f0cce975f7",
@@ -1162,7 +1268,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.705612"
+    "created_at": "2026-11-11T23:51:06.659423"
   },
   {
     "id": "arXiv ML_dd02395391680b78",
@@ -1177,7 +1283,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:47.706297"
+    "created_at": "2026-11-11T23:51:06.659879"
   },
   {
     "id": "Wired AI_33f91a3b784f8456",
@@ -1194,7 +1300,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559160"
+    "created_at": "2026-11-11T23:50:54.622067"
   },
   {
     "id": "MIT Technology Review_5c0664ea6caec4e6",
@@ -1212,7 +1318,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-11T13:11:38.580819"
+    "created_at": "2026-11-11T23:50:57.632965"
   },
   {
     "id": "MIT Technology Review_c1ce750b38edaef2",
@@ -1230,22 +1336,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.580895"
-  },
-  {
-    "id": "Reddit ML_9a5750a872f47bc2",
-    "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-    "summary": "Suppose you’re putting together a team of agents. Picking the strongest model as the coordinator seems reasonable. We wanted to test whether its workflows would actually help other models do the work. In one experiment, we gave Opus 5.",
-    "content": "Suppose you’re putting together a team of agents. Picking the strongest model as the coordinator seems reasonable. We wanted to test whether its workflows would actually help other models do the work. In one experiment, we gave Opus 5.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-    "source": "Reddit ML",
-    "author": "/u/OliviaYii",
-    "published_date": "2026-11-11T05:25:43+00:00",
-    "importance_score": 5.1,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353935"
+    "created_at": "2026-11-11T23:50:57.633012"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -1260,7 +1351,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353289"
+    "created_at": "2026-11-11T23:51:11.325796"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1277,7 +1368,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:37.731084"
+    "created_at": "2026-11-11T23:50:57.168314"
+  },
+  {
+    "id": "MIT Technology Review_0c07a58a7597ad59",
+    "title": "The backlash about data centers might really just be about electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub.",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.632804"
+  },
+  {
+    "id": "MIT Technology Review_be005d64507fa6e7",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+    "content": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source": "MIT Technology Review",
+    "author": "Grace Huckins",
+    "published_date": "Mon, 09 Nov 2026 17:05:43 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T23:50:57.632860"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -1294,7 +1419,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:38.580974"
+    "created_at": "2026-11-11T23:50:57.633059"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1311,7 +1436,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:36.813166"
+    "created_at": "2026-11-11T23:50:55.615584"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1328,7 +1453,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:36.813237"
+    "created_at": "2026-11-11T23:50:55.615632"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1345,39 +1470,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:36.813298"
-  },
-  {
-    "id": "Wired AI_5dfb561a7cd18fda",
-    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-    "content": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-    "source": "Wired AI",
-    "author": "Miles Klee",
-    "published_date": "Mon, 09 Nov 2026 11:00:00 +0000",
-    "importance_score": 4.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:35.559546"
-  },
-  {
-    "id": "Reddit ML_ddee50d26ee578f8",
-    "title": "Forecasting new power outages per county, hourly, 2 h ahead: 2.4× the PR-AUC of NWS warnings + SPC outlook on a held-out year [P]",
-    "summary": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
-    "content": "Hi all! I built an hourly power outage forecast for 216 counties (MO + IL): P(≥5% of a county's customers newly out in the 6 h starting 2 h from now). Model: XGBoost on HRRR storm-related data (gusts, shear, CAPE, icing, etc.), county-specific facts, current outages and neighboring counties.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xs4hq8/forecasting_new_power_outages_per_county_hourly_2/",
-    "source": "Reddit ML",
-    "author": "/u/CarRepresentative843",
-    "published_date": "2026-11-09T21:34:38+00:00",
-    "importance_score": 4.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.354496"
+    "created_at": "2026-11-11T23:50:55.615669"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1395,7 +1488,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:53.431559"
+    "created_at": "2026-11-11T23:51:11.727375"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1412,7 +1505,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:53.431626"
+    "created_at": "2026-11-11T23:51:11.727418"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1429,7 +1522,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:53.431726"
+    "created_at": "2026-11-11T23:51:11.727457"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1446,24 +1539,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:53.431789"
-  },
-  {
-    "id": "Lobsters AI_25a29eb9b28ea2c0",
-    "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-    "source": "Lobsters AI",
-    "author": "projectzero.google via ni5arga",
-    "published_date": "Tue, 27 Oct 2026 14:08:23 -0500",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:53.431848"
+    "created_at": "2026-11-11T23:51:11.727491"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1478,6 +1554,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T13:11:52.353391"
+    "created_at": "2026-11-11T23:51:11.325873"
   }
 ]
