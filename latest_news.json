@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231412"
+    "created_at": "2026-11-11T03:45:01.791689"
   },
   {
     "id": "The Verge AI_ef207c9e26f54c74",
@@ -27,7 +27,7 @@
     "source": "The Verge AI",
     "author": "Hayden Field",
     "published_date": "2026-11-10T12:30:00-05:00",
-    "importance_score": 9.299999999999999,
+    "importance_score": 8.799999999999999,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -36,7 +36,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231291"
+    "created_at": "2026-11-11T03:45:01.791591"
   },
   {
     "id": "TechCrunch AI_7f08b3fff5221079",
@@ -47,7 +47,7 @@
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
     "published_date": "Tue, 10 Nov 2026 18:49:52 +0000",
-    "importance_score": 9.1,
+    "importance_score": 8.6,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -56,7 +56,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214246"
+    "created_at": "2026-11-11T03:45:00.811202"
   },
   {
     "id": "TechCrunch AI_a0ecc87cae63cf44",
@@ -67,7 +67,7 @@
     "source": "TechCrunch AI",
     "author": "Rebecca Bellan",
     "published_date": "Tue, 10 Nov 2026 20:52:13 +0000",
-    "importance_score": 9.0,
+    "importance_score": 8.5,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -75,44 +75,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214069"
-  },
-  {
-    "id": "The Verge AI_1a9b38857df9e085",
-    "title": "ChatGPT is getting verified AI ‘Business Agents’",
-    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
-    "content": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-10T13:00:00-05:00",
-    "importance_score": 8.3,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231183"
-  },
-  {
-    "id": "TechCrunch AI_167d8aae86d7ef53",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Tue, 10 Nov 2026 21:08:52 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.213986"
+    "created_at": "2026-11-11T03:45:00.811056"
   },
   {
     "id": "Wired AI_3088ac39650013af",
@@ -130,7 +93,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366437"
+    "created_at": "2026-11-11T03:45:02.861936"
   },
   {
     "id": "OpenAI News_756ee79c4898f4d6",
@@ -150,25 +113,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508387"
+    "created_at": "2026-11-11T03:45:08.063315"
   },
   {
-    "id": "TechCrunch AI_39e40d64904cdddf",
-    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "content": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 10 Nov 2026 19:03:52 +0000",
-    "importance_score": 7.9,
+    "id": "The Verge AI_1a9b38857df9e085",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "content": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T13:00:00-05:00",
+    "importance_score": 7.8,
     "category": "tech",
     "keywords": [
-      "Anthropic",
+      "GPT",
+      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214198"
+    "created_at": "2026-11-11T03:45:01.791507"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -185,7 +149,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:04.391959"
+    "created_at": "2026-11-11T03:45:05.064506"
   },
   {
     "id": "OpenAI News_314dfe50640c6d8c",
@@ -203,7 +167,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508443"
+    "created_at": "2026-11-11T03:45:08.063350"
   },
   {
     "id": "OpenAI News_520b70c642a81a89",
@@ -221,7 +185,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508499"
+    "created_at": "2026-11-11T03:45:08.063392"
   },
   {
     "id": "OpenAI News_01fa456a1eae3f4c",
@@ -239,7 +203,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508551"
+    "created_at": "2026-11-11T03:45:08.063429"
   },
   {
     "id": "OpenAI News_2026b69907ecb9dd",
@@ -257,7 +221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508659"
+    "created_at": "2026-11-11T03:45:08.063501"
   },
   {
     "id": "OpenAI News_3c83ba0c00dfdb44",
@@ -275,43 +239,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508701"
+    "created_at": "2026-11-11T03:45:08.063532"
   },
   {
-    "id": "TechCrunch AI_43a80b7ceaf1c92c",
-    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "id": "TechCrunch AI_167d8aae86d7ef53",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "content": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Tue, 10 Nov 2026 17:04:19 +0000",
-    "importance_score": 7.4,
+    "author": "Julie Bort",
+    "published_date": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214308"
+    "created_at": "2026-11-11T03:45:00.810990"
   },
   {
-    "id": "The Verge AI_c75b4e0cadfa3aca",
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
-    "content": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-11-10T14:04:05-05:00",
+    "id": "TechCrunch AI_39e40d64904cdddf",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "content": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 10 Nov 2026 19:03:52 +0000",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
+      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231106"
+    "created_at": "2026-11-11T03:45:00.811165"
   },
   {
     "id": "arXiv AI_48d9373affbad775",
@@ -329,7 +293,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699241"
+    "created_at": "2026-11-11T03:45:14.176387"
   },
   {
     "id": "OpenAI News_006d798e6fe4dc52",
@@ -348,7 +312,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508603"
+    "created_at": "2026-11-11T03:45:08.063461"
   },
   {
     "id": "OpenAI News_a72d7cb17eacdfba",
@@ -366,7 +330,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508743"
+    "created_at": "2026-11-11T03:45:08.063564"
   },
   {
     "id": "Reddit ML_6cb6e4dcd3383736",
@@ -384,7 +348,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986913"
+    "created_at": "2026-11-11T03:45:19.664385"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -401,7 +365,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:06.322578"
+    "created_at": "2026-11-11T03:45:06.879864"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -419,34 +383,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:06.322650"
+    "created_at": "2026-11-11T03:45:06.879924"
   },
   {
-    "id": "TechCrunch AI_7d5f640941752cca",
-    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "content": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "id": "TechCrunch AI_43a80b7ceaf1c92c",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "content": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 10 Nov 2026 19:23:34 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214148"
-  },
-  {
-    "id": "Wired AI_5bf5ac5a8288b31b",
-    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "content": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-    "source": "Wired AI",
-    "author": "Will Knight, Paresh Dave",
-    "published_date": "Tue, 10 Nov 2026 00:18:19 +0000",
+    "author": "Amanda Silberling",
+    "published_date": "Tue, 10 Nov 2026 17:04:19 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -454,24 +401,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366488"
+    "created_at": "2026-11-11T03:45:00.811250"
   },
   {
-    "id": "Reddit ML_b62044465d200e06",
-    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-    "source": "Reddit ML",
-    "author": "/u/0xdeadf1sh",
-    "published_date": "2026-11-10T18:35:32+00:00",
-    "importance_score": 6.8,
+    "id": "The Verge AI_c75b4e0cadfa3aca",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "content": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "source": "The Verge AI",
+    "author": "Robert Hart",
+    "published_date": "2026-11-10T14:04:05-05:00",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986419"
+    "created_at": "2026-11-11T03:45:01.791444"
   },
   {
     "id": "TechCrunch AI_b15e0e6d9558e523",
@@ -488,7 +436,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214353"
+    "created_at": "2026-11-11T03:45:00.811284"
   },
   {
     "id": "TechCrunch AI_436f7871e7ba7b5a",
@@ -505,7 +453,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:00.214422"
+    "created_at": "2026-11-11T03:45:00.811340"
   },
   {
     "id": "The Verge AI_6bec5b838ad1b800",
@@ -522,7 +470,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231346"
+    "created_at": "2026-11-11T03:45:01.791637"
   },
   {
     "id": "OpenAI News_aa1dbd535f4960af",
@@ -540,25 +488,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508805"
-  },
-  {
-    "id": "OpenAI News_edb0fd45411b3f52",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "content": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 06 Nov 2026 00:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:07.508847"
+    "created_at": "2026-11-11T03:45:08.063600"
   },
   {
     "id": "arXiv ML_1d28e74ef3f9d349",
@@ -576,24 +506,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.479042"
+    "created_at": "2026-11-11T03:45:15.076319"
   },
   {
-    "id": "The Verge AI_0e0c050a7056e7ab",
-    "title": "The indie game community is in disarray over AI and Big Walk",
-    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
-    "content": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
-    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-10T12:32:47-05:00",
+    "id": "OpenAI News_3ed0dc14efafc8f6",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "content": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T03:45:08.063270"
+  },
+  {
+    "id": "TechCrunch AI_7d5f640941752cca",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "content": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Tue, 10 Nov 2026 19:23:34 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231239"
+    "created_at": "2026-11-11T03:45:00.811127"
   },
   {
     "id": "Wired AI_bb7d282fb1d17399",
@@ -610,7 +557,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366327"
+    "created_at": "2026-11-11T03:45:02.861851"
+  },
+  {
+    "id": "Wired AI_5bf5ac5a8288b31b",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "content": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "source": "Wired AI",
+    "author": "Will Knight, Paresh Dave",
+    "published_date": "Tue, 10 Nov 2026 00:18:19 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T03:45:02.861977"
   },
   {
     "id": "MIT Technology Review_3ae1de1cfd494776",
@@ -628,7 +593,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270678"
+    "created_at": "2026-11-11T03:45:05.825197"
   },
   {
     "id": "arXiv AI_6617773e1d4870c6",
@@ -646,7 +611,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699006"
+    "created_at": "2026-11-11T03:45:14.176214"
   },
   {
     "id": "arXiv ML_0aa998bd721887a0",
@@ -663,7 +628,24 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.479134"
+    "created_at": "2026-11-11T03:45:15.076387"
+  },
+  {
+    "id": "Reddit ML_b62044465d200e06",
+    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+    "source": "Reddit ML",
+    "author": "/u/0xdeadf1sh",
+    "published_date": "2026-11-10T18:35:32+00:00",
+    "importance_score": 6.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T03:45:19.663999"
   },
   {
     "id": "Wired AI_880c5bbe4f53cccc",
@@ -680,7 +662,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366586"
+    "created_at": "2026-11-11T03:45:02.862053"
   },
   {
     "id": "MIT Technology Review_1d86e0bfb0085a62",
@@ -697,7 +679,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270947"
+    "created_at": "2026-11-11T03:45:05.825372"
   },
   {
     "id": "Reddit ML_1cd5816e28ae0207",
@@ -714,7 +696,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986369"
+    "created_at": "2026-11-11T03:45:19.663959"
+  },
+  {
+    "id": "The Verge AI_0e0c050a7056e7ab",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "content": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's...",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-10T12:32:47-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-11T03:45:01.791551"
   },
   {
     "id": "The Verge AI_1f39b6b15ac009cd",
@@ -731,7 +730,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231467"
+    "created_at": "2026-11-11T03:45:01.791732"
   },
   {
     "id": "The Verge AI_aeb94298ba5ce387",
@@ -748,7 +747,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231518"
+    "created_at": "2026-11-11T03:45:01.791772"
   },
   {
     "id": "The Verge AI_bdcd7b6a7972ab34",
@@ -765,7 +764,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:01.231573"
+    "created_at": "2026-11-11T03:45:01.791814"
   },
   {
     "id": "Wired AI_8ab8bd753a108fc5",
@@ -782,7 +781,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366204"
+    "created_at": "2026-11-11T03:45:02.861755"
   },
   {
     "id": "Wired AI_ffdabd569b33373e",
@@ -799,7 +798,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366383"
+    "created_at": "2026-11-11T03:45:02.861894"
   },
   {
     "id": "MIT Technology Review_a6c1a6ede81ce3d9",
@@ -816,7 +815,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-10T22:39:05.270451"
+    "created_at": "2026-11-11T03:45:05.825008"
   },
   {
     "id": "Wired AI_33f91a3b784f8456",
@@ -833,7 +832,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366269"
+    "created_at": "2026-11-11T03:45:02.861809"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -850,7 +849,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:04.392019"
+    "created_at": "2026-11-11T03:45:05.064552"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -867,7 +866,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:04.392125"
+    "created_at": "2026-11-11T03:45:05.064635"
   },
   {
     "id": "arXiv AI_bf783d9e621d0c33",
@@ -885,7 +884,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.698904"
+    "created_at": "2026-11-11T03:45:14.176132"
   },
   {
     "id": "arXiv AI_8369640b472a3a04",
@@ -903,7 +902,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699162"
+    "created_at": "2026-11-11T03:45:14.176330"
   },
   {
     "id": "arXiv AI_7fb5fd775ce6807e",
@@ -920,7 +919,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699563"
+    "created_at": "2026-11-11T03:45:14.176624"
   },
   {
     "id": "arXiv ML_b2f43013e968a57f",
@@ -937,7 +936,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478544"
+    "created_at": "2026-11-11T03:45:15.075937"
   },
   {
     "id": "arXiv ML_f44030174b1561f2",
@@ -954,7 +953,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478632"
+    "created_at": "2026-11-11T03:45:15.076004"
   },
   {
     "id": "arXiv ML_72d74a02a97386cd",
@@ -971,7 +970,7 @@
       "deep learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478800"
+    "created_at": "2026-11-11T03:45:15.076138"
   },
   {
     "id": "arXiv ML_c849523d7bc3e106",
@@ -988,7 +987,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-10T22:39:14.478880"
+    "created_at": "2026-11-11T03:45:15.076199"
   },
   {
     "id": "MIT Technology Review_5c0664ea6caec4e6",
@@ -1006,7 +1005,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-10T22:39:05.270734"
+    "created_at": "2026-11-11T03:45:05.825240"
   },
   {
     "id": "MIT Technology Review_c1ce750b38edaef2",
@@ -1024,7 +1023,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270818"
+    "created_at": "2026-11-11T03:45:05.825281"
   },
   {
     "id": "arXiv AI_69ea1615ab7dc39f",
@@ -1039,7 +1038,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699088"
+    "created_at": "2026-11-11T03:45:14.176275"
   },
   {
     "id": "arXiv AI_7056817c38a60663",
@@ -1056,7 +1055,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699329"
+    "created_at": "2026-11-11T03:45:14.176451"
   },
   {
     "id": "arXiv AI_885e2d09805d6cfb",
@@ -1073,7 +1072,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699406"
+    "created_at": "2026-11-11T03:45:14.176507"
   },
   {
     "id": "arXiv AI_b5de606078f00d2b",
@@ -1090,7 +1089,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:13.699469"
+    "created_at": "2026-11-11T03:45:14.176555"
   },
   {
     "id": "arXiv ML_cc4083d898366a65",
@@ -1107,7 +1106,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478447"
+    "created_at": "2026-11-11T03:45:15.075861"
   },
   {
     "id": "arXiv ML_b4b19dcb1413f132",
@@ -1124,7 +1123,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478704"
+    "created_at": "2026-11-11T03:45:15.076057"
   },
   {
     "id": "arXiv ML_8d1b5a6767f35c90",
@@ -1141,7 +1140,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.478960"
+    "created_at": "2026-11-11T03:45:15.076261"
   },
   {
     "id": "arXiv ML_a63647e03191457f",
@@ -1158,7 +1157,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:14.479215"
+    "created_at": "2026-11-11T03:45:15.076447"
   },
   {
     "id": "MIT Technology Review_0c07a58a7597ad59",
@@ -1175,7 +1174,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270540"
+    "created_at": "2026-11-11T03:45:05.825080"
   },
   {
     "id": "MIT Technology Review_be005d64507fa6e7",
@@ -1192,7 +1191,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270610"
+    "created_at": "2026-11-11T03:45:05.825143"
   },
   {
     "id": "Reddit ML_df0119a7e74c9e66",
@@ -1207,7 +1206,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986979"
+    "created_at": "2026-11-11T03:45:19.664432"
   },
   {
     "id": "Reddit ML_25d59e07603b52a5",
@@ -1222,7 +1221,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986591"
+    "created_at": "2026-11-11T03:45:19.664247"
   },
   {
     "id": "Wired AI_5dfb561a7cd18fda",
@@ -1239,7 +1238,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366544"
+    "created_at": "2026-11-11T03:45:02.862019"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -1254,7 +1253,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986172"
+    "created_at": "2026-11-11T03:45:19.663798"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1271,7 +1270,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:04.392062"
+    "created_at": "2026-11-11T03:45:05.064588"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -1288,7 +1287,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:05.270879"
+    "created_at": "2026-11-11T03:45:05.825321"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1305,7 +1304,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:03.251177"
+    "created_at": "2026-11-11T03:45:03.811627"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1322,7 +1321,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:03.251229"
+    "created_at": "2026-11-11T03:45:03.811666"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1339,7 +1338,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:03.251271"
+    "created_at": "2026-11-11T03:45:03.811697"
   },
   {
     "id": "Reddit ML_fe01a944b9cd2296",
@@ -1356,7 +1355,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986818"
+    "created_at": "2026-11-11T03:45:19.664311"
   },
   {
     "id": "Wired AI_2eab7c9cd33225c2",
@@ -1373,7 +1372,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:02.366638"
+    "created_at": "2026-11-11T03:45:02.862091"
   },
   {
     "id": "Reddit ML_ddee50d26ee578f8",
@@ -1388,7 +1387,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986719"
+    "created_at": "2026-11-11T03:45:19.664097"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1406,7 +1405,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:19.482726"
+    "created_at": "2026-11-11T03:45:20.087872"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1423,7 +1422,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:19.482773"
+    "created_at": "2026-11-11T03:45:20.087908"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1440,7 +1439,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:19.482830"
+    "created_at": "2026-11-11T03:45:20.087939"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1457,7 +1456,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:19.482866"
+    "created_at": "2026-11-11T03:45:20.087967"
   },
   {
     "id": "Lobsters AI_25a29eb9b28ea2c0",
@@ -1474,7 +1473,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:19.482905"
+    "created_at": "2026-11-11T03:45:20.087996"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1489,6 +1488,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-10T22:39:18.986246"
+    "created_at": "2026-11-11T03:45:19.663858"
   }
 ]
