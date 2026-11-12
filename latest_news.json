@@ -1,24 +1,5 @@
 [
   {
-    "id": "The Verge AI_de3d10f20aae2e12",
-    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.",
-    "content": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-    "source": "The Verge AI",
-    "author": "Robert Hart",
-    "published_date": "2026-11-10T11:00:00-05:00",
-    "importance_score": 9.1,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612990"
-  },
-  {
     "id": "The Verge AI_ef207c9e26f54c74",
     "title": "Anthropic has its own AI-powered office suite now",
     "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle.",
@@ -36,7 +17,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612897"
+    "created_at": "2026-11-12T04:53:44.525817"
   },
   {
     "id": "The Verge AI_b4734c624ec9087a",
@@ -54,25 +35,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-11T23:50:53.612654"
-  },
-  {
-    "id": "Wired AI_d49208a6ea96229b",
-    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-    "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-    "content": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Wed, 11 Nov 2026 19:55:54 +0000",
-    "importance_score": 8.100000000000001,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.621785"
+    "created_at": "2026-11-12T04:53:44.525247"
   },
   {
     "id": "OpenAI News_eab3067af715426e",
@@ -91,7 +54,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923129"
+    "created_at": "2026-11-12T04:53:50.840858"
+  },
+  {
+    "id": "Wired AI_d49208a6ea96229b",
+    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "content": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Wed, 11 Nov 2026 19:55:54 +0000",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:53:45.397264"
   },
   {
     "id": "Wired AI_3088ac39650013af",
@@ -109,7 +90,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.622191"
+    "created_at": "2026-11-12T04:53:45.398426"
   },
   {
     "id": "OpenAI News_756ee79c4898f4d6",
@@ -129,11 +110,11 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923221"
+    "created_at": "2026-11-12T04:53:50.841014"
   },
   {
-    "id": "TechCrunch AI_6817d725ed8d683d",
-    "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+    "id": "TechCrunch AI_e56e50b82c39b77e",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "content": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
@@ -147,44 +128,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592454"
-  },
-  {
-    "id": "TechCrunch AI_22034cd0b04a1fba",
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "content": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Wed, 11 Nov 2026 19:22:22 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592863"
-  },
-  {
-    "id": "Reddit ML_dc973533bae4c7e7",
-    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-    "summary": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
-    "content": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-    "source": "Reddit ML",
-    "author": "/u/NegotiationOk7535",
-    "published_date": "2026-11-11T02:22:54+00:00",
-    "importance_score": 7.3999999999999995,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326099"
+    "created_at": "2026-11-12T04:53:43.350455"
   },
   {
     "id": "The Verge AI_1a9b38857df9e085",
@@ -203,7 +147,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612811"
+    "created_at": "2026-11-12T04:53:44.525625"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -220,7 +164,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168240"
+    "created_at": "2026-11-12T04:53:47.449724"
   },
   {
     "id": "OpenAI News_314dfe50640c6d8c",
@@ -238,7 +182,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923256"
+    "created_at": "2026-11-12T04:53:50.841076"
   },
   {
     "id": "OpenAI News_520b70c642a81a89",
@@ -256,7 +200,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923297"
+    "created_at": "2026-11-12T04:53:50.841149"
   },
   {
     "id": "OpenAI News_aa21d965b4448f29",
@@ -274,7 +218,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923334"
+    "created_at": "2026-11-12T04:53:50.841212"
   },
   {
     "id": "OpenAI News_01fa456a1eae3f4c",
@@ -292,25 +236,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923376"
-  },
-  {
-    "id": "OpenAI News_798dc701865c0fec",
-    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "content": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "url": "https://openai.com/index/cogent-security",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923408"
+    "created_at": "2026-11-12T04:53:50.841283"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -328,24 +254,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:58.776191"
+    "created_at": "2026-11-12T04:53:49.469802"
   },
   {
-    "id": "TechCrunch AI_ec2d27415bb8817b",
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "content": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "id": "TechCrunch AI_22034cd0b04a1fba",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "content": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
     "source": "TechCrunch AI",
-    "author": "Anna Heim",
-    "published_date": "Wed, 11 Nov 2026 19:34:55 +0000",
+    "author": "Rebecca Bellan",
+    "published_date": "Wed, 11 Nov 2026 19:22:22 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592802"
+    "created_at": "2026-11-12T04:53:43.350893"
+  },
+  {
+    "id": "The Verge AI_dbb4ee2fd6375462",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
+    "content": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
+    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-11T17:44:36-05:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:53:44.524960"
   },
   {
     "id": "Wired AI_2c17ab1a031d7da1",
@@ -363,7 +308,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.621930"
+    "created_at": "2026-11-12T04:53:45.397664"
   },
   {
     "id": "Wired AI_a473c0f17f0fc087",
@@ -380,7 +325,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.621981"
+    "created_at": "2026-11-12T04:53:45.397803"
   },
   {
     "id": "OpenAI News_006d798e6fe4dc52",
@@ -399,7 +344,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923443"
+    "created_at": "2026-11-12T04:53:50.841416"
+  },
+  {
+    "id": "Reddit ML_dc973533bae4c7e7",
+    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
+    "summary": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
+    "content": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
+    "source": "Reddit ML",
+    "author": "/u/NegotiationOk7535",
+    "published_date": "2026-11-11T02:22:54+00:00",
+    "importance_score": 6.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:54:02.127184"
   },
   {
     "id": "The Verge AI_e8b3d8a890f830b2",
@@ -416,7 +380,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612593"
+    "created_at": "2026-11-12T04:53:44.525158"
+  },
+  {
+    "id": "OpenAI News_798dc701865c0fec",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "content": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "url": "https://openai.com/index/cogent-security",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:53:50.841342"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -433,7 +415,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:58.776132"
+    "created_at": "2026-11-12T04:53:49.469707"
+  },
+  {
+    "id": "Reddit ML_67cdc9d206619147",
+    "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
+    "summary": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadence—ignoring uploader metadata at search time and running in minimal VRAM. GitHub: https://github.",
+    "content": "TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadence—ignoring uploader metadata at search time and running in minimal VRAM. GitHub: https://github.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/",
+    "source": "Reddit ML",
+    "author": "/u/qn06142",
+    "published_date": "2026-11-12T03:03:34+00:00",
+    "importance_score": 6.6,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:54:02.127125"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -450,7 +449,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168135"
+    "created_at": "2026-11-12T04:53:47.449551"
   },
   {
     "id": "OpenAI News_3ed0dc14efafc8f6",
@@ -467,7 +466,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923080"
+    "created_at": "2026-11-12T04:53:50.840779"
   },
   {
     "id": "arXiv AI_9359a2cd00700306",
@@ -482,7 +481,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840597"
+    "created_at": "2026-11-12T04:53:56.561869"
   },
   {
     "id": "TechCrunch AI_b19fa4385583c7ca",
@@ -499,41 +498,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592346"
+    "created_at": "2026-11-12T04:53:43.350317"
   },
   {
-    "id": "TechCrunch AI_16b9144d4d287028",
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-    "content": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "id": "TechCrunch AI_ec2d27415bb8817b",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "content": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
     "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Wed, 11 Nov 2026 19:54:00 +0000",
+    "author": "Anna Heim",
+    "published_date": "Wed, 11 Nov 2026 19:34:55 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592735"
-  },
-  {
-    "id": "The Verge AI_5dbefdef39d29e54",
-    "title": "United won’t let your AI agent book your flight",
-    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
-    "content": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-11-11T16:54:21-05:00",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612512"
+    "created_at": "2026-11-12T04:53:43.350821"
   },
   {
     "id": "The Verge AI_c75b4e0cadfa3aca",
@@ -551,7 +533,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612758"
+    "created_at": "2026-11-12T04:53:44.525494"
   },
   {
     "id": "arXiv AI_adbd9984a430b66e",
@@ -566,7 +548,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840503"
+    "created_at": "2026-11-12T04:53:56.561755"
   },
   {
     "id": "arXiv AI_b3caa9592670d7d8",
@@ -581,37 +563,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840775"
-  },
-  {
-    "id": "TechCrunch AI_f9e26faf35851d6a",
-    "title": "Why the data center you dread might never even be built",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
-    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
-    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
-    "published_date": "Wed, 11 Nov 2026 20:15:15 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-11-11T23:50:52.592539"
-  },
-  {
-    "id": "TechCrunch AI_5945096571cb0e57",
-    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
-    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
-    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
-    "published_date": "Wed, 11 Nov 2026 20:02:14 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-11-11T23:50:52.592649"
+    "created_at": "2026-11-12T04:53:56.562146"
   },
   {
     "id": "The Verge AI_6bec5b838ad1b800",
@@ -628,58 +580,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612939"
+    "created_at": "2026-11-12T04:53:44.525911"
   },
   {
-    "id": "OpenAI News_e77d39cf29672e23",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "content": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "url": "https://openai.com/index/jiostar-vijay-seshadri",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:59.923183"
-  },
-  {
-    "id": "Reddit ML_ada93c3ce2f58fad",
-    "title": "AI ‘slop’ is a social judgement [R]",
-    "summary": "https://www.nature.com/articles/s41562-026-02639-6 A new paper argues that AI Slop isn't something you can find in the content. It’s a social judgement, made when a community decides that some AI-generated content is unwanted. If we study 'slop' that way, we can actually measure it and govern it.",
-    "content": "https://www.nature.com/articles/s41562-026-02639-6 A new paper argues that AI Slop isn't something you can find in the content. It’s a social judgement, made when a community decides that some AI-generated content is unwanted. If we study 'slop' that way, we can actually measure it and govern it.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
-    "source": "Reddit ML",
-    "author": "/u/learning_by_looking",
-    "published_date": "2026-11-11T18:03:18+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326402"
-  },
-  {
-    "id": "TechCrunch AI_243863222a653115",
-    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-    "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "content": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "id": "TechCrunch AI_16b9144d4d287028",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "content": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
     "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Wed, 11 Nov 2026 16:16:07 +0000",
+    "author": "Rebecca Bellan",
+    "published_date": "Wed, 11 Nov 2026 19:54:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:52.592955"
+    "created_at": "2026-11-12T04:53:43.350745"
+  },
+  {
+    "id": "The Verge AI_5dbefdef39d29e54",
+    "title": "United won’t let your AI agent book your flight",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
+    "content": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-11T16:54:21-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:53:44.525063"
   },
   {
     "id": "Wired AI_338686f62c06302a",
@@ -696,7 +631,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.621829"
+    "created_at": "2026-11-12T04:53:45.397374"
   },
   {
     "id": "Wired AI_16a11752724d03da",
@@ -713,7 +648,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.621879"
+    "created_at": "2026-11-12T04:53:45.397532"
   },
   {
     "id": "Wired AI_bb7d282fb1d17399",
@@ -730,7 +665,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.622110"
+    "created_at": "2026-11-12T04:53:45.398171"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -747,7 +682,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168180"
+    "created_at": "2026-11-12T04:53:47.449626"
   },
   {
     "id": "MIT Technology Review_aebaaae917fb3506",
@@ -764,7 +699,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.632606"
+    "created_at": "2026-11-12T04:53:48.360555"
   },
   {
     "id": "MIT Technology Review_bee41f4a14dc9bfb",
@@ -781,7 +716,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.632675"
+    "created_at": "2026-11-12T04:53:48.360661"
   },
   {
     "id": "MIT Technology Review_3ae1de1cfd494776",
@@ -799,58 +734,37 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.632917"
+    "created_at": "2026-11-12T04:53:48.361055"
   },
   {
-    "id": "Hugging Face Blog_6b2b4f04681eade8",
-    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/token-pooling",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
-    "importance_score": 5.800000000000001,
+    "id": "TechCrunch AI_f9e26faf35851d6a",
+    "title": "Why the data center you dread might never even be built",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "published_date": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "importance_score": 5.7,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:02.764701"
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-11-12T04:53:43.350550"
   },
   {
-    "id": "Reddit ML_da5d6586413f3d5a",
-    "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
-    "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
-    "content": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
-    "source": "Reddit ML",
-    "author": "/u/Beautiful_Baker_2233",
-    "published_date": "2026-11-11T22:20:31+00:00",
-    "importance_score": 5.8,
+    "id": "TechCrunch AI_5945096571cb0e57",
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "content": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.Before those challenges even come into play, though, theres a more basic problem: A lot of the projects being announced may never get built in the...",
+    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "source": "TechCrunch AI",
+    "author": "Theresa Loconsolo, Rebecca Bellan, Tim De Chant",
+    "published_date": "Wed, 11 Nov 2026 20:02:14 +0000",
+    "importance_score": 5.7,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326059"
-  },
-  {
-    "id": "Reddit ML_b62044465d200e06",
-    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-    "summary": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "content": "Source code: https://github.com/0xdeadf1sh/T1DMAI  submitted by  /u/0xdeadf1sh [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-    "source": "Reddit ML",
-    "author": "/u/0xdeadf1sh",
-    "published_date": "2026-11-10T18:35:32+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326443"
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-11-12T04:53:43.350644"
   },
   {
     "id": "The Verge AI_57b97b78c28528f9",
@@ -867,7 +781,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612712"
+    "created_at": "2026-11-12T04:53:44.525378"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -884,7 +798,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168282"
+    "created_at": "2026-11-12T04:53:47.449796"
   },
   {
     "id": "Google AI Blog_6853544c49dbd02b",
@@ -901,7 +815,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168366"
+    "created_at": "2026-11-12T04:53:47.449943"
   },
   {
     "id": "arXiv AI_27dc7803a6e73239",
@@ -918,7 +832,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840203"
+    "created_at": "2026-11-12T04:53:56.561265"
   },
   {
     "id": "arXiv AI_aa5764267dbcc76c",
@@ -936,7 +850,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840834"
+    "created_at": "2026-11-12T04:53:56.562243"
   },
   {
     "id": "arXiv ML_6bf2c42cd330a774",
@@ -954,7 +868,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659496"
+    "created_at": "2026-11-12T04:53:57.475605"
   },
   {
     "id": "arXiv ML_dc82d3a2bfe08356",
@@ -971,7 +885,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659645"
+    "created_at": "2026-11-12T04:53:57.475803"
   },
   {
     "id": "Reddit ML_7c7143c6a047ff1d",
@@ -989,39 +903,24 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.325977"
+    "created_at": "2026-11-12T04:54:02.126574"
   },
   {
-    "id": "Reddit ML_69cd5d26eb2cb27c",
-    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-    "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
-    "content": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
-    "source": "Reddit ML",
-    "author": "/u/promptdom",
-    "published_date": "2026-11-11T21:42:54+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326196"
-  },
-  {
-    "id": "Reddit ML_1cd5816e28ae0207",
-    "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
-    "summary": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
-    "content": "I may be naive, but I've been curious whether the recent wave of time-series foundation models can actually extract useful predictive signals from financial markets. Models like Google's TimesFM 3.0, Amazon's Chronos-2, and Datadog's Toto 2.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
-    "source": "Reddit ML",
-    "author": "/u/AdelSexy",
-    "published_date": "2026-11-10T16:14:16+00:00",
-    "importance_score": 5.6,
+    "id": "OpenAI News_e77d39cf29672e23",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "content": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.5,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.326331"
+    "created_at": "2026-11-12T04:53:50.840948"
   },
   {
     "id": "arXiv AI_0d620da56d382ef0",
@@ -1038,7 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840286"
+    "created_at": "2026-11-12T04:53:56.561393"
   },
   {
     "id": "arXiv AI_ac10784f9aa08641",
@@ -1055,7 +954,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840359"
+    "created_at": "2026-11-12T04:53:56.561528"
   },
   {
     "id": "arXiv AI_4f1a2f465789be58",
@@ -1072,7 +971,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840695"
+    "created_at": "2026-11-12T04:53:56.562013"
   },
   {
     "id": "arXiv ML_fb84751f2203b699",
@@ -1089,7 +988,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659193"
+    "created_at": "2026-11-12T04:53:57.475114"
   },
   {
     "id": "arXiv ML_f925a2fc41a0d079",
@@ -1106,7 +1005,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659283"
+    "created_at": "2026-11-12T04:53:57.475249"
   },
   {
     "id": "arXiv ML_d674b0254285b767",
@@ -1121,7 +1020,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659359"
+    "created_at": "2026-11-12T04:53:57.475368"
   },
   {
     "id": "arXiv ML_9bca76edc5a329b0",
@@ -1138,7 +1037,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659562"
+    "created_at": "2026-11-12T04:53:57.475709"
   },
   {
     "id": "arXiv ML_1d23bfefb17abd05",
@@ -1153,7 +1052,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659723"
+    "created_at": "2026-11-12T04:53:57.475924"
   },
   {
     "id": "arXiv ML_0f73f948b65fff7e",
@@ -1170,7 +1069,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659805"
+    "created_at": "2026-11-12T04:53:57.476052"
   },
   {
     "id": "The Verge AI_0e0c050a7056e7ab",
@@ -1187,7 +1086,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:53.612856"
+    "created_at": "2026-11-12T04:53:44.525721"
   },
   {
     "id": "Wired AI_8ab8bd753a108fc5",
@@ -1204,7 +1103,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.622024"
+    "created_at": "2026-11-12T04:53:45.397919"
   },
   {
     "id": "Wired AI_ffdabd569b33373e",
@@ -1221,7 +1120,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.622149"
+    "created_at": "2026-11-12T04:53:45.398296"
   },
   {
     "id": "MIT Technology Review_a6c1a6ede81ce3d9",
@@ -1238,7 +1137,24 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-11T23:50:57.632739"
+    "created_at": "2026-11-12T04:53:48.360764"
+  },
+  {
+    "id": "Hugging Face Blog_6b2b4f04681eade8",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.300000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:53:53.517211"
   },
   {
     "id": "arXiv AI_fedc39b147639048",
@@ -1253,7 +1169,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:05.840427"
+    "created_at": "2026-11-12T04:53:56.561638"
   },
   {
     "id": "arXiv ML_9f98e3f0cce975f7",
@@ -1268,7 +1184,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659423"
+    "created_at": "2026-11-12T04:53:57.475493"
   },
   {
     "id": "arXiv ML_dd02395391680b78",
@@ -1283,7 +1199,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:06.659879"
+    "created_at": "2026-11-12T04:53:57.476170"
+  },
+  {
+    "id": "Reddit ML_da5d6586413f3d5a",
+    "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+    "summary": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
+    "content": "I'm curious how ACs and experienced authors think about this. My situation: one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+    "source": "Reddit ML",
+    "author": "/u/Beautiful_Baker_2233",
+    "published_date": "2026-11-11T22:20:31+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:54:02.126702"
   },
   {
     "id": "Wired AI_33f91a3b784f8456",
@@ -1300,7 +1233,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:54.622067"
+    "created_at": "2026-11-12T04:53:45.398050"
   },
   {
     "id": "MIT Technology Review_5c0664ea6caec4e6",
@@ -1318,7 +1251,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-11T23:50:57.632965"
+    "created_at": "2026-11-12T04:53:48.361132"
   },
   {
     "id": "MIT Technology Review_c1ce750b38edaef2",
@@ -1336,7 +1269,22 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.633012"
+    "created_at": "2026-11-12T04:53:48.361208"
+  },
+  {
+    "id": "Reddit ML_69cd5d26eb2cb27c",
+    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+    "summary": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
+    "content": "Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!! Trying to make robot learning research more...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+    "source": "Reddit ML",
+    "author": "/u/promptdom",
+    "published_date": "2026-11-11T21:42:54+00:00",
+    "importance_score": 5.1,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-12T04:54:02.126828"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -1351,7 +1299,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.325796"
+    "created_at": "2026-11-12T04:54:02.126317"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -1368,7 +1316,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.168314"
+    "created_at": "2026-11-12T04:53:47.449856"
   },
   {
     "id": "MIT Technology Review_0c07a58a7597ad59",
@@ -1385,7 +1333,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.632804"
+    "created_at": "2026-11-12T04:53:48.360868"
   },
   {
     "id": "MIT Technology Review_be005d64507fa6e7",
@@ -1402,7 +1350,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.632860"
+    "created_at": "2026-11-12T04:53:48.360961"
   },
   {
     "id": "MIT Technology Review_cae6617820816648",
@@ -1419,7 +1367,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:57.633059"
+    "created_at": "2026-11-12T04:53:48.361287"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1436,7 +1384,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:55.615584"
+    "created_at": "2026-11-12T04:53:46.341207"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1453,7 +1401,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:55.615632"
+    "created_at": "2026-11-12T04:53:46.341277"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1470,7 +1418,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:50:55.615669"
+    "created_at": "2026-11-12T04:53:46.341336"
   },
   {
     "id": "Lobsters AI_04967801a7c5fbc0",
@@ -1488,7 +1436,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.727375"
+    "created_at": "2026-11-12T04:54:02.725214"
   },
   {
     "id": "Lobsters AI_97872e94c67f8a05",
@@ -1505,7 +1453,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.727418"
+    "created_at": "2026-11-12T04:54:02.725279"
   },
   {
     "id": "Lobsters AI_33716d6414646c92",
@@ -1522,7 +1470,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.727457"
+    "created_at": "2026-11-12T04:54:02.725339"
   },
   {
     "id": "Lobsters AI_9517fdff8dd77f03",
@@ -1539,7 +1487,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.727491"
+    "created_at": "2026-11-12T04:54:02.725395"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1554,6 +1502,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-11T23:51:11.325873"
+    "created_at": "2026-11-12T04:54:02.126433"
   }
 ]
