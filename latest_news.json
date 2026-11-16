@@ -1,5 +1,40 @@
 [
   {
+    "id": "OpenAI News_f9c3ec2d91f5844e",
+    "title": "Our new blog for science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "content": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "importance_score": 8.200000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:13.669732"
+  },
+  {
+    "id": "TechCrunch AI_6d19c67cec880992",
+    "title": "Apple launches new app to study how people use AI for health",
+    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "content": "Apple's new app for a study will answer everyday medical questions",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Mon, 16 Nov 2026 01:30:00 +0000",
+    "importance_score": 8.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:06.205523"
+  },
+  {
     "id": "TechCrunch AI_af3d4ad5ebb4a3c9",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -15,7 +50,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902414"
+    "created_at": "2026-11-16T03:49:06.205798"
   },
   {
     "id": "TechCrunch AI_5d1d3ca0f6aa15d3",
@@ -33,25 +68,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902325"
-  },
-  {
-    "id": "The Verge AI_c1479108ecdeb4ab",
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
-    "content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-15T14:15:43-05:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.905896"
+    "created_at": "2026-11-16T03:49:06.205684"
   },
   {
     "id": "OpenAI News_564cb6dc11d3cce7",
@@ -69,25 +86,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.129005"
+    "created_at": "2026-11-16T03:49:13.670141"
   },
   {
-    "id": "TechCrunch AI_83b091d9b45508d2",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin, Dominic-Madori Davis",
-    "published_date": "Fri, 13 Nov 2026 22:43:00 +0000",
+    "id": "The Verge AI_27bcbed71fbbebc7",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by...",
+    "content": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by...",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-11-15T20:26:56-05:00",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902476"
+    "created_at": "2026-11-16T03:49:07.285159"
   },
   {
     "id": "MIT Technology Review_abe39e9df1522e5b",
@@ -105,7 +121,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900589"
+    "created_at": "2026-11-16T03:49:11.369963"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -123,27 +139,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:19.970304"
-  },
-  {
-    "id": "OpenAI News_756ee79c4898f4d6",
-    "title": "Helping caregivers use AI in everyday life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "content": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 10 Nov 2026 12:00:00 GMT",
-    "importance_score": 7.1,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.129140"
+    "created_at": "2026-11-16T03:49:12.935616"
   },
   {
     "id": "The Verge AI_92869cc659373d8c",
@@ -163,26 +159,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906147"
+    "created_at": "2026-11-16T03:49:07.285623"
   },
   {
-    "id": "Reddit ML_b615a0c95bf31ea4",
-    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-    "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
-    "content": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-    "source": "Reddit ML",
-    "author": "/u/trungh98",
-    "published_date": "2026-11-15T17:38:16+00:00",
-    "importance_score": 7.0,
+    "id": "The Verge AI_c1479108ecdeb4ab",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
+    "content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-15T14:15:43-05:00",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
-      "AI",
-      "ML",
-      "LLM"
+      "NVIDIA",
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562651"
+    "created_at": "2026-11-16T03:49:07.285273"
   },
   {
     "id": "The Verge AI_1dd45bf100f34a68",
@@ -200,7 +195,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.905993"
+    "created_at": "2026-11-16T03:49:07.285379"
   },
   {
     "id": "OpenAI News_e934d35051c1535b",
@@ -219,7 +214,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.128957"
+    "created_at": "2026-11-16T03:49:13.670060"
   },
   {
     "id": "OpenAI News_eab3067af715426e",
@@ -238,26 +233,42 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.129068"
+    "created_at": "2026-11-16T03:49:13.670281"
   },
   {
-    "id": "TechCrunch AI_5b2ea907350305e4",
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "content": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "id": "TechCrunch AI_e821ea45843bfa50",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "content": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Fri, 13 Nov 2026 16:00:12 +0000",
-    "importance_score": 6.8,
+    "author": "Jagmeet Singh",
+    "published_date": "Sun, 15 Nov 2026 23:30:00 +0000",
+    "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902598"
+    "created_at": "2026-11-16T03:49:06.205612"
+  },
+  {
+    "id": "TechCrunch AI_83b091d9b45508d2",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin, Dominic-Madori Davis",
+    "published_date": "Fri, 13 Nov 2026 22:43:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:06.205927"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -274,7 +285,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.037192"
+    "created_at": "2026-11-16T03:49:10.465936"
+  },
+  {
+    "id": "OpenAI News_878e70436f20a1ca",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "content": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:13.669657"
   },
   {
     "id": "OpenAI News_707bcf83f03177b4",
@@ -292,7 +321,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.128797"
+    "created_at": "2026-11-16T03:49:13.669798"
   },
   {
     "id": "OpenAI News_96f36e554ee7c5d0",
@@ -310,7 +339,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.128858"
+    "created_at": "2026-11-16T03:49:13.669892"
   },
   {
     "id": "OpenAI News_6381e1ca31be8130",
@@ -328,7 +357,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.128913"
+    "created_at": "2026-11-16T03:49:13.669984"
   },
   {
     "id": "The Verge AI_03de44e48178cb11",
@@ -347,7 +376,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906238"
+    "created_at": "2026-11-16T03:49:07.285773"
+  },
+  {
+    "id": "Reddit ML_b615a0c95bf31ea4",
+    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+    "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "content": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+    "source": "Reddit ML",
+    "author": "/u/trungh98",
+    "published_date": "2026-11-15T17:38:16+00:00",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:24.883246"
   },
   {
     "id": "TechCrunch AI_2afc3cd8454e03dc",
@@ -364,7 +412,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902514"
+    "created_at": "2026-11-16T03:49:06.205997"
   },
   {
     "id": "The Verge AI_91fd2c4e6dcc86c0",
@@ -382,7 +430,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906040"
+    "created_at": "2026-11-16T03:49:07.285454"
+  },
+  {
+    "id": "Reddit ML_86273577904bdd61",
+    "title": "Top Institutions for Artificial Intelligence & Image Processing (Top 2% Scientists List) [N]",
+    "summary": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
+    "content": " submitted by  /u/NegotiationOk7535 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxf0r6/top_institutions_for_artificial_intelligence/",
+    "source": "Reddit ML",
+    "author": "/u/NegotiationOk7535",
+    "published_date": "2026-11-16T03:28:51+00:00",
+    "importance_score": 6.3,
+    "category": "tech",
+    "keywords": [
+      "artificial intelligence"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:24.883428"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -399,24 +464,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:19.970216"
+    "created_at": "2026-11-16T03:49:12.935457"
   },
   {
-    "id": "The Verge AI_170678fc552699e6",
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-    "content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-13T18:49:11-05:00",
+    "id": "Reddit ML_6ff252b6b943398d",
+    "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+    "summary": "Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has...",
+    "content": "Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+    "source": "Reddit ML",
+    "author": "/u/Datu1423",
+    "published_date": "2026-11-15T23:25:39+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
-      "AI"
+      "machine learning",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906093"
+    "created_at": "2026-11-16T03:49:24.883603"
   },
   {
     "id": "The Verge AI_33be774c7b2bda70",
@@ -434,25 +500,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906186"
-  },
-  {
-    "id": "The Verge AI_1633351bcd523eed",
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair...",
-    "content": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-    "source": "The Verge AI",
-    "author": "Elizabeth Lopatto",
-    "published_date": "2026-11-13T07:00:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:14.906289"
+    "created_at": "2026-11-16T03:49:07.285691"
   },
   {
     "id": "Wired AI_8f97e0935c8c343f",
@@ -469,7 +517,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850538"
+    "created_at": "2026-11-16T03:49:08.263336"
   },
   {
     "id": "Wired AI_92abecc00d148e26",
@@ -486,7 +534,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850600"
+    "created_at": "2026-11-16T03:49:08.263424"
   },
   {
     "id": "Wired AI_6444bed576ccec7c",
@@ -504,7 +552,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850859"
+    "created_at": "2026-11-16T03:49:08.263829"
   },
   {
     "id": "MIT Technology Review_d0f1400e6591c233",
@@ -522,74 +570,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900459"
-  },
-  {
-    "id": "Reddit ML_3dc5a98867de5d4b",
-    "title": "Marimba: a System One model for speech [R]",
-    "summary": "Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration.",
-    "content": "Marimba is like Jev, but for audio. I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score. It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
-    "source": "Reddit ML",
-    "author": "/u/solanotodesch",
-    "published_date": "2026-11-15T16:30:09+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562870"
-  },
-  {
-    "id": "Reddit ML_7d9e375ff3737d44",
-    "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
-    "summary": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights.",
-    "content": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
-    "source": "Reddit ML",
-    "author": "/u/Good-Presentation-23",
-    "published_date": "2026-11-15T17:52:41+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562982"
-  },
-  {
-    "id": "Reddit ML_021ff3c3a9e34990",
-    "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
-    "summary": "We trained a world model on our open dataset of 10-player CS:GO bot matches (~3,958 hours, with all POVs and inputs aligned at 16 Hz), which we released last month. Now you can actually play it with other people.",
-    "content": "We trained a world model on our open dataset of 10-player CS:GO bot matches (~3,958 hours, with all POVs and inputs aligned at 16 Hz), which we released last month. Now you can actually play it with other people.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/",
-    "source": "Reddit ML",
-    "author": "/u/bengal7ion",
-    "published_date": "2026-11-15T19:46:49+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.563038"
-  },
-  {
-    "id": "TechCrunch AI_0f5adda45b91612d",
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "content": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Fri, 13 Nov 2026 18:40:30 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:13.902557"
+    "created_at": "2026-11-16T03:49:11.369734"
   },
   {
     "id": "Wired AI_93d8efa5443c9313",
@@ -606,7 +587,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850722"
+    "created_at": "2026-11-16T03:49:08.263630"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -623,7 +604,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.037230"
+    "created_at": "2026-11-16T03:49:10.466010"
   },
   {
     "id": "MIT Technology Review_5687a0e4cd8b87ae",
@@ -641,7 +622,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900642"
+    "created_at": "2026-11-16T03:49:11.370058"
   },
   {
     "id": "Hugging Face Blog_c3325b71dbdcb6a0",
@@ -658,7 +639,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:24.009280"
+    "created_at": "2026-11-16T03:49:16.513628"
+  },
+  {
+    "id": "The Verge AI_170678fc552699e6",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
+    "content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-13T18:49:11-05:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-16T03:49:07.285535"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -675,7 +673,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.037087"
+    "created_at": "2026-11-16T03:49:10.465743"
   },
   {
     "id": "Wired AI_abdbf83034368f35",
@@ -692,7 +690,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850644"
+    "created_at": "2026-11-16T03:49:08.263495"
   },
   {
     "id": "Wired AI_7bf17744501a6744",
@@ -709,7 +707,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850683"
+    "created_at": "2026-11-16T03:49:08.263560"
   },
   {
     "id": "Reddit ML_2e268128291b4990",
@@ -724,7 +722,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562723"
+    "created_at": "2026-11-16T03:49:24.883358"
   },
   {
     "id": "Reddit ML_15729df3e803eb38",
@@ -741,7 +739,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562798"
+    "created_at": "2026-11-16T03:49:24.883719"
   },
   {
     "id": "OpenAI News_3ed0dc14efafc8f6",
@@ -758,24 +756,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.129035"
-  },
-  {
-    "id": "OpenAI News_e77d39cf29672e23",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "content": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "url": "https://openai.com/index/jiostar-vijay-seshadri",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:21.129109"
+    "created_at": "2026-11-16T03:49:13.670199"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -790,7 +771,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562480"
+    "created_at": "2026-11-16T03:49:24.882946"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -807,7 +788,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:33.075754"
+    "created_at": "2026-11-16T03:49:25.502576"
   },
   {
     "id": "Wired AI_d3d0ab4148da03a2",
@@ -824,7 +805,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850756"
+    "created_at": "2026-11-16T03:49:08.263689"
   },
   {
     "id": "Wired AI_18bec461141f6883",
@@ -841,7 +822,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:15.850790"
+    "created_at": "2026-11-16T03:49:08.263749"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -858,7 +839,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.037130"
+    "created_at": "2026-11-16T03:49:10.465817"
   },
   {
     "id": "Google AI Blog_99d906738a8dfba5",
@@ -875,7 +856,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.037259"
+    "created_at": "2026-11-16T03:49:10.466069"
   },
   {
     "id": "MIT Technology Review_f4a34a01bcc42926",
@@ -892,7 +873,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900525"
+    "created_at": "2026-11-16T03:49:11.369842"
   },
   {
     "id": "MIT Technology Review_1d2dcbeee93bfb75",
@@ -909,7 +890,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900701"
+    "created_at": "2026-11-16T03:49:11.370158"
   },
   {
     "id": "MIT Technology Review_aebaaae917fb3506",
@@ -926,7 +907,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900758"
+    "created_at": "2026-11-16T03:49:11.370252"
   },
   {
     "id": "MIT Technology Review_bee41f4a14dc9bfb",
@@ -943,7 +924,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900823"
+    "created_at": "2026-11-16T03:49:11.370345"
   },
   {
     "id": "MIT Technology Review_a6c1a6ede81ce3d9",
@@ -960,7 +941,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-15T22:16:18.900879"
+    "created_at": "2026-11-16T03:49:11.370459"
   },
   {
     "id": "MIT Technology Review_0c07a58a7597ad59",
@@ -977,7 +958,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:18.900939"
+    "created_at": "2026-11-16T03:49:11.370570"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -994,7 +975,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:19.970264"
+    "created_at": "2026-11-16T03:49:12.935538"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1011,7 +992,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:16.866618"
+    "created_at": "2026-11-16T03:49:09.299914"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1028,7 +1009,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:16.866669"
+    "created_at": "2026-11-16T03:49:09.299997"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1045,7 +1026,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:16.866702"
+    "created_at": "2026-11-16T03:49:09.300059"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1062,7 +1043,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:16.866735"
+    "created_at": "2026-11-16T03:49:09.300119"
   },
   {
     "id": "Hugging Face Blog_6b2b4f04681eade8",
@@ -1079,25 +1060,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:24.009332"
-  },
-  {
-    "id": "Lobsters AI_04967801a7c5fbc0",
-    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-    "source": "Lobsters AI",
-    "author": "rikiyat.github.io via timschumi",
-    "published_date": "Mon, 02 Nov 2026 13:24:33 -0600",
-    "importance_score": 4.5,
-    "category": "tech",
-    "keywords": [
-      "neural network",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:33.075831"
+    "created_at": "2026-11-16T03:49:16.513712"
   },
   {
     "id": "Reddit ML_a17bd33de43e4a67",
@@ -1112,6 +1075,6 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-15T22:16:32.562538"
+    "created_at": "2026-11-16T03:49:24.883048"
   }
 ]
