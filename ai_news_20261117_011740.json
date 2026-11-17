@@ -1,0 +1,1475 @@
+[
+  {
+    "id": "The Verge AI_23e848b9d39fe853",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper...",
+    "content": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T15:46:01-05:00",
+    "importance_score": 9.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.116939"
+  },
+  {
+    "id": "TechCrunch AI_7e31bbe1a386cafc",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "content": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 +0000",
+    "importance_score": 9.0,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092312"
+  },
+  {
+    "id": "OpenAI News_45d6eb7066757f1d",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "content": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480413"
+  },
+  {
+    "id": "TechCrunch AI_dd38ecde84788cd0",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "content": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 16 Nov 2026 18:11:10 +0000",
+    "importance_score": 8.6,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092030"
+  },
+  {
+    "id": "OpenAI News_bd45dda55ac82901",
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "content": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "importance_score": 8.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480481"
+  },
+  {
+    "id": "TechCrunch AI_51459c7c4fe7026e",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "content": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 16 Nov 2026 17:02:43 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092232"
+  },
+  {
+    "id": "MIT Technology Review_c3acd2fe963691ba",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
+    "content": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Technology Review",
+    "author": "Sudhi Sinha",
+    "published_date": "Mon, 16 Nov 2026 16:04:28 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150683"
+  },
+  {
+    "id": "OpenAI News_8f893c4fc31912ec",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "content": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "importance_score": 8.200000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480612"
+  },
+  {
+    "id": "The Verge AI_3798715516e9af8d",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-16T15:41:28-05:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117024"
+  },
+  {
+    "id": "The Verge AI_f03a8dca4eddee7a",
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
+    "content": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-16T14:23:45-05:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117229"
+  },
+  {
+    "id": "TechCrunch AI_caa86e6f9f868c2d",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "content": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Mon, 16 Nov 2026 23:32:32 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.091772"
+  },
+  {
+    "id": "The Verge AI_0f2b95e319b7c79d",
+    "title": "Google Maps can now create trip itineraries for you",
+    "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip...",
+    "content": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip...",
+    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T09:00:00-05:00",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117380"
+  },
+  {
+    "id": "OpenAI News_b78d365108f9203f",
+    "title": "Broadening access to AI for scientists",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "importance_score": 7.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480205"
+  },
+  {
+    "id": "OpenAI News_76c87a8b4ddedaa0",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "content": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "importance_score": 7.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480343"
+  },
+  {
+    "id": "OpenAI News_41632ab35767cafb",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480547"
+  },
+  {
+    "id": "The Verge AI_1f4dc374cecb93e6",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "content": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T18:17:34-05:00",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.116854"
+  },
+  {
+    "id": "The Verge AI_03a573e5cdf57956",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+    "content": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-11-16T14:24:40-05:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117169"
+  },
+  {
+    "id": "MIT Technology Review_abe39e9df1522e5b",
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told...",
+    "content": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told...",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "source": "MIT Technology Review",
+    "author": "Aaron Zamost",
+    "published_date": "Fri, 13 Nov 2026 10:00:00 +0000",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.151086"
+  },
+  {
+    "id": "DeepMind Blog_569208d5cdc36d89",
+    "title": "Speeding up planning decisions with AI",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "content": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Fri, 30 Oct 2026 14:18:30 +0000",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "DeepMind",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:26.421894"
+  },
+  {
+    "id": "Wired AI_ae6f41db9c837108",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "content": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "source": "Wired AI",
+    "author": "Katie Drummond",
+    "published_date": "Mon, 16 Nov 2026 16:12:51 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129309"
+  },
+  {
+    "id": "Wired AI_d4d57b6fc2bb22e2",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "content": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Mon, 16 Nov 2026 11:00:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129409"
+  },
+  {
+    "id": "MIT Technology Review_ad1fc9a629025ce6",
+    "title": "The open-source movement wants Jensen Huang back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 16 Nov 2026 18:38:47 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150581"
+  },
+  {
+    "id": "Lobsters AI_03595dcf8c6c6522",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "summary": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
+    "content": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
+    "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "source": "Lobsters AI",
+    "author": "by twp",
+    "published_date": "Mon, 16 Nov 2026 16:25:45 -0600",
+    "importance_score": 6.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-17T01:17:39.516764"
+  },
+  {
+    "id": "TechCrunch AI_1bf1c15be31a212a",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "content": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Mon, 16 Nov 2026 19:12:02 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.091953"
+  },
+  {
+    "id": "Google AI Blog_c4ea6e3a51934ce5",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "content": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "source": "Google AI Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:24.319152"
+  },
+  {
+    "id": "TechCrunch AI_6da85e6ef3e19160",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "content": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "source": "TechCrunch AI",
+    "author": "Zack Whittaker",
+    "published_date": "Mon, 16 Nov 2026 17:36:43 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092100"
+  },
+  {
+    "id": "The Verge AI_8680653c756acdf2",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
+    "content": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-11-16T15:27:58-05:00",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117104"
+  },
+  {
+    "id": "Ars Technica_042f0a1718239c2b",
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "content": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "source": "Ars Technica",
+    "author": "Scharon Harding",
+    "published_date": "Mon, 16 Nov 2026 20:37:47 +0000",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:23.110765"
+  },
+  {
+    "id": "DeepMind Blog_b05345f784a53aa9",
+    "title": "Gemini 4 Carbon is now available",
+    "summary": "",
+    "content": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 16:03:47 +0000",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:26.421749"
+  },
+  {
+    "id": "Reddit ML_b615a0c95bf31ea4",
+    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+    "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "content": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+    "source": "Reddit ML",
+    "author": "/u/trungh98",
+    "published_date": "2026-11-15T17:38:16+00:00",
+    "importance_score": 6.0,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "ML",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820264"
+  },
+  {
+    "id": "TechCrunch AI_810205ce8199cf17",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "content": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 16 Nov 2026 15:52:19 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092372"
+  },
+  {
+    "id": "The Verge AI_658f261fe89e4ed8",
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
+    "content": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
+    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-16T09:00:00-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117321"
+  },
+  {
+    "id": "MIT Technology Review_d6b415b3dbdb873f",
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 16 Nov 2026 13:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150765"
+  },
+  {
+    "id": "MIT Technology Review_1bae7054f9079431",
+    "title": "Building AI that can work across the enterprise",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+    "content": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Mon, 16 Nov 2026 13:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150830"
+  },
+  {
+    "id": "MIT Technology Review_d0f1400e6591c233",
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square...",
+    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 13 Nov 2026 13:10:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150921"
+  },
+  {
+    "id": "arXiv AI_42f77b105aa59851",
+    "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+    "summary": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network:...",
+    "content": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network:...",
+    "url": "https://arxiv.org/abs/2611.17532",
+    "source": "arXiv AI",
+    "author": "Kate M. O'Neill, Ian Whitehouse, Adam N. McCaughan, Ryan O'Loughlin, Sonia Buckley, Wolfgang Losert",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466938"
+  },
+  {
+    "id": "arXiv AI_ae9c5c2108588bb6",
+    "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+    "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories.",
+    "content": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories.",
+    "url": "https://arxiv.org/abs/2611.17539",
+    "source": "arXiv AI",
+    "author": "Samuel Chen, Jiaru Bai, Austin Henry Cheng, Varinia Bernales, Al\\'an Aspuru-Guzik",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.467039"
+  },
+  {
+    "id": "arXiv ML_ef976335e37e19f2",
+    "title": "Do Mixture-of-Experts Routers Benefit from Ensembling?",
+    "summary": "arXiv:2611.17472v1 Announce Type: new Abstract: Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them.",
+    "content": "arXiv:2611.17472v1 Announce Type: new Abstract: Ensembles of neural networks have repeatedly been shown to outperform single networks. Ensemble theory attributes this gain to the accuracy of the individual members and the diversity among them.",
+    "url": "https://arxiv.org/abs/2611.17472",
+    "source": "arXiv ML",
+    "author": "Viktor Vesel\\'y, Sebastian Jitaru",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141887"
+  },
+  {
+    "id": "OpenAI News_09213a2c3102785b",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480283"
+  },
+  {
+    "id": "TechCrunch AI_a66188012c13cd00",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "content": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "source": "TechCrunch AI",
+    "author": "Connie Loizos",
+    "published_date": "Mon, 16 Nov 2026 17:10:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092169"
+  },
+  {
+    "id": "Wired AI_93d8efa5443c9313",
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "content": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "source": "Wired AI",
+    "author": "Andrew Couts",
+    "published_date": "Fri, 13 Nov 2026 19:08:57 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129823"
+  },
+  {
+    "id": "Google AI Blog_2ab63363e650aef8",
+    "title": "The latest AI news we announced in October 2026",
+    "summary": "Animated carousel of images from AI posts in October",
+    "content": "Animated carousel of images from AI posts in October",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "source": "Google AI Blog",
+    "author": "Blog Team",
+    "published_date": "Mon, 02 Nov 2026 17:45:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:24.319212"
+  },
+  {
+    "id": "MIT Technology Review_5687a0e4cd8b87ae",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were...",
+    "content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were...",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Thu, 12 Nov 2026 20:16:24 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.151167"
+  },
+  {
+    "id": "OpenAI News_878e70436f20a1ca",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "content": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480671"
+  },
+  {
+    "id": "arXiv AI_e9770470b9f83ae9",
+    "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+    "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters.",
+    "content": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters.",
+    "url": "https://arxiv.org/abs/2611.17340",
+    "source": "arXiv AI",
+    "author": "Inish Melroy D Souza, Tom Jackson, Vitor Castro, Rebecca Higginson, Andrea Soltoggio",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466257"
+  },
+  {
+    "id": "arXiv AI_6aa16906487efd2a",
+    "title": "An Operationalization of Opaque Serial Depth",
+    "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability.",
+    "content": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability.",
+    "url": "https://arxiv.org/abs/2611.17495",
+    "source": "arXiv AI",
+    "author": "Nathan Sheffield, Alek Westover, Lukas Finnveden, Alexa Pan, Julian Stastny, Ryan Greenblatt",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466494"
+  },
+  {
+    "id": "arXiv AI_f13d6ff28a4b7a67",
+    "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+    "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts.",
+    "content": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts.",
+    "url": "https://arxiv.org/abs/2611.17515",
+    "source": "arXiv AI",
+    "author": "Harrison C. Margolin",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466725"
+  },
+  {
+    "id": "arXiv AI_35e34cfe7ffd2c59",
+    "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+    "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence.",
+    "content": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence.",
+    "url": "https://arxiv.org/abs/2611.17524",
+    "source": "arXiv AI",
+    "author": "Ali Mohammadi Ruzbahani, Rezvan Abouzadeh",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466837"
+  },
+  {
+    "id": "arXiv ML_3bd5fd8596cbff4b",
+    "title": "Alignment with Reflect-Reasoning: Learning How To Follow Principles",
+    "summary": "arXiv:2611.17398v1 Announce Type: new Abstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application.",
+    "content": "arXiv:2611.17398v1 Announce Type: new Abstract: The appropriate governing norms and principles for the alignment of Large Language Models (LLMs) often depend on cultural context and deployment application.",
+    "url": "https://arxiv.org/abs/2611.17398",
+    "source": "arXiv ML",
+    "author": "Henry Bell, Caroline Zhang, Dhaval Potdar, Mohammed Mobasserul Haque, Brandon Fain",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141095"
+  },
+  {
+    "id": "arXiv ML_128a7e70c10f5c31",
+    "title": "Classification with Large-Step Gradient Descent: Unifying Self-Stabilization and Convergence Rates",
+    "summary": "arXiv:2611.17459v1 Announce Type: new Abstract: Neural networks are often trained with gradient descent (GD) using step sizes that exceed classical stability thresholds, a regime where standard convergence theory no longer applies.",
+    "content": "arXiv:2611.17459v1 Announce Type: new Abstract: Neural networks are often trained with gradient descent (GD) using step sizes that exceed classical stability thresholds, a regime where standard convergence theory no longer applies.",
+    "url": "https://arxiv.org/abs/2611.17459",
+    "source": "arXiv ML",
+    "author": "Salma Tarmoun, Lachlan Ewen MacDonald, Konstantinos Emmanouilidis, Ziqing Xu, Ren\\'e Vidal",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141352"
+  },
+  {
+    "id": "arXiv ML_82b6ac0621db012e",
+    "title": "ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures",
+    "summary": "arXiv:2611.17478v1 Announce Type: new Abstract: Processing-in-memory (PIM) has been proposed as an alternative computing paradigm for training Deep Neural Networks, including Graph Neural Networks (GNNs).",
+    "content": "arXiv:2611.17478v1 Announce Type: new Abstract: Processing-in-memory (PIM) has been proposed as an alternative computing paradigm for training Deep Neural Networks, including Graph Neural Networks (GNNs).",
+    "url": "https://arxiv.org/abs/2611.17478",
+    "source": "arXiv ML",
+    "author": "Pratyush Dhingra, Chibuike E. Ugwu, Janardhan Rao Doppa, Partha Pratim Pande",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141996"
+  },
+  {
+    "id": "Reddit ML_e8bd73a889c10c4c",
+    "title": "Serious spaces? [D]",
+    "summary": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share...",
+    "content": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+    "source": "Reddit ML",
+    "author": "/u/Substantial-Buyer365",
+    "published_date": "2026-11-16T17:23:56+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "machine learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820062"
+  },
+  {
+    "id": "Hugging Face Blog_c3325b71dbdcb6a0",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "importance_score": 5.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:30.268188"
+  },
+  {
+    "id": "Google AI Blog_f4e2653886904597",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "content": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "source": "Google AI Blog",
+    "author": "Roman Nurik",
+    "published_date": "Wed, 11 Nov 2026 16:00:00 +0000",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:24.318988"
+  },
+  {
+    "id": "arXiv AI_adad48db860eb9c2",
+    "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+    "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts.",
+    "content": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts.",
+    "url": "https://arxiv.org/abs/2611.17338",
+    "source": "arXiv AI",
+    "author": "Samarth Vinayaka",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-17T01:17:33.466021"
+  },
+  {
+    "id": "arXiv AI_be17e6062e681e2b",
+    "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+    "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels.",
+    "content": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels.",
+    "url": "https://arxiv.org/abs/2611.17339",
+    "source": "arXiv AI",
+    "author": "Shubhra Mittal, Gaurav Naresh Mittal",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466159"
+  },
+  {
+    "id": "arXiv AI_baa950d74e7016e4",
+    "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+    "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer...",
+    "content": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer...",
+    "url": "https://arxiv.org/abs/2611.17341",
+    "source": "arXiv AI",
+    "author": "Animesh Agarwal, Meysam Ghaffari, Nina Fatehi, Carlos Morato",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-17T01:17:33.466359"
+  },
+  {
+    "id": "arXiv AI_c18b601bcf0496cc",
+    "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+    "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (RR) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss.",
+    "content": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (RR) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss.",
+    "url": "https://arxiv.org/abs/2611.17501",
+    "source": "arXiv AI",
+    "author": "Yavuz Yetim, Bor-Yiing Su, Zhe Wang, Arthur Liu, Pranav Sharma, Ying Wang, Randy Shuai, Luke Pfister, Ruichao Xiao, Bill Zhao, Zihao Liu, Liyuan Li, Jiangyuan Li, Gaoxiang Liu, Nathan Yan, Geonhwa Jeong, Jatin Chhugani, Elias Ellison, Uladzimir Pashkevich",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:33.466611"
+  },
+  {
+    "id": "arXiv ML_15e0c8e615f86614",
+    "title": "WETW: Learning Pair-Specific Weighted Euclidean Distances for Efficient DTW Search",
+    "summary": "arXiv:2611.17412v1 Announce Type: new Abstract: Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of...",
+    "content": "arXiv:2611.17412v1 Announce Type: new Abstract: Dynamic Time Warping (DTW) is the standard distance for similarity search over time series that are misaligned in time, but its cost is quadratic in the series length and lower bounds often prune few candidates, so search over large collections of...",
+    "url": "https://arxiv.org/abs/2611.17412",
+    "source": "arXiv ML",
+    "author": "Christos Panourgias, Qitong Wang, George Tzagkarakis, Themis Palpanas",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141233"
+  },
+  {
+    "id": "arXiv ML_23ddcddc76daaad4",
+    "title": "Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments",
+    "summary": "arXiv:2611.17460v1 Announce Type: new Abstract: AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority.",
+    "content": "arXiv:2611.17460v1 Announce Type: new Abstract: AI agents are increasingly equipped with persistence toward task completion to run delegated work autonomously for long periods, under many unstated constraints from internal documents and other people's authority.",
+    "url": "https://arxiv.org/abs/2611.17460",
+    "source": "arXiv ML",
+    "author": "Seunghyun Lee, Jaehui Hwang, Dongyoon Han, Sangdoo Yun",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141454"
+  },
+  {
+    "id": "arXiv ML_d1586a27e323a9d9",
+    "title": "Availability-Aware Historical Feedback Learning for Electric Arc Furnace Temperature and Chemical Composition Prediction",
+    "summary": "arXiv:2611.17463v1 Announce Type: new Abstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel...",
+    "content": "arXiv:2611.17463v1 Announce Type: new Abstract: Electric arc furnace (EAF) steelmaking plays an increasingly important role in recycled and lower-carbon steel production. However, variability in charged materials, energy input, and operating conditions makes accurate prediction of molten steel...",
+    "url": "https://arxiv.org/abs/2611.17463",
+    "source": "arXiv ML",
+    "author": "Ahmed Shoyeb Raihan, Farzana Islam, Ashish Nimbarte, Imtiaz Ahmed",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141692"
+  },
+  {
+    "id": "arXiv ML_2e52954af751324d",
+    "title": "Improved Regret via Variance-Aware Policy Optimization in Adversarial MDPs",
+    "summary": "arXiv:2611.17469v1 Announce Type: new Abstract: We study episodic adversarial MDPs with unknown dynamics and full-information rewards and achieve regret with leading term $\\widetilde O(\\sqrt{H^3SAK})$.",
+    "content": "arXiv:2611.17469v1 Announce Type: new Abstract: We study episodic adversarial MDPs with unknown dynamics and full-information rewards and achieve regret with leading term $\\widetilde O(\\sqrt{H^3SAK})$.",
+    "url": "https://arxiv.org/abs/2611.17469",
+    "source": "arXiv ML",
+    "author": "Ofir Schlisselberg, Alon Cohen, Yishay Mansour",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141796"
+  },
+  {
+    "id": "Reddit ML_ecd6af83995106e1",
+    "title": "AISTATS 2027 paper discussion [D]",
+    "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
+    "content": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+    "source": "Reddit ML",
+    "author": "/u/LongjumpingAd4741",
+    "published_date": "2026-11-16T14:09:31+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.819878"
+  },
+  {
+    "id": "Reddit ML_4f97c9a15862508d",
+    "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
+    "summary": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
+    "content": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
+    "source": "Reddit ML",
+    "author": "/u/GGAllin43",
+    "published_date": "2026-11-16T09:19:43+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820652"
+  },
+  {
+    "id": "Wired AI_8f97e0935c8c343f",
+    "title": "AI DJs Completely Kill My Groove",
+    "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "content": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Sun, 15 Nov 2026 12:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129497"
+  },
+  {
+    "id": "Wired AI_92abecc00d148e26",
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "content": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "source": "Wired AI",
+    "author": "Julian Chokkattu",
+    "published_date": "Sun, 15 Nov 2026 11:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129590"
+  },
+  {
+    "id": "arXiv ML_c50367d0cbef6675",
+    "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
+    "summary": "arXiv:2611.17462v1 Announce Type: new Abstract: Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once.",
+    "content": "arXiv:2611.17462v1 Announce Type: new Abstract: Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once.",
+    "url": "https://arxiv.org/abs/2611.17462",
+    "source": "arXiv ML",
+    "author": "Daniel T. Levy, Vineet Jain, Tara Akhound-Sadegh, S\\'ekou-Oumar Kaba, Siamak Ravanbakhsh",
+    "published_date": "Mon, 16 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:34.141572"
+  },
+  {
+    "id": "Reddit ML_96cef3fad739194f",
+    "title": "Marimba: A System One Model for Speech. [R]",
+    "summary": "Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a calibrated probability back. One frozen Qwen3-ASR-0.6B encoder pass per 8 s window serves all questions.",
+    "content": "Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a calibrated probability back. One frozen Qwen3-ASR-0.6B encoder pass per 8 s window serves all questions.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
+    "source": "Reddit ML",
+    "author": "/u/solanotodesch",
+    "published_date": "2026-11-16T15:47:18+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820381"
+  },
+  {
+    "id": "Reddit ML_371b85c7cd94c6e4",
+    "title": "ICLR 2027 Reviews Discussion [D]",
+    "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "content": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+    "source": "Reddit ML",
+    "author": "/u/Beautiful_Baker_2233",
+    "published_date": "2026-11-05T02:17:59+00:00",
+    "importance_score": 5.0,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.819964"
+  },
+  {
+    "id": "Wired AI_abdbf83034368f35",
+    "title": "Beware the New AI-Fueled Ransomware Boom",
+    "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+    "content": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "source": "Wired AI",
+    "author": "Matt Burgess, Lily Hay Newman",
+    "published_date": "Sat, 14 Nov 2026 13:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129659"
+  },
+  {
+    "id": "Wired AI_7bf17744501a6744",
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+    "content": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "source": "Wired AI",
+    "author": "Jeff Wise",
+    "published_date": "Sat, 14 Nov 2026 11:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129743"
+  },
+  {
+    "id": "Wired AI_d3d0ab4148da03a2",
+    "title": "Jensen Huang and the End of the Founder Fairy Tale",
+    "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "content": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "source": "Wired AI",
+    "author": "Lauren Goode",
+    "published_date": "Fri, 13 Nov 2026 16:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129885"
+  },
+  {
+    "id": "Wired AI_18bec461141f6883",
+    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+    "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+    "content": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+    "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+    "source": "Wired AI",
+    "author": "Jason Parham",
+    "published_date": "Fri, 13 Nov 2026 11:45:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:22.129960"
+  },
+  {
+    "id": "Google AI Blog_e271ede0c5574811",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "content": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "source": "Google AI Blog",
+    "author": "Dr Nontobeko Ntombela",
+    "published_date": "Wed, 11 Nov 2026 09:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:24.319059"
+  },
+  {
+    "id": "MIT Technology Review_f4a34a01bcc42926",
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.",
+    "content": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.",
+    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "source": "MIT Technology Review",
+    "author": "Jessica Hamzelou",
+    "published_date": "Fri, 13 Nov 2026 10:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.151001"
+  },
+  {
+    "id": "MIT Technology Review_1d2dcbeee93bfb75",
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN...",
+    "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 12 Nov 2026 13:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.151252"
+  },
+  {
+    "id": "MIT Technology Review_aebaaae917fb3506",
+    "title": "What to know about this year’s UN climate talks",
+    "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate...",
+    "content": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate...",
+    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "source": "MIT Technology Review",
+    "author": "Casey Crownhart",
+    "published_date": "Wed, 11 Nov 2026 17:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.151336"
+  },
+  {
+    "id": "DeepMind Blog_02fdce356a7cb8c2",
+    "title": "Opening the datasets behind our AI weather models",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "content": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "source": "DeepMind Blog",
+    "author": "",
+    "published_date": "Tue, 10 Nov 2026 11:13:04 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:26.421826"
+  },
+  {
+    "id": "Ars Technica_dc70d08c9bd1e96e",
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "content": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 13 Nov 2026 16:26:32 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:23.110829"
+  },
+  {
+    "id": "Ars Technica_6bb3ba4188633553",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "content": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 06 Nov 2026 20:56:41 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:23.110894"
+  },
+  {
+    "id": "Ars Technica_c5848c9835ad0380",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "content": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Thu, 05 Nov 2026 23:09:36 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:23.110943"
+  },
+  {
+    "id": "Ars Technica_f226ca8b775b9dea",
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "content": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Wed, 04 Nov 2026 22:26:49 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:23.110990"
+  },
+  {
+    "id": "Hugging Face Blog_6b2b4f04681eade8",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:30.268267"
+  },
+  {
+    "id": "Reddit ML_2e268128291b4990",
+    "title": "I don't think double-blind review systems work [D]",
+    "summary": "Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers’ papers in an attempt to increase the chances of their own papers...",
+    "content": "Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers’ papers in an attempt to increase the chances of their own papers...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+    "source": "Reddit ML",
+    "author": "/u/Temporary_Switch_339",
+    "published_date": "2026-11-15T13:00:15+00:00",
+    "importance_score": 4.8,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820519"
+  },
+  {
+    "id": "Lobsters AI_185b324e88e1a642",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://arxiv.org/abs/2605.29713",
+    "source": "Lobsters AI",
+    "author": "arxiv.org via GrayGnome",
+    "published_date": "Fri, 13 Nov 2026 22:51:14 -0600",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:39.516826"
+  }
+]

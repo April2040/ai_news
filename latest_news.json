@@ -1,14 +1,32 @@
 [
   {
-    "id": "OpenAI News_45d6eb7066757f1d",
-    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-    "content": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-    "url": "https://openai.com/index/lvmh-media-division-partnership",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 16 Nov 2026 09:00:00 GMT",
-    "importance_score": 9.399999999999999,
+    "id": "The Verge AI_23e848b9d39fe853",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper...",
+    "content": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T15:46:01-05:00",
+    "importance_score": 9.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.116939"
+  },
+  {
+    "id": "TechCrunch AI_7e31bbe1a386cafc",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "content": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 +0000",
+    "importance_score": 9.0,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -17,7 +35,100 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145114"
+    "created_at": "2026-11-17T01:17:20.092312"
+  },
+  {
+    "id": "OpenAI News_45d6eb7066757f1d",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "content": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "importance_score": 8.899999999999999,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480413"
+  },
+  {
+    "id": "TechCrunch AI_dd38ecde84788cd0",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "content": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 16 Nov 2026 18:11:10 +0000",
+    "importance_score": 8.6,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092030"
+  },
+  {
+    "id": "OpenAI News_bd45dda55ac82901",
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "content": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "importance_score": 8.5,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480481"
+  },
+  {
+    "id": "TechCrunch AI_51459c7c4fe7026e",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "content": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 16 Nov 2026 17:02:43 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092232"
+  },
+  {
+    "id": "MIT Technology Review_c3acd2fe963691ba",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
+    "content": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Technology Review",
+    "author": "Sudhi Sinha",
+    "published_date": "Mon, 16 Nov 2026 16:04:28 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150683"
   },
   {
     "id": "OpenAI News_8f893c4fc31912ec",
@@ -28,14 +139,67 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Mon, 16 Nov 2026 00:00:00 GMT",
-    "importance_score": 8.7,
+    "importance_score": 8.200000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145175"
+    "created_at": "2026-11-17T01:17:27.480612"
+  },
+  {
+    "id": "The Verge AI_3798715516e9af8d",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-16T15:41:28-05:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117024"
+  },
+  {
+    "id": "The Verge AI_f03a8dca4eddee7a",
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
+    "content": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-16T14:23:45-05:00",
+    "importance_score": 8.100000000000001,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:21.117229"
+  },
+  {
+    "id": "TechCrunch AI_caa86e6f9f868c2d",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "content": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Mon, 16 Nov 2026 23:32:32 +0000",
+    "importance_score": 7.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.091772"
   },
   {
     "id": "The Verge AI_0f2b95e319b7c79d",
@@ -46,76 +210,79 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-11-16T09:00:00-05:00",
-    "importance_score": 8.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466496"
-  },
-  {
-    "id": "TechCrunch AI_af3d4ad5ebb4a3c9",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 14 Nov 2026 17:30:00 +0000",
     "importance_score": 7.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496752"
+    "created_at": "2026-11-17T01:17:21.117380"
   },
   {
-    "id": "TechCrunch AI_6d19c67cec880992",
-    "title": "Apple launches new app to study how people use AI for health",
-    "summary": "Apple's new app for a study will answer everyday medical questions",
-    "content": "Apple's new app for a study will answer everyday medical questions",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Mon, 16 Nov 2026 01:30:00 +0000",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496586"
-  },
-  {
-    "id": "OpenAI News_f9c3ec2d91f5844e",
-    "title": "Our new blog for science",
-    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "content": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "url": "https://openai.com/index/our-new-blog-for-science",
+    "id": "OpenAI News_b78d365108f9203f",
+    "title": "Broadening access to AI for scientists",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "content": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
     "source": "OpenAI News",
     "author": "",
-    "published_date": "Sun, 15 Nov 2026 22:00:00 GMT",
-    "importance_score": 7.7,
+    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "importance_score": 7.8999999999999995,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "GPT",
+      "ChatGPT",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145284"
+    "created_at": "2026-11-17T01:17:27.480205"
   },
   {
-    "id": "The Verge AI_6bed04febd92c13c",
-    "title": "The Nvidia scandal isn’t slowing down",
-    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.",
-    "content": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "id": "OpenAI News_76c87a8b4ddedaa0",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "content": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "importance_score": 7.8999999999999995,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480343"
+  },
+  {
+    "id": "OpenAI News_41632ab35767cafb",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480547"
+  },
+  {
+    "id": "The Verge AI_1f4dc374cecb93e6",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "content": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
     "source": "The Verge AI",
-    "author": "Hayden Field",
-    "published_date": "2026-11-16T08:00:00-05:00",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T18:17:34-05:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
@@ -123,43 +290,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466556"
+    "created_at": "2026-11-17T01:17:21.116854"
   },
   {
-    "id": "Wired AI_d4d57b6fc2bb22e2",
-    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "content": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Mon, 16 Nov 2026 11:00:00 +0000",
-    "importance_score": 7.4,
+    "id": "The Verge AI_03a573e5cdf57956",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+    "content": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "source": "The Verge AI",
+    "author": "Andrew Liszewski",
+    "published_date": "2026-11-16T14:24:40-05:00",
+    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458076"
-  },
-  {
-    "id": "OpenAI News_564cb6dc11d3cce7",
-    "title": "Supporting research on AI and children’s safety",
-    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "content": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "url": "https://openai.com/index/children-first-declaration",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 12 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145518"
+    "created_at": "2026-11-17T01:17:21.117169"
   },
   {
     "id": "MIT Technology Review_abe39e9df1522e5b",
@@ -177,7 +325,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497196"
+    "created_at": "2026-11-17T01:17:25.151086"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -195,34 +343,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:20.648773"
+    "created_at": "2026-11-17T01:17:26.421894"
   },
   {
-    "id": "TechCrunch AI_e13961fa52bf86bb",
-    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-    "content": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Mon, 16 Nov 2026 12:30:00 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496530"
-  },
-  {
-    "id": "TechCrunch AI_5d1d3ca0f6aa15d3",
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "content": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 15 Nov 2026 21:56:35 +0000",
+    "id": "Wired AI_ae6f41db9c837108",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "content": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "source": "Wired AI",
+    "author": "Katie Drummond",
+    "published_date": "Mon, 16 Nov 2026 16:12:51 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -230,17 +361,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496675"
+    "created_at": "2026-11-17T01:17:22.129309"
   },
   {
-    "id": "The Verge AI_c1479108ecdeb4ab",
-    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
-    "content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-15T14:15:43-05:00",
+    "id": "Wired AI_d4d57b6fc2bb22e2",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "content": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Mon, 16 Nov 2026 11:00:00 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -248,54 +379,52 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466675"
+    "created_at": "2026-11-17T01:17:22.129409"
   },
   {
-    "id": "The Verge AI_1dd45bf100f34a68",
-    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
-    "content": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-11-14T10:00:00-05:00",
+    "id": "MIT Technology Review_ad1fc9a629025ce6",
+    "title": "The open-source movement wants Jensen Huang back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 16 Nov 2026 18:38:47 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466743"
+    "created_at": "2026-11-17T01:17:25.150581"
   },
   {
-    "id": "OpenAI News_e934d35051c1535b",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "content": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "url": "https://openai.com/business/customer-stories/gondola",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 12 Nov 2026 12:00:00 GMT",
-    "importance_score": 6.8999999999999995,
+    "id": "Lobsters AI_03595dcf8c6c6522",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "summary": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
+    "content": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
+    "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "source": "Lobsters AI",
+    "author": "by twp",
+    "published_date": "Mon, 16 Nov 2026 16:25:45 -0600",
+    "importance_score": 6.8,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145466"
+    "sentiment": "negative",
+    "created_at": "2026-11-17T01:17:39.516764"
   },
   {
-    "id": "TechCrunch AI_83b091d9b45508d2",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "content": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "id": "TechCrunch AI_1bf1c15be31a212a",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "content": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
     "source": "TechCrunch AI",
-    "author": "Marina Temkin, Dominic-Madori Davis",
-    "published_date": "Fri, 13 Nov 2026 22:43:00 +0000",
+    "author": "Amanda Silberling",
+    "published_date": "Mon, 16 Nov 2026 19:12:02 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
@@ -303,24 +432,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496830"
-  },
-  {
-    "id": "The Verge AI_27bcbed71fbbebc7",
-    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by...",
-    "content": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by...",
-    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-11-15T20:26:56-05:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466619"
+    "created_at": "2026-11-17T01:17:20.091953"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -337,149 +449,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:18.628453"
+    "created_at": "2026-11-17T01:17:24.319152"
   },
   {
-    "id": "OpenAI News_707bcf83f03177b4",
-    "title": "Introducing ChatGPT Wallet",
-    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "content": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "url": "https://openai.com/index/introducing-chatgpt-wallet",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 13 Nov 2026 15:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145326"
-  },
-  {
-    "id": "OpenAI News_96f36e554ee7c5d0",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "content": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "url": "https://openai.com/business/customer-stories/shield",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 13 Nov 2026 08:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145368"
-  },
-  {
-    "id": "OpenAI News_6381e1ca31be8130",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "content": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "url": "https://openai.com/business/customer-stories/amplitude",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 12 Nov 2026 20:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145420"
-  },
-  {
-    "id": "Reddit ML_b615a0c95bf31ea4",
-    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-    "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
-    "content": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-    "source": "Reddit ML",
-    "author": "/u/trungh98",
-    "published_date": "2026-11-15T17:38:16+00:00",
+    "id": "TechCrunch AI_6da85e6ef3e19160",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "content": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "source": "TechCrunch AI",
+    "author": "Zack Whittaker",
+    "published_date": "Mon, 16 Nov 2026 17:36:43 +0000",
     "importance_score": 6.5,
     "category": "tech",
     "keywords": [
-      "AI",
-      "ML",
-      "LLM"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.235934"
+    "created_at": "2026-11-17T01:17:20.092100"
   },
   {
-    "id": "The Verge AI_658f261fe89e4ed8",
-    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
-    "content": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
-    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "id": "The Verge AI_8680653c756acdf2",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
+    "content": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
     "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-16T09:00:00-05:00",
+    "author": "Justine Calma",
+    "published_date": "2026-11-16T15:27:58-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466418"
+    "created_at": "2026-11-17T01:17:21.117104"
   },
   {
-    "id": "MIT Technology Review_d6b415b3dbdb873f",
-    "title": "The Download: testing tech promises and searching for cognitive immortality",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
-    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 16 Nov 2026 13:10:00 +0000",
-    "importance_score": 6.4,
+    "id": "Ars Technica_042f0a1718239c2b",
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "content": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "source": "Ars Technica",
+    "author": "Scharon Harding",
+    "published_date": "Mon, 16 Nov 2026 20:37:47 +0000",
+    "importance_score": 6.1000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.496990"
-  },
-  {
-    "id": "TechCrunch AI_e821ea45843bfa50",
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "content": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source": "TechCrunch AI",
-    "author": "Jagmeet Singh",
-    "published_date": "Sun, 15 Nov 2026 23:30:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:14.496636"
-  },
-  {
-    "id": "OpenAI News_878e70436f20a1ca",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "content": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Sun, 15 Nov 2026 22:00:01 GMT",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:22.145221"
+    "created_at": "2026-11-17T01:17:23.110765"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -496,78 +517,94 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:20.648660"
+    "created_at": "2026-11-17T01:17:26.421749"
   },
   {
-    "id": "Reddit ML_ecd6af83995106e1",
-    "title": "AISTATS 2027 paper discussion [D]",
-    "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
-    "content": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+    "id": "Reddit ML_b615a0c95bf31ea4",
+    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+    "summary": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "content": "X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blog and FAQ: https://unbundling.github.io Labs disagree on vision encoders right now.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
     "source": "Reddit ML",
-    "author": "/u/LongjumpingAd4741",
-    "published_date": "2026-11-16T14:09:31+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.235792"
-  },
-  {
-    "id": "Reddit ML_4f97c9a15862508d",
-    "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
-    "summary": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
-    "content": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
-    "source": "Reddit ML",
-    "author": "/u/GGAllin43",
-    "published_date": "2026-11-16T09:19:43+00:00",
+    "author": "/u/trungh98",
+    "published_date": "2026-11-15T17:38:16+00:00",
     "importance_score": 6.0,
     "category": "tech",
     "keywords": [
       "AI",
-      "transformer"
+      "ML",
+      "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.236119"
+    "created_at": "2026-11-17T01:17:38.820264"
   },
   {
-    "id": "The Verge AI_91fd2c4e6dcc86c0",
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black...",
-    "content": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black...",
-    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "id": "TechCrunch AI_810205ce8199cf17",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "content": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 16 Nov 2026 15:52:19 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092372"
+  },
+  {
+    "id": "The Verge AI_658f261fe89e4ed8",
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
+    "content": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
+    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
     "source": "The Verge AI",
-    "author": "Sean Hollister",
-    "published_date": "2026-11-14T07:00:00-05:00",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-16T09:00:00-05:00",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466790"
+    "created_at": "2026-11-17T01:17:21.117321"
   },
   {
-    "id": "Wired AI_6444bed576ccec7c",
-    "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-    "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-    "content": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-    "source": "Wired AI",
-    "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-    "published_date": "Thu, 12 Nov 2026 22:14:41 +0000",
+    "id": "MIT Technology Review_d6b415b3dbdb873f",
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 16 Nov 2026 13:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458523"
+    "created_at": "2026-11-17T01:17:25.150765"
+  },
+  {
+    "id": "MIT Technology Review_1bae7054f9079431",
+    "title": "Building AI that can work across the enterprise",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+    "content": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review Insights",
+    "published_date": "Mon, 16 Nov 2026 13:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:25.150830"
   },
   {
     "id": "MIT Technology Review_d0f1400e6591c233",
@@ -585,7 +622,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497068"
+    "created_at": "2026-11-17T01:17:25.150921"
   },
   {
     "id": "arXiv AI_42f77b105aa59851",
@@ -603,7 +640,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675838"
+    "created_at": "2026-11-17T01:17:33.466938"
   },
   {
     "id": "arXiv AI_ae9c5c2108588bb6",
@@ -621,7 +658,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675914"
+    "created_at": "2026-11-17T01:17:33.467039"
   },
   {
     "id": "arXiv ML_ef976335e37e19f2",
@@ -639,7 +676,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544422"
+    "created_at": "2026-11-17T01:17:34.141887"
+  },
+  {
+    "id": "OpenAI News_09213a2c3102785b",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "importance_score": 5.8,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480283"
+  },
+  {
+    "id": "TechCrunch AI_a66188012c13cd00",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "content": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "source": "TechCrunch AI",
+    "author": "Connie Loizos",
+    "published_date": "Mon, 16 Nov 2026 17:10:00 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:20.092169"
   },
   {
     "id": "Wired AI_93d8efa5443c9313",
@@ -656,7 +727,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458366"
+    "created_at": "2026-11-17T01:17:22.129823"
   },
   {
     "id": "Google AI Blog_2ab63363e650aef8",
@@ -673,7 +744,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:18.628498"
+    "created_at": "2026-11-17T01:17:24.319212"
   },
   {
     "id": "MIT Technology Review_5687a0e4cd8b87ae",
@@ -691,7 +762,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497268"
+    "created_at": "2026-11-17T01:17:25.151167"
+  },
+  {
+    "id": "OpenAI News_878e70436f20a1ca",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "content": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:27.480671"
   },
   {
     "id": "arXiv AI_e9770470b9f83ae9",
@@ -708,7 +797,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675354"
+    "created_at": "2026-11-17T01:17:33.466257"
   },
   {
     "id": "arXiv AI_6aa16906487efd2a",
@@ -725,7 +814,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675512"
+    "created_at": "2026-11-17T01:17:33.466494"
   },
   {
     "id": "arXiv AI_f13d6ff28a4b7a67",
@@ -743,7 +832,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675679"
+    "created_at": "2026-11-17T01:17:33.466725"
   },
   {
     "id": "arXiv AI_35e34cfe7ffd2c59",
@@ -760,7 +849,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675764"
+    "created_at": "2026-11-17T01:17:33.466837"
   },
   {
     "id": "arXiv ML_3bd5fd8596cbff4b",
@@ -777,7 +866,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.543831"
+    "created_at": "2026-11-17T01:17:34.141095"
   },
   {
     "id": "arXiv ML_128a7e70c10f5c31",
@@ -795,7 +884,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544022"
+    "created_at": "2026-11-17T01:17:34.141352"
   },
   {
     "id": "arXiv ML_82b6ac0621db012e",
@@ -813,7 +902,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544503"
+    "created_at": "2026-11-17T01:17:34.141996"
+  },
+  {
+    "id": "Reddit ML_e8bd73a889c10c4c",
+    "title": "Serious spaces? [D]",
+    "summary": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share...",
+    "content": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share...",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/",
+    "source": "Reddit ML",
+    "author": "/u/Substantial-Buyer365",
+    "published_date": "2026-11-16T17:23:56+00:00",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "machine learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820062"
   },
   {
     "id": "Hugging Face Blog_c3325b71dbdcb6a0",
@@ -830,24 +937,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:24.679362"
-  },
-  {
-    "id": "The Verge AI_170678fc552699e6",
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-    "content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-13T18:49:11-05:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:15.466840"
+    "created_at": "2026-11-17T01:17:30.268188"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -864,7 +954,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:18.628338"
+    "created_at": "2026-11-17T01:17:24.318988"
   },
   {
     "id": "arXiv AI_adad48db860eb9c2",
@@ -881,7 +971,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-16T14:17:27.675173"
+    "created_at": "2026-11-17T01:17:33.466021"
   },
   {
     "id": "arXiv AI_be17e6062e681e2b",
@@ -898,7 +988,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675283"
+    "created_at": "2026-11-17T01:17:33.466159"
   },
   {
     "id": "arXiv AI_baa950d74e7016e4",
@@ -915,7 +1005,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-16T14:17:27.675431"
+    "created_at": "2026-11-17T01:17:33.466359"
   },
   {
     "id": "arXiv AI_c18b601bcf0496cc",
@@ -930,7 +1020,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:27.675594"
+    "created_at": "2026-11-17T01:17:33.466611"
   },
   {
     "id": "arXiv ML_15e0c8e615f86614",
@@ -947,7 +1037,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.543934"
+    "created_at": "2026-11-17T01:17:34.141233"
   },
   {
     "id": "arXiv ML_23ddcddc76daaad4",
@@ -964,7 +1054,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544096"
+    "created_at": "2026-11-17T01:17:34.141454"
   },
   {
     "id": "arXiv ML_d1586a27e323a9d9",
@@ -981,7 +1071,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544271"
+    "created_at": "2026-11-17T01:17:34.141692"
   },
   {
     "id": "arXiv ML_2e52954af751324d",
@@ -996,25 +1086,42 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544352"
+    "created_at": "2026-11-17T01:17:34.141796"
   },
   {
-    "id": "Reddit ML_6ff252b6b943398d",
-    "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
-    "summary": "Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has...",
-    "content": "Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+    "id": "Reddit ML_ecd6af83995106e1",
+    "title": "AISTATS 2027 paper discussion [D]",
+    "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
+    "content": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
     "source": "Reddit ML",
-    "author": "/u/Datu1423",
-    "published_date": "2026-11-15T23:25:39+00:00",
+    "author": "/u/LongjumpingAd4741",
+    "published_date": "2026-11-16T14:09:31+00:00",
     "importance_score": 5.5,
     "category": "tech",
     "keywords": [
-      "machine learning",
-      "ML"
+      "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.236240"
+    "created_at": "2026-11-17T01:17:38.819878"
+  },
+  {
+    "id": "Reddit ML_4f97c9a15862508d",
+    "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
+    "summary": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
+    "content": "I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and takes a solo when you stop. Demo (Autumn Leaves, 160 bpm): https://youtu.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
+    "source": "Reddit ML",
+    "author": "/u/GGAllin43",
+    "published_date": "2026-11-16T09:19:43+00:00",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "transformer"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820652"
   },
   {
     "id": "Wired AI_8f97e0935c8c343f",
@@ -1031,7 +1138,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458124"
+    "created_at": "2026-11-17T01:17:22.129497"
   },
   {
     "id": "Wired AI_92abecc00d148e26",
@@ -1048,7 +1155,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458195"
+    "created_at": "2026-11-17T01:17:22.129590"
   },
   {
     "id": "arXiv ML_c50367d0cbef6675",
@@ -1063,7 +1170,22 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:28.544172"
+    "created_at": "2026-11-17T01:17:34.141572"
+  },
+  {
+    "id": "Reddit ML_96cef3fad739194f",
+    "title": "Marimba: A System One Model for Speech. [R]",
+    "summary": "Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a calibrated probability back. One frozen Qwen3-ASR-0.6B encoder pass per 8 s window serves all questions.",
+    "content": "Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a calibrated probability back. One frozen Qwen3-ASR-0.6B encoder pass per 8 s window serves all questions.",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
+    "source": "Reddit ML",
+    "author": "/u/solanotodesch",
+    "published_date": "2026-11-16T15:47:18+00:00",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-17T01:17:38.820381"
   },
   {
     "id": "Reddit ML_371b85c7cd94c6e4",
@@ -1078,7 +1200,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.235681"
+    "created_at": "2026-11-17T01:17:38.819964"
   },
   {
     "id": "Wired AI_abdbf83034368f35",
@@ -1095,7 +1217,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458246"
+    "created_at": "2026-11-17T01:17:22.129659"
   },
   {
     "id": "Wired AI_7bf17744501a6744",
@@ -1112,7 +1234,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458314"
+    "created_at": "2026-11-17T01:17:22.129743"
   },
   {
     "id": "Wired AI_d3d0ab4148da03a2",
@@ -1129,7 +1251,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458409"
+    "created_at": "2026-11-17T01:17:22.129885"
   },
   {
     "id": "Wired AI_18bec461141f6883",
@@ -1146,7 +1268,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:16.458456"
+    "created_at": "2026-11-17T01:17:22.129960"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -1163,7 +1285,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:18.628389"
+    "created_at": "2026-11-17T01:17:24.319059"
   },
   {
     "id": "MIT Technology Review_f4a34a01bcc42926",
@@ -1180,7 +1302,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497130"
+    "created_at": "2026-11-17T01:17:25.151001"
   },
   {
     "id": "MIT Technology Review_1d2dcbeee93bfb75",
@@ -1197,7 +1319,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497336"
+    "created_at": "2026-11-17T01:17:25.151252"
   },
   {
     "id": "MIT Technology Review_aebaaae917fb3506",
@@ -1214,41 +1336,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497396"
-  },
-  {
-    "id": "MIT Technology Review_bee41f4a14dc9bfb",
-    "title": "The Download: preserving minds and weighing open AI risks",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you...",
-    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Wed, 11 Nov 2026 13:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:19.497454"
-  },
-  {
-    "id": "MIT Technology Review_a6c1a6ede81ce3d9",
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of...",
-    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 10 Nov 2026 13:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-11-16T14:17:19.497516"
+    "created_at": "2026-11-17T01:17:25.151336"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1265,7 +1353,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:20.648714"
+    "created_at": "2026-11-17T01:17:26.421826"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1282,7 +1370,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:17.479544"
+    "created_at": "2026-11-17T01:17:23.110829"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1299,7 +1387,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:17.479602"
+    "created_at": "2026-11-17T01:17:23.110894"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1316,7 +1404,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:17.479641"
+    "created_at": "2026-11-17T01:17:23.110943"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1333,7 +1421,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:17.479677"
+    "created_at": "2026-11-17T01:17:23.110990"
   },
   {
     "id": "Hugging Face Blog_6b2b4f04681eade8",
@@ -1350,7 +1438,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:24.679421"
+    "created_at": "2026-11-17T01:17:30.268267"
   },
   {
     "id": "Reddit ML_2e268128291b4990",
@@ -1365,24 +1453,7 @@
     "category": "tech",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.236019"
-  },
-  {
-    "id": "Reddit ML_15729df3e803eb38",
-    "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
-    "summary": "Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and...",
-    "content": "Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
-    "source": "Reddit ML",
-    "author": "/u/This_One_3612",
-    "published_date": "2026-11-15T09:05:22+00:00",
-    "importance_score": 4.8,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.236336"
+    "created_at": "2026-11-17T01:17:38.820519"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1399,21 +1470,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.750899"
-  },
-  {
-    "id": "Reddit ML_a17bd33de43e4a67",
-    "title": "[D] Self-Promotion Thread",
-    "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "content": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
-    "source": "Reddit ML",
-    "author": "/u/AutoModerator",
-    "published_date": "2026-11-02T03:15:07+00:00",
-    "importance_score": 4.3,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-16T14:17:33.235752"
+    "created_at": "2026-11-17T01:17:39.516826"
   }
 ]
