@@ -1,23 +1,5 @@
 [
   {
-    "id": "TechCrunch AI_60b24e223200cf0f",
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-    "content": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "source": "TechCrunch AI",
-    "author": "Ram Iyer",
-    "published_date": "Tue, 17 Nov 2026 14:50:58 +0000",
-    "importance_score": 9.9,
-    "category": "tech",
-    "keywords": [
-      "DeepMind",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.219889"
-  },
-  {
     "id": "The Verge AI_23e848b9d39fe853",
     "title": "California sues OpenAI over rogue AI hacking incidents",
     "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper...",
@@ -26,68 +8,48 @@
     "source": "The Verge AI",
     "author": "Emma Roth",
     "published_date": "2026-11-16T15:46:01-05:00",
-    "importance_score": 9.0,
+    "importance_score": 8.5,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.239845"
+    "created_at": "2026-11-18T00:12:03.821028"
   },
   {
-    "id": "Wired AI_ea0de3288a84a378",
-    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-    "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-    "content": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Tue, 17 Nov 2026 11:00:00 +0000",
-    "importance_score": 8.8,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224731"
-  },
-  {
-    "id": "TechCrunch AI_dd38ecde84788cd0",
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "content": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "source": "TechCrunch AI",
-    "author": "Rebecca Bellan",
-    "published_date": "Mon, 16 Nov 2026 18:11:10 +0000",
-    "importance_score": 8.6,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.220264"
-  },
-  {
-    "id": "TechCrunch AI_cce983a3825dd6d7",
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized...",
-    "content": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized...",
-    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "source": "TechCrunch AI",
-    "author": "Russell Brandom",
-    "published_date": "Tue, 17 Nov 2026 15:00:00 +0000",
+    "id": "The Verge AI_ae1bb6c4d831d726",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it.",
+    "content": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it.",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "source": "The Verge AI",
+    "author": "Nilay Patel",
+    "published_date": "2026-11-17T18:41:18-05:00",
     "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.219819"
+    "created_at": "2026-11-18T00:12:03.820612"
+  },
+  {
+    "id": "The Verge AI_f9c27902103cac25",
+    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need.",
+    "content": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need.",
+    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-17T13:58:01-05:00",
+    "importance_score": 8.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:03.820813"
   },
   {
     "id": "OpenAI News_45d6eb7066757f1d",
@@ -107,7 +69,61 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459374"
+    "created_at": "2026-11-18T00:12:10.088031"
+  },
+  {
+    "id": "Wired AI_ea0de3288a84a378",
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "content": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "author": "Will Knight",
+    "published_date": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "importance_score": 8.3,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:04.845446"
+  },
+  {
+    "id": "OpenAI News_eb96b7b1de564ce5",
+    "title": "Astra for Law leads in legal intelligence",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "content": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "importance_score": 8.200000000000001,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:10.087784"
+  },
+  {
+    "id": "TechCrunch AI_16580d77089f7881",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "content": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 17 Nov 2026 23:04:35 +0000",
+    "importance_score": 8.2,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:02.798568"
   },
   {
     "id": "MIT Technology Review_c3acd2fe963691ba",
@@ -118,50 +134,68 @@
     "source": "MIT Technology Review",
     "author": "Sudhi Sinha",
     "published_date": "Mon, 16 Nov 2026 16:04:28 +0000",
-    "importance_score": 8.3,
+    "importance_score": 7.800000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222398"
+    "created_at": "2026-11-18T00:12:07.829385"
   },
   {
-    "id": "TechCrunch AI_57009d136ea3dd3f",
-    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-    "content": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "id": "OpenAI News_11a2c05c0b2953e6",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "content": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:10.087647"
+  },
+  {
+    "id": "OpenAI News_22afb0cd92cb0987",
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "content": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:10.087744"
+  },
+  {
+    "id": "TechCrunch AI_4ac4129a258e6e7f",
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "content": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
     "source": "TechCrunch AI",
-    "author": "Kirsten Korosec",
-    "published_date": "Tue, 17 Nov 2026 14:05:30 +0000",
-    "importance_score": 8.2,
+    "author": "Rebecca Bellan",
+    "published_date": "Tue, 17 Nov 2026 21:48:07 +0000",
+    "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.220001"
-  },
-  {
-    "id": "OpenAI News_bd45dda55ac82901",
-    "title": "Our first phase of embedded assessments",
-    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "content": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 16 Nov 2026 08:00:00 GMT",
-    "importance_score": 8.0,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459410"
+    "created_at": "2026-11-18T00:12:02.798646"
   },
   {
     "id": "OpenAI News_b78d365108f9203f",
@@ -172,7 +206,7 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
-    "importance_score": 7.8999999999999995,
+    "importance_score": 7.3999999999999995,
     "category": "tech",
     "keywords": [
       "GPT",
@@ -180,168 +214,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459205"
-  },
-  {
-    "id": "OpenAI News_f54f90c8c7c3ad4c",
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 17 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459102"
-  },
-  {
-    "id": "OpenAI News_979972b78cf37363",
-    "title": "Introducing OpenAI for Chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "content": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 17 Nov 2026 00:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459153"
-  },
-  {
-    "id": "The Verge AI_3798715516e9af8d",
-    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
-    "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-16T15:41:28-05:00",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.239911"
-  },
-  {
-    "id": "The Verge AI_f03a8dca4eddee7a",
-    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
-    "content": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including...",
-    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-11-16T14:23:45-05:00",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.240053"
-  },
-  {
-    "id": "Reddit ML_ade3310c326777c2",
-    "title": "CVPR Pre-submission Review [D]",
-    "summary": "So what was your pre-submission review from Claude or ChatGPT? For me it’s always Boarderline with limited novelty. No matter how many time I fix the issues reported by AI.  submitted by  /u/Prior_Brilliant_9962 [link]  [comments]",
-    "content": "So what was your pre-submission review from Claude or ChatGPT? For me it’s always Boarderline with limited novelty. No matter how many time I fix the issues reported by AI.  submitted by  /u/Prior_Brilliant_9962 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/",
-    "source": "Reddit ML",
-    "author": "/u/Prior_Brilliant_9962",
-    "published_date": "2026-11-17T07:25:00+00:00",
-    "importance_score": 7.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "Claude",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960899"
-  },
-  {
-    "id": "TechCrunch AI_f26b96f38c09ecfd",
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-    "content": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "source": "TechCrunch AI",
-    "author": "Tim Fernholz",
-    "published_date": "Tue, 17 Nov 2026 14:26:46 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.219946"
-  },
-  {
-    "id": "TechCrunch AI_caa86e6f9f868c2d",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "content": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Mon, 16 Nov 2026 23:32:32 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.220094"
-  },
-  {
-    "id": "The Verge AI_0f2b95e319b7c79d",
-    "title": "Google Maps can now create trip itineraries for you",
-    "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip...",
-    "content": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip...",
-    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-16T09:00:00-05:00",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.240163"
-  },
-  {
-    "id": "MIT Technology Review_92fccb3ee2d7997b",
-    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
-    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Tue, 17 Nov 2026 13:10:00 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222267"
+    "created_at": "2026-11-18T00:12:10.087866"
   },
   {
     "id": "OpenAI News_76c87a8b4ddedaa0",
@@ -360,34 +233,69 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459278"
+    "created_at": "2026-11-18T00:12:10.087940"
   },
   {
-    "id": "Wired AI_76a42d0e102b8ec0",
-    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-    "content": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-    "source": "Wired AI",
-    "author": "Isabella Ward",
-    "published_date": "Tue, 17 Nov 2026 10:47:45 +0000",
+    "id": "TechCrunch AI_f59f0815e4d2e98f",
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "content": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Tue, 17 Nov 2026 21:34:50 +0000",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224784"
+    "created_at": "2026-11-18T00:12:02.798702"
   },
   {
-    "id": "MIT Technology Review_abe39e9df1522e5b",
-    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-    "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told...",
-    "content": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told...",
-    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "source": "MIT Technology Review",
-    "author": "Aaron Zamost",
-    "published_date": "Fri, 13 Nov 2026 10:00:00 +0000",
+    "id": "The Verge AI_0e475f06b044ecee",
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
+    "content": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-17T16:40:59-05:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:03.820684"
+  },
+  {
+    "id": "The Verge AI_a1aaa6ccaee2d9a7",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
+    "content": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "source": "The Verge AI",
+    "author": "Mia Sato",
+    "published_date": "2026-11-17T16:00:55-05:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:03.820752"
+  },
+  {
+    "id": "OpenAI News_f54f90c8c7c3ad4c",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "content": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 00:00:00 GMT",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
@@ -395,7 +303,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222680"
+    "created_at": "2026-11-18T00:12:10.087702"
+  },
+  {
+    "id": "OpenAI News_979972b78cf37363",
+    "title": "Introducing OpenAI for Chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "content": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:10.087821"
   },
   {
     "id": "OpenAI News_ea9f611d6beb7acb",
@@ -413,25 +339,60 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459324"
+    "created_at": "2026-11-18T00:12:10.087985"
   },
   {
-    "id": "OpenAI News_41632ab35767cafb",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "content": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 16 Nov 2026 06:00:00 GMT",
-    "importance_score": 7.2,
+    "id": "TechCrunch AI_1d6518a044d493af",
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "content": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch AI",
+    "author": "Marina Temkin",
+    "published_date": "Tue, 17 Nov 2026 19:32:11 +0000",
+    "importance_score": 7.1000000000000005,
     "category": "tech",
     "keywords": [
-      "GPT",
-      "ChatGPT"
+      "AI",
+      "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459444"
+    "created_at": "2026-11-18T00:12:02.798749"
+  },
+  {
+    "id": "The Verge AI_3798715516e9af8d",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "content": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" []",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-16T15:41:28-05:00",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:03.821080"
+  },
+  {
+    "id": "Google AI Blog_a1f39767c2efb082",
+    "title": "Put Gemini to work for you",
+    "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+    "content": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "source": "Google AI Blog",
+    "author": "Josh Woodward",
+    "published_date": "Tue, 17 Nov 2026 17:00:00 +0000",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:07.055055"
   },
   {
     "id": "DeepMind Blog_569208d5cdc36d89",
@@ -449,17 +410,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:13.413670"
+    "created_at": "2026-11-18T00:12:08.869077"
   },
   {
-    "id": "The Verge AI_1f4dc374cecb93e6",
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
-    "content": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
-    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "id": "The Verge AI_0fa036255f6882de",
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.",
+    "content": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year.",
+    "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
     "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-16T18:17:34-05:00",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-17T11:19:03-05:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -467,17 +428,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.239784"
+    "created_at": "2026-11-18T00:12:03.820872"
   },
   {
-    "id": "Wired AI_ae6f41db9c837108",
-    "title": "Jensen Huang Is Gone. Now What?",
-    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-    "content": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "source": "Wired AI",
-    "author": "Katie Drummond",
-    "published_date": "Mon, 16 Nov 2026 16:12:51 +0000",
+    "id": "The Verge AI_dcb4ace69d259f5f",
+    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+    "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.",
+    "content": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.",
+    "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-17T11:09:57-05:00",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -485,17 +446,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224836"
+    "created_at": "2026-11-18T00:12:03.820924"
   },
   {
-    "id": "MIT Technology Review_ad1fc9a629025ce6",
-    "title": "The open-source movement wants Jensen Huang back",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
-    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "id": "MIT Technology Review_92fccb3ee2d7997b",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
     "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 16 Nov 2026 18:38:47 +0000",
+    "author": "Thomas Macaulay",
+    "published_date": "Tue, 17 Nov 2026 13:10:00 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -503,42 +464,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222331"
+    "created_at": "2026-11-18T00:12:07.829266"
   },
   {
-    "id": "TechCrunch AI_1bf1c15be31a212a",
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "content": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Mon, 16 Nov 2026 19:12:02 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.220208"
-  },
-  {
-    "id": "The Verge AI_03a573e5cdf57956",
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
-    "content": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
-    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-    "source": "The Verge AI",
-    "author": "Andrew Liszewski",
-    "published_date": "2026-11-16T14:24:40-05:00",
+    "id": "Wired AI_76a42d0e102b8ec0",
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "content": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "source": "Wired AI",
+    "author": "Isabella Ward",
+    "published_date": "Tue, 17 Nov 2026 10:47:45 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.240010"
+    "created_at": "2026-11-18T00:12:04.845515"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -555,7 +498,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:11.537111"
+    "created_at": "2026-11-18T00:12:07.055226"
   },
   {
     "id": "arXiv AI_104b9e424db3cb3a",
@@ -570,7 +513,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518779"
+    "created_at": "2026-11-18T00:12:16.097708"
   },
   {
     "id": "arXiv ML_ab5008574bf82e3b",
@@ -588,7 +531,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355549"
+    "created_at": "2026-11-18T00:12:16.974755"
   },
   {
     "id": "arXiv AI_a1b6d35cfbd5b26f",
@@ -603,7 +546,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "positive",
-    "created_at": "2026-11-17T15:09:20.518527"
+    "created_at": "2026-11-18T00:12:16.097427"
   },
   {
     "id": "arXiv AI_036ec3bfc2b1e69a",
@@ -620,7 +563,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.519042"
+    "created_at": "2026-11-18T00:12:16.097987"
   },
   {
     "id": "arXiv AI_74665c72d9f79497",
@@ -637,7 +580,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.519170"
+    "created_at": "2026-11-18T00:12:16.098128"
   },
   {
     "id": "arXiv ML_f2913f885263b999",
@@ -652,24 +595,43 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.356041"
+    "created_at": "2026-11-18T00:12:16.975291"
   },
   {
-    "id": "TechCrunch AI_36fa7c8067d06a64",
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "content": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "source": "TechCrunch AI",
-    "author": "Aisha Malik",
-    "published_date": "Tue, 17 Nov 2026 14:00:00 +0000",
+    "id": "The Verge AI_1f4dc374cecb93e6",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "content": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the...",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-16T18:17:34-05:00",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:07.220056"
+    "created_at": "2026-11-18T00:12:03.820982"
+  },
+  {
+    "id": "Wired AI_ae6f41db9c837108",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "content": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "source": "Wired AI",
+    "author": "Katie Drummond",
+    "published_date": "Mon, 16 Nov 2026 16:12:51 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:04.845569"
   },
   {
     "id": "Wired AI_d4d57b6fc2bb22e2",
@@ -687,24 +649,59 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224876"
+    "created_at": "2026-11-18T00:12:04.845609"
   },
   {
-    "id": "Ars Technica_5c6be910497af23b",
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "content": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "id": "MIT Technology Review_18e12eb134da224b",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death.",
+    "content": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death.",
+    "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "source": "MIT Technology Review",
+    "author": "MIT Technology Review",
+    "published_date": "Tue, 17 Nov 2026 18:46:47 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:07.829181"
+  },
+  {
+    "id": "MIT Technology Review_ad1fc9a629025ce6",
+    "title": "The open-source movement wants Jensen Huang back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Technology Review",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 16 Nov 2026 18:38:47 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:07.829323"
+  },
+  {
+    "id": "Ars Technica_b6d8c86e086a4ae8",
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+    "content": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
     "source": "Ars Technica",
     "author": "Dan Goodin",
-    "published_date": "Tue, 17 Nov 2026 14:00:29 +0000",
+    "published_date": "Tue, 17 Nov 2026 22:32:16 +0000",
     "importance_score": 6.300000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214667"
+    "created_at": "2026-11-18T00:12:05.837916"
   },
   {
     "id": "arXiv ML_46fcca668f9e18bc",
@@ -719,24 +716,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355704"
-  },
-  {
-    "id": "Lobsters AI_03595dcf8c6c6522",
-    "title": "\"Proof of use\" as a requirement for open source contributions?",
-    "summary": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
-    "content": "As an open source maintainer, I get a lot of AI slop PRs. Some of these have genuine value. Most address edge cases that almost never occur in real life. It's not that they're not fixing real problems, it's that they're fixing problems that nobody is ever likely to encounter.",
-    "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
-    "source": "Lobsters AI",
-    "author": "by twp",
-    "published_date": "Mon, 16 Nov 2026 16:25:45 -0600",
-    "importance_score": 6.3,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-17T15:09:26.392915"
+    "created_at": "2026-11-18T00:12:16.974910"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -753,42 +733,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:13.413538"
+    "created_at": "2026-11-18T00:12:08.868972"
   },
   {
-    "id": "Reddit ML_6dc4fdca7a136018",
-    "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
-    "summary": "Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016–2026) and extracted every change a paper added and measured (a layer, a loss, more data, a larger learning rate...",
-    "content": "Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016–2026) and extracted every change a paper added and measured (a layer, a loss, more data, a larger learning rate...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
-    "source": "Reddit ML",
-    "author": "/u/latenticlabs",
-    "published_date": "2026-11-17T05:11:48+00:00",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960844"
-  },
-  {
-    "id": "The Verge AI_8680653c756acdf2",
-    "title": "US data centers now burn more electricity than a midsized country",
-    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
-    "content": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "source": "The Verge AI",
-    "author": "Justine Calma",
-    "published_date": "2026-11-16T15:27:58-05:00",
+    "id": "TechCrunch AI_8636bd2d0cae11c3",
+    "title": "As decision model use skyrockets, is customization the next frontier?",
+    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "content": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Tue, 17 Nov 2026 18:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.239967"
+    "created_at": "2026-11-18T00:12:02.798798"
   },
   {
     "id": "MIT Technology Review_d0f1400e6591c233",
@@ -806,7 +768,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222558"
+    "created_at": "2026-11-18T00:12:07.829565"
   },
   {
     "id": "arXiv AI_0a12c18812a609c7",
@@ -824,91 +786,24 @@
       "LLM"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-17T15:09:20.519112"
+    "created_at": "2026-11-18T00:12:16.098066"
   },
   {
-    "id": "OpenAI News_09213a2c3102785b",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "url": "https://openai.com/index/strengthening-online-child-safety",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
-    "importance_score": 5.8,
+    "id": "Ars Technica_5c6be910497af23b",
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "content": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Tue, 17 Nov 2026 14:00:29 +0000",
+    "importance_score": 5.800000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:14.459243"
-  },
-  {
-    "id": "Reddit ML_1b60b2bd1b2b86d2",
-    "title": "Concerns About Peer Reviewers Inflating OA Scores [D]",
-    "summary": "The paper is largely incremental, with very little improvement over existing work. One of the reviewers gave a one-line weakness that isn't even a real weakness, despite having a high confidence score and is giving a high OA score.",
-    "content": "The paper is largely incremental, with very little improvement over existing work. One of the reviewers gave a one-line weakness that isn't even a real weakness, despite having a high confidence score and is giving a high OA score.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xyg0vu/concerns_about_peer_reviewers_inflating_oa_scores/",
-    "source": "Reddit ML",
-    "author": "/u/SillyNeuron",
-    "published_date": "2026-11-17T09:25:13+00:00",
-    "importance_score": 5.8,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960951"
-  },
-  {
-    "id": "Wired AI_93d8efa5443c9313",
-    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-    "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-    "content": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-    "source": "Wired AI",
-    "author": "Andrew Couts",
-    "published_date": "Fri, 13 Nov 2026 19:08:57 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.225069"
-  },
-  {
-    "id": "Google AI Blog_2ab63363e650aef8",
-    "title": "The latest AI news we announced in October 2026",
-    "summary": "Animated carousel of images from AI posts in October",
-    "content": "Animated carousel of images from AI posts in October",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "source": "Google AI Blog",
-    "author": "Blog Team",
-    "published_date": "Mon, 02 Nov 2026 17:45:00 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:11.537152"
-  },
-  {
-    "id": "MIT Technology Review_5687a0e4cd8b87ae",
-    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were...",
-    "content": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were...",
-    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Thu, 12 Nov 2026 20:16:24 +0000",
-    "importance_score": 5.7,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222732"
+    "created_at": "2026-11-18T00:12:05.837962"
   },
   {
     "id": "arXiv AI_676c7e11eeed5a40",
@@ -925,7 +820,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518629"
+    "created_at": "2026-11-18T00:12:16.097547"
   },
   {
     "id": "arXiv AI_9308d1cf51de1a64",
@@ -942,7 +837,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518703"
+    "created_at": "2026-11-18T00:12:16.097627"
   },
   {
     "id": "arXiv ML_4f7f2e73ea49cf69",
@@ -959,7 +854,7 @@
       "LLM"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-17T15:09:21.355474"
+    "created_at": "2026-11-18T00:12:16.974673"
   },
   {
     "id": "arXiv ML_cf6a4ce9426440a7",
@@ -977,7 +872,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355633"
+    "created_at": "2026-11-18T00:12:16.974831"
   },
   {
     "id": "arXiv ML_cb9bbdf8cfdfa38b",
@@ -995,7 +890,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-17T15:09:21.355920"
+    "created_at": "2026-11-18T00:12:16.975153"
   },
   {
     "id": "arXiv ML_0cfc39f6a31372cf",
@@ -1012,43 +907,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355977"
-  },
-  {
-    "id": "Reddit ML_e9f8916aa37bac07",
-    "title": "Curated list of resources: Theory and Code for learning Distributed Training for beginners [P]",
-    "summary": "[Must Read: Beginners] What I did read, in order, for learning the basics of Distributed Training for LLMs From Scratch: Building a distributed training framework from first principles by Umar Jamil on YT Horovod: Fast and Easy Distributed Deep Learning in TensorFlow PyTorch Distributed:...",
-    "content": "[Must Read: Beginners] What I did read, in order, for learning the basics of Distributed Training for LLMs From Scratch: Building a distributed training framework from first principles by Umar Jamil on YT Horovod: Fast and Easy Distributed Deep Learning in TensorFlow PyTorch Distributed:...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xyf6pr/curated_list_of_resources_theory_and_code_for/",
-    "source": "Reddit ML",
-    "author": "/u/East-Muffin-6472",
-    "published_date": "2026-11-17T08:31:17+00:00",
-    "importance_score": 5.699999999999999,
-    "category": "tech",
-    "keywords": [
-      "deep learning",
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.961015"
-  },
-  {
-    "id": "Ars Technica_042f0a1718239c2b",
-    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-    "content": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "source": "Ars Technica",
-    "author": "Scharon Harding",
-    "published_date": "Mon, 16 Nov 2026 20:37:47 +0000",
-    "importance_score": 5.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214724"
+    "created_at": "2026-11-18T00:12:16.975219"
   },
   {
     "id": "Hugging Face Blog_c3325b71dbdcb6a0",
@@ -1065,22 +924,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:17.375091"
-  },
-  {
-    "id": "Reddit ML_4aa80aa53f14ad0f",
-    "title": "How is it possible that OKLS can't outperform Muon in terms of step efficiency? [D]",
-    "summary": "SOAP is more step efficeint than Shampoo, and KL-Shampoo is more step efficient than SOAP. Then how is OKLS getting outperformed by Muon in terms of step efficiency where it's a zero-staleness implementation of KL-Shampoo? It only gets ahead of Muon in terms of parameter efficiency in very long...",
-    "content": "SOAP is more step efficeint than Shampoo, and KL-Shampoo is more step efficient than SOAP. Then how is OKLS getting outperformed by Muon in terms of step efficiency where it's a zero-staleness implementation of KL-Shampoo? It only gets ahead of Muon in terms of parameter efficiency in very long...",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xyg48x/how_is_it_possible_that_okls_cant_outperform_muon/",
-    "source": "Reddit ML",
-    "author": "/u/Future_Pace_5290",
-    "published_date": "2026-11-17T09:30:58+00:00",
-    "importance_score": 5.6,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.961061"
+    "created_at": "2026-11-18T00:12:12.943890"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -1097,7 +941,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:11.536997"
+    "created_at": "2026-11-18T00:12:07.055121"
   },
   {
     "id": "arXiv AI_e9b293069c6ef1ae",
@@ -1112,7 +956,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518921"
+    "created_at": "2026-11-18T00:12:16.097859"
   },
   {
     "id": "arXiv AI_b5dfad0e49354da5",
@@ -1129,7 +973,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518979"
+    "created_at": "2026-11-18T00:12:16.097921"
   },
   {
     "id": "arXiv ML_22fefc35a93021d8",
@@ -1146,7 +990,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355781"
+    "created_at": "2026-11-18T00:12:16.974997"
   },
   {
     "id": "arXiv ML_b7b7e55b0dfe0fa8",
@@ -1163,7 +1007,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.355850"
+    "created_at": "2026-11-18T00:12:16.975073"
   },
   {
     "id": "arXiv ML_2b91cab9d2cc62ff",
@@ -1180,41 +1024,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:21.356095"
-  },
-  {
-    "id": "Reddit ML_b3ea549a6e042793",
-    "title": "ICLR 2027: PCs ran an AI detector on reviews, peer review is cooked [D]",
-    "summary": "The PCs ran AI detectors on the reviews and left this comment on undisclosed AI usage in reviews: AI use in this review An AI-text detector assesses this review as likely AI-generated, yet its AI-use documentation field does not mention how AI was used.",
-    "content": "The PCs ran AI detectors on the reviews and left this comment on undisclosed AI usage in reviews: AI use in this review An AI-text detector assesses this review as likely AI-generated, yet its AI-use documentation field does not mention how AI was used.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xyf1tq/iclr_2027_pcs_ran_an_ai_detector_on_reviews_peer/",
-    "source": "Reddit ML",
-    "author": "/u/otsukarekun",
-    "published_date": "2026-11-17T08:22:41+00:00",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960732"
-  },
-  {
-    "id": "The Verge AI_658f261fe89e4ed8",
-    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
-    "content": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more...",
-    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-16T09:00:00-05:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:08.240122"
+    "created_at": "2026-11-18T00:12:16.975352"
   },
   {
     "id": "MIT Technology Review_d6b415b3dbdb873f",
@@ -1231,7 +1041,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222450"
+    "created_at": "2026-11-18T00:12:07.829441"
   },
   {
     "id": "MIT Technology Review_1bae7054f9079431",
@@ -1248,7 +1058,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222492"
+    "created_at": "2026-11-18T00:12:07.829486"
+  },
+  {
+    "id": "OpenAI News_09213a2c3102785b",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "content": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "importance_score": 5.3,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-18T00:12:10.087905"
   },
   {
     "id": "arXiv AI_ad30542e5943902f",
@@ -1263,39 +1090,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:20.518845"
+    "created_at": "2026-11-18T00:12:16.097779"
   },
   {
-    "id": "Reddit ML_ecd6af83995106e1",
-    "title": "AISTATS 2027 paper discussion [D]",
-    "summary": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
-    "content": "Creating this post since the reviews are supposed to go live today. What do you guys think?  submitted by  /u/LongjumpingAd4741 [link]  [comments]",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
-    "source": "Reddit ML",
-    "author": "/u/LongjumpingAd4741",
-    "published_date": "2026-11-16T14:09:31+00:00",
-    "importance_score": 5.0,
+    "id": "Ars Technica_042f0a1718239c2b",
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "content": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "source": "Ars Technica",
+    "author": "Scharon Harding",
+    "published_date": "Mon, 16 Nov 2026 20:37:47 +0000",
+    "importance_score": 5.1000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960609"
-  },
-  {
-    "id": "Reddit ML_371b85c7cd94c6e4",
-    "title": "ICLR 2027 Reviews Discussion [D]",
-    "summary": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
-    "content": "The ICLR 2027 reviews will be released soon. Share your results here, and keep a lookout on papercopilot to judge your odds. I also found paperScorer quite interesting for the same. Of course, these are only for amusement and should not be taken seriously. Good luck to all.",
-    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-    "source": "Reddit ML",
-    "author": "/u/Beautiful_Baker_2233",
-    "published_date": "2026-11-05T02:17:59+00:00",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:25.960669"
+    "created_at": "2026-11-18T00:12:05.838008"
   },
   {
     "id": "Wired AI_8f97e0935c8c343f",
@@ -1312,7 +1124,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224910"
+    "created_at": "2026-11-18T00:12:04.845647"
   },
   {
     "id": "Wired AI_92abecc00d148e26",
@@ -1329,7 +1141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224957"
+    "created_at": "2026-11-18T00:12:04.845694"
   },
   {
     "id": "Wired AI_abdbf83034368f35",
@@ -1346,7 +1158,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.224996"
+    "created_at": "2026-11-18T00:12:04.845732"
   },
   {
     "id": "Wired AI_7bf17744501a6744",
@@ -1363,7 +1175,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:09.225032"
+    "created_at": "2026-11-18T00:12:04.845769"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -1380,7 +1192,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:11.537045"
+    "created_at": "2026-11-18T00:12:07.055165"
   },
   {
     "id": "MIT Technology Review_f4a34a01bcc42926",
@@ -1397,7 +1209,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:12.222621"
+    "created_at": "2026-11-18T00:12:07.829622"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1414,7 +1226,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:13.413621"
+    "created_at": "2026-11-18T00:12:08.869028"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1431,7 +1243,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214760"
+    "created_at": "2026-11-18T00:12:05.838044"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1448,7 +1260,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214801"
+    "created_at": "2026-11-18T00:12:05.838088"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1465,7 +1277,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214832"
+    "created_at": "2026-11-18T00:12:05.838122"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1482,7 +1294,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:10.214865"
+    "created_at": "2026-11-18T00:12:05.838154"
   },
   {
     "id": "Hugging Face Blog_6b2b4f04681eade8",
@@ -1499,7 +1311,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:17.375146"
+    "created_at": "2026-11-18T00:12:12.943955"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1516,6 +1328,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-17T15:09:26.392959"
+    "created_at": "2026-11-18T00:12:21.972209"
   }
 ]
