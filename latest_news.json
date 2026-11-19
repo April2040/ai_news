@@ -1,5 +1,23 @@
 [
   {
+    "id": "Wired AI_b343c0c8575f01fa",
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "importance_score": 8.6,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:12.883469"
+  },
+  {
     "id": "OpenAI News_cdb570a8af2cd330",
     "title": "Managing frontier AI risk: From training to deployment",
     "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
@@ -8,14 +26,14 @@
     "source": "OpenAI News",
     "author": "",
     "published_date": "Wed, 18 Nov 2026 06:00:00 GMT",
-    "importance_score": 8.9,
+    "importance_score": 8.4,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563544"
+    "created_at": "2026-11-19T14:54:18.282358"
   },
   {
     "id": "The Verge AI_820f6a41c1640cb1",
@@ -33,7 +51,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131215"
+    "created_at": "2026-11-19T14:54:11.862336"
   },
   {
     "id": "Google AI Blog_ccf1d2b605613ff2",
@@ -50,25 +68,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:51.268450"
+    "created_at": "2026-11-19T14:54:14.974640"
   },
   {
-    "id": "Wired AI_ea0de3288a84a378",
-    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-    "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-    "content": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-    "source": "Wired AI",
-    "author": "Will Knight",
-    "published_date": "Tue, 17 Nov 2026 11:00:00 +0000",
-    "importance_score": 7.800000000000001,
+    "id": "The Verge AI_b99218cfb23bcc12",
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
+    "content": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+    "source": "The Verge AI",
+    "author": "Hayden Field",
+    "published_date": "2026-11-19T09:25:37-05:00",
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
-      "OpenAI",
+      "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.148102"
+    "created_at": "2026-11-19T14:54:11.861684"
   },
   {
     "id": "Wired AI_504073be7b182e63",
@@ -86,61 +104,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.147816"
+    "created_at": "2026-11-19T14:54:12.883704"
   },
   {
-    "id": "OpenAI News_d59a362cd133597c",
-    "title": "The Silent Consensus",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "url": "https://openai.com/index/the-silent-consensus",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "importance_score": 7.7,
+    "id": "The Verge AI_e095c04eb3b4f2b8",
+    "title": "Canva adds an AI ‘off’ button",
+    "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
+    "content": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-19T07:30:00-05:00",
+    "importance_score": 7.6000000000000005,
     "category": "tech",
     "keywords": [
-      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563325"
-  },
-  {
-    "id": "OpenAI News_e3c31bbdfaf86784",
-    "title": "Research acceleration: The jagged frontier",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563401"
-  },
-  {
-    "id": "OpenAI News_17afc911309a186e",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "content": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563481"
+    "created_at": "2026-11-19T14:54:11.861857"
   },
   {
     "id": "OpenAI News_1e01b2513943c1aa",
@@ -160,25 +141,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563613"
-  },
-  {
-    "id": "TechCrunch AI_06d2dadd2e948aac",
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "content": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Wed, 18 Nov 2026 23:17:28 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "positive",
-    "created_at": "2026-11-19T05:00:47.142616"
+    "created_at": "2026-11-19T14:54:18.282429"
   },
   {
     "id": "TechCrunch AI_5e41327546ed5ab0",
@@ -196,7 +159,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142739"
+    "created_at": "2026-11-19T14:54:10.894918"
   },
   {
     "id": "OpenAI News_ee5751d5783a8870",
@@ -215,59 +178,78 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563674"
+    "created_at": "2026-11-19T14:54:18.282495"
   },
   {
-    "id": "MIT Technology Review_c3acd2fe963691ba",
-    "title": "Building trustworthy AI by fencing it in, not predicting it",
-    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
-    "content": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t.",
-    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "source": "MIT Technology Review",
-    "author": "Sudhi Sinha",
-    "published_date": "Mon, 16 Nov 2026 16:04:28 +0000",
-    "importance_score": 7.300000000000001,
+    "id": "The Verge AI_448139fca0912794",
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can []",
+    "content": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can []",
+    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "source": "The Verge AI",
+    "author": "Victoria Song",
+    "published_date": "2026-11-19T08:00:00-05:00",
+    "importance_score": 7.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:11.861777"
+  },
+  {
+    "id": "OpenAI News_d59a362cd133597c",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153699"
+    "created_at": "2026-11-19T14:54:18.282115"
   },
   {
-    "id": "TechCrunch AI_3d14c4913ac9f4b8",
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-    "content": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
-    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "source": "TechCrunch AI",
-    "author": "Julie Bort",
-    "published_date": "Thu, 19 Nov 2026 00:42:56 +0000",
+    "id": "OpenAI News_e3c31bbdfaf86784",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142358"
+    "created_at": "2026-11-19T14:54:18.282189"
   },
   {
-    "id": "The Verge AI_6c3fb62c51918707",
-    "title": "The nation’s largest school districts consider ditching Google Search",
-    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times.",
-    "content": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-18T18:18:35-05:00",
+    "id": "OpenAI News_17afc911309a186e",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "content": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
     "importance_score": 7.2,
     "category": "tech",
     "keywords": [
-      "AI"
+      "GPT",
+      "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.130797"
+    "created_at": "2026-11-19T14:54:18.282292"
   },
   {
     "id": "OpenAI News_11a2c05c0b2953e6",
@@ -285,42 +267,25 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563736"
+    "created_at": "2026-11-19T14:54:18.282560"
   },
   {
-    "id": "OpenAI News_22afb0cd92cb0987",
-    "title": "Introducing ChatGPT for Sales",
-    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-    "content": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Tue, 17 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563860"
-  },
-  {
-    "id": "TechCrunch AI_1a0761b8e0fbe33c",
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "content": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "id": "TechCrunch AI_06d2dadd2e948aac",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "content": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
     "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Wed, 18 Nov 2026 23:45:00 +0000",
-    "importance_score": 7.0,
+    "author": "Amanda Silberling",
+    "published_date": "Wed, 18 Nov 2026 23:17:28 +0000",
+    "importance_score": 6.9,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142464"
+    "sentiment": "positive",
+    "created_at": "2026-11-19T14:54:10.894800"
   },
   {
     "id": "The Verge AI_520546c67e938b40",
@@ -338,25 +303,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131061"
+    "created_at": "2026-11-19T14:54:11.862174"
   },
   {
-    "id": "The Verge AI_833eafeb08d95964",
-    "title": "Nvidia isn’t selling any more AI chips to China",
-    "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under...",
-    "content": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under...",
-    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-18T08:01:05-05:00",
-    "importance_score": 6.9,
+    "id": "TechCrunch AI_3d14c4913ac9f4b8",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "content": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "source": "TechCrunch AI",
+    "author": "Julie Bort",
+    "published_date": "Thu, 19 Nov 2026 00:42:56 +0000",
+    "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131356"
+    "created_at": "2026-11-19T14:54:10.894568"
   },
   {
     "id": "TechCrunch AI_66b01d8b167ee05a",
@@ -373,7 +337,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142682"
+    "created_at": "2026-11-19T14:54:10.894862"
   },
   {
     "id": "TechCrunch AI_bc14641994e1f326",
@@ -391,7 +355,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142956"
+    "created_at": "2026-11-19T14:54:10.895085"
+  },
+  {
+    "id": "The Verge AI_6c3fb62c51918707",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times.",
+    "content": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+    "source": "The Verge AI",
+    "author": "Terrence O’Brien",
+    "published_date": "2026-11-18T18:18:35-05:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:11.861944"
   },
   {
     "id": "The Verge AI_24eaa924b5276ca1",
@@ -408,7 +389,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.130894"
+    "created_at": "2026-11-19T14:54:11.862018"
   },
   {
     "id": "Wired AI_91f59f9cf316a00d",
@@ -426,7 +407,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.147642"
+    "created_at": "2026-11-19T14:54:12.883560"
   },
   {
     "id": "Google AI Blog_c4ea6e3a51934ce5",
@@ -443,24 +424,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:51.268758"
-  },
-  {
-    "id": "MIT Technology Review_ba68950ef1415df7",
-    "title": "The AI Hype Index: AI is everywhere",
-    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
-    "content": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
-    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-    "source": "MIT Technology Review",
-    "author": "Amit Katwala",
-    "published_date": "Wed, 18 Nov 2026 14:42:44 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153163"
+    "created_at": "2026-11-19T14:54:14.974933"
   },
   {
     "id": "OpenAI News_f54f90c8c7c3ad4c",
@@ -478,7 +442,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:54.563809"
+    "created_at": "2026-11-19T14:54:18.282615"
+  },
+  {
+    "id": "OpenAI News_22afb0cd92cb0987",
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "content": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:18.282668"
   },
   {
     "id": "Google AI Blog_a1f39767c2efb082",
@@ -495,234 +477,126 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:51.268518"
+    "created_at": "2026-11-19T14:54:14.974706"
   },
   {
-    "id": "MIT Technology Review_92fccb3ee2d7997b",
-    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
-    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "id": "TechCrunch AI_1a0761b8e0fbe33c",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "content": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Wed, 18 Nov 2026 23:45:00 +0000",
+    "importance_score": 6.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:10.894659"
+  },
+  {
+    "id": "TechCrunch AI_f8676863b9082c42",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "content": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "source": "TechCrunch AI",
+    "author": "Ivan Mehta",
+    "published_date": "Thu, 19 Nov 2026 14:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:10.894475"
+  },
+  {
+    "id": "MIT Technology Review_ebb7d399c58ed9ab",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a record Researchers in Australia claim they’ve kept a human liver alive on life...",
+    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "source": "MIT Technology Review",
     "author": "Thomas Macaulay",
-    "published_date": "Tue, 17 Nov 2026 13:10:00 +0000",
+    "published_date": "Thu, 19 Nov 2026 13:10:00 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
-      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153539"
+    "created_at": "2026-11-19T14:54:15.901735"
   },
   {
-    "id": "arXiv ML_1f1510f6b5760648",
-    "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
-    "summary": "arXiv:2611.23248v1 Announce Type: new Abstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder.",
-    "content": "arXiv:2611.23248v1 Announce Type: new Abstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder.",
-    "url": "https://arxiv.org/abs/2611.23248",
-    "source": "arXiv ML",
-    "author": "Farhaan Qazi",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "id": "MIT Technology Review_e89a2e14615c8594",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+    "content": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "source": "MIT Technology Review",
+    "author": "Antonio Regalado",
+    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
     "importance_score": 6.4,
-    "category": "research",
-    "keywords": [
-      "machine learning",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.212232"
-  },
-  {
-    "id": "TechCrunch AI_9138837ba876bf98",
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "content": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Wed, 18 Nov 2026 23:25:17 +0000",
-    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142540"
+    "created_at": "2026-11-19T14:54:15.901829"
   },
   {
-    "id": "arXiv AI_fb94443128dc387a",
-    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-    "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows.",
-    "content": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows.",
-    "url": "https://arxiv.org/abs/2611.23322",
-    "source": "arXiv AI",
-    "author": "Aydin Mohseni",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382151"
-  },
-  {
-    "id": "arXiv AI_ce920992a954eb9a",
-    "title": "Training Language Models for Introspective Oversight",
-    "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy.",
-    "content": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy.",
-    "url": "https://arxiv.org/abs/2611.23365",
-    "source": "arXiv AI",
-    "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382269"
-  },
-  {
-    "id": "arXiv AI_7e317c95ed2cc57d",
-    "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-    "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual...",
-    "content": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual...",
-    "url": "https://arxiv.org/abs/2611.23398",
-    "source": "arXiv AI",
-    "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
+    "id": "MIT Technology Review_daa4b9c3aff4cd8d",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
+    "content": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
+    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "source": "MIT Technology Review",
+    "author": "Casey Crownhart",
+    "published_date": "Thu, 19 Nov 2026 11:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-19T05:01:00.382485"
+    "created_at": "2026-11-19T14:54:15.901919"
   },
   {
-    "id": "arXiv AI_6cec006ba155c702",
-    "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-    "summary": "arXiv:2611.23445v1 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse.",
-    "content": "arXiv:2611.23445v1 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse.",
-    "url": "https://arxiv.org/abs/2611.23445",
-    "source": "arXiv AI",
-    "author": "Michael Schroeder",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
+    "id": "Ars Technica_2dddf2933ee46594",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+    "content": "When everything goes down, don’t assume it’s a cyberattack.",
+    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "source": "Ars Technica",
+    "author": "Andy Greenberg, wired.com",
+    "published_date": "Thu, 19 Nov 2026 11:13:01 +0000",
+    "importance_score": 6.300000000000001,
+    "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382695"
+    "created_at": "2026-11-19T14:54:14.046596"
   },
   {
-    "id": "arXiv AI_9778b9d5b42cd61f",
-    "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-    "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging.",
-    "content": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging.",
-    "url": "https://arxiv.org/abs/2611.23456",
-    "source": "arXiv AI",
-    "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "id": "MIT Technology Review_ba68950ef1415df7",
+    "title": "The AI Hype Index: AI is everywhere",
+    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
+    "content": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms.",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "source": "MIT Technology Review",
+    "author": "Amit Katwala",
+    "published_date": "Wed, 18 Nov 2026 14:42:44 +0000",
     "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382945"
-  },
-  {
-    "id": "arXiv AI_e316d0e7199ba444",
-    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-    "summary": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders...",
-    "content": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders...",
-    "url": "https://arxiv.org/abs/2611.23476",
-    "source": "arXiv AI",
-    "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
+    "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.383042"
-  },
-  {
-    "id": "arXiv ML_7ba1a79ec3a75f54",
-    "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
-    "summary": "arXiv:2611.23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide.",
-    "content": "arXiv:2611.23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide.",
-    "url": "https://arxiv.org/abs/2611.23242",
-    "source": "arXiv ML",
-    "author": "Ayaan Qayyum, Bruce Yi Bu, Zicong Li, Jingfeng Zhou",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.211687"
-  },
-  {
-    "id": "arXiv ML_d5d9dac47eceda89",
-    "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
-    "summary": "arXiv:2611.23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if...",
-    "content": "arXiv:2611.23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if...",
-    "url": "https://arxiv.org/abs/2611.23245",
-    "source": "arXiv ML",
-    "author": "Truong Xuan Khanh",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "neural network",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.211924"
-  },
-  {
-    "id": "arXiv ML_d563174acb833588",
-    "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
-    "summary": "arXiv:2611.23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret...",
-    "content": "arXiv:2611.23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret...",
-    "url": "https://arxiv.org/abs/2611.23247",
-    "source": "arXiv ML",
-    "author": "Ankit Sharma (International Institute of Information Technology Bangalore)",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-19T05:01:01.212134"
-  },
-  {
-    "id": "arXiv ML_7fa25c2cef2ef92d",
-    "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
-    "summary": "arXiv:2611.23342v1 Announce Type: new Abstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration.",
-    "content": "arXiv:2611.23342v1 Announce Type: new Abstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration.",
-    "url": "https://arxiv.org/abs/2611.23342",
-    "source": "arXiv ML",
-    "author": "Sihan Liaing, Ji Zhang, Kehan Wang, Zihao Gao, Wei Ma, Yangang Wang, Zongguo Wang",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.2,
-    "category": "research",
-    "keywords": [
-      "machine learning",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.212438"
+    "created_at": "2026-11-19T14:54:15.902000"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -739,124 +613,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:53.190876"
-  },
-  {
-    "id": "arXiv AI_724b0cd15fc52417",
-    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-    "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics.",
-    "content": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics.",
-    "url": "https://arxiv.org/abs/2611.23375",
-    "source": "arXiv AI",
-    "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-11-19T05:01:00.382388"
-  },
-  {
-    "id": "arXiv AI_ec52bfce4cd280b4",
-    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-    "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested.",
-    "content": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested.",
-    "url": "https://arxiv.org/abs/2611.23410",
-    "source": "arXiv AI",
-    "author": "Jiarui Cui, Boxun Yan",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382591"
-  },
-  {
-    "id": "arXiv AI_fc20cf7d50122b08",
-    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-    "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models.",
-    "content": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models.",
-    "url": "https://arxiv.org/abs/2611.23454",
-    "source": "arXiv AI",
-    "author": "Carla Teixeira Lopes, Daniel F\\'elix",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.382833"
-  },
-  {
-    "id": "arXiv ML_9f608c3e58f26100",
-    "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
-    "summary": "arXiv:2611.23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence.",
-    "content": "arXiv:2611.23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence.",
-    "url": "https://arxiv.org/abs/2611.23240",
-    "source": "arXiv ML",
-    "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "neural network"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.211425"
-  },
-  {
-    "id": "arXiv ML_3feddb8c7ccc590f",
-    "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
-    "summary": "arXiv:2611.23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand.",
-    "content": "arXiv:2611.23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand.",
-    "url": "https://arxiv.org/abs/2611.23244",
-    "source": "arXiv ML",
-    "author": "Jingwei Ge, Na Xie, Li Li, Jiayang Li",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.211822"
-  },
-  {
-    "id": "arXiv ML_e8ea5ceaa37fdc9d",
-    "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
-    "summary": "arXiv:2611.23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders.",
-    "content": "arXiv:2611.23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders.",
-    "url": "https://arxiv.org/abs/2611.23246",
-    "source": "arXiv ML",
-    "author": "Peng Xie, Amr Alanwar",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.212034"
-  },
-  {
-    "id": "arXiv ML_136332a18218896a",
-    "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
-    "summary": "arXiv:2611.23339v1 Announce Type: new Abstract: Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens.",
-    "content": "arXiv:2611.23339v1 Announce Type: new Abstract: Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens.",
-    "url": "https://arxiv.org/abs/2611.23339",
-    "source": "arXiv ML",
-    "author": "Shing Wai Pun, Kai Wu, Pengfei Xia, Hui Zang, Wei Guo, Yong Liu",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.0,
-    "category": "research",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.212325"
+    "created_at": "2026-11-19T14:54:17.436170"
   },
   {
     "id": "The Verge AI_f2f67cc583de746b",
@@ -873,7 +630,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.130986"
+    "created_at": "2026-11-19T14:54:11.862104"
   },
   {
     "id": "The Verge AI_9c0c309668fa6421",
@@ -890,41 +647,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131140"
-  },
-  {
-    "id": "The Verge AI_0b8e503ce0f93ac0",
-    "title": "Will Wright’s next game uses AI to map your memories",
-    "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems.",
-    "content": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems.",
-    "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-18T09:00:00-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131283"
-  },
-  {
-    "id": "The Verge AI_4de1b8310947a66c",
-    "title": "Suno now lets you make AI videos for your AI music",
-    "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be...",
-    "content": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-18T06:16:53-05:00",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:48.131422"
+    "created_at": "2026-11-19T14:54:11.862264"
   },
   {
     "id": "Wired AI_01436a7a4db00694",
@@ -941,7 +664,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.147727"
+    "created_at": "2026-11-19T14:54:12.883636"
   },
   {
     "id": "Wired AI_a3819e3ed74e9d8e",
@@ -958,7 +681,7 @@
       "AI"
     ],
     "sentiment": "positive",
-    "created_at": "2026-11-19T05:00:49.147886"
+    "created_at": "2026-11-19T14:54:12.883769"
   },
   {
     "id": "Wired AI_7c7c69fcec214c1d",
@@ -975,68 +698,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.147956"
+    "created_at": "2026-11-19T14:54:12.883837"
   },
   {
-    "id": "Wired AI_5b152fffd3633ed4",
-    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-    "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-    "content": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Wed, 18 Nov 2026 05:01:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:49.148016"
-  },
-  {
-    "id": "MIT Technology Review_5b072fce091bf3f9",
-    "title": "The Download: AI learns to smell and hydropower struggles",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
-    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "id": "MIT Technology Review_92fccb3ee2d7997b",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon...",
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
     "source": "MIT Technology Review",
     "author": "Thomas Macaulay",
-    "published_date": "Wed, 18 Nov 2026 13:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153265"
-  },
-  {
-    "id": "MIT Technology Review_8c0ed57dcdacf32c",
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
-    "content": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
-    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "source": "MIT Technology Review",
-    "author": "Amit Katwala",
-    "published_date": "Wed, 18 Nov 2026 10:20:30 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153359"
-  },
-  {
-    "id": "MIT Technology Review_ad1fc9a629025ce6",
-    "title": "The open-source movement wants Jensen Huang back",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
-    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
-    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-    "source": "MIT Technology Review",
-    "author": "James O'Donnell",
-    "published_date": "Mon, 16 Nov 2026 18:38:47 +0000",
+    "published_date": "Tue, 17 Nov 2026 13:10:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
@@ -1044,7 +716,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153614"
+    "created_at": "2026-11-19T14:54:15.902353"
+  },
+  {
+    "id": "arXiv ML_1f1510f6b5760648",
+    "title": "Exploring Parkinson's Diagnosis Using Machine Learning Techniques",
+    "summary": "arXiv:2611.23248v1 Announce Type: new Abstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder.",
+    "content": "arXiv:2611.23248v1 Announce Type: new Abstract: In recent years, machine learning (ML) techniques have emerged as promising tools for accurate and timely diagnosis of Parkinson's disease (PD) which is an incurable neurodegenerative disorder.",
+    "url": "https://arxiv.org/abs/2611.23248",
+    "source": "arXiv ML",
+    "author": "Farhaan Qazi",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.9,
+    "category": "research",
+    "keywords": [
+      "machine learning",
+      "ML"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053450"
   },
   {
     "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
@@ -1061,37 +751,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:57.317549"
+    "created_at": "2026-11-19T14:54:21.083732"
   },
   {
-    "id": "arXiv AI_65562adfa104899f",
-    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-    "summary": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods.",
-    "content": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods.",
-    "url": "https://arxiv.org/abs/2611.23480",
-    "source": "arXiv AI",
-    "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.8,
-    "category": "research",
-    "keywords": [],
+    "id": "TechCrunch AI_9138837ba876bf98",
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "content": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "source": "TechCrunch AI",
+    "author": "Amanda Silberling",
+    "published_date": "Wed, 18 Nov 2026 23:25:17 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:00.383156"
-  },
-  {
-    "id": "arXiv ML_ed941369591d2ee1",
-    "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
-    "summary": "arXiv:2611.23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no...",
-    "content": "arXiv:2611.23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no...",
-    "url": "https://arxiv.org/abs/2611.23241",
-    "source": "arXiv ML",
-    "author": "Lilliane Linnet Musoke",
-    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.8,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:01.211572"
+    "created_at": "2026-11-19T14:54:10.894729"
   },
   {
     "id": "TechCrunch AI_50b4bc5b4e20c22d",
@@ -1108,24 +785,181 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.142860"
+    "created_at": "2026-11-19T14:54:10.895016"
   },
   {
-    "id": "TechCrunch AI_0f847fb1ff6eface",
-    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-    "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "content": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Wed, 18 Nov 2026 20:07:01 +0000",
+    "id": "arXiv AI_fb94443128dc387a",
+    "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+    "summary": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows.",
+    "content": "arXiv:2611.23322v1 Announce Type: new Abstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay good for both. We argue that this hope fails as AI capability grows.",
+    "url": "https://arxiv.org/abs/2611.23322",
+    "source": "arXiv AI",
+    "author": "Aydin Mohseni",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
     "importance_score": 5.7,
-    "category": "tech",
+    "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:47.143026"
+    "created_at": "2026-11-19T14:54:24.141203"
+  },
+  {
+    "id": "arXiv AI_ce920992a954eb9a",
+    "title": "Training Language Models for Introspective Oversight",
+    "summary": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy.",
+    "content": "arXiv:2611.23365v1 Announce Type: new Abstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy.",
+    "url": "https://arxiv.org/abs/2611.23365",
+    "source": "arXiv AI",
+    "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.141340"
+  },
+  {
+    "id": "arXiv AI_7e317c95ed2cc57d",
+    "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+    "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual...",
+    "content": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual...",
+    "url": "https://arxiv.org/abs/2611.23398",
+    "source": "arXiv AI",
+    "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-19T14:54:24.141567"
+  },
+  {
+    "id": "arXiv AI_6cec006ba155c702",
+    "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+    "summary": "arXiv:2611.23445v1 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse.",
+    "content": "arXiv:2611.23445v1 Announce Type: new Abstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weights below 4 bits frequently induces catastrophic accuracy collapse.",
+    "url": "https://arxiv.org/abs/2611.23445",
+    "source": "arXiv AI",
+    "author": "Michael Schroeder",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.141784"
+  },
+  {
+    "id": "arXiv AI_9778b9d5b42cd61f",
+    "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+    "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging.",
+    "content": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging.",
+    "url": "https://arxiv.org/abs/2611.23456",
+    "source": "arXiv AI",
+    "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.142001"
+  },
+  {
+    "id": "arXiv AI_e316d0e7199ba444",
+    "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+    "summary": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders...",
+    "content": "arXiv:2611.23476v1 Announce Type: new Abstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive self-improvement (RSI) adapts this harness from experience without weight updates, yet self-editing without external graders...",
+    "url": "https://arxiv.org/abs/2611.23476",
+    "source": "arXiv AI",
+    "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.142103"
+  },
+  {
+    "id": "arXiv ML_7ba1a79ec3a75f54",
+    "title": "Biologically-Inspired Spike Encoding and Optimization for Spiking Neural Networks",
+    "summary": "arXiv:2611.23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide.",
+    "content": "arXiv:2611.23242v1 Announce Type: new Abstract: Spiking Neural Networks (SNNs) offer theoretical energy-efficiency advantages over conventional deep networks, but realizing these advantages on vision tasks requires sparse spike representations that naive rate-coding methods fail to provide.",
+    "url": "https://arxiv.org/abs/2611.23242",
+    "source": "arXiv ML",
+    "author": "Ayaan Qayyum, Bruce Yi Bu, Zicong Li, Jingfeng Zhou",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.052916"
+  },
+  {
+    "id": "arXiv ML_d5d9dac47eceda89",
+    "title": "Response-Relevant Information Is Not Sufficient for Neural Training-State Equivalence",
+    "summary": "arXiv:2611.23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if...",
+    "content": "arXiv:2611.23245v1 Announce Type: new Abstract: Response-relevant information is not sufficient evidence that two neural networks are in the same training state. We define training-state equivalence operationally: two checkpoints are equivalent, relative to an intervention family and horizon, if...",
+    "url": "https://arxiv.org/abs/2611.23245",
+    "source": "arXiv ML",
+    "author": "Truong Xuan Khanh",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "neural network",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053128"
+  },
+  {
+    "id": "arXiv ML_d563174acb833588",
+    "title": "Budgeted Proper Loss Design for Uncertain Decision Thresholds",
+    "summary": "arXiv:2611.23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret...",
+    "content": "arXiv:2611.23247v1 Announce Type: new Abstract: A binary probability estimate may be used by several decision makers with different error costs. Proper scoring rules can emphasize selected probability thresholds, but a single average threshold distribution need not give a good worst-case regret...",
+    "url": "https://arxiv.org/abs/2611.23247",
+    "source": "arXiv ML",
+    "author": "Ankit Sharma (International Institute of Information Technology Bangalore)",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-19T14:54:25.053351"
+  },
+  {
+    "id": "arXiv ML_7fa25c2cef2ef92d",
+    "title": "Confidence-Based Materials Data Quality Assessment via Domain Knowledge and Graph-Structured Learning",
+    "summary": "arXiv:2611.23342v1 Announce Type: new Abstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration.",
+    "content": "arXiv:2611.23342v1 Announce Type: new Abstract: The rapid development of materials machine learning relies on large-scale, heterogeneous datasets, yet model reliability is often compromised by imperfect data from diverse experiments, simulations, and database integration.",
+    "url": "https://arxiv.org/abs/2611.23342",
+    "source": "arXiv ML",
+    "author": "Sihan Liaing, Ji Zhang, Kehan Wang, Zihao Gao, Wei Ma, Yangang Wang, Zongguo Wang",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.7,
+    "category": "research",
+    "keywords": [
+      "machine learning",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053653"
   },
   {
     "id": "Hugging Face Blog_c3325b71dbdcb6a0",
@@ -1142,7 +976,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:57.317656"
+    "created_at": "2026-11-19T14:54:21.083832"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -1159,7 +993,175 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:51.268600"
+    "created_at": "2026-11-19T14:54:14.974786"
+  },
+  {
+    "id": "arXiv AI_724b0cd15fc52417",
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "summary": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics.",
+    "content": "arXiv:2611.23375v1 Announce Type: new Abstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics.",
+    "url": "https://arxiv.org/abs/2611.23375",
+    "source": "arXiv AI",
+    "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "negative",
+    "created_at": "2026-11-19T14:54:24.141466"
+  },
+  {
+    "id": "arXiv AI_ec52bfce4cd280b4",
+    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+    "summary": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested.",
+    "content": "arXiv:2611.23410v1 Announce Type: new Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested.",
+    "url": "https://arxiv.org/abs/2611.23410",
+    "source": "arXiv AI",
+    "author": "Jiarui Cui, Boxun Yan",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.141676"
+  },
+  {
+    "id": "arXiv AI_fc20cf7d50122b08",
+    "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+    "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models.",
+    "content": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models.",
+    "url": "https://arxiv.org/abs/2611.23454",
+    "source": "arXiv AI",
+    "author": "Carla Teixeira Lopes, Daniel F\\'elix",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:24.141885"
+  },
+  {
+    "id": "arXiv ML_9f608c3e58f26100",
+    "title": "Neural Network-Based Modeling of Hysteretic Systems: From Prandtl and Preisach Neural Networks to Neuro-Madelung and Neuroplastic Continuous Models",
+    "summary": "arXiv:2611.23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence.",
+    "content": "arXiv:2611.23240v1 Announce Type: new Abstract: Hysteresis is a complex nonlinear phenomenon characterized by memory dependence, path dependence, and, in many physical systems, degradation, non-congruency, asymmetry, and rate dependence.",
+    "url": "https://arxiv.org/abs/2611.23240",
+    "source": "arXiv ML",
+    "author": "Mehrdad Shafiei Dizaji, Farzad Shafiei Dizaji",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "neural network"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.052671"
+  },
+  {
+    "id": "arXiv ML_3feddb8c7ccc590f",
+    "title": "Goemans's Unsplittable-Flow Conjecture: The Anatomy of AI-Assisted Counterexample Discovery",
+    "summary": "arXiv:2611.23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand.",
+    "content": "arXiv:2611.23244v1 Announce Type: new Abstract: Goemans conjectured that any fractional single-source flow could be converted into an unsplittable flow without increasing total cost and while increasing any arc load by at most the largest demand.",
+    "url": "https://arxiv.org/abs/2611.23244",
+    "source": "arXiv ML",
+    "author": "Jingwei Ge, Na Xie, Li Li, Jiayang Li",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053032"
+  },
+  {
+    "id": "arXiv ML_e8ea5ceaa37fdc9d",
+    "title": "Chebyshev Polynomial Zonotope Abstractions for Certified Reachability of Learning-Enabled Systems",
+    "summary": "arXiv:2611.23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders.",
+    "content": "arXiv:2611.23246v1 Announce Type: new Abstract: Nearly all current methods for computing reachable sets of nonlinear dynamics propagate them with truncated Taylor expansions plus rigorous remainders.",
+    "url": "https://arxiv.org/abs/2611.23246",
+    "source": "arXiv ML",
+    "author": "Peng Xie, Amr Alanwar",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053253"
+  },
+  {
+    "id": "arXiv ML_136332a18218896a",
+    "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+    "summary": "arXiv:2611.23339v1 Announce Type: new Abstract: Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens.",
+    "content": "arXiv:2611.23339v1 Announce Type: new Abstract: Generative recommendation (GR) inference differs substantially from conventional LLM serving, featuring long input sequences, wide beam search, and only a few fixed output tokens.",
+    "url": "https://arxiv.org/abs/2611.23339",
+    "source": "arXiv ML",
+    "author": "Shing Wai Pun, Kai Wu, Pengfei Xia, Hui Zang, Wei Guo, Yong Liu",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.5,
+    "category": "research",
+    "keywords": [
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.053544"
+  },
+  {
+    "id": "Wired AI_5b152fffd3633ed4",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+    "content": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "source": "Wired AI",
+    "author": "Jason Parham",
+    "published_date": "Wed, 18 Nov 2026 05:01:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:12.883899"
+  },
+  {
+    "id": "MIT Technology Review_5b072fce091bf3f9",
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth.",
+    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Wed, 18 Nov 2026 13:10:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:15.902081"
+  },
+  {
+    "id": "MIT Technology Review_8c0ed57dcdacf32c",
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
+    "content": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
+    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "source": "MIT Technology Review",
+    "author": "Amit Katwala",
+    "published_date": "Wed, 18 Nov 2026 10:20:30 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:15.902166"
   },
   {
     "id": "MIT Technology Review_18e12eb134da224b",
@@ -1176,7 +1178,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153437"
+    "created_at": "2026-11-19T14:54:15.902254"
   },
   {
     "id": "Ars Technica_b6d8c86e086a4ae8",
@@ -1193,24 +1195,37 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169369"
+    "created_at": "2026-11-19T14:54:14.046661"
   },
   {
-    "id": "Ars Technica_5c6be910497af23b",
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "content": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Tue, 17 Nov 2026 14:00:29 +0000",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "id": "arXiv AI_65562adfa104899f",
+    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+    "summary": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods.",
+    "content": "arXiv:2611.23480v1 Announce Type: new Abstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods.",
+    "url": "https://arxiv.org/abs/2611.23480",
+    "source": "arXiv AI",
+    "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169436"
+    "created_at": "2026-11-19T14:54:24.142231"
+  },
+  {
+    "id": "arXiv ML_ed941369591d2ee1",
+    "title": "GridForge: An Open Physics-Informed Digital Twin and Benchmark Suite for UK 11 kV Underground Distribution Cables",
+    "summary": "arXiv:2611.23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no...",
+    "content": "arXiv:2611.23241v1 Announce Type: new Abstract: The UK distribution-cable monitoring sector is data-rich but framework-poor: each Distribution Network Operator (DNO) collects megabytes of telemetry per asset per day, but there is no public benchmark dataset, no shared reference model, and no...",
+    "url": "https://arxiv.org/abs/2611.23241",
+    "source": "arXiv ML",
+    "author": "Lilliane Linnet Musoke",
+    "published_date": "Thu, 19 Nov 2026 00:00:00 -0500",
+    "importance_score": 5.3,
+    "category": "research",
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:25.052813"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -1227,24 +1242,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:51.268656"
-  },
-  {
-    "id": "MIT Technology Review_d6b415b3dbdb873f",
-    "title": "The Download: testing tech promises and searching for cognitive immortality",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology...",
-    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 16 Nov 2026 13:10:00 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:52.153791"
+    "created_at": "2026-11-19T14:54:14.974842"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1261,7 +1259,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:53.190942"
+    "created_at": "2026-11-19T14:54:17.436248"
+  },
+  {
+    "id": "Ars Technica_5c6be910497af23b",
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "content": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Tue, 17 Nov 2026 14:00:29 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-19T14:54:14.046716"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1278,7 +1293,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169553"
+    "created_at": "2026-11-19T14:54:14.046833"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1295,7 +1310,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169613"
+    "created_at": "2026-11-19T14:54:14.046897"
   },
   {
     "id": "Ars Technica_c5848c9835ad0380",
@@ -1312,7 +1327,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169660"
+    "created_at": "2026-11-19T14:54:14.046947"
   },
   {
     "id": "Ars Technica_f226ca8b775b9dea",
@@ -1329,7 +1344,7 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169707"
+    "created_at": "2026-11-19T14:54:14.046995"
   },
   {
     "id": "Ars Technica_042f0a1718239c2b",
@@ -1346,7 +1361,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:00:50.169501"
+    "created_at": "2026-11-19T14:54:14.046778"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1363,6 +1378,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-19T05:01:06.262133"
+    "created_at": "2026-11-19T14:54:30.238009"
   }
 ]
