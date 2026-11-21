@@ -16,63 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.403161"
-  },
-  {
-    "id": "OpenAI News_dbe2bb9d3b36f0c3",
-    "title": "Combatting adversarial distillation",
-    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
-    "importance_score": 7.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843204"
-  },
-  {
-    "id": "Wired AI_b343c0c8575f01fa",
-    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
-    "importance_score": 7.6000000000000005,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379694"
-  },
-  {
-    "id": "OpenAI News_1c9e8b93999ebda9",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "content": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Thu, 19 Nov 2026 08:00:00 GMT",
-    "importance_score": 7.6,
-    "category": "tech",
-    "keywords": [
-      "GPT",
-      "ChatGPT",
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843515"
+    "created_at": "2026-11-21T13:53:22.717546"
   },
   {
     "id": "The Verge AI_59afc871ac31984e",
@@ -91,24 +35,63 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-21T04:47:10.442756"
+    "created_at": "2026-11-21T13:53:23.710841"
   },
   {
-    "id": "The Verge AI_cd98bf101885b966",
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
-    "content": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-20T07:30:47-05:00",
-    "importance_score": 7.1000000000000005,
+    "id": "OpenAI News_dbe2bb9d3b36f0c3",
+    "title": "Combatting adversarial distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
+      "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:10.442841"
+    "created_at": "2026-11-21T13:53:30.130136"
+  },
+  {
+    "id": "Wired AI_b343c0c8575f01fa",
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "source": "Wired AI",
+    "author": "Paresh Dave",
+    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "importance_score": 7.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:24.714127"
+  },
+  {
+    "id": "OpenAI News_1c9e8b93999ebda9",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "content": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "importance_score": 7.1,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "ChatGPT",
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:30.130335"
   },
   {
     "id": "Wired AI_4405358d16a15e24",
@@ -126,7 +109,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379201"
+    "created_at": "2026-11-21T13:53:24.713695"
   },
   {
     "id": "Wired AI_fbd7d8d00972a943",
@@ -144,7 +127,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379458"
+    "created_at": "2026-11-21T13:53:24.713929"
   },
   {
     "id": "Google AI Blog_ccf1d2b605613ff2",
@@ -161,7 +144,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:13.483357"
+    "created_at": "2026-11-21T13:53:26.798186"
   },
   {
     "id": "MIT Technology Review_7c733832ff9c48a4",
@@ -178,7 +161,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.379990"
+    "created_at": "2026-11-21T13:53:27.739375"
   },
   {
     "id": "TechCrunch AI_badecaeada8a7aec",
@@ -195,24 +178,7 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.402994"
-  },
-  {
-    "id": "Wired AI_8ecd2604a3555be1",
-    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "content": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Fri, 20 Nov 2026 12:00:00 +0000",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379284"
+    "created_at": "2026-11-21T13:53:22.717433"
   },
   {
     "id": "OpenAI News_f904308723301e21",
@@ -230,7 +196,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843312"
+    "created_at": "2026-11-21T13:53:30.130213"
   },
   {
     "id": "OpenAI News_d59a362cd133597c",
@@ -248,7 +214,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843633"
+    "created_at": "2026-11-21T13:53:30.130410"
   },
   {
     "id": "OpenAI News_17afc911309a186e",
@@ -266,7 +232,24 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843740"
+    "created_at": "2026-11-21T13:53:30.130477"
+  },
+  {
+    "id": "The Verge AI_cd98bf101885b966",
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
+    "content": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-20T07:30:47-05:00",
+    "importance_score": 6.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:23.710922"
   },
   {
     "id": "arXiv ML_8d4e0fb3de69c589",
@@ -276,14 +259,14 @@
     "url": "https://arxiv.org/abs/2611.25001",
     "source": "arXiv ML",
     "author": "Dongsu Song, Jay Hoon Jung",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 6.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519286"
+    "created_at": "2026-11-21T13:53:36.818913"
   },
   {
     "id": "arXiv ML_d069ac94c3d94b39",
@@ -293,14 +276,14 @@
     "url": "https://arxiv.org/abs/2611.25114",
     "source": "arXiv ML",
     "author": "Amin Entezari",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 6.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519929"
+    "created_at": "2026-11-21T13:53:36.819486"
   },
   {
     "id": "TechCrunch AI_afadad4b5b70f559",
@@ -318,7 +301,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.403415"
+    "created_at": "2026-11-21T13:53:22.717780"
   },
   {
     "id": "The Verge AI_2608ec02898b234e",
@@ -336,7 +319,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:10.442999"
+    "created_at": "2026-11-21T13:53:23.711065"
+  },
+  {
+    "id": "Wired AI_b68ef8c9c34246c6",
+    "title": "The Outages Are Just Getting Started",
+    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "content": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "source": "Wired AI",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 21 Nov 2026 13:00:00 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:24.713593"
   },
   {
     "id": "Wired AI_cb1307ca65405b64",
@@ -354,7 +354,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379535"
+    "created_at": "2026-11-21T13:53:24.713994"
   },
   {
     "id": "TechCrunch AI_b9f7414c4a74bb03",
@@ -371,7 +371,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.403254"
+    "created_at": "2026-11-21T13:53:22.717622"
   },
   {
     "id": "The Verge AI_4bd9f3e7ec1b4731",
@@ -388,7 +388,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:10.442912"
+    "created_at": "2026-11-21T13:53:23.710986"
   },
   {
     "id": "The Verge AI_7c7a70e4c019f813",
@@ -405,7 +405,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:10.443207"
+    "created_at": "2026-11-21T13:53:23.711204"
+  },
+  {
+    "id": "Wired AI_8ecd2604a3555be1",
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "content": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired AI",
+    "author": "Jason Parham",
+    "published_date": "Fri, 20 Nov 2026 12:00:00 +0000",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:24.713774"
   },
   {
     "id": "Wired AI_f23f6225853fef91",
@@ -422,7 +439,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379616"
+    "created_at": "2026-11-21T13:53:24.714062"
   },
   {
     "id": "Google AI Blog_909b5cc816ae5e5c",
@@ -439,7 +456,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:13.483281"
+    "created_at": "2026-11-21T13:53:26.798113"
   },
   {
     "id": "Google AI Blog_a1f39767c2efb082",
@@ -456,7 +473,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:13.483421"
+    "created_at": "2026-11-21T13:53:26.798241"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -473,26 +490,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:15.469686"
-  },
-  {
-    "id": "arXiv AI_d8ac4a802b938ddf",
-    "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
-    "summary": "arXiv:2611.25088v1 Announce Type: new Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands modifying multi-file repositories to reproduce...",
-    "content": "arXiv:2611.25088v1 Announce Type: new Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evaluating complex models demands modifying multi-file repositories to reproduce...",
-    "url": "https://arxiv.org/abs/2611.25088",
-    "source": "arXiv AI",
-    "author": "John Wu, Rushi Qiang, Yuchen Zhuang, Guowang Li, Girish Narayanswamy, Max Xu, Sam Schmidgall, Mark Malhotra, Shwetak Patel, Jimeng Sun, Daniel McDuff, Bo Dai, Xin Liu",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.1,
-    "category": "research",
-    "keywords": [
-      "machine learning",
-      "AI",
-      "ML"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578547"
+    "created_at": "2026-11-21T13:53:28.758808"
   },
   {
     "id": "TechCrunch AI_6478a226e93c43fa",
@@ -509,7 +507,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.403082"
+    "created_at": "2026-11-21T13:53:22.717489"
   },
   {
     "id": "The Verge AI_0f8a78c0d17348d4",
@@ -526,41 +524,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:10.442667"
-  },
-  {
-    "id": "Wired AI_8f1ccb230c190360",
-    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-    "content": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-    "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Fri, 20 Nov 2026 07:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:11.379379"
-  },
-  {
-    "id": "MIT Technology Review_aea006d30f009159",
-    "title": "The Download: inside the quest to make our minds immortal",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
-    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 20 Nov 2026 13:10:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380109"
+    "created_at": "2026-11-21T13:53:23.710741"
   },
   {
     "id": "TechCrunch AI_67f6066a1e923b38",
@@ -577,7 +541,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.402775"
+    "created_at": "2026-11-21T13:53:22.717234"
   },
   {
     "id": "TechCrunch AI_bd53160da7c485aa",
@@ -594,7 +558,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.402877"
+    "created_at": "2026-11-21T13:53:22.717330"
   },
   {
     "id": "MIT Technology Review_ba68950ef1415df7",
@@ -611,96 +575,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380496"
-  },
-  {
-    "id": "arXiv AI_0bbbed0b6f719079",
-    "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-    "summary": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results.",
-    "content": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results.",
-    "url": "https://arxiv.org/abs/2611.25043",
-    "source": "arXiv AI",
-    "author": "Yimeng Liu, Eric Isbrandt, Felix Katzenburg, Kevin P. Greenman, Han Hao, Yang Cao, Varinia Bernales, Al\\'an Aspuru-Guzik",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "artificial intelligence",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578210"
-  },
-  {
-    "id": "arXiv AI_2520022f1d0111a3",
-    "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-    "summary": "arXiv:2611.25070v1 Announce Type: new Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions.",
-    "content": "arXiv:2611.25070v1 Announce Type: new Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions.",
-    "url": "https://arxiv.org/abs/2611.25070",
-    "source": "arXiv AI",
-    "author": "Nianjun Zhou, Dhaval Patel",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578331"
-  },
-  {
-    "id": "arXiv AI_f4a2e84c642d045d",
-    "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-    "summary": "arXiv:2611.25087v1 Announce Type: new Abstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS).",
-    "content": "arXiv:2611.25087v1 Announce Type: new Abstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS).",
-    "url": "https://arxiv.org/abs/2611.25087",
-    "source": "arXiv AI",
-    "author": "Dhriti Verma, Kanthi Sarpatwar, Vinicius Lima, Dzung Phan, Jayant Kalagnanam",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578426"
-  },
-  {
-    "id": "arXiv AI_a2114d6561f454e6",
-    "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
-    "summary": "arXiv:2611.25111v1 Announce Type: new Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines.",
-    "content": "arXiv:2611.25111v1 Announce Type: new Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexible general-purpose agents and statistically controlled pipelines.",
-    "url": "https://arxiv.org/abs/2611.25111",
-    "source": "arXiv AI",
-    "author": "Junfeng Nie, Xiaohui Chen",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578747"
-  },
-  {
-    "id": "arXiv AI_14821575473a556f",
-    "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
-    "summary": "arXiv:2611.25135v1 Announce Type: new Abstract: Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and LLM judges work everywhere, but their scores are not probabilities.",
-    "content": "arXiv:2611.25135v1 Announce Type: new Abstract: Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and LLM judges work everywhere, but their scores are not probabilities.",
-    "url": "https://arxiv.org/abs/2611.25135",
-    "source": "arXiv AI",
-    "author": "Rudransh Agnihotri, Manasvi Kapoor",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578868"
+    "created_at": "2026-11-21T13:53:27.739827"
   },
   {
     "id": "arXiv ML_af2b234b7f5812e2",
@@ -710,14 +585,14 @@
     "url": "https://arxiv.org/abs/2611.24999",
     "source": "arXiv ML",
     "author": "Ziyuan Qin, Yang Qiao, Summer B. Frandsen, Michael T. Treadway, Liang Zhao",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-21T04:47:23.519016"
+    "created_at": "2026-11-21T13:53:36.818645"
   },
   {
     "id": "arXiv ML_7e8b471619d36014",
@@ -727,14 +602,14 @@
     "url": "https://arxiv.org/abs/2611.25004",
     "source": "arXiv ML",
     "author": "Mohammad Meymani, Roozbeh Razavi-Far",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.7,
     "category": "research",
     "keywords": [
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519498"
+    "created_at": "2026-11-21T13:53:36.819106"
   },
   {
     "id": "Ars Technica_ca0a9d6027ba973e",
@@ -751,7 +626,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.423813"
+    "created_at": "2026-11-21T13:53:25.753865"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -768,7 +643,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:13.483504"
+    "created_at": "2026-11-21T13:53:26.798316"
   },
   {
     "id": "OpenAI News_a778075ed232aa25",
@@ -785,73 +660,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:16.843405"
-  },
-  {
-    "id": "arXiv AI_f9b832c6631689a5",
-    "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
-    "summary": "arXiv:2611.25109v1 Announce Type: new Abstract: Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial attachment, has been linked to multiple documented fatalities.",
-    "content": "arXiv:2611.25109v1 Announce Type: new Abstract: Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial attachment, has been linked to multiple documented fatalities.",
-    "url": "https://arxiv.org/abs/2611.25109",
-    "source": "arXiv AI",
-    "author": "Shwetanshu Singh, Mark Keavney, Mathieu Duteil, Meriem Mehri, Scott Blain",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578660"
-  },
-  {
-    "id": "arXiv AI_7b93468c6187596a",
-    "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
-    "summary": "arXiv:2611.25146v1 Announce Type: new Abstract: Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than merely retrieve web information.",
-    "content": "arXiv:2611.25146v1 Announce Type: new Abstract: Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than merely retrieve web information.",
-    "url": "https://arxiv.org/abs/2611.25146",
-    "source": "arXiv AI",
-    "author": "Fangrui Huang, Bingyang Wang, Chuhan Li, Yijiang Li, Arpandeep Khatua, Austin Shen, Riki R Z Choi, Cuiyuanxiu Chen, Jin Huang, Zachary Robertson, Kate Lin, Akshay Paruchuri, Sijun Tan, Xin Liu, Zhengmin Ni, Sanmi Koyejo, Ehsan Adeli",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.578989"
-  },
-  {
-    "id": "arXiv AI_5586356f749c7e24",
-    "title": "A Verifier from the Past: Test-Time Compute for Time Series Foundation Models",
-    "summary": "arXiv:2611.25171v1 Announce Type: new Abstract: Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting.",
-    "content": "arXiv:2611.25171v1 Announce Type: new Abstract: Test-time compute (TTC) improves language models by spending additional inference compute to generate, verify, and select among candidate outputs, but this recipe has not transferred directly to time series forecasting.",
-    "url": "https://arxiv.org/abs/2611.25171",
-    "source": "arXiv AI",
-    "author": "Arjun Choudhry, Aditya Narayanan, Raghav Mallampalli, Po-han Li, Sai Shankar Narasimhan, Raimi Shah, B. Aditya Prakash, Shubhankar Agarwal",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.579116"
-  },
-  {
-    "id": "arXiv AI_00e4160f44231567",
-    "title": "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
-    "summary": "arXiv:2611.25184v1 Announce Type: new Abstract: Empirical finance research often reuses natural experiments to study other outcomes, raising concerns about multiple testing and publication bias. We use AI agents to run a multiverse analysis of 324 papers that reuse 13 natural experiments.",
-    "content": "arXiv:2611.25184v1 Announce Type: new Abstract: Empirical finance research often reuses natural experiments to study other outcomes, raising concerns about multiple testing and publication bias. We use AI agents to run a multiverse analysis of 324 papers that reuse 13 natural experiments.",
-    "url": "https://arxiv.org/abs/2611.25184",
-    "source": "arXiv AI",
-    "author": "Ruijiang Gao, Steven Chong Xiao",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:22.579227"
+    "created_at": "2026-11-21T13:53:30.130270"
   },
   {
     "id": "arXiv ML_05417f345c087787",
@@ -861,12 +670,12 @@
     "url": "https://arxiv.org/abs/2611.25000",
     "source": "arXiv ML",
     "author": "Ido Nitzan Hidekel, Dan Raviv",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519172"
+    "created_at": "2026-11-21T13:53:36.818807"
   },
   {
     "id": "arXiv ML_2a259b597c101c09",
@@ -876,12 +685,12 @@
     "url": "https://arxiv.org/abs/2611.25003",
     "source": "arXiv ML",
     "author": "Manuel Prada-Corral, Yahya Emara, Timothy J. O'Donnell, Ryan Cotterell, Tim Vieira",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519383"
+    "created_at": "2026-11-21T13:53:36.819002"
   },
   {
     "id": "arXiv ML_1a5417c063f1fff3",
@@ -891,12 +700,12 @@
     "url": "https://arxiv.org/abs/2611.25011",
     "source": "arXiv ML",
     "author": "Yang Cai, Vineet Gupta, Yanchen Jiang, Christopher Liaw, Aranyak Mehta, Shay Moran, Grigoris Velegkas, Di Wang, Manfred K. Warmuth",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-11-21T04:47:23.519590"
+    "created_at": "2026-11-21T13:53:36.819186"
   },
   {
     "id": "arXiv ML_6e810bb84f485fe0",
@@ -906,14 +715,14 @@
     "url": "https://arxiv.org/abs/2611.25100",
     "source": "arXiv ML",
     "author": "Jean-S\\'ebastien Giroux, Rose Guay Hottin, Marco Bonizzato",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-21T04:47:23.519704"
+    "created_at": "2026-11-21T13:53:36.819290"
   },
   {
     "id": "arXiv ML_bb14ab4266446186",
@@ -923,14 +732,14 @@
     "url": "https://arxiv.org/abs/2611.25108",
     "source": "arXiv ML",
     "author": "Lambert Igene, Mohammad Zahir Uddin Chowdhury, Afzal Hossain, Sandip Purnapatra, Peter Johnson, Stephanie Schuckers",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.519818"
+    "created_at": "2026-11-21T13:53:36.819390"
   },
   {
     "id": "arXiv ML_cca85ac86f417440",
@@ -940,12 +749,12 @@
     "url": "https://arxiv.org/abs/2611.25119",
     "source": "arXiv ML",
     "author": "Skylar Gu, Christina Last",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 -0500",
+    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
     "importance_score": 5.5,
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:23.520026"
+    "created_at": "2026-11-21T13:53:36.819573"
   },
   {
     "id": "TechCrunch AI_7373aff1805703bb",
@@ -962,75 +771,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:09.403326"
+    "created_at": "2026-11-21T13:53:22.717682"
   },
   {
-    "id": "MIT Technology Review_ebb7d399c58ed9ab",
-    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside...",
-    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "id": "Wired AI_8f1ccb230c190360",
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "content": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Fri, 20 Nov 2026 07:00:00 +0000",
+    "importance_score": 5.4,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:24.713862"
+  },
+  {
+    "id": "MIT Technology Review_aea006d30f009159",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
+    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
     "source": "MIT Technology Review",
     "author": "Thomas Macaulay",
-    "published_date": "Thu, 19 Nov 2026 13:10:00 +0000",
+    "published_date": "Fri, 20 Nov 2026 13:10:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380214"
-  },
-  {
-    "id": "MIT Technology Review_e89a2e14615c8594",
-    "title": "A human liver has been kept alive outside the body for a record seven weeks",
-    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
-    "content": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
-    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-    "source": "MIT Technology Review",
-    "author": "Antonio Regalado",
-    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380305"
-  },
-  {
-    "id": "MIT Technology Review_daa4b9c3aff4cd8d",
-    "title": "What a billion-dollar deal says about the US battery market",
-    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
-    "content": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
-    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-    "source": "MIT Technology Review",
-    "author": "Casey Crownhart",
-    "published_date": "Thu, 19 Nov 2026 11:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-21T04:47:14.380405"
-  },
-  {
-    "id": "Ars Technica_2dddf2933ee46594",
-    "title": "How to tell a cyberattack from a plain old outage",
-    "summary": "When everything goes down, don’t assume it’s a cyberattack.",
-    "content": "When everything goes down, don’t assume it’s a cyberattack.",
-    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-    "source": "Ars Technica",
-    "author": "Andy Greenberg, wired.com",
-    "published_date": "Thu, 19 Nov 2026 11:13:01 +0000",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.423900"
+    "created_at": "2026-11-21T13:53:27.739470"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -1047,7 +822,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:13.483572"
+    "created_at": "2026-11-21T13:53:26.798369"
+  },
+  {
+    "id": "MIT Technology Review_ebb7d399c58ed9ab",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside...",
+    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Thu, 19 Nov 2026 13:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:27.739564"
+  },
+  {
+    "id": "MIT Technology Review_e89a2e14615c8594",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+    "content": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering.",
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "source": "MIT Technology Review",
+    "author": "Antonio Regalado",
+    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:27.739643"
+  },
+  {
+    "id": "MIT Technology Review_daa4b9c3aff4cd8d",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
+    "content": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter...",
+    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "source": "MIT Technology Review",
+    "author": "Casey Crownhart",
+    "published_date": "Thu, 19 Nov 2026 11:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-21T13:53:27.739727"
   },
   {
     "id": "MIT Technology Review_5b072fce091bf3f9",
@@ -1064,7 +890,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380585"
+    "created_at": "2026-11-21T13:53:27.739905"
   },
   {
     "id": "MIT Technology Review_8c0ed57dcdacf32c",
@@ -1081,7 +907,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380676"
+    "created_at": "2026-11-21T13:53:27.739986"
   },
   {
     "id": "MIT Technology Review_18e12eb134da224b",
@@ -1098,7 +924,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:14.380759"
+    "created_at": "2026-11-21T13:53:27.740056"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1115,7 +941,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:15.469759"
+    "created_at": "2026-11-21T13:53:28.758871"
+  },
+  {
+    "id": "Ars Technica_2dddf2933ee46594",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+    "content": "When everything goes down, don’t assume it’s a cyberattack.",
+    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "source": "Ars Technica",
+    "author": "Andy Greenberg, wired.com",
+    "published_date": "Thu, 19 Nov 2026 11:13:01 +0000",
+    "importance_score": 4.800000000000001,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T13:53:25.753965"
   },
   {
     "id": "Ars Technica_b6d8c86e086a4ae8",
@@ -1132,7 +975,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.423962"
+    "created_at": "2026-11-21T13:53:25.754026"
   },
   {
     "id": "Ars Technica_5c6be910497af23b",
@@ -1149,7 +992,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.424022"
+    "created_at": "2026-11-21T13:53:25.754077"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1166,7 +1009,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.424170"
+    "created_at": "2026-11-21T13:53:25.754181"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1183,7 +1026,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.424239"
+    "created_at": "2026-11-21T13:53:25.754240"
   },
   {
     "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
@@ -1200,7 +1043,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:19.573856"
+    "created_at": "2026-11-21T13:53:32.889426"
   },
   {
     "id": "Ars Technica_042f0a1718239c2b",
@@ -1217,7 +1060,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:12.424110"
+    "created_at": "2026-11-21T13:53:25.754136"
   },
   {
     "id": "Lobsters AI_ac44f9413e5de22c",
@@ -1235,7 +1078,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:28.703662"
+    "created_at": "2026-11-21T13:53:42.071323"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1252,6 +1095,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-21T04:47:28.703740"
+    "created_at": "2026-11-21T13:53:42.071391"
   }
 ]
