@@ -8,7 +8,7 @@
     "source": "TechCrunch AI",
     "author": "Lucas Ropek",
     "published_date": "Fri, 20 Nov 2026 00:56:01 +0000",
-    "importance_score": 8.6,
+    "importance_score": 8.100000000000001,
     "category": "tech",
     "keywords": [
       "OpenAI",
@@ -16,26 +16,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227399"
+    "created_at": "2026-11-21T04:47:09.403161"
   },
   {
-    "id": "The Verge AI_59afc871ac31984e",
-    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "summary": "Anthropic mathematician Levent Alpge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
-    "content": "Anthropic mathematician Levent Alpge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-20T11:34:13-05:00",
-    "importance_score": 7.9,
+    "id": "OpenAI News_dbe2bb9d3b36f0c3",
+    "title": "Combatting adversarial distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
-      "Anthropic",
-      "Claude",
+      "OpenAI",
       "AI"
     ],
-    "sentiment": "negative",
-    "created_at": "2026-11-20T19:25:31.191192"
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:16.843204"
   },
   {
     "id": "Wired AI_b343c0c8575f01fa",
@@ -53,7 +52,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152716"
+    "created_at": "2026-11-21T04:47:11.379694"
   },
   {
     "id": "OpenAI News_1c9e8b93999ebda9",
@@ -73,76 +72,26 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:37.522293"
+    "created_at": "2026-11-21T04:47:16.843515"
   },
   {
-    "id": "TechCrunch AI_7bc44b4f5a799b27",
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "content": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "source": "TechCrunch AI",
-    "author": "Sarah Perez",
-    "published_date": "Thu, 19 Nov 2026 18:09:11 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227668"
-  },
-  {
-    "id": "Wired AI_fbd7d8d00972a943",
-    "title": "What’s With All These Outages?",
-    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-    "content": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "source": "Wired AI",
-    "author": "Brian Barrett, Leah Feiger, Sophie Kleeman",
-    "published_date": "Thu, 19 Nov 2026 21:57:01 +0000",
+    "id": "The Verge AI_59afc871ac31984e",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "summary": "Anthropic mathematician Levent Alpge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+    "content": "Anthropic mathematician Levent Alpge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-20T11:34:13-05:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
       "Anthropic",
+      "Claude",
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152497"
-  },
-  {
-    "id": "MIT Technology Review_7c733832ff9c48a4",
-    "title": "The most misunderstood graph in AI just got a major update",
-    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
-    "content": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
-    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "source": "MIT Technology Review",
-    "author": "Grace Huckins",
-    "published_date": "Fri, 20 Nov 2026 18:15:15 +0000",
-    "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.268971"
-  },
-  {
-    "id": "TechCrunch AI_badecaeada8a7aec",
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-    "content": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "source": "TechCrunch AI",
-    "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant",
-    "published_date": "Fri, 20 Nov 2026 14:55:44 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227247"
+    "sentiment": "negative",
+    "created_at": "2026-11-21T04:47:10.442756"
   },
   {
     "id": "The Verge AI_cd98bf101885b966",
@@ -159,53 +108,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:31.191274"
+    "created_at": "2026-11-21T04:47:10.442841"
   },
   {
-    "id": "TechCrunch AI_afadad4b5b70f559",
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "content": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "source": "TechCrunch AI",
-    "author": "Amanda Silberling",
-    "published_date": "Thu, 19 Nov 2026 20:18:49 +0000",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227604"
-  },
-  {
-    "id": "The Verge AI_2608ec02898b234e",
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and...",
-    "content": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "source": "The Verge AI",
-    "author": "Ellen Thomas",
-    "published_date": "2026-11-19T16:59:35-05:00",
-    "importance_score": 6.9,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:31.191420"
-  },
-  {
-    "id": "Wired AI_cb1307ca65405b64",
-    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-    "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-    "content": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-    "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "id": "Wired AI_4405358d16a15e24",
+    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+    "content": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
     "source": "Wired AI",
-    "author": "Amy Chang Chien",
-    "published_date": "Thu, 19 Nov 2026 20:34:17 +0000",
+    "author": "Lauren Goode, Paresh Dave",
+    "published_date": "Fri, 20 Nov 2026 19:52:21 +0000",
     "importance_score": 6.9,
     "category": "tech",
     "keywords": [
@@ -213,7 +126,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152572"
+    "created_at": "2026-11-21T04:47:11.379201"
+  },
+  {
+    "id": "Wired AI_fbd7d8d00972a943",
+    "title": "What’s With All These Outages?",
+    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "content": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "source": "Wired AI",
+    "author": "Brian Barrett, Leah Feiger, Sophie Kleeman",
+    "published_date": "Thu, 19 Nov 2026 21:57:01 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:11.379458"
   },
   {
     "id": "Google AI Blog_ccf1d2b605613ff2",
@@ -230,58 +161,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:34.407802"
+    "created_at": "2026-11-21T04:47:13.483357"
   },
   {
-    "id": "TechCrunch AI_b9f7414c4a74bb03",
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "content": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "id": "MIT Technology Review_7c733832ff9c48a4",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
+    "content": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source": "MIT Technology Review",
+    "author": "Grace Huckins",
+    "published_date": "Fri, 20 Nov 2026 18:15:15 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:14.379990"
+  },
+  {
+    "id": "TechCrunch AI_badecaeada8a7aec",
+    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+    "content": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
     "source": "TechCrunch AI",
-    "author": "Lucas Ropek",
-    "published_date": "Thu, 19 Nov 2026 21:58:06 +0000",
+    "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant",
+    "published_date": "Fri, 20 Nov 2026 14:55:44 +0000",
     "importance_score": 6.7,
     "category": "tech",
     "keywords": [
-      "AI"
+      "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227480"
-  },
-  {
-    "id": "The Verge AI_4bd9f3e7ec1b4731",
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation...",
-    "content": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation...",
-    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-19T17:31:41-05:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:31.191339"
-  },
-  {
-    "id": "The Verge AI_7c7a70e4c019f813",
-    "title": "Google is putting AI chats right on the homepage",
-    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the []",
-    "content": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the []",
-    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "source": "The Verge AI",
-    "author": "Emma Roth",
-    "published_date": "2026-11-19T15:05:06-05:00",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:31.191562"
+    "created_at": "2026-11-21T04:47:09.402994"
   },
   {
     "id": "Wired AI_8ecd2604a3555be1",
@@ -298,7 +212,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152322"
+    "created_at": "2026-11-21T04:47:11.379284"
+  },
+  {
+    "id": "OpenAI News_f904308723301e21",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "content": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:16.843312"
   },
   {
     "id": "OpenAI News_d59a362cd133597c",
@@ -316,7 +248,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:37.522375"
+    "created_at": "2026-11-21T04:47:16.843633"
   },
   {
     "id": "OpenAI News_17afc911309a186e",
@@ -334,25 +266,7 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:37.522448"
-  },
-  {
-    "id": "OpenAI News_e3c31bbdfaf86784",
-    "title": "Research acceleration: The jagged frontier",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "content": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:37.522503"
+    "created_at": "2026-11-21T04:47:16.843740"
   },
   {
     "id": "arXiv ML_8d4e0fb3de69c589",
@@ -369,7 +283,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.285844"
+    "created_at": "2026-11-21T04:47:23.519286"
   },
   {
     "id": "arXiv ML_d069ac94c3d94b39",
@@ -386,41 +300,112 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.286466"
+    "created_at": "2026-11-21T04:47:23.519929"
   },
   {
-    "id": "TechCrunch AI_6478a226e93c43fa",
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-    "content": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "id": "TechCrunch AI_afadad4b5b70f559",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "content": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Fri, 20 Nov 2026 14:00:00 +0000",
+    "author": "Amanda Silberling",
+    "published_date": "Thu, 19 Nov 2026 20:18:49 +0000",
     "importance_score": 6.4,
     "category": "tech",
     "keywords": [
+      "NVIDIA",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227332"
+    "created_at": "2026-11-21T04:47:09.403415"
   },
   {
-    "id": "The Verge AI_0f8a78c0d17348d4",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-    "content": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "id": "The Verge AI_2608ec02898b234e",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and...",
+    "content": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
     "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-11-20T13:50:19-05:00",
+    "author": "Ellen Thomas",
+    "published_date": "2026-11-19T16:59:35-05:00",
     "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:10.442999"
+  },
+  {
+    "id": "Wired AI_cb1307ca65405b64",
+    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+    "content": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+    "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "source": "Wired AI",
+    "author": "Amy Chang Chien",
+    "published_date": "Thu, 19 Nov 2026 20:34:17 +0000",
+    "importance_score": 6.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:11.379535"
+  },
+  {
+    "id": "TechCrunch AI_b9f7414c4a74bb03",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "content": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Thu, 19 Nov 2026 21:58:06 +0000",
+    "importance_score": 6.2,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:31.191086"
+    "created_at": "2026-11-21T04:47:09.403254"
+  },
+  {
+    "id": "The Verge AI_4bd9f3e7ec1b4731",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation...",
+    "content": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation...",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-19T17:31:41-05:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:10.442912"
+  },
+  {
+    "id": "The Verge AI_7c7a70e4c019f813",
+    "title": "Google is putting AI chats right on the homepage",
+    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the []",
+    "content": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the []",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-19T15:05:06-05:00",
+    "importance_score": 6.2,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:10.443207"
   },
   {
     "id": "Wired AI_f23f6225853fef91",
@@ -437,25 +422,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152648"
-  },
-  {
-    "id": "Wired AI_91f59f9cf316a00d",
-    "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-    "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-    "content": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-    "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-    "source": "Wired AI",
-    "author": "Hugo Lowell",
-    "published_date": "Wed, 18 Nov 2026 22:00:00 +0000",
-    "importance_score": 6.2,
-    "category": "tech",
-    "keywords": [
-      "NVIDIA",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152783"
+    "created_at": "2026-11-21T04:47:11.379616"
   },
   {
     "id": "Google AI Blog_909b5cc816ae5e5c",
@@ -472,7 +439,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:34.407731"
+    "created_at": "2026-11-21T04:47:13.483281"
   },
   {
     "id": "Google AI Blog_a1f39767c2efb082",
@@ -489,7 +456,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:34.407857"
+    "created_at": "2026-11-21T04:47:13.483421"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -506,7 +473,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:36.400711"
+    "created_at": "2026-11-21T04:47:15.469686"
   },
   {
     "id": "arXiv AI_d8ac4a802b938ddf",
@@ -525,41 +492,41 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361647"
+    "created_at": "2026-11-21T04:47:22.578547"
   },
   {
-    "id": "OpenAI News_a778075ed232aa25",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "content": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "url": "https://openai.com/index/introducing-medchembench",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "importance_score": 6.0,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:37.522205"
-  },
-  {
-    "id": "TechCrunch AI_7373aff1805703bb",
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "content": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "id": "TechCrunch AI_6478a226e93c43fa",
+    "title": "Six AI-powered gadgets that could make your home office smarter",
+    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "content": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
     "source": "TechCrunch AI",
-    "author": "Dominic-Madori Davis",
-    "published_date": "Thu, 19 Nov 2026 21:42:31 +0000",
+    "author": "Lauren Forristal",
+    "published_date": "Fri, 20 Nov 2026 14:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:30.227542"
+    "created_at": "2026-11-21T04:47:09.403082"
+  },
+  {
+    "id": "The Verge AI_0f8a78c0d17348d4",
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
+    "content": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "source": "The Verge AI",
+    "author": "Lauren Feiner",
+    "published_date": "2026-11-20T13:50:19-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:10.442667"
   },
   {
     "id": "Wired AI_8f1ccb230c190360",
@@ -576,7 +543,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152422"
+    "created_at": "2026-11-21T04:47:11.379379"
   },
   {
     "id": "MIT Technology Review_aea006d30f009159",
@@ -593,7 +560,41 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269064"
+    "created_at": "2026-11-21T04:47:14.380109"
+  },
+  {
+    "id": "TechCrunch AI_67f6066a1e923b38",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "content": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source": "TechCrunch AI",
+    "author": "Tim De Chant",
+    "published_date": "Fri, 20 Nov 2026 19:53:41 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:09.402775"
+  },
+  {
+    "id": "TechCrunch AI_bd53160da7c485aa",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "content": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source": "TechCrunch AI",
+    "author": "Tim Fernholz",
+    "published_date": "Fri, 20 Nov 2026 19:32:08 +0000",
+    "importance_score": 5.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:09.402877"
   },
   {
     "id": "MIT Technology Review_ba68950ef1415df7",
@@ -610,7 +611,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269415"
+    "created_at": "2026-11-21T04:47:14.380496"
   },
   {
     "id": "arXiv AI_0bbbed0b6f719079",
@@ -628,7 +629,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361329"
+    "created_at": "2026-11-21T04:47:22.578210"
   },
   {
     "id": "arXiv AI_2520022f1d0111a3",
@@ -646,7 +647,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361445"
+    "created_at": "2026-11-21T04:47:22.578331"
   },
   {
     "id": "arXiv AI_f4a2e84c642d045d",
@@ -663,7 +664,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361532"
+    "created_at": "2026-11-21T04:47:22.578426"
   },
   {
     "id": "arXiv AI_a2114d6561f454e6",
@@ -681,7 +682,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361833"
+    "created_at": "2026-11-21T04:47:22.578747"
   },
   {
     "id": "arXiv AI_14821575473a556f",
@@ -699,7 +700,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361948"
+    "created_at": "2026-11-21T04:47:22.578868"
   },
   {
     "id": "arXiv ML_af2b234b7f5812e2",
@@ -716,7 +717,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-20T19:25:44.285602"
+    "created_at": "2026-11-21T04:47:23.519016"
   },
   {
     "id": "arXiv ML_7e8b471619d36014",
@@ -733,24 +734,24 @@
       "machine learning"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.286043"
+    "created_at": "2026-11-21T04:47:23.519498"
   },
   {
-    "id": "Hugging Face Blog_c3325b71dbdcb6a0",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Fri, 13 Nov 2026 14:05:22 GMT",
+    "id": "Ars Technica_ca0a9d6027ba973e",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "content": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "Ars Technica",
+    "author": "Dan Goodin",
+    "published_date": "Fri, 20 Nov 2026 20:59:08 +0000",
     "importance_score": 5.6000000000000005,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:40.360500"
+    "created_at": "2026-11-21T04:47:12.423813"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -767,7 +768,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:34.407935"
+    "created_at": "2026-11-21T04:47:13.483504"
+  },
+  {
+    "id": "OpenAI News_a778075ed232aa25",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "content": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.5,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:16.843405"
   },
   {
     "id": "arXiv AI_f9b832c6631689a5",
@@ -784,7 +802,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.361753"
+    "created_at": "2026-11-21T04:47:22.578660"
   },
   {
     "id": "arXiv AI_7b93468c6187596a",
@@ -801,7 +819,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.362063"
+    "created_at": "2026-11-21T04:47:22.578989"
   },
   {
     "id": "arXiv AI_5586356f749c7e24",
@@ -816,7 +834,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.362183"
+    "created_at": "2026-11-21T04:47:22.579116"
   },
   {
     "id": "arXiv AI_00e4160f44231567",
@@ -833,7 +851,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:43.362288"
+    "created_at": "2026-11-21T04:47:22.579227"
   },
   {
     "id": "arXiv ML_05417f345c087787",
@@ -848,7 +866,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.285738"
+    "created_at": "2026-11-21T04:47:23.519172"
   },
   {
     "id": "arXiv ML_2a259b597c101c09",
@@ -863,7 +881,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.285935"
+    "created_at": "2026-11-21T04:47:23.519383"
   },
   {
     "id": "arXiv ML_1a5417c063f1fff3",
@@ -878,7 +896,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "negative",
-    "created_at": "2026-11-20T19:25:44.286146"
+    "created_at": "2026-11-21T04:47:23.519590"
   },
   {
     "id": "arXiv ML_6e810bb84f485fe0",
@@ -895,7 +913,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-20T19:25:44.286256"
+    "created_at": "2026-11-21T04:47:23.519704"
   },
   {
     "id": "arXiv ML_bb14ab4266446186",
@@ -912,7 +930,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.286363"
+    "created_at": "2026-11-21T04:47:23.519818"
   },
   {
     "id": "arXiv ML_cca85ac86f417440",
@@ -927,24 +945,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:44.286557"
+    "created_at": "2026-11-21T04:47:23.520026"
   },
   {
-    "id": "Wired AI_01436a7a4db00694",
-    "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-    "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-    "content": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-    "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-    "source": "Wired AI",
-    "author": "Louise Matsakis",
-    "published_date": "Wed, 18 Nov 2026 21:15:00 +0000",
+    "id": "TechCrunch AI_7373aff1805703bb",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "content": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "source": "TechCrunch AI",
+    "author": "Dominic-Madori Davis",
+    "published_date": "Thu, 19 Nov 2026 21:42:31 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:32.152849"
+    "created_at": "2026-11-21T04:47:09.403326"
   },
   {
     "id": "MIT Technology Review_ebb7d399c58ed9ab",
@@ -961,7 +979,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269173"
+    "created_at": "2026-11-21T04:47:14.380214"
   },
   {
     "id": "MIT Technology Review_e89a2e14615c8594",
@@ -978,7 +996,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269252"
+    "created_at": "2026-11-21T04:47:14.380305"
   },
   {
     "id": "MIT Technology Review_daa4b9c3aff4cd8d",
@@ -995,7 +1013,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-20T19:25:35.269336"
+    "created_at": "2026-11-21T04:47:14.380405"
   },
   {
     "id": "Ars Technica_2dddf2933ee46594",
@@ -1012,42 +1030,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205209"
-  },
-  {
-    "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
-    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 19:54:56 GMT",
-    "importance_score": 5.300000000000001,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:40.360401"
-  },
-  {
-    "id": "Lobsters AI_ac44f9413e5de22c",
-    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "summary": "Comments",
-    "content": "Comments",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "source": "Lobsters AI",
-    "author": "research.google via snej",
-    "published_date": "Wed, 18 Nov 2026 15:53:43 -0600",
-    "importance_score": 5.0,
-    "category": "tech",
-    "keywords": [
-      "AI",
-      "LLM"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:49.621628"
+    "created_at": "2026-11-21T04:47:12.423900"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -1064,7 +1047,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:34.407989"
+    "created_at": "2026-11-21T04:47:13.483572"
   },
   {
     "id": "MIT Technology Review_5b072fce091bf3f9",
@@ -1081,7 +1064,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269494"
+    "created_at": "2026-11-21T04:47:14.380585"
   },
   {
     "id": "MIT Technology Review_8c0ed57dcdacf32c",
@@ -1098,7 +1081,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269576"
+    "created_at": "2026-11-21T04:47:14.380676"
   },
   {
     "id": "MIT Technology Review_18e12eb134da224b",
@@ -1115,7 +1098,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:35.269648"
+    "created_at": "2026-11-21T04:47:14.380759"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1132,7 +1115,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:36.400775"
+    "created_at": "2026-11-21T04:47:15.469759"
   },
   {
     "id": "Ars Technica_b6d8c86e086a4ae8",
@@ -1149,7 +1132,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205276"
+    "created_at": "2026-11-21T04:47:12.423962"
   },
   {
     "id": "Ars Technica_5c6be910497af23b",
@@ -1166,7 +1149,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205329"
+    "created_at": "2026-11-21T04:47:12.424022"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1183,7 +1166,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205442"
+    "created_at": "2026-11-21T04:47:12.424170"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1200,24 +1183,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205502"
+    "created_at": "2026-11-21T04:47:12.424239"
   },
   {
-    "id": "Ars Technica_c5848c9835ad0380",
-    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-    "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "content": "Certain configurations of Alpine are affected. Other distros may be as well.",
-    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-    "source": "Ars Technica",
-    "author": "Dan Goodin",
-    "published_date": "Thu, 05 Nov 2026 23:09:36 +0000",
+    "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Wed, 18 Nov 2026 19:54:56 GMT",
     "importance_score": 4.800000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205549"
+    "created_at": "2026-11-21T04:47:19.573856"
   },
   {
     "id": "Ars Technica_042f0a1718239c2b",
@@ -1234,7 +1217,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:33.205393"
+    "created_at": "2026-11-21T04:47:12.424110"
+  },
+  {
+    "id": "Lobsters AI_ac44f9413e5de22c",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "summary": "Comments",
+    "content": "Comments",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "source": "Lobsters AI",
+    "author": "research.google via snej",
+    "published_date": "Wed, 18 Nov 2026 15:53:43 -0600",
+    "importance_score": 4.5,
+    "category": "tech",
+    "keywords": [
+      "AI",
+      "LLM"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-21T04:47:28.703662"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1251,6 +1252,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-20T19:25:49.621700"
+    "created_at": "2026-11-21T04:47:28.703740"
   }
 ]
