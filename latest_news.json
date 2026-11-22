@@ -16,7 +16,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488678"
+    "created_at": "2026-11-22T13:46:00.697072"
   },
   {
     "id": "TechCrunch AI_80ef99262584f90b",
@@ -35,43 +35,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.522250"
-  },
-  {
-    "id": "OpenAI News_dbe2bb9d3b36f0c3",
-    "title": "Combatting adversarial distillation",
-    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771720"
-  },
-  {
-    "id": "Wired AI_b343c0c8575f01fa",
-    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-    "content": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "source": "Wired AI",
-    "author": "Paresh Dave",
-    "published_date": "Thu, 19 Nov 2026 12:00:00 +0000",
-    "importance_score": 7.1000000000000005,
-    "category": "tech",
-    "keywords": [
-      "Anthropic",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457302"
+    "created_at": "2026-11-22T13:45:59.710656"
   },
   {
     "id": "OpenAI News_1c9e8b93999ebda9",
@@ -91,7 +55,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771882"
+    "created_at": "2026-11-22T13:46:06.899112"
   },
   {
     "id": "The Verge AI_59afc871ac31984e",
@@ -110,7 +74,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-22T04:01:18.488862"
+    "created_at": "2026-11-22T13:46:00.697213"
   },
   {
     "id": "Google AI Blog_ccf1d2b605613ff2",
@@ -127,7 +91,25 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:21.586455"
+    "created_at": "2026-11-22T13:46:03.758541"
+  },
+  {
+    "id": "OpenAI News_dbe2bb9d3b36f0c3",
+    "title": "Combatting adversarial distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "content": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-22T13:46:06.898981"
   },
   {
     "id": "OpenAI News_d59a362cd133597c",
@@ -145,7 +127,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771942"
+    "created_at": "2026-11-22T13:46:06.899159"
   },
   {
     "id": "OpenAI News_17afc911309a186e",
@@ -163,58 +145,24 @@
       "ChatGPT"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771995"
+    "created_at": "2026-11-22T13:46:06.899201"
   },
   {
-    "id": "The Verge AI_cd98bf101885b966",
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
-    "content": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-20T07:30:47-05:00",
-    "importance_score": 6.6000000000000005,
+    "id": "Wired AI_71b9cf51cb357b96",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "content": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "source": "Wired AI",
+    "author": "Reece Rogers",
+    "published_date": "Sun, 22 Nov 2026 11:00:00 +0000",
+    "importance_score": 6.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488919"
-  },
-  {
-    "id": "arXiv ML_8d4e0fb3de69c589",
-    "title": "Density Feedback Control for Transferability of Generative Sparse Adversarial Attacks",
-    "summary": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation.",
-    "content": "arXiv:2611.25001v1 Announce Type: new Abstract: Generator-based sparse adversarial attacks train encoder--decoder networks to produce transferable sparse perturbations for black-box robustness evaluation.",
-    "url": "https://arxiv.org/abs/2611.25001",
-    "source": "arXiv ML",
-    "author": "Dongsu Song, Jay Hoon Jung",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.580948"
-  },
-  {
-    "id": "arXiv ML_d069ac94c3d94b39",
-    "title": "Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R",
-    "summary": "arXiv:2611.25114v1 Announce Type: new Abstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R.",
-    "content": "arXiv:2611.25114v1 Announce Type: new Abstract: DISCO is a recent internal cluster validity index for density-based clustering that, unlike earlier indices, also evaluates the quality of noise labels. The discoCVI package makes DISCO available in R.",
-    "url": "https://arxiv.org/abs/2611.25114",
-    "source": "arXiv ML",
-    "author": "Amin Entezari",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 6.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.581423"
+    "sentiment": "negative",
+    "created_at": "2026-11-22T13:46:01.662883"
   },
   {
     "id": "Wired AI_4405358d16a15e24",
@@ -232,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.456975"
+    "created_at": "2026-11-22T13:46:01.662989"
   },
   {
     "id": "Wired AI_fbd7d8d00972a943",
@@ -250,7 +198,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457145"
+    "created_at": "2026-11-22T13:46:01.663126"
   },
   {
     "id": "MIT Technology Review_7c733832ff9c48a4",
@@ -267,7 +215,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.510655"
+    "created_at": "2026-11-22T13:46:04.667792"
   },
   {
     "id": "TechCrunch AI_badecaeada8a7aec",
@@ -284,24 +232,22 @@
       "NVIDIA"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.522143"
+    "created_at": "2026-11-22T13:45:59.710567"
   },
   {
-    "id": "Wired AI_8ecd2604a3555be1",
-    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "content": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Fri, 20 Nov 2026 12:00:00 +0000",
+    "id": "The Verge AI_cf3ababe54550b51",
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
+    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
+    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "source": "The Verge AI",
+    "author": "David Pierce",
+    "published_date": "2026-11-22T08:00:00-05:00",
     "importance_score": 6.2,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
+    "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457028"
+    "created_at": "2026-11-22T13:46:00.696953"
   },
   {
     "id": "OpenAI News_f904308723301e21",
@@ -319,7 +265,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771781"
+    "created_at": "2026-11-22T13:46:06.899033"
+  },
+  {
+    "id": "The Verge AI_cd98bf101885b966",
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
+    "content": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "source": "The Verge AI",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-20T07:30:47-05:00",
+    "importance_score": 6.1000000000000005,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-22T13:46:00.697259"
   },
   {
     "id": "Google AI Blog_a1f39767c2efb082",
@@ -336,7 +299,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:21.586497"
+    "created_at": "2026-11-22T13:46:03.758585"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -353,7 +316,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:23.557008"
+    "created_at": "2026-11-22T13:46:05.721410"
   },
   {
     "id": "TechCrunch AI_0e0eae38ce091196",
@@ -370,7 +333,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.521880"
+    "created_at": "2026-11-22T13:45:59.710359"
   },
   {
     "id": "The Verge AI_716b34bd4887f403",
@@ -387,7 +350,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488603"
+    "created_at": "2026-11-22T13:46:00.697019"
   },
   {
     "id": "The Verge AI_7fd7a386e978c88d",
@@ -404,7 +367,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488746"
+    "created_at": "2026-11-22T13:46:00.697122"
   },
   {
     "id": "The Verge AI_2608ec02898b234e",
@@ -422,24 +385,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.489028"
-  },
-  {
-    "id": "Wired AI_b68ef8c9c34246c6",
-    "title": "The Outages Are Just Getting Started",
-    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-    "content": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-    "source": "Wired AI",
-    "author": "Lily Hay Newman, Matt Burgess",
-    "published_date": "Sat, 21 Nov 2026 13:00:00 +0000",
-    "importance_score": 5.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.456893"
+    "created_at": "2026-11-22T13:46:00.697356"
   },
   {
     "id": "Wired AI_cb1307ca65405b64",
@@ -457,7 +403,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457198"
+    "created_at": "2026-11-22T13:46:01.663168"
   },
   {
     "id": "TechCrunch AI_c6a68734fa94ff20",
@@ -474,7 +420,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.521804"
+    "created_at": "2026-11-22T13:45:59.710293"
   },
   {
     "id": "TechCrunch AI_f318028a3a12962e",
@@ -491,7 +437,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.521949"
+    "created_at": "2026-11-22T13:45:59.710415"
   },
   {
     "id": "The Verge AI_4bd9f3e7ec1b4731",
@@ -508,24 +454,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488968"
+    "created_at": "2026-11-22T13:46:00.697309"
   },
   {
-    "id": "The Verge AI_b3e8cdfa0e0bf6ed",
-    "title": "Meta’s Muse Charm might cost $300",
-    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in...",
-    "content": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in...",
-    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "source": "The Verge AI",
-    "author": "Jay Peters",
-    "published_date": "2026-11-19T15:22:17-05:00",
+    "id": "Wired AI_8ecd2604a3555be1",
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "content": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired AI",
+    "author": "Jason Parham",
+    "published_date": "Fri, 20 Nov 2026 12:00:00 +0000",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.489084"
+    "created_at": "2026-11-22T13:46:01.663034"
   },
   {
     "id": "Wired AI_f23f6225853fef91",
@@ -542,7 +488,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457251"
+    "created_at": "2026-11-22T13:46:01.663210"
   },
   {
     "id": "Google AI Blog_909b5cc816ae5e5c",
@@ -559,7 +505,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:21.586398"
+    "created_at": "2026-11-22T13:46:03.758480"
   },
   {
     "id": "MIT Technology Review_ba68950ef1415df7",
@@ -576,41 +522,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.510991"
-  },
-  {
-    "id": "arXiv ML_af2b234b7f5812e2",
-    "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
-    "summary": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science.",
-    "content": "arXiv:2611.24999v1 Announce Type: new Abstract: Understanding how stable psychometric traits and time-varying states jointly inform behavior is an important problem in computational behavioral science.",
-    "url": "https://arxiv.org/abs/2611.24999",
-    "source": "arXiv ML",
-    "author": "Ziyuan Qin, Yang Qiao, Summer B. Frandsen, Michael T. Treadway, Liang Zhao",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-22T04:01:31.580752"
-  },
-  {
-    "id": "arXiv ML_7e8b471619d36014",
-    "title": "On the Impact of Feature Reduction Techniques on Adversarial Attacks",
-    "summary": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities...",
-    "content": "arXiv:2611.25004v1 Announce Type: new Abstract: Adversarial attacks have posed significant threats to machine learning models by exploiting their inherent vulnerabilities. Researchers have established an interdisciplinary field called adversarial machine learning to explore these vulnerabilities...",
-    "url": "https://arxiv.org/abs/2611.25004",
-    "source": "arXiv ML",
-    "author": "Mohammad Meymani, Roozbeh Razavi-Far",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.7,
-    "category": "research",
-    "keywords": [
-      "machine learning"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.581102"
+    "created_at": "2026-11-22T13:46:04.668061"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -627,101 +539,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:21.586556"
-  },
-  {
-    "id": "arXiv ML_05417f345c087787",
-    "title": "Watch Where You Linearize: Predicting and Correcting Model-Merging Interference",
-    "summary": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive.",
-    "content": "arXiv:2611.25000v1 Announce Type: new Abstract: Model merging combines separately fine-tuned models by adding their task vectors to a shared backbone. Interference is typically assessed only after constructing and evaluating a candidate merge, making coefficient search expensive.",
-    "url": "https://arxiv.org/abs/2611.25000",
-    "source": "arXiv ML",
-    "author": "Ido Nitzan Hidekel, Dan Raviv",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.580864"
-  },
-  {
-    "id": "arXiv ML_2a259b597c101c09",
-    "title": "A Model of Diverse Sampling from Language Models",
-    "summary": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes.",
-    "content": "arXiv:2611.25003v1 Announce Type: new Abstract: Language models often produce high-quality individual samples but poor sets, with repeated samples clustering around the same semantic modes.",
-    "url": "https://arxiv.org/abs/2611.25003",
-    "source": "arXiv ML",
-    "author": "Manuel Prada-Corral, Yahya Emara, Timothy J. O'Donnell, Ryan Cotterell, Tim Vieira",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.581019"
-  },
-  {
-    "id": "arXiv ML_1a5417c063f1fff3",
-    "title": "Near-Quadratic Sample Compression for All VC Classes",
-    "summary": "arXiv:2611.25011v1 Announce Type: new Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s.",
-    "content": "arXiv:2611.25011v1 Announce Type: new Abstract: The sample compression conjecture is a longstanding open problem in learning theory, originating in the work of Littlestone and Warmuth in the 1980s.",
-    "url": "https://arxiv.org/abs/2611.25011",
-    "source": "arXiv ML",
-    "author": "Yang Cai, Vineet Gupta, Yanchen Jiang, Christopher Liaw, Aranyak Mehta, Shay Moran, Grigoris Velegkas, Di Wang, Manfred K. Warmuth",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "negative",
-    "created_at": "2026-11-22T04:01:31.581168"
-  },
-  {
-    "id": "arXiv ML_6e810bb84f485fe0",
-    "title": "HapBO: Harnessed $\\alpha$-$\\pi$ Bayesian Optimization via Expert Natural Language Priors",
-    "summary": "arXiv:2611.25100v1 Announce Type: new Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g.",
-    "content": "arXiv:2611.25100v1 Announce Type: new Abstract: Bayesian Optimization (BO) can be substantially more sample-efficient when informed by prior knowledge about the problem. In practice, however, such knowledge is often available only in natural language, e.g.",
-    "url": "https://arxiv.org/abs/2611.25100",
-    "source": "arXiv ML",
-    "author": "Jean-S\\'ebastien Giroux, Rose Guay Hottin, Marco Bonizzato",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-22T04:01:31.581255"
-  },
-  {
-    "id": "arXiv ML_bb14ab4266446186",
-    "title": "Long-Range Video Presentation Attack Detection: A Three-Class Benchmark Across 1-100 m and Two Sensor Types",
-    "summary": "arXiv:2611.25108v1 Announce Type: new Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter.",
-    "content": "arXiv:2611.25108v1 Announce Type: new Abstract: Face presentation attack detection (PAD) systems deployed in border control and airport surveillance are constrained by a critical assumption: subjects are captured at close range, typically under one meter.",
-    "url": "https://arxiv.org/abs/2611.25108",
-    "source": "arXiv ML",
-    "author": "Lambert Igene, Mohammad Zahir Uddin Chowdhury, Afzal Hossain, Sandip Purnapatra, Peter Johnson, Stephanie Schuckers",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.581340"
-  },
-  {
-    "id": "arXiv ML_cca85ac86f417440",
-    "title": "Auditing Learned Dynamics in Weather Models",
-    "summary": "arXiv:2611.25119v1 Announce Type: new Abstract: Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated.",
-    "content": "arXiv:2611.25119v1 Announce Type: new Abstract: Learned weather models are experimentally accessible computational systems whose internal representations can be inspected and manipulated.",
-    "url": "https://arxiv.org/abs/2611.25119",
-    "source": "arXiv ML",
-    "author": "Skylar Gu, Christina Last",
-    "published_date": "Sat, 21 Nov 2026 00:00:00 -0500",
-    "importance_score": 5.5,
-    "category": "research",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:31.581496"
+    "created_at": "2026-11-22T13:46:03.758633"
   },
   {
     "id": "TechCrunch AI_6478a226e93c43fa",
@@ -738,7 +556,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.522187"
+    "created_at": "2026-11-22T13:45:59.710601"
   },
   {
     "id": "The Verge AI_0f8a78c0d17348d4",
@@ -755,41 +573,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:18.488808"
+    "created_at": "2026-11-22T13:46:00.697170"
   },
   {
-    "id": "Wired AI_8f1ccb230c190360",
-    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-    "content": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "id": "Wired AI_b68ef8c9c34246c6",
+    "title": "The Outages Are Just Getting Started",
+    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "content": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
     "source": "Wired AI",
-    "author": "Joel Khalili",
-    "published_date": "Fri, 20 Nov 2026 07:00:00 +0000",
+    "author": "Lily Hay Newman, Matt Burgess",
+    "published_date": "Sat, 21 Nov 2026 13:00:00 +0000",
     "importance_score": 5.4,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:19.457093"
-  },
-  {
-    "id": "MIT Technology Review_aea006d30f009159",
-    "title": "The Download: inside the quest to make our minds immortal",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
-    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
-    "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Fri, 20 Nov 2026 13:10:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.510728"
+    "created_at": "2026-11-22T13:46:01.662929"
   },
   {
     "id": "TechCrunch AI_67f6066a1e923b38",
@@ -806,7 +607,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.522012"
+    "created_at": "2026-11-22T13:45:59.710464"
   },
   {
     "id": "TechCrunch AI_bd53160da7c485aa",
@@ -823,7 +624,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:17.522068"
+    "created_at": "2026-11-22T13:45:59.710508"
   },
   {
     "id": "Ars Technica_ca0a9d6027ba973e",
@@ -840,7 +641,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483320"
+    "created_at": "2026-11-22T13:46:02.675057"
   },
   {
     "id": "OpenAI News_a778075ed232aa25",
@@ -857,7 +658,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:24.771829"
+    "created_at": "2026-11-22T13:46:06.899070"
+  },
+  {
+    "id": "Wired AI_8f1ccb230c190360",
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "content": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+    "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "source": "Wired AI",
+    "author": "Joel Khalili",
+    "published_date": "Fri, 20 Nov 2026 07:00:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-22T13:46:01.663085"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -874,7 +692,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:21.586614"
+    "created_at": "2026-11-22T13:46:03.758666"
+  },
+  {
+    "id": "MIT Technology Review_aea006d30f009159",
+    "title": "The Download: inside the quest to make our minds immortal",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our...",
+    "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Fri, 20 Nov 2026 13:10:00 +0000",
+    "importance_score": 4.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-22T13:46:04.667851"
   },
   {
     "id": "MIT Technology Review_ebb7d399c58ed9ab",
@@ -891,7 +726,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.510799"
+    "created_at": "2026-11-22T13:46:04.667909"
   },
   {
     "id": "MIT Technology Review_e89a2e14615c8594",
@@ -908,7 +743,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.510861"
+    "created_at": "2026-11-22T13:46:04.667959"
   },
   {
     "id": "MIT Technology Review_daa4b9c3aff4cd8d",
@@ -925,7 +760,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-22T04:01:22.510928"
+    "created_at": "2026-11-22T13:46:04.668011"
   },
   {
     "id": "MIT Technology Review_5b072fce091bf3f9",
@@ -942,7 +777,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.511051"
+    "created_at": "2026-11-22T13:46:04.668108"
   },
   {
     "id": "MIT Technology Review_8c0ed57dcdacf32c",
@@ -959,7 +794,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.511115"
+    "created_at": "2026-11-22T13:46:04.668160"
   },
   {
     "id": "MIT Technology Review_18e12eb134da224b",
@@ -976,7 +811,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:22.511172"
+    "created_at": "2026-11-22T13:46:04.668204"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -993,7 +828,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:23.557060"
+    "created_at": "2026-11-22T13:46:05.721451"
   },
   {
     "id": "Ars Technica_2dddf2933ee46594",
@@ -1010,7 +845,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483382"
+    "created_at": "2026-11-22T13:46:02.675109"
   },
   {
     "id": "Ars Technica_b6d8c86e086a4ae8",
@@ -1027,7 +862,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483426"
+    "created_at": "2026-11-22T13:46:02.675145"
   },
   {
     "id": "Ars Technica_5c6be910497af23b",
@@ -1044,7 +879,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483467"
+    "created_at": "2026-11-22T13:46:02.675176"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1061,7 +896,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483550"
+    "created_at": "2026-11-22T13:46:02.675243"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1078,7 +913,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483610"
+    "created_at": "2026-11-22T13:46:02.675311"
   },
   {
     "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
@@ -1095,7 +930,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:27.649109"
+    "created_at": "2026-11-22T13:46:09.776249"
   },
   {
     "id": "Ars Technica_042f0a1718239c2b",
@@ -1112,7 +947,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:20.483513"
+    "created_at": "2026-11-22T13:46:02.675214"
   },
   {
     "id": "Lobsters AI_ac44f9413e5de22c",
@@ -1130,7 +965,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:36.610266"
+    "created_at": "2026-11-22T13:46:18.799744"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1147,6 +982,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-22T04:01:36.610315"
+    "created_at": "2026-11-22T13:46:18.799785"
   }
 ]
