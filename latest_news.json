@@ -1,14 +1,14 @@
 [
   {
-    "id": "The Verge AI_106f1c3e9a6e1bc6",
-    "title": "Can Anthropic afford to put safety first?",
-    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
-    "content": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
-    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-    "source": "The Verge AI",
-    "author": "Nilay Patel",
-    "published_date": "2026-11-21T10:00:00-05:00",
-    "importance_score": 8.100000000000001,
+    "id": "TechCrunch AI_e2ac2b7bd93c2a7b",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "content": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 23 Nov 2026 22:05:50 +0000",
+    "importance_score": 8.9,
     "category": "tech",
     "keywords": [
       "Anthropic",
@@ -16,52 +16,89 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575330"
+    "created_at": "2026-11-24T03:36:32.661036"
   },
   {
-    "id": "TechCrunch AI_d8d7d577f9fbd41f",
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "content": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "id": "TechCrunch AI_39c979acb2807b3b",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "content": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
     "source": "TechCrunch AI",
-    "author": "Ivan Mehta",
-    "published_date": "Mon, 23 Nov 2026 14:43:03 +0000",
-    "importance_score": 7.7,
+    "author": "Aisha Malik",
+    "published_date": "Mon, 23 Nov 2026 19:14:46 +0000",
+    "importance_score": 8.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:43.571418"
+    "created_at": "2026-11-24T03:36:32.661251"
   },
   {
-    "id": "TechCrunch AI_45b535312ec65e78",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "content": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sun, 22 Nov 2026 21:14:07 +0000",
-    "importance_score": 7.6000000000000005,
+    "id": "OpenAI News_a262e3f6027d56f8",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "content": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "importance_score": 7.7,
     "category": "tech",
     "keywords": [
       "OpenAI",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:43.571578"
+    "created_at": "2026-11-24T03:36:39.976287"
   },
   {
-    "id": "Wired AI_875b249775b0998e",
-    "title": "Jensen Huang Is Back as Nvidia CEO",
-    "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-    "content": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-    "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-    "source": "Wired AI",
-    "author": "Caroline Haskins",
-    "published_date": "Mon, 23 Nov 2026 14:27:35 +0000",
+    "id": "OpenAI News_36ecca7278e50b60",
+    "title": "Connected intelligence for in-house legal",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "content": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "importance_score": 7.7,
+    "category": "tech",
+    "keywords": [
+      "OpenAI",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:39.976367"
+  },
+  {
+    "id": "The Verge AI_f146204d4f87c35e",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+    "content": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "source": "The Verge AI",
+    "author": "Jay Peters",
+    "published_date": "2026-11-23T15:00:00-05:00",
+    "importance_score": 7.6000000000000005,
+    "category": "tech",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.692849"
+  },
+  {
+    "id": "The Verge AI_0ba8a3258fd6e8bf",
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
+    "content": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "source": "The Verge AI",
+    "author": "Hayden Field",
+    "published_date": "2026-11-23T17:25:12-05:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
@@ -69,17 +106,17 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593151"
+    "created_at": "2026-11-24T03:36:33.692601"
   },
   {
-    "id": "Wired AI_873b425ea8ab347a",
-    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-    "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-    "content": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-    "source": "Wired AI",
-    "author": "Emily Mullin",
-    "published_date": "Mon, 23 Nov 2026 13:11:48 +0000",
+    "id": "The Verge AI_8e4399a886c50dec",
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+    "content": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "source": "The Verge AI",
+    "author": "Richard Lawler",
+    "published_date": "2026-11-23T17:10:32-05:00",
     "importance_score": 7.4,
     "category": "tech",
     "keywords": [
@@ -87,76 +124,43 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593226"
+    "created_at": "2026-11-24T03:36:33.692684"
   },
   {
-    "id": "MIT Technology Review_a6ed93b143f6046c",
-    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving...",
-    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving...",
-    "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "id": "The Verge AI_52db505387cc2c66",
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
+    "content": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "source": "The Verge AI",
+    "author": "Elizabeth Lopatto",
+    "published_date": "2026-11-23T17:09:26-05:00",
+    "importance_score": 7.4,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.692742"
+  },
+  {
+    "id": "MIT Technology Review_ff4cb540b700d8b0",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.",
+    "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing.",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
     "source": "MIT Technology Review",
-    "author": "Thomas Macaulay",
-    "published_date": "Mon, 23 Nov 2026 13:10:00 +0000",
+    "author": "James O'Donnell",
+    "published_date": "Mon, 23 Nov 2026 17:36:08 +0000",
     "importance_score": 7.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-23T16:49:48.587102"
-  },
-  {
-    "id": "TechCrunch AI_af0588c961c9f3b4",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "content": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "source": "TechCrunch AI",
-    "author": "Marina Temkin",
-    "published_date": "Mon, 23 Nov 2026 01:25:53 +0000",
-    "importance_score": 7.2,
     "category": "tech",
     "keywords": [
       "Anthropic",
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:43.571503"
-  },
-  {
-    "id": "The Verge AI_90dbb0f5d4a6d285",
-    "title": "Meta Muse can do your Black Friday shopping at Walmart",
-    "summary": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for...",
-    "content": "Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for...",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-    "source": "The Verge AI",
-    "author": "Jess Weatherbed",
-    "published_date": "2026-11-23T06:00:00-05:00",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.574956"
-  },
-  {
-    "id": "MIT Technology Review_608729d61f725cd1",
-    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-    "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away.",
-    "content": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away.",
-    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-    "source": "MIT Technology Review",
-    "author": "James Temple",
-    "published_date": "Mon, 23 Nov 2026 11:00:00 +0000",
-    "importance_score": 7.2,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587192"
+    "created_at": "2026-11-24T03:36:37.715274"
   },
   {
     "id": "OpenAI News_1c9e8b93999ebda9",
@@ -176,7 +180,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904383"
+    "created_at": "2026-11-24T03:36:39.976659"
   },
   {
     "id": "arXiv ML_9518aaf5c02aef00",
@@ -195,7 +199,61 @@
       "ML"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583732"
+    "created_at": "2026-11-24T03:36:46.843367"
+  },
+  {
+    "id": "The Verge AI_55aef133b5940735",
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs.",
+    "content": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs.",
+    "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "source": "The Verge AI",
+    "author": "Emma Roth",
+    "published_date": "2026-11-23T14:57:18-05:00",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.692918"
+  },
+  {
+    "id": "Wired AI_875b249775b0998e",
+    "title": "Jensen Huang Is Back as Nvidia CEO",
+    "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+    "content": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+    "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+    "source": "Wired AI",
+    "author": "Caroline Haskins",
+    "published_date": "Mon, 23 Nov 2026 14:27:35 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:34.662171"
+  },
+  {
+    "id": "Wired AI_873b425ea8ab347a",
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+    "content": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "source": "Wired AI",
+    "author": "Emily Mullin",
+    "published_date": "Mon, 23 Nov 2026 13:11:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:34.662234"
   },
   {
     "id": "Google AI Blog_ccf1d2b605613ff2",
@@ -212,7 +270,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:47.704838"
+    "created_at": "2026-11-24T03:36:36.895613"
+  },
+  {
+    "id": "MIT Technology Review_a6ed93b143f6046c",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "summary": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving...",
+    "content": "This is todays edition of The Download, our weekday newsletter that provides a daily dose of whats going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving...",
+    "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "source": "MIT Technology Review",
+    "author": "Thomas Macaulay",
+    "published_date": "Mon, 23 Nov 2026 13:10:00 +0000",
+    "importance_score": 6.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-24T03:36:37.715357"
   },
   {
     "id": "arXiv ML_1cf32a5f5fc4d8ef",
@@ -229,24 +304,162 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583560"
+    "created_at": "2026-11-24T03:36:46.843225"
   },
   {
-    "id": "Hugging Face Blog_a93d3d22a313b0c4",
-    "title": "How to build and maintain an agentic evaluation",
-    "summary": "",
-    "content": "",
-    "url": "https://huggingface.co/blog/agentic-evals",
-    "source": "Hugging Face Blog",
-    "author": "",
-    "published_date": "Mon, 23 Nov 2026 00:00:00 GMT",
-    "importance_score": 6.800000000000001,
+    "id": "TechCrunch AI_86884740335a1711",
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "content": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "source": "TechCrunch AI",
+    "author": "Rebecca Bellan",
+    "published_date": "Mon, 23 Nov 2026 17:14:23 +0000",
+    "importance_score": 6.8,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:53.706169"
+    "created_at": "2026-11-24T03:36:32.661362"
+  },
+  {
+    "id": "TechCrunch AI_851167e136b2b306",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "content": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source": "TechCrunch AI",
+    "author": "Sarah Perez",
+    "published_date": "Mon, 23 Nov 2026 22:02:05 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:32.661106"
+  },
+  {
+    "id": "TechCrunch AI_1ae0b04e14757fd8",
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "content": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "author": "Aisha Malik",
+    "published_date": "Mon, 23 Nov 2026 18:12:22 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:32.661301"
+  },
+  {
+    "id": "The Verge AI_f93b2949f19b7b09",
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying...",
+    "content": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying...",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "source": "The Verge AI",
+    "author": "Justine Calma",
+    "published_date": "2026-11-23T16:09:37-05:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.692799"
+  },
+  {
+    "id": "The Verge AI_48c4923b03fd60ae",
+    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+    "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like...",
+    "content": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like...",
+    "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-23T14:04:52-05:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.692991"
+  },
+  {
+    "id": "The Verge AI_9de2d708173bae1a",
+    "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+    "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven...",
+    "content": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven...",
+    "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+    "source": "The Verge AI",
+    "author": "Stevie Bonifield",
+    "published_date": "2026-11-23T11:30:11-05:00",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "NVIDIA"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.693129"
+  },
+  {
+    "id": "Google AI Blog_3899b52401ffa439",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+    "content": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "source": "Google AI Blog",
+    "author": "Robby Stein",
+    "published_date": "Mon, 23 Nov 2026 17:00:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:36.895486"
+  },
+  {
+    "id": "MIT Technology Review_608729d61f725cd1",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away.",
+    "content": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away.",
+    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "source": "MIT Technology Review",
+    "author": "James Temple",
+    "published_date": "Mon, 23 Nov 2026 11:00:00 +0000",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:37.715416"
+  },
+  {
+    "id": "OpenAI News_fa02a290df64c413",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "content": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "importance_score": 6.7,
+    "category": "tech",
+    "keywords": [
+      "GPT",
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:39.976418"
   },
   {
     "id": "OpenAI News_dbe2bb9d3b36f0c3",
@@ -264,76 +477,39 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904202"
+    "created_at": "2026-11-24T03:36:39.976515"
   },
   {
-    "id": "OpenAI News_d59a362cd133597c",
-    "title": "The Silent Consensus",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "content": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-    "url": "https://openai.com/index/the-silent-consensus",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "importance_score": 6.7,
-    "category": "tech",
-    "keywords": [
-      "OpenAI",
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904463"
-  },
-  {
-    "id": "The Verge AI_c9ddc70f9e72551b",
-    "title": "Tech leaders are celebrating Jensen Huang’s return",
-    "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable...",
-    "content": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable...",
-    "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+    "id": "The Verge AI_fa0314e72d716b37",
+    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok...",
+    "content": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok...",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
     "source": "The Verge AI",
-    "author": "Gaby Del Valle",
-    "published_date": "2026-11-23T11:14:04-05:00",
+    "author": "Jess Weatherbed",
+    "published_date": "2026-11-23T13:26:47-05:00",
     "importance_score": 6.4,
     "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "negative",
-    "created_at": "2026-11-23T16:49:44.574855"
+    "keywords": [],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:33.693059"
   },
   {
-    "id": "Wired AI_3c623b560bf84e53",
-    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-    "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-    "content": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-    "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-    "source": "Wired AI",
-    "author": "Sandra Upson, Steven Levy, Lauren Goode",
-    "published_date": "Mon, 23 Nov 2026 12:00:00 +0000",
-    "importance_score": 6.4,
+    "id": "Hugging Face Blog_a93d3d22a313b0c4",
+    "title": "How to build and maintain an agentic evaluation",
+    "summary": "",
+    "content": "",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face Blog",
+    "author": "",
+    "published_date": "Mon, 23 Nov 2026 00:00:00 GMT",
+    "importance_score": 6.300000000000001,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593289"
-  },
-  {
-    "id": "Wired AI_ac7e1d5ffe477da8",
-    "title": "States Sue SpaceX Over Grok Deepfakes",
-    "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-    "content": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-    "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-    "source": "Wired AI",
-    "author": "Maddy Varner",
-    "published_date": "Mon, 23 Nov 2026 11:00:00 +0000",
-    "importance_score": 6.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593359"
+    "created_at": "2026-11-24T03:36:42.786419"
   },
   {
     "id": "OpenAI News_f904308723301e21",
@@ -351,7 +527,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904265"
+    "created_at": "2026-11-24T03:36:39.976565"
   },
   {
     "id": "Google AI Blog_a1f39767c2efb082",
@@ -368,7 +544,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:47.704893"
+    "created_at": "2026-11-24T03:36:36.895657"
   },
   {
     "id": "DeepMind Blog_b05345f784a53aa9",
@@ -385,24 +561,58 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:49.593257"
+    "created_at": "2026-11-24T03:36:38.815965"
   },
   {
-    "id": "The Verge AI_6a5d5da4308b781c",
-    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
-    "content": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
-    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "id": "The Verge AI_c9ddc70f9e72551b",
+    "title": "Tech leaders are celebrating Jensen Huang’s return",
+    "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable...",
+    "content": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable...",
+    "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
     "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-22T12:25:20-05:00",
+    "author": "Gaby Del Valle",
+    "published_date": "2026-11-23T11:14:04-05:00",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "negative",
+    "created_at": "2026-11-24T03:36:33.693194"
+  },
+  {
+    "id": "Wired AI_3c623b560bf84e53",
+    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+    "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+    "content": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+    "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+    "source": "Wired AI",
+    "author": "Sandra Upson, Steven Levy, Lauren Goode",
+    "published_date": "Mon, 23 Nov 2026 12:00:00 +0000",
     "importance_score": 5.9,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575089"
+    "created_at": "2026-11-24T03:36:34.662286"
+  },
+  {
+    "id": "Wired AI_ac7e1d5ffe477da8",
+    "title": "States Sue SpaceX Over Grok Deepfakes",
+    "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+    "content": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+    "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+    "source": "Wired AI",
+    "author": "Maddy Varner",
+    "published_date": "Mon, 23 Nov 2026 11:00:00 +0000",
+    "importance_score": 5.9,
+    "category": "tech",
+    "keywords": [
+      "AI"
+    ],
+    "sentiment": "neutral",
+    "created_at": "2026-11-24T03:36:34.662343"
   },
   {
     "id": "Wired AI_4405358d16a15e24",
@@ -420,7 +630,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593568"
+    "created_at": "2026-11-24T03:36:34.662509"
   },
   {
     "id": "MIT Technology Review_7c733832ff9c48a4",
@@ -437,24 +647,24 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587286"
+    "created_at": "2026-11-24T03:36:37.715491"
   },
   {
-    "id": "Wired AI_8ecd2604a3555be1",
-    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "content": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "source": "Wired AI",
-    "author": "Jason Parham",
-    "published_date": "Fri, 20 Nov 2026 12:00:00 +0000",
+    "id": "TechCrunch AI_9a3feb525b6def01",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "content": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "source": "TechCrunch AI",
+    "author": "Lucas Ropek",
+    "published_date": "Mon, 23 Nov 2026 21:25:42 +0000",
     "importance_score": 5.7,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593627"
+    "created_at": "2026-11-24T03:36:32.661174"
   },
   {
     "id": "Google AI Blog_909b5cc816ae5e5c",
@@ -471,7 +681,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:47.704766"
+    "created_at": "2026-11-24T03:36:36.895563"
   },
   {
     "id": "MIT Technology Review_ba68950ef1415df7",
@@ -488,7 +698,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587687"
+    "created_at": "2026-11-24T03:36:37.715800"
   },
   {
     "id": "arXiv AI_292e2a71b70374fc",
@@ -505,7 +715,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.768397"
+    "created_at": "2026-11-24T03:36:45.988752"
   },
   {
     "id": "arXiv ML_a985368819de595a",
@@ -522,7 +732,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.582923"
+    "created_at": "2026-11-24T03:36:46.842656"
   },
   {
     "id": "arXiv ML_cec7a89ea6b785b5",
@@ -539,7 +749,7 @@
       "neural network"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583053"
+    "created_at": "2026-11-24T03:36:46.842750"
   },
   {
     "id": "arXiv ML_8206fb2667c074d9",
@@ -556,7 +766,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583148"
+    "created_at": "2026-11-24T03:36:46.842830"
   },
   {
     "id": "arXiv ML_5f816fcbad18c75f",
@@ -573,7 +783,7 @@
       "transformer"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583253"
+    "created_at": "2026-11-24T03:36:46.842958"
   },
   {
     "id": "arXiv ML_695bd1be2b04eebf",
@@ -590,7 +800,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583463"
+    "created_at": "2026-11-24T03:36:46.843143"
   },
   {
     "id": "Google AI Blog_f4e2653886904597",
@@ -607,24 +817,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:47.704976"
-  },
-  {
-    "id": "OpenAI News_dcc59959c9ad85ab",
-    "title": "Perplexity and Intelligence",
-    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "content": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "source": "OpenAI News",
-    "author": "",
-    "published_date": "Sun, 22 Nov 2026 00:00:00 GMT",
-    "importance_score": 5.5,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904115"
+    "created_at": "2026-11-24T03:36:36.895719"
   },
   {
     "id": "arXiv AI_5fbc7fb91992353e",
@@ -641,7 +834,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.767452"
+    "created_at": "2026-11-24T03:36:45.987964"
   },
   {
     "id": "arXiv AI_78d50acf65840cfa",
@@ -658,7 +851,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.767585"
+    "created_at": "2026-11-24T03:36:45.988077"
   },
   {
     "id": "arXiv AI_ef78519ab75f39dc",
@@ -675,7 +868,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.767700"
+    "created_at": "2026-11-24T03:36:45.988174"
   },
   {
     "id": "arXiv AI_73fa8d766ff1df18",
@@ -692,7 +885,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.767812"
+    "created_at": "2026-11-24T03:36:45.988269"
   },
   {
     "id": "arXiv AI_c7b299fd53c89bbd",
@@ -709,7 +902,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.768189"
+    "created_at": "2026-11-24T03:36:45.988579"
   },
   {
     "id": "arXiv AI_3fc24673ddcf192e",
@@ -726,7 +919,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.768288"
+    "created_at": "2026-11-24T03:36:45.988659"
   },
   {
     "id": "arXiv AI_9107f8504544fe22",
@@ -743,7 +936,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.768525"
+    "created_at": "2026-11-24T03:36:45.988858"
   },
   {
     "id": "arXiv ML_a456e1e0473bd5df",
@@ -760,7 +953,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583367"
+    "created_at": "2026-11-24T03:36:46.843060"
   },
   {
     "id": "arXiv ML_a027a727f77248ae",
@@ -777,7 +970,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583639"
+    "created_at": "2026-11-24T03:36:46.843290"
   },
   {
     "id": "arXiv ML_578610267ffa1485",
@@ -794,41 +987,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:57.583850"
-  },
-  {
-    "id": "TechCrunch AI_0e0eae38ce091196",
-    "title": "Here are the top AI agents that can live in your text messages",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "content": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "author": "Lauren Forristal",
-    "published_date": "Sat, 21 Nov 2026 17:00:00 +0000",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:43.571727"
-  },
-  {
-    "id": "The Verge AI_716b34bd4887f403",
-    "title": "The UN fails to agree on rules regulating ‘killer robots’",
-    "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of...",
-    "content": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of...",
-    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-    "source": "The Verge AI",
-    "author": "Terrence O’Brien",
-    "published_date": "2026-11-21T15:03:37-05:00",
-    "importance_score": 5.4,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575249"
+    "created_at": "2026-11-24T03:36:46.843465"
   },
   {
     "id": "Wired AI_71b9cf51cb357b96",
@@ -845,7 +1004,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-23T16:49:45.593431"
+    "created_at": "2026-11-24T03:36:34.662401"
   },
   {
     "id": "arXiv AI_5d87a725bfd8127a",
@@ -860,7 +1019,7 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.767935"
+    "created_at": "2026-11-24T03:36:45.988375"
   },
   {
     "id": "arXiv AI_56201f095055bafd",
@@ -875,39 +1034,24 @@
     "category": "research",
     "keywords": [],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:56.768070"
+    "created_at": "2026-11-24T03:36:45.988480"
   },
   {
-    "id": "TechCrunch AI_c6a68734fa94ff20",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "content": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "source": "TechCrunch AI",
-    "author": "Anthony Ha",
-    "published_date": "Sat, 21 Nov 2026 21:37:10 +0000",
-    "importance_score": 5.2,
+    "id": "OpenAI News_dcc59959c9ad85ab",
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "content": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI News",
+    "author": "",
+    "published_date": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "importance_score": 5.0,
     "category": "tech",
     "keywords": [
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:43.571657"
-  },
-  {
-    "id": "The Verge AI_cf3ababe54550b51",
-    "title": "The vibe-coding revolution is coming to all the gadgets",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.",
-    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-    "source": "The Verge AI",
-    "author": "David Pierce",
-    "published_date": "2026-11-22T08:00:00-05:00",
-    "importance_score": 5.2,
-    "category": "tech",
-    "keywords": [],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575163"
+    "created_at": "2026-11-24T03:36:39.976463"
   },
   {
     "id": "OpenAI News_a778075ed232aa25",
@@ -924,41 +1068,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:50.904319"
-  },
-  {
-    "id": "The Verge AI_7fd7a386e978c88d",
-    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
-    "content": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word.",
-    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-    "source": "The Verge AI",
-    "author": "Stevie Bonifield",
-    "published_date": "2026-11-21T09:00:00-05:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575412"
-  },
-  {
-    "id": "The Verge AI_0f8a78c0d17348d4",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-    "content": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "source": "The Verge AI",
-    "author": "Lauren Feiner",
-    "published_date": "2026-11-20T13:50:19-05:00",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:44.575485"
+    "created_at": "2026-11-24T03:36:39.976607"
   },
   {
     "id": "Wired AI_b68ef8c9c34246c6",
@@ -975,7 +1085,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:45.593486"
+    "created_at": "2026-11-24T03:36:34.662442"
   },
   {
     "id": "Google AI Blog_e271ede0c5574811",
@@ -992,7 +1102,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:47.705029"
+    "created_at": "2026-11-24T03:36:36.895763"
   },
   {
     "id": "MIT Technology Review_aea006d30f009159",
@@ -1009,7 +1119,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587363"
+    "created_at": "2026-11-24T03:36:37.715551"
   },
   {
     "id": "MIT Technology Review_ebb7d399c58ed9ab",
@@ -1026,7 +1136,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587448"
+    "created_at": "2026-11-24T03:36:37.715618"
   },
   {
     "id": "MIT Technology Review_e89a2e14615c8594",
@@ -1043,7 +1153,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587527"
+    "created_at": "2026-11-24T03:36:37.715678"
   },
   {
     "id": "MIT Technology Review_daa4b9c3aff4cd8d",
@@ -1060,7 +1170,7 @@
       "AI"
     ],
     "sentiment": "negative",
-    "created_at": "2026-11-23T16:49:48.587611"
+    "created_at": "2026-11-24T03:36:37.715741"
   },
   {
     "id": "MIT Technology Review_5b072fce091bf3f9",
@@ -1077,24 +1187,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587764"
-  },
-  {
-    "id": "MIT Technology Review_8c0ed57dcdacf32c",
-    "title": "This smell startup says its AI nose is as good as a human’s",
-    "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
-    "content": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
-    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "source": "MIT Technology Review",
-    "author": "Amit Katwala",
-    "published_date": "Wed, 18 Nov 2026 10:20:30 +0000",
-    "importance_score": 4.9,
-    "category": "tech",
-    "keywords": [
-      "AI"
-    ],
-    "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:48.587845"
+    "created_at": "2026-11-24T03:36:37.715860"
   },
   {
     "id": "DeepMind Blog_02fdce356a7cb8c2",
@@ -1111,7 +1204,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:49.593322"
+    "created_at": "2026-11-24T03:36:38.816018"
   },
   {
     "id": "Ars Technica_2dddf2933ee46594",
@@ -1128,7 +1221,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.593826"
+    "created_at": "2026-11-24T03:36:35.694801"
   },
   {
     "id": "Ars Technica_b6d8c86e086a4ae8",
@@ -1145,7 +1238,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.593881"
+    "created_at": "2026-11-24T03:36:35.694844"
   },
   {
     "id": "Ars Technica_5c6be910497af23b",
@@ -1162,7 +1255,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.593931"
+    "created_at": "2026-11-24T03:36:35.694898"
   },
   {
     "id": "Ars Technica_dc70d08c9bd1e96e",
@@ -1179,7 +1272,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.594035"
+    "created_at": "2026-11-24T03:36:35.694984"
   },
   {
     "id": "Ars Technica_6bb3ba4188633553",
@@ -1196,7 +1289,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.594111"
+    "created_at": "2026-11-24T03:36:35.695030"
   },
   {
     "id": "Hugging Face Blog_52adf1d2a7cb6eb9",
@@ -1213,7 +1306,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:53.706247"
+    "created_at": "2026-11-24T03:36:42.786485"
   },
   {
     "id": "Ars Technica_ca0a9d6027ba973e",
@@ -1230,7 +1323,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.593747"
+    "created_at": "2026-11-24T03:36:35.694740"
   },
   {
     "id": "Ars Technica_042f0a1718239c2b",
@@ -1247,7 +1340,7 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:49:46.593988"
+    "created_at": "2026-11-24T03:36:35.694946"
   },
   {
     "id": "Lobsters AI_ac44f9413e5de22c",
@@ -1265,7 +1358,7 @@
       "LLM"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:50:02.730990"
+    "created_at": "2026-11-24T03:36:52.035820"
   },
   {
     "id": "Lobsters AI_185b324e88e1a642",
@@ -1282,6 +1375,6 @@
       "AI"
     ],
     "sentiment": "neutral",
-    "created_at": "2026-11-23T16:50:02.731075"
+    "created_at": "2026-11-24T03:36:52.035894"
   }
 ]
